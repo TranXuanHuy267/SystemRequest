@@ -25,35 +25,35 @@ def get_args():
     parser.add_argument(
         "--train_sample_path",
         type=str,
-        default="/content/drive/MyDrive/Achatbot/data/dashboard/train_samples.jsonl",
+        default="./data/dashboard/train_samples.jsonl",
     )
     
     parser.add_argument(
         "--train_description_path",
         type=str,
-        default="/content/drive/MyDrive/Achatbot/data/dashboard/train_descriptions.txt",
+        default="./data/dashboard/train_descriptions.txt",
     )
 
     parser.add_argument(
         "--val_sample_path",
         type=str,
-        default="/content/drive/MyDrive/Achatbot/data/dashboard/val_samples.jsonl",
+        default="./data/dashboard/val_samples.jsonl",
     )
     parser.add_argument(
         "--val_description_path",
         type=str,
-        default="/content/drive/MyDrive/Achatbot/data/dashboard/val_descriptions.txt",
+        default="./data/dashboard/val_descriptions.txt",
     )
 
     parser.add_argument(
         "--test_sample_path",
         type=str,
-        default="/content/drive/MyDrive/Achatbot/data/dashboard/test_samples.jsonl",
+        default="./data/dashboard/test_samples.jsonl",
     )
     parser.add_argument(
         "--test_description_path",
         type=str,
-        default="/content/drive/MyDrive/Achatbot/data/dashboard/test_descriptions.txt",
+        default="./data/dashboard/test_descriptions.txt",
     )
 
     parser.add_argument("--model_name", type=str, default="vinai/bartpho-syllable")
