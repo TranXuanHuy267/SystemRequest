@@ -11,7 +11,8 @@ from transformers import (
 )
 from tqdm.auto import tqdm
 from metrics import compute_metric, ALL_METRICS
-
+import pandas as pd
+import os
 
 def normalize_table_string(s):
     s = s.lower()  # Convert the text to lowercase
@@ -225,6 +226,7 @@ def evaluate_epoch(epoch, model, dataloader, tokenizer, Config):
 def get_scores(dataloader, model, tokenizer, args, epoch=0):
     model.eval()
     scores = []
+    all_input_sentences = []
     all_target_sentences = []
     all_output_sentences = []
 
@@ -260,6 +262,7 @@ def get_scores(dataloader, model, tokenizer, args, epoch=0):
             f"Epoch: {epoch}, {args.metric}: {score:.4f}, Avg {args.metric}: {sum(scores) / len(scores):.4f}"
         )
 
+        all_input_sentences.extend(input_sentences)
         all_target_sentences.extend(target_sentences)
         all_output_sentences.extend(output_sentences)
 
@@ -275,9 +278,18 @@ def get_scores(dataloader, model, tokenizer, args, epoch=0):
         print(f"Target: {target_sentence}")
         print()
 
+    df = {
+        'Input': all_input_sentences,
+        'Output': all_output_sentences,
+        'Target': all_target_sentences
+    }
+    df = pd.DataFrame(data=df)
+    df.to_csv(os.path.join(args.output_dir, "result_evaluate.csv"))
+
+
     # avg_score = sum(scores) / len(scores)
     # return avg_score
-    final_score = compute_metric(args, all_target_sentences, all_output_sentences)
+    final_score = compute_metric(args, all_target_sentences, all_output_sentences, 'all')
     return final_score
 
 
