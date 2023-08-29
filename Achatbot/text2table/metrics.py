@@ -4,6 +4,7 @@ import pandas as pd
 # import evaluate
 from datasets import load_metric
 import json
+from sklearn.metrics import recall_score
 
 ALL_METRICS = [
     "BLEU",
@@ -24,6 +25,23 @@ def check_form(text):
         return True
     return False
 
+def calculate_macro_recall(predicted_labels, ground_truth_labels):
+    """
+    Calculate macro recall given the lists of predicted labels and ground truth labels.
+    
+    Args:
+    predicted_labels (list): List of predicted labels.
+    ground_truth_labels (list): List of actual ground truth labels.
+    
+    Returns:
+    float: Macro recall value.
+    """
+    labels = set(ground_truth_labels)  # Extract unique labels from ground truth
+    
+    macro_recall = recall_score(ground_truth_labels, predicted_labels, labels=list(labels), average='macro')
+    return macro_recall
+
+
 def component_metrics(target_sentences, generated_sentences):
     results = pd.DataFrame({
         'Output': generated_sentences,
@@ -39,7 +57,7 @@ def component_metrics(target_sentences, generated_sentences):
         results['Output '+sth] = results['Output dict'].apply(lambda x: x[sth])
         results['Target '+sth] = results['Target dict'].apply(lambda x: x[sth])
     for sth in ['LOẠI BIỂU ĐỒ', 'ĐƠN VỊ', 'CHU KỲ THỜI GIAN', 'THỨ', 'NGÀY', 'TUẦN', 'THÁNG', 'QUÝ', 'NĂM']:
-        print("The score of ", sth, ":", len(results[results['Output '+sth]==results['Target '+sth]])/len(results))
+        print("The macro recall of ", sth, ":", calculate_macro_recall(results['Output '+sth], results['Target '+sth]))
 
 
 def compute_metric(arg, target_sentences, generated_sentences, type_eval='each'):
