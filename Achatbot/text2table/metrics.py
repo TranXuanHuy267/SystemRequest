@@ -22,7 +22,7 @@ def check_form(text):
        and ('", "THÁNG": "' in text) \
        and ('", "QUÝ": "' in text) \
        and ('", "NĂM": "' in text):
-         continue
+        pass
     else:
         return False
      
