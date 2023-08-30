@@ -13,17 +13,12 @@ ALL_METRICS = [
 ]
 
 def check_form(text):
-    if ('"LOẠI BIỂU ĐỒ": "' in text) \
-      and ('", "ĐƠN VỊ": "' in text) \
-      and ('", "CHU KỲ THỜI GIAN": "' in text) \
-      and ('", "THỨ": "' in text) \
-      and ('", "NGÀY": "' in text) \
-      and ('", "TUẦN": "' in text) \
-      and ('", "THÁNG": "' in text) \
-      and ('", "QUÝ": "' in text) \
-      and ('", "NĂM": "' in text):
+    text = "{"+text+"}"
+    try:
+        json_object = json.loads(text)
         return True
-    return False
+    except json.JSONDecodeError:
+        return False
 
 def calculate_macro_recall(predicted_labels, ground_truth_labels):
     """
