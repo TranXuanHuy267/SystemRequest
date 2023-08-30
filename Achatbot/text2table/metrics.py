@@ -13,6 +13,19 @@ ALL_METRICS = [
 ]
 
 def check_form(text):
+    if ('"LOẠI BIỂU ĐỒ": "' in text) \
+       and ('", "ĐƠN VỊ": "' in text) \
+       and ('", "CHU KỲ THỜI GIAN": "' in text) \
+       and ('", "THỨ": "' in text) \
+       and ('", "NGÀY": "' in text) \
+       and ('", "TUẦN": "' in text) \
+       and ('", "THÁNG": "' in text) \
+       and ('", "QUÝ": "' in text) \
+       and ('", "NĂM": "' in text):
+         continue
+    else:
+        return False
+     
     text = "{"+text+"}"
     try:
         json_object = json.loads(text)
