@@ -21,7 +21,9 @@ def check_form(text):
        and ('", "TUẦN": "' in text) \
        and ('", "THÁNG": "' in text) \
        and ('", "QUÝ": "' in text) \
-       and ('", "NĂM": "' in text):
+       and ('", "NĂM": "' in text) \
+       and ('", "CHỈ TIÊU": "' in text) \
+       and ('", "TIÊU ĐỀ": "' in text):
         pass
     else:
         return False
@@ -61,10 +63,10 @@ def component_metrics(target_sentences, generated_sentences):
     print('Number of correct format instances:', len(results))
     results['Target dict'] = results['Target'].apply(lambda x: json.loads("{"+x+"}"))
     results['Output dict'] = results['Output'].apply(lambda x: json.loads("{"+x+"}"))
-    for sth in ['LOẠI BIỂU ĐỒ', 'ĐƠN VỊ', 'CHU KỲ THỜI GIAN', 'THỨ', 'NGÀY', 'TUẦN', 'THÁNG', 'QUÝ', 'NĂM']:
+    for sth in ['LOẠI BIỂU ĐỒ', 'ĐƠN VỊ', 'CHU KỲ THỜI GIAN', 'THỨ', 'NGÀY', 'TUẦN', 'THÁNG', 'QUÝ', 'NĂM', 'CHỈ TIÊU', 'TIÊU ĐỀ']:
         results['Output '+sth] = results['Output dict'].apply(lambda x: x[sth])
         results['Target '+sth] = results['Target dict'].apply(lambda x: x[sth])
-    for sth in ['LOẠI BIỂU ĐỒ', 'ĐƠN VỊ', 'CHU KỲ THỜI GIAN', 'THỨ', 'NGÀY', 'TUẦN', 'THÁNG', 'QUÝ', 'NĂM']:
+    for sth in ['LOẠI BIỂU ĐỒ', 'ĐƠN VỊ', 'CHU KỲ THỜI GIAN', 'THỨ', 'NGÀY', 'TUẦN', 'THÁNG', 'QUÝ', 'NĂM', 'CHỈ TIÊU', 'TIÊU ĐỀ']:
         print("The macro recall of ", sth, ":", calculate_macro_recall(results['Output '+sth], results['Target '+sth]))
 
 

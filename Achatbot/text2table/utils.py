@@ -26,40 +26,40 @@ def get_args():
     parser.add_argument(
         "--train_sample_path",
         type=str,
-        default="./data/dashboard/train_samples.jsonl",
+        default="./data/table2text/train_samples.jsonl",
     )
     
     parser.add_argument(
         "--train_description_path",
         type=str,
-        default="./data/dashboard/train_descriptions.txt",
+        default="./data/table2text/train_descriptions.txt",
     )
 
     parser.add_argument(
         "--val_sample_path",
         type=str,
-        default="./data/dashboard/val_samples.jsonl",
+        default="./data/table2text/val_samples.jsonl",
     )
     parser.add_argument(
         "--val_description_path",
         type=str,
-        default="./data/dashboard/val_descriptions.txt",
+        default="./data/table2text/val_descriptions.txt",
     )
 
     parser.add_argument(
         "--test_sample_path",
         type=str,
-        default="./data/dashboard/test_samples.jsonl",
+        default="./data/table2text/test_samples.jsonl",
     )
     parser.add_argument(
         "--test_description_path",
         type=str,
-        default="./data/dashboard/test_descriptions.txt",
+        default="./data/table2text/test_descriptions.txt",
     )
 
     parser.add_argument("--model_name", type=str, default="vinai/bartpho-syllable")
     parser.add_argument("--max_source_length", type=int, default=256)
-    parser.add_argument("--max_target_length", type=int, default=256)
+    parser.add_argument("--max_target_length", type=int, default=512)
     parser.add_argument("--epochs", type=int, default=10)
     parser.add_argument("--batch_size", type=int, default=2)
     parser.add_argument("--learning_rate", type=float, default=3e-5)
