@@ -62,7 +62,7 @@ class ViettelReportDataset(torch.utils.data.Dataset):
         description_path,
         tokenizer=None,
         max_src_len=256,
-        max_tgt_len=256,
+        max_tgt_len=512,
         device="cpu",
     ):
         with open(sample_path, "r", encoding="utf-8") as f:
