@@ -1,0 +1,30 @@
+,Unnamed: 0,Câu lệnh nhập vào,Câu lệnh có sẵn,Output,Dự đoán
+247,247,báo cáo chốt quý,Mở báo cáo chốt quý,1,Mở báo cáo chốt quý
+221,221,Mở báo cáo vptd,Mở báo cáo VPTD,0,Mở báo cáo động
+134,134,Mở kết quả liên ngành (tháng n-1),Mở kết quả liên ngành (tháng n-1),1,Mở kết quả liên ngành (tháng n-1)
+230,230,Mở bc chốt tháng BCL,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL)),0,Mở báo cáo chốt tháng
+118,118,DL THỰC HIỆN THÁNG,Mở dữ liệu TH tháng,0,Mở dashboard
+181,181,bc đang phát triển,Mở báo cáo tỷ giá mới (đang phát triển),0,Mở BC_CSKH
+213,213,DỮ LIỆU TIN NHẮN KINH DOANH,Mở báo cáo dữ liệu tin nhắn kinh doanh,0,Mở dashboard
+137,137,kết quả liên ngành,Mở kết quả liên ngành (tháng n-1),1,Mở kết quả liên ngành (tháng n-1)
+81,81,dữ liệu KH năm,Mở dữ liệu KH năm,1,Mở dữ liệu KH năm
+74,74,DỮ LIỆU KH QUÝ,Mở dữ liệu KH quý,0,Mở dashboard
+271,271,MỞ BÁO CÁO CHỐT THÁNG,Mở báo cáo chốt tháng,0,Mở profile
+122,122,chỉ tiêu import,Mở chỉ tiêu import,1,Mở chỉ tiêu import
+223,223,BÁO CÁO VPTD,Mở báo cáo VPTD,1,Mở báo cáo VPTD
+73,73,MỞ DỮ LIỆU KẾ HOẠCH QUÝ,Mở dữ liệu KH quý,0,Mở BC_VPTD
+5,5,kế hoạch tháng,Mở cảnh báo nhập KH tháng,0,Mở màn hình trình chiếu báo cáo tháng
+160,160,báo cáo chi tiết n2 mới,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+253,253,CHỐT QUÝ,Mở báo cáo chốt quý,0,Mở dashboard
+212,212,BÁO CÁO DỮ LIỆU TIN NHẮN KINH DOANH,Mở báo cáo dữ liệu tin nhắn kinh doanh,0,Mở dashboard
+63,63,DỮ LIỆU KẾ HOẠCH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+8,8,Cảnh báo tháng,Mở cảnh báo nhập KH tháng,1,Mở cảnh báo nhập KH tháng
+209,209,bc dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh,1,Mở báo cáo dữ liệu tin nhắn kinh doanh
+101,101,DL TH NGÀY,Mở dữ liệu TH ngày,0,Mở dashboard
+275,275,BC CHỐT THÁNG,Mở báo cáo chốt tháng,0,Mở BC_CSKH
+182,182,BÁO CÁO ĐANG PHÁT TRIỂN,Mở báo cáo tỷ giá mới (đang phát triển),0,Mở dashboard
+111,111,Mở dữ liệu TH THÁNG,Mở dữ liệu TH tháng,0,Mở dữ liệu TH ngày
+92,92,TH ngày,Mở dữ liệu TH ngày,0,Mở màn hình trình chiếu báo cáo ngày
+276,276,Mở báo cáo động,Mở báo cáo động,1,Mở báo cáo động
+45,45,nhập kh năm,Mở cảnh báo nhập KH năm,0,Mở dữ liệu KH năm
+116,116,DỮ LIỆU THỰC HIỆN THÁNG,Mở dữ liệu TH tháng,0,Mở dashboard

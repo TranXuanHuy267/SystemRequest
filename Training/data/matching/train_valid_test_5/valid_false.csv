@@ -1,0 +1,30 @@
+,Câu lệnh nhập vào,Câu lệnh có sẵn,Output,Dự đoán
+0,Mở báo cáo chốt tháng BCL,Mở kết quả liên ngành (tháng n-1),0,Mở báo cáo chốt tháng
+1,BÁO CÁO CHỐT THÁNG,Mở báo cáo chốt tháng,0,Mở profile
+2,Mở báo cáo chi tiết n2 mới,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+3,Mở dữ liệu KH THÁNG,Mở dữ liệu KH tháng,0,Mở upload dữ liệu
+4,CẢNH BÁO THÁNG,Mở quản lý nhóm đơn vị ,0,Mở dashboard
+5,Mở bc chốt quý,Mở báo cáo chi tiết n2 mới ,1,Mở báo cáo chốt quý
+6,BC CHỐT QUÝ,Mở báo cáo VPTD,0,Mở BC_CSKH
+7,mở báo cáo liên ngành,Mở dashboard ,1,Mở kết quả liên ngành (tháng n-1)
+8,Mở bc dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh,1,Mở báo cáo dữ liệu tin nhắn kinh doanh
+9,CSKH,Mở báo cáo dữ liệu tin nhắn kinh doanh ,1,Mở BC_CSKH
+10,báo cáo KPI chấm điểm,Mở báo cáo KPI chấm điểm,1,Mở báo cáo KPI chấm điểm
+11,nhập kh tháng,Mở dữ liệu KH tháng ,0,Mở màn hình trình chiếu báo cáo tháng
+12,MỞ CHỈ TIÊU IMPORT,Mở chỉ tiêu import,0,Báo cáo chốt quý
+13,CẢNH BÁO NHẬP KH THÁNG,Mở báo cáo tỷ giá mới (đang phát triển),0,Mở dashboard
+14,cảnh báo KH quý,Mở quản lý thư mục,1,Mở cảnh báo nhập KH quý
+15,BÁO CÁO ĐỘNG,Mở báo cáo động,0,Mở dashboard
+16,MỞ BC CHỐT THÁNG,Mở báo cáo chốt tháng,0,Mở BC_CSKH
+17,Mở bc VPTD,Mở cảnh báo nhập KH quý,1,Mở báo cáo VPTD
+18,bc chi tiết n2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+19,Mở bc chốt dữ liệu BCL,Mở quản lý hướng dẫn sử dụng ,1,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+20,IMPORT,Mở chỉ tiêu import,0,Báo cáo chốt quý
+21,cảnh báo kế hoạch quý,Mở trang chủ,1,Mở cảnh báo nhập KH quý
+22,DL KH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+23,BC CHỐT THÁNG BCL,Mở công thức chỉ tiêu ,0,Mở BC_CSKH
+24,bc dữ liệu tin nhắn KD,Mở báo cáo dữ liệu tin nhắn kinh doanh,1,Mở báo cáo dữ liệu tin nhắn kinh doanh
+25,CB NĂM,Mở quản lý cấu hình người nhận cảnh báo ,0,Mở BC_CSKH
+26,thực hiện tháng,Mở dữ liệu TH tháng,0,Mở màn hình trình chiếu báo cáo tháng
+27,Mở báo cáo KPI chấm điểm,Mở báo cáo KPI chấm điểm,1,Mở báo cáo KPI chấm điểm
+28,BC VPTD,Mở danh mục chỉ tiêu,1,Mở báo cáo VPTD
