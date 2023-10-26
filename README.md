@@ -19,7 +19,8 @@
  ## Achatbot
  * data: data for training Text2Table model
  * output: output of training process
- * text2table: python file for trainig Text2Table model
+ * text2table: python file for training Text2Table model
+ * matching: run each .ipynb in drive for training 
  * file Text2TableTraining.ipynb: run all in kaggle for training.
 
 
