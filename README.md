@@ -20,5 +20,6 @@
  * data: data for training Text2Table model
  * output: output of training process
  * text2table: python file for trainig Text2Table model
- * matching: run all .ipynb files for training matching.
  * file Text2TableTraining.ipynb: run all in kaggle for training.
+
+
