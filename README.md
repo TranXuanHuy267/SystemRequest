@@ -16,7 +16,7 @@ Order to view and follow:
 * call api: api
 * system view: demo -> deploy, deploy_support
 
-## Achatbot
+## Training
 * data: data for training Text2Table model
 * output: output of training process
 * text2table: python file for trainig Text2Table model
