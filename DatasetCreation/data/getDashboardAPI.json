@@ -1,0 +1,59 @@
+{
+    "name": "https://10.30.164.32:8192/vsds/api/chatbot/getDashboard",
+    "protocolProfileBehavior": {
+        "strictSSL": false
+    },
+    "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+            "mode": "raw",
+            "raw": "",
+            "options": {
+                "raw": {
+                    "language": "json"
+                }
+            }
+        },
+        "url": {
+            "raw": "https://10.30.164.32:8192/vsds/api/chatbot/getDashboard?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk&groupProfileCode=VPTD&cycleTime=NGAY&areaCode=TD&ip=10.61.142.22",
+            "protocol": "https",
+            "host": [
+                "10",
+                "30",
+                "164",
+                "32"
+            ],
+            "port": "8192",
+            "path": [
+                "vsds",
+                "api",
+                "chatbot",
+                "getDashboard"
+            ],
+            "query": [
+                {
+                    "key": "token",
+                    "value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk"
+                },
+                {
+                    "key": "groupProfileCode",
+                    "value": "VPTD"
+                },
+                {
+                    "key": "cycleTime",
+                    "value": "NGAY"
+                },
+                {
+                    "key": "areaCode",
+                    "value": "TD"
+                },
+                {
+                    "key": "ip",
+                    "value": "10.61.142.22"
+                }
+            ]
+        }
+    },
+    "response": []
+}

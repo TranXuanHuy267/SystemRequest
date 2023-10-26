@@ -1,0 +1,30 @@
+,Unnamed: 0,Câu lệnh nhập vào,Câu lệnh có sẵn,Output,Dự đoán
+228,228,Mở báo cáo chốt tháng BCL,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL)),0,Mở báo cáo chốt tháng
+272,272,BÁO CÁO CHỐT THÁNG,Mở báo cáo chốt tháng,0,Mở profile
+159,159,Mở báo cáo chi tiết n2 mới,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+59,59,Mở dữ liệu KH THÁNG,Mở dữ liệu KH tháng,0,Mở upload dữ liệu
+15,15,CẢNH BÁO THÁNG,Mở cảnh báo nhập KH tháng,0,Mở dashboard
+249,249,Mở bc chốt quý,Mở báo cáo chốt quý,1,Mở báo cáo chốt quý
+255,255,BC CHỐT QUÝ,Mở báo cáo chốt quý,0,Mở BC_CSKH
+139,139,mở báo cáo liên ngành,Mở kết quả liên ngành (tháng n-1),1,Mở kết quả liên ngành (tháng n-1)
+208,208,Mở bc dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh,1,Mở báo cáo dữ liệu tin nhắn kinh doanh
+156,156,CSKH,Mở BC_CSKH,1,Mở BC_CSKH
+283,283,báo cáo KPI chấm điểm,Mở báo cáo KPI chấm điểm,1,Mở báo cáo KPI chấm điểm
+7,7,nhập kh tháng,Mở cảnh báo nhập KH tháng,0,Mở màn hình trình chiếu báo cáo tháng
+124,124,MỞ CHỈ TIÊU IMPORT,Mở chỉ tiêu import,0,Báo cáo chốt quý
+12,12,CẢNH BÁO NHẬP KH THÁNG,Mở cảnh báo nhập KH tháng,0,Mở dashboard
+20,20,cảnh báo KH quý,Mở cảnh báo nhập KH quý,1,Mở cảnh báo nhập KH quý
+280,280,BÁO CÁO ĐỘNG,Mở báo cáo động,0,Mở dashboard
+274,274,MỞ BC CHỐT THÁNG,Mở báo cáo chốt tháng,0,Mở BC_CSKH
+219,219,Mở bc VPTD,Mở báo cáo VPTD,1,Mở báo cáo VPTD
+166,166,bc chi tiết n2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+239,239,Mở bc chốt dữ liệu BCL,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL)),1,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+126,126,IMPORT,Mở chỉ tiêu import,0,Báo cáo chốt quý
+22,22,cảnh báo kế hoạch quý,Mở cảnh báo nhập KH quý,1,Mở cảnh báo nhập KH quý
+64,64,DL KH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+236,236,BC CHỐT THÁNG BCL,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL)),0,Mở BC_CSKH
+210,210,bc dữ liệu tin nhắn KD,Mở báo cáo dữ liệu tin nhắn kinh doanh,1,Mở báo cáo dữ liệu tin nhắn kinh doanh
+55,55,CB NĂM,Mở cảnh báo nhập KH năm,0,Mở BC_CSKH
+110,110,thực hiện tháng,Mở dữ liệu TH tháng,0,Mở màn hình trình chiếu báo cáo tháng
+282,282,Mở báo cáo KPI chấm điểm,Mở báo cáo KPI chấm điểm,1,Mở báo cáo KPI chấm điểm
+226,226,BC VPTD,Mở báo cáo VPTD,1,Mở báo cáo VPTD

@@ -1,0 +1,455 @@
+{
+	"info": {
+		"_postman_id": "986e6d63-0f3b-4725-a399-cc9355c5a36a",
+		"name": "API Chatbot",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getStatisticalData",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA0M7AwMNRRSq0ogAgYmZgbgQSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUA7TnjqXgAAAA.jPrwTHN46_ufTlEvJs3aIczUzNioql_86GoKkppWs1Q",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{   \r\n    \"ip\": \"10.61.142.22\",\r\n    \"listServiceId\" : [\"19\"],\r\n    \"areaCode\" : \"TD\",\r\n    \"cycleTime\" : \"NGAY\",\r\n    \"fromDate1\" : \"20230513\",\r\n    \"toDate1\" : \"20230513\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getStatisticalData?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDKzMLU0NdJRSq0ogAiYmxsZgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAoOBjYXgAAAA.0jEJ8Y7YQ6lin1wG9WbeCn1La3nI1URlMyURbhbFyOI",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getStatisticalData"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDKzMLU0NdJRSq0ogAiYmxsZgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAoOBjYXgAAAA.0jEJ8Y7YQ6lin1wG9WbeCn1La3nI1URlMyURbhbFyOI"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getListchart",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"type": "text",
+						"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzsDQzNbQ0NdRRSq0ogAiYG1sYgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUACRxmBHgAAAA.dW2sAp4ADz-gnoRG_1QsJRet3z_0Ue4GDWsvTrtebIg",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"ip\": \"10.61.142.22\",\r\n\"serviceId\" : \"19\",\r\n\"areaCode\" : \"VTTNEWNEW\",\r\n\"cycleTime\" : \"NGAY\",\r\n\"keyNameTitle\" : \"doanh\",\r\n\"typeChart\" : \"Biểu đồ cảnh báo 2\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getListChart?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDKzMLU0NdJRSq0ogAiYmxsZgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAoOBjYXgAAAA.0jEJ8Y7YQ6lin1wG9WbeCn1La3nI1URlMyURbhbFyOI",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getListChart"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDKzMLU0NdJRSq0ogAiYmxsZgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAoOBjYXgAAAA.0jEJ8Y7YQ6lin1wG9WbeCn1La3nI1URlMyURbhbFyOI"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getServicesList",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"ip\": \"10.61.142.22\",    \r\n\"serviceId\" : \"175\",\r\n\"areaCode\" : \"TD\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getServicesList?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDKzMLU0NdJRSq0ogAiYmxsZgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAoOBjYXgAAAA.0jEJ8Y7YQ6lin1wG9WbeCn1La3nI1URlMyURbhbFyOI",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getServicesList"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDKzMLU0NdJRSq0ogAiYmxsZgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAoOBjYXgAAAA.0jEJ8Y7YQ6lin1wG9WbeCn1La3nI1URlMyURbhbFyOI"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getCheckData",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"ip\": \"10.61.142.22\",\r\n\"serviceId\" : \"19\",\r\n\"areaCode\" : \"TD\",\r\n\"cycleTime\" : \"NGAY\",\r\n\"fromdate1\":\"20230227\",\r\n\"todate1\":\"20230227\"\r\n}\r\n\r\n    ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getCheckData?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getCheckData"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getRankingDept",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"ip\": \"10.61.142.22\",\r\n\"listServiceId\": [\"19\"],\r\n\"areaCode\": \"TD\",\r\n\"cycleTime\": \"NGAY\",\r\n\"fromDate1\": \"20230513\",\r\n\"toDate1\": \"20230513\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getRankingDept?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getRankingDept"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getGroupProfile",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getGroupProfile?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk&ip=10.61.142.22",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getGroupProfile"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk"
+						},
+						{
+							"key": "ip",
+							"value": "10.61.142.22"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getDashboard",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getDashboard?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk&groupProfileCode=VPTD&cycleTime=NGAY&areaCode=TD&ip=10.61.142.22",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getDashboard"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk"
+						},
+						{
+							"key": "groupProfileCode",
+							"value": "VPTD"
+						},
+						{
+							"key": "cycleTime",
+							"value": "NGAY"
+						},
+						{
+							"key": "areaCode",
+							"value": "TD"
+						},
+						{
+							"key": "ip",
+							"value": "10.61.142.22"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getListServiceIdInDash",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getListServiceIdInDash?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1tDA1MtdRSq0ogAiYGZhYggSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAkUShLngAAAA.FoJOIbtALO9FJ67OEbw7J_CflWDQ1b4YNQ7JIfl0Db8&dashboardId=2354&ip=10.61.142.22",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getListServiceIdInDash"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1tDA1MtdRSq0ogAiYGZhYggSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAkUShLngAAAA.FoJOIbtALO9FJ67OEbw7J_CflWDQ1b4YNQ7JIfl0Db8"
+						},
+						{
+							"key": "dashboardId",
+							"value": "2354"
+						},
+						{
+							"key": "ip",
+							"value": "10.61.142.22"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://10.30.164.32:8192/vsds/api/chatbot/getListdept",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"type": "text",
+						"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzsDQ1NTW3NNdRSq0ogAiYmRgZggSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAXylAA3gAAAA.77Uqhq7sVjBeZPCspIFDKMpIXV9KVZpylRKzorxn2Js",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://10.30.164.32:8192/vsds/api/chatbot/getListDept?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk&ip=10.61.142.22",
+					"protocol": "https",
+					"host": [
+						"10",
+						"30",
+						"164",
+						"32"
+					],
+					"port": "8192",
+					"path": [
+						"vsds",
+						"api",
+						"chatbot",
+						"getListDept"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDA1sDQ3M9NRSq0ogApYmhmCBIpLEtPSnPNTUoGajMwsTQyNgdpSUgtKPFNAIqYmQG5pcWoRjAvj5yXmImmpBQDfAGr_eAAAAA.iU0Vka0zQCQMUb1I8U6ncOMh5YtrO3b7G4ZhMGYN5yk"
+						},
+						{
+							"key": "ip",
+							"value": "10.61.142.22"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

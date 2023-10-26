@@ -1,0 +1,935 @@
+{
+    "tha": [
+        "tha",
+        "thanh h\u00f3a",
+        "viettel tha",
+        "viettel thanh h\u00f3a"
+    ],
+    "bgg": [
+        "bgg",
+        "b\u1eafc giang",
+        "viettel b\u1eafc giang",
+        "viettel bgg"
+    ],
+    "bdh": [
+        "bdh",
+        "b\u00ecnh \u0111\u1ecbnh",
+        "viettel bdh",
+        "viettel b\u00ecnh \u0111\u1ecbnh"
+    ],
+    "vcs": [
+        "vcs",
+        "ct an ninh m\u1ea1ng viettel",
+        "c\u00f4ng ty an ninh m\u1ea1ng viettel",
+        "ct an ninh m\u1ea1ng viettel vcs",
+        "c\u00f4ng ty an ninh m\u1ea1ng viettel vcs",
+        "ct an ninh m\u1ea1ng",
+        "c\u00f4ng ty an ninh m\u1ea1ng",
+        "ct an ninh m\u1ea1ng vcs",
+        "c\u00f4ng ty an ninh m\u1ea1ng vcs",
+        "viettel vcs",
+        "viettel ct an ninh m\u1ea1ng viettel",
+        "viettel c\u00f4ng ty an ninh m\u1ea1ng viettel",
+        "viettel ct an ninh m\u1ea1ng viettel vcs",
+        "viettel c\u00f4ng ty an ninh m\u1ea1ng viettel vcs",
+        "viettel cyber security"
+    ],
+    "tqg": [
+        "tqg",
+        "tuy\u00ean quang",
+        "viettel tqg",
+        "viettel tuy\u00ean quang"
+    ],
+    "kon tum": [
+        "kon tum",
+        "viettel kon tum"
+    ],
+    "hue": [
+        "hue",
+        "th\u1eeba thi\u00ean hu\u1ebf",
+        "viettel th\u1eeba thi\u00ean hu\u1ebf",
+        "viettel hue"
+    ],
+    "dlk": [
+        "\u0111\u1eafc l\u1eafc",
+        "dlk",
+        "viettel \u0111\u1eafc l\u1eafc",
+        "viettel dlk"
+    ],
+    "gli": [
+        "gia lai",
+        "gli",
+        "viettel gia lai",
+        "viettel gli"
+    ],
+    "vtt": [
+        "vtt",
+        "tct vi\u1ec5n th\u00f4ng",
+        "t\u1ed5ng c\u00f4ng ty vi\u1ec5n th\u00f4ng",
+        "tct vi\u1ec5n th\u00f4ng vtt",
+        "t\u1ed5ng c\u00f4ng ty vi\u1ec5n th\u00f4ng vtt",
+        "viettel tct vi\u1ec5n th\u00f4ng",
+        "viettel t\u1ed5ng c\u00f4ng ty vi\u1ec5n th\u00f4ng",
+        "viettel tct vi\u1ec5n th\u00f4ng vtt",
+        "viettel t\u1ed5ng c\u00f4ng ty vi\u1ec5n th\u00f4ng vtt",
+        "viettel vtt",
+        "viettel telecom"
+    ],
+    "hbh": [
+        "h\u00f2a b\u00ecnh",
+        "hbh",
+        "viettel h\u00f2a b\u00ecnh",
+        "viettel hbh"
+    ],
+    "ybi": [
+        "ybi",
+        "y\u00ean b\u00e1i",
+        "viettel y\u00ean b\u00e1i",
+        "viettel ybi"
+    ],
+    "kha": [
+        "kha",
+        "kh\u00e1nh h\u00f2a",
+        "viettel kh\u00e1nh h\u00f2a",
+        "viettel kha"
+    ],
+    "vtg": [
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf viettel",
+        "tct cp \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf viettel",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf viettel vtg",
+        "tct cp \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf viettel vtg",
+        "vtg",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf",
+        "tct cp \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf vtg",
+        "tct cp \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf vtg",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf viettel",
+        "viettel tct cp \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf viettel vtg",
+        "viettel tct cp \u0111\u1ea7u t\u01b0 qu\u1ed1c t\u1ebf viettel vtg",
+        "viettel vtg",
+        "viettel global"
+    ],
+    "tbh": [
+        "tbh",
+        "th\u00e1i b\u00ecnh",
+        "viettel th\u00e1i b\u00ecnh",
+        "viettel tbh"
+    ],
+    "vds": [
+        "vds",
+        "viettel vds",
+        "viettel digital"
+    ],
+    "lsn": [
+        "l\u1ea1ng s\u01a1n",
+        "lsn",
+        "viettel l\u1ea1ng s\u01a1n",
+        "viettel lsn"
+    ],
+    "qnm": [
+        "qnm",
+        "qu\u1ea3ng nam",
+        "viettel qu\u1ea3ng nam",
+        "viettel qnm"
+    ],
+    "lcu": [
+        "lcu",
+        "lai ch\u00e2u",
+        "viettel lcu",
+        "viettel lai ch\u00e2u"
+    ],
+    "blu": [
+        "blu",
+        "b\u1ea1c li\u00eau",
+        "viettel blu",
+        "viettel b\u1ea1c li\u00eau"
+    ],
+    "hgg": [
+        "h\u00e0 giang",
+        "hgg",
+        "viettel h\u00e0 giang",
+        "viettel hgg"
+    ],
+    "long an": [
+        "long an",
+        "viettel long an"
+    ],
+    "bnh": [
+        "b\u1eafc ninh",
+        "bnh",
+        "viettel b\u1eafc ninh",
+        "viettel bnh"
+    ],
+    "bpc": [
+        "bpc",
+        "b\u00ecnh ph\u01b0\u1edbc",
+        "viettel bpc",
+        "viettel b\u00ecnh ph\u01b0\u1edbc"
+    ],
+    "ct": [
+        "vcc",
+        "tct cp c\u00f4ng tr\u00ecnh viettel",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n c\u00f4ng tr\u00ecnh viettel",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n c\u00f4ng tr\u00ecnh viettel vcc",
+        "tct cp c\u00f4ng tr\u00ecnh viettel vcc",
+        "ct",
+        "c\u00f4ng tr\u00ecnh",
+        "tct cp c\u00f4ng tr\u00ecnh",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n c\u00f4ng tr\u00ecnh",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n c\u00f4ng tr\u00ecnh vcc",
+        "tct cp c\u00f4ng tr\u00ecnh vcc",
+        "viettel tct cp c\u00f4ng tr\u00ecnh viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n c\u00f4ng tr\u00ecnh viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n c\u00f4ng tr\u00ecnh viettel vcc",
+        "viettel tct cp c\u00f4ng tr\u00ecnh viettel vcc",
+        "viettel ct",
+        "viettel c\u00f4ng tr\u00ecnh",
+        "viettel vcc",
+        "viettel construction"
+    ],
+    "bkn": [
+        "bkn",
+        "b\u1eafc k\u1ea1n",
+        "viettel bkn",
+        "viettel b\u1eafc k\u1ea1n"
+    ],
+    "sla": [
+        "s\u01a1n la",
+        "sla",
+        "viettel s\u01a1n la",
+        "viettel sla"
+    ],
+    "hnm": [
+        "hnm",
+        "h\u00e0 nam",
+        "viettel hnm",
+        "viettel h\u00e0 nam"
+    ],
+    "cmu": [
+        "cmu",
+        "c\u00e0 mau",
+        "viettel cmu",
+        "viettel c\u00e0 mau"
+    ],
+    "vtm": [
+        "vtm",
+        "ct truy\u1ec1n th\u00f4ng viettel",
+        "c\u00f4ng ty truy\u1ec1n th\u00f4ng viettel",
+        "ct truy\u1ec1n th\u00f4ng viettel vtm",
+        "c\u00f4ng ty truy\u1ec1n th\u00f4ng viettel vtm",
+        "ct truy\u1ec1n th\u00f4ng",
+        "c\u00f4ng ty truy\u1ec1n th\u00f4ng",
+        "ct truy\u1ec1n th\u00f4ng vtm",
+        "c\u00f4ng ty truy\u1ec1n th\u00f4ng vtm",
+        "viettel vtm",
+        "viettel ct  truy\u1ec1n th\u00f4ng viettel",
+        "viettel c\u00f4ng ty truy\u1ec1n th\u00f4ng viettel",
+        "viettel ct  truy\u1ec1n th\u00f4ng viettel vtm",
+        "viettel c\u00f4ng ty truy\u1ec1n th\u00f4ng viettel vtm",
+        "viettel media"
+    ],
+    "vlg": [
+        "vlg",
+        "v\u0129nh long",
+        "viettel vlg",
+        "viettel v\u0129nh long"
+    ],
+    "cbg": [
+        "cao b\u1eb1ng",
+        "cbg",
+        "viettel cao b\u1eb1ng",
+        "viettel cbg"
+    ],
+    "stl": [
+        "stl",
+        "unitel",
+        "unitel stl",
+        "ct star telecom",
+        "c\u00f4ng ty star telecom",
+        "ct star telecom stl",
+        "c\u00f4ng ty star telecom stl",
+        "viettel unitel",
+        "viettel stl",
+        "viettel unitel stl",
+        "viettel ct star telecom",
+        "viettel c\u00f4ng ty star telecom",
+        "viettel ct star telecom stl",
+        "viettel c\u00f4ng ty star telecom stl",
+        "star telecom"
+    ],
+    "hth": [
+        "hth",
+        "h\u00e0 t\u0129nh",
+        "viettel h\u00e0 t\u0129nh",
+        "viettel hth"
+    ],
+    "mov": [
+        "mov",
+        "movitel",
+        "movitel mov",
+        "c\u00f4ng ty movitel",
+        "ct movitel",
+        "c\u00f4ng ty movitel mov",
+        "ct movitel mov",
+        "viettel mov",
+        "viettel movitel",
+        "viettel movitel mov",
+        "viettel c\u00f4ng ty movitel",
+        "viettel ct movitel",
+        "viettel c\u00f4ng ty movitel mov",
+        "viettel ct movitel mov"
+    ],
+    "nan": [
+        "nan",
+        "ngh\u1ec7 an",
+        "viettel ngh\u1ec7 an",
+        "viettel nan"
+    ],
+    "bdg": [
+        "bdg",
+        "b\u00ecnh d\u01b0\u01a1ng",
+        "viettel bdg",
+        "viettel b\u00ecnh d\u01b0\u01a1ng"
+    ],
+    "dng": [
+        "dng",
+        "\u0111\u00e0 n\u1eb5ng",
+        "viettel dng",
+        "viettel \u0111\u00e0 n\u1eb5ng"
+    ],
+    "ctm": [
+        "c\u00f4ng ty m\u1eb9",
+        "ctm",
+        "c\u00f4ng ty m\u1eb9 t\u1eadp \u0111o\u00e0n",
+        "viettel c\u00f4ng ty m\u1eb9 t\u1eadp \u0111o\u00e0n",
+        "viettel c\u00f4ng ty m\u1eb9",
+        "viettel ctm"
+    ],
+    "n": [
+        "n",
+        "\u0111i\u1ec7n bi\u00ean",
+        "viettel n",
+        "viettel \u0111i\u1ec7n bi\u00ean"
+    ],
+    "vpc": [
+        "vpc",
+        "v\u0129nh ph\u00fac",
+        "viettel vpc",
+        "viettel v\u0129nh ph\u00fac"
+    ],
+    "vbd": [
+        "vbd",
+        "lumitel",
+        "lumitel vbd",
+        "c\u00f4ng ty viettel burundi",
+        "ct viettel burundi",
+        "c\u00f4ng ty viettel burundi vbd",
+        "ct viettel burundi vbd",
+        "c\u00f4ng ty burundi",
+        "ct burundi",
+        "c\u00f4ng ty burundi vbd",
+        "ct burundi vbd",
+        "viettel vbd",
+        "viettel lumitel",
+        "viettel lumitel vbd",
+        "viettel c\u00f4ng ty viettel burundi",
+        "viettel ct viettel burundi",
+        "viettel c\u00f4ng ty viettel burundi vbd",
+        "viettel ct viettel burundi vbd",
+        "burundi"
+    ],
+    "qni": [
+        "qni",
+        "qu\u1ea3ng ng\u00e3i",
+        "viettel qni",
+        "viettel qu\u1ea3ng ng\u00e3i"
+    ],
+    "qnh": [
+        "qnh",
+        "qu\u1ea3ng ninh",
+        "viettel qnh",
+        "viettel qu\u1ea3ng ninh"
+    ],
+    "vtnet": [
+        "tct m\u1ea1ng l\u01b0\u1edbi viettel",
+        "t\u1ed5ng c\u00f4ng ty m\u1ea1ng l\u01b0\u1edbi viettel",
+        "t\u1ed5ng c\u00f4ng ty m\u1ea1ng l\u01b0\u1edbi viettel vtnet",
+        "tct m\u1ea1ng l\u01b0\u1edbi viettel vtnet",
+        "vtnet",
+        "tct m\u1ea1ng l\u01b0\u1edbi",
+        "t\u1ed5ng c\u00f4ng ty m\u1ea1ng l\u01b0\u1edbi",
+        "t\u1ed5ng c\u00f4ng ty m\u1ea1ng l\u01b0\u1edbi vtnet",
+        "tct m\u1ea1ng l\u01b0\u1edbi vtnet",
+        "viettel tct m\u1ea1ng l\u01b0\u1edbi viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty m\u1ea1ng l\u01b0\u1edbi viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty m\u1ea1ng l\u01b0\u1edbi viettel vtnet",
+        "viettel tct m\u1ea1ng l\u01b0\u1edbi viettel vtnet",
+        "viettel vtnet",
+        "viettel networks"
+    ],
+    "vts": [
+        "vts",
+        "v\u00ea t\u00ea \u00e9t",
+        "tct gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p viettel",
+        "t\u1ed5ng c\u00f4ng ty gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p viettel",
+        "tct gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p viettel vts",
+        "t\u1ed5ng c\u00f4ng ty gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p viettel vts",
+        "tct gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p",
+        "t\u1ed5ng c\u00f4ng ty gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p",
+        "tct gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p vts",
+        "t\u1ed5ng c\u00f4ng ty gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p vts",
+        "viettel tct gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p viettel",
+        "viettel tct gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p viettel vts",
+        "viettel t\u1ed5ng c\u00f4ng ty gi\u1ea3i ph\u00e1p doanh nghi\u1ec7p viettel vts",
+        "viettel vts",
+        "viettel solutions"
+    ],
+    "hcm": [
+        "h\u1ed3 ch\u00ed minh",
+        "hcm",
+        "viettel h\u1ed3 ch\u00ed minh",
+        "viettel hcm"
+    ],
+    "btn": [
+        "btn",
+        "b\u00ecnh thu\u1eadn",
+        "viettel btn",
+        "viettel b\u00ecnh thu\u1eadn"
+    ],
+    "vtpost": [
+        "vtpost",
+        "b\u01b0u ch\u00ednh",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u01b0u ch\u00ednh",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u01b0u ch\u00ednh viettel",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u01b0u ch\u00ednh vtpost",
+        "t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u01b0u ch\u00ednh viettel vtpost",
+        "tct cp b\u01b0u ch\u00ednh",
+        "tct cp b\u01b0u ch\u00ednh viettel",
+        "tct cp b\u01b0u ch\u00ednh vtpost",
+        "tct cp b\u01b0u ch\u00ednh viettel vtpost",
+        "viettel vtpost",
+        "viettel b\u01b0u ch\u00ednh",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u01b0u ch\u00ednh",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u01b0u ch\u00ednh viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u01b0u ch\u00ednh vtpost",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u1ed5 ph\u1ea7n b\u01b0u ch\u00ednh viettel vtpost",
+        "viettel tct cp b\u01b0u ch\u00ednh",
+        "viettel tct cp b\u01b0u ch\u00ednh viettel",
+        "viettel tct cp b\u01b0u ch\u00ednh vtpost",
+        "viettel tct cp b\u01b0u ch\u00ednh viettel vtpost",
+        "viettel post"
+    ],
+    "hdg": [
+        "hdg",
+        "h\u1ea3i d\u01b0\u01a1ng",
+        "viettel h\u1ea3i d\u01b0\u01a1ng",
+        "viettel hdg"
+    ],
+    "stg": [
+        "stg",
+        "s\u00f3c tr\u0103ng",
+        "viettel s\u00f3c tr\u0103ng",
+        "viettel stg"
+    ],
+    "qbh": [
+        "qbh",
+        "qu\u1ea3ng b\u00ecnh",
+        "viettel qbh",
+        "viettel qu\u1ea3ng b\u00ecnh"
+    ],
+    "vtc": [
+        "vtc",
+        "metfone",
+        "ct viettel cambodia",
+        "c\u00f4ng ty viettel cambodia",
+        "ct viettel cambodia vtc",
+        "c\u00f4ng ty viettel cambodia vtc",
+        "v\u00ea t\u00ea x\u00ea",
+        "ct cambodia",
+        "c\u00f4ng ty cambodia",
+        "ct cambodia vtc",
+        "c\u00f4ng ty cambodia vtc",
+        "viettel ct viettel cambodia",
+        "viettel c\u00f4ng ty viettel cambodia",
+        "viettel ct viettel cambodia vtc",
+        "viettel c\u00f4ng ty viettel cambodia vtc",
+        "viettel vtc",
+        "viettel metfone",
+        "cambodia"
+    ],
+    "agg": [
+        "agg",
+        "an giang",
+        "viettel agg",
+        "viettel an giang"
+    ],
+    "hpg": [
+        "h\u1ea3i ph\u00f2ng",
+        "hpg",
+        "viettel h\u1ea3i ph\u00f2ng",
+        "viettel hpg"
+    ],
+    "cto": [
+        "c\u1ea7n th\u01a1",
+        "cto",
+        "viettel c\u1ea7n th\u01a1",
+        "viettel cto"
+    ],
+    "vcm": [
+        "vcm",
+        "c\u00f4ng ty tnhh nn mtv tm&xnk",
+        "c\u00f4ng ty tnhh nn mtv tm&xnk viettel",
+        "c\u00f4ng ty tnhh nn mtv tm&xnk vcm",
+        "c\u00f4ng ty tnhh nn mtv tm&xnk viettel vcm",
+        "ct tnhh nn mtv tm&xnk",
+        "ct tnhh nn mtv tm&xnk viettel",
+        "ct tnhh nn mtv tm&xnk vcm",
+        "ct tnhh nn mtv tm&xnk viettel vcm",
+        "viettel vcm",
+        "viettel c\u00f4ng ty tnhh nn mtv tm&xnk",
+        "viettel c\u00f4ng ty tnhh nn mtv tm&xnk viettel",
+        "viettel c\u00f4ng ty tnhh nn mtv tm&xnk vcm",
+        "viettel c\u00f4ng ty tnhh nn mtv tm&xnk viettel vcm",
+        "viettel ct tnhh nn mtv tm&xnk",
+        "viettel ct tnhh nn mtv tm&xnk viettel",
+        "viettel ct tnhh nn mtv tm&xnk vcm",
+        "viettel ct tnhh nn mtv tm&xnk viettel vcm"
+    ],
+    "vtcc": [
+        "tt kh\u00f4ng gian m\u1ea1ng viettel",
+        "trung t\u00e2m kh\u00f4ng gian m\u1ea1ng viettel",
+        "tt kh\u00f4ng gian m\u1ea1ng viettel vtcc",
+        "trung t\u00e2m kh\u00f4ng gian m\u1ea1ng viettel vtcc",
+        "vtcc",
+        "tt kh\u00f4ng gian m\u1ea1ng",
+        "trung t\u00e2m kh\u00f4ng gian m\u1ea1ng",
+        "tt kh\u00f4ng gian m\u1ea1ng vtcc",
+        "trung t\u00e2m kh\u00f4ng gian m\u1ea1ng vtcc",
+        "viettel tt kh\u00f4ng gian m\u1ea1ng viettel",
+        "viettel trung t\u00e2m kh\u00f4ng gian m\u1ea1ng viettel",
+        "viettel tt kh\u00f4ng gian m\u1ea1ng viettel vtcc",
+        "viettel trung t\u00e2m kh\u00f4ng gian m\u1ea1ng viettel vtcc",
+        "viettel vtcc",
+        "viettel cyberspace center"
+    ],
+    "tgg": [
+        "tgg",
+        "ti\u1ec1n giang",
+        "viettel tgg",
+        "viettel ti\u1ec1n giang"
+    ],
+    "lci": [
+        "lci",
+        "l\u00e0o cai",
+        "viettel l\u00e0o cai",
+        "viettel lci"
+    ],
+    "dtp": [
+        "\u0111\u1ed3ng th\u00e1p",
+        "dtp",
+        "viettel \u0111\u1ed3ng th\u00e1p",
+        "viettel dtp"
+    ],
+    "nbh": [
+        "nbh",
+        "ninh b\u00ecnh",
+        "viettel nbh",
+        "viettel ninh b\u00ecnh"
+    ],
+    "td": [
+        "td",
+        "t\u1eadp \u0111o\u00e0n",
+        "viettel td",
+        "viettel t\u1eadp \u0111o\u00e0n"
+    ],
+    "dcn": [
+        "\u0111\u1eafc n\u00f4ng",
+        "dcn",
+        "viettel \u0111\u1eafc n\u00f4ng",
+        "viettel dcn"
+    ],
+    "pyn": [
+        "pyn",
+        "ph\u00fa y\u00ean",
+        "viettel pyn",
+        "viettel ph\u00fa y\u00ean"
+    ],
+    "pto": [
+        "pto",
+        "ph\u00fa th\u1ecd",
+        "viettel pto",
+        "viettel ph\u00fa th\u1ecd"
+    ],
+    "idc": [
+        "idc",
+        "ct tnhh viettel",
+        "c\u00f4ng ty tnhh viettel",
+        "ct tnhh viettel idc",
+        "c\u00f4ng ty tnhh viettel idc",
+        "ct tnhh",
+        "c\u00f4ng ty tnhh",
+        "ct tnhh idc",
+        "c\u00f4ng ty tnhh idc",
+        "viettel idc",
+        "viettel ct tnhh viettel",
+        "viettel c\u00f4ng ty tnhh viettel",
+        "viettel ct tnhh viettel idc",
+        "viettel c\u00f4ng ty tnhh viettel idc"
+    ],
+    "tnn": [
+        "tnn",
+        "th\u00e1i nguy\u00ean",
+        "viettel tnn",
+        "viettel th\u00e1i nguy\u00ean"
+    ],
+    "h\u1eadu giang": [
+        "h\u1eadu giang",
+        "viettel h\u1eadu giang"
+    ],
+    "vtp": [
+        "vtp",
+        "bitel",
+        "bitel vtp",
+        "c\u00f4ng ty viettel peru",
+        "ct viettel peru",
+        "c\u00f4ng ty viettel peru vtp",
+        "ct viettel peru vtp",
+        "c\u00f4ng ty peru",
+        "ct peru",
+        "c\u00f4ng ty peru vtp",
+        "ct peru vtp",
+        "viettel vtp",
+        "viettel bitel",
+        "viettel bitel vtp",
+        "viettel c\u00f4ng ty viettel peru",
+        "viettel ct viettel peru",
+        "viettel c\u00f4ng ty viettel peru vtp",
+        "viettel ct viettel peru vtp",
+        "peru"
+    ],
+    "myn": [
+        "myn",
+        "mytel",
+        "mytel myn",
+        "telecom international myanmar",
+        "telecom international myanmar myn",
+        "viettel myn",
+        "viettel mytel",
+        "viettel mytel myn",
+        "viettel telecom international myanmar",
+        "viettel telecom international myanmar myn",
+        "myanmar"
+    ],
+    "vtu": [
+        "vtu",
+        "b\u00e0 r\u1ecba v\u0169ng t\u00e0u",
+        "viettel b\u00e0 r\u1ecba v\u0169ng t\u00e0u",
+        "viettel vtu"
+    ],
+    "xmcp": [
+        "xmcp",
+        "c\u00f4ng ty c\u1ed5 ph\u1ea7n xi m\u0103ng c\u1ea9m ph\u1ea3",
+        "c\u00f4ng ty c\u1ed5 ph\u1ea7n xi m\u0103ng c\u1ea9m ph\u1ea3 xmcp",
+        "xi m\u0103ng c\u1ea9m ph\u1ea3",
+        "ct cp xi m\u0103ng c\u1ea9m ph\u1ea3",
+        "ct cp xi m\u0103ng c\u1ea9m ph\u1ea3 xmcp",
+        "viettel xmcp",
+        "viettel c\u00f4ng ty c\u1ed5 ph\u1ea7n xi m\u0103ng c\u1ea9m ph\u1ea3",
+        "viettel c\u00f4ng ty c\u1ed5 ph\u1ea7n xi m\u0103ng c\u1ea9m ph\u1ea3 xmcp",
+        "viettel xi m\u0103ng c\u1ea9m ph\u1ea3",
+        "viettel ct cp xi m\u0103ng c\u1ea9m ph\u1ea3",
+        "viettel ct cp xi m\u0103ng c\u1ea9m ph\u1ea3 xmcp"
+    ],
+    "ntn": [
+        "ntn",
+        "ninh thu\u1eadn",
+        "viettel ntn",
+        "viettel ninh thu\u1eadn"
+    ],
+    "qti": [
+        "qti",
+        "qu\u1ea3ng tr\u1ecb",
+        "viettel qu\u1ea3ng tr\u1ecb",
+        "viettel qti"
+    ],
+    "vdtc": [
+        "vdtc",
+        "ct cp giao th\u00f4ng s\u1ed1",
+        "c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1",
+        "ct cp giao th\u00f4ng s\u1ed1 vi\u1ec7t nam",
+        "c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vi\u1ec7t nam",
+        "ct cp giao th\u00f4ng s\u1ed1 vn",
+        "c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vn",
+        "ct cp giao th\u00f4ng s\u1ed1 vdtc",
+        "c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vdtc",
+        "ct cp giao th\u00f4ng s\u1ed1 vi\u1ec7t nam vdtc",
+        "c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vi\u1ec7t nam vdtc",
+        "ct cp giao th\u00f4ng s\u1ed1 vn vdtc",
+        "c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vn vdtc",
+        "viettel vdtc",
+        "viettel ct cp giao th\u00f4ng s\u1ed1",
+        "viettel c\u00f4ng ty  c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1",
+        "viettel ct cp giao th\u00f4ng s\u1ed1 vi\u1ec7t nam",
+        "viettel c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vi\u1ec7t nam",
+        "viettel ct cp giao th\u00f4ng s\u1ed1 vn",
+        "viettel c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vn",
+        "viettel ct cp giao th\u00f4ng s\u1ed1 vdtc",
+        "viettel c\u00f4ng ty  c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vdtc",
+        "viettel ct cp giao th\u00f4ng s\u1ed1 vi\u1ec7t nam vdtc",
+        "viettel c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vi\u1ec7t nam vdtc",
+        "viettel ct cp giao th\u00f4ng s\u1ed1 vn vdtc",
+        "viettel c\u00f4ng ty c\u1ed5 ph\u1ea7n giao th\u00f4ng s\u1ed1 vn vdtc"
+    ],
+    "hni": [
+        "hni",
+        "h\u00e0 n\u1ed9i",
+        "viettel hni",
+        "viettel h\u00e0 n\u1ed9i"
+    ],
+    "ndh": [
+        "nam \u0111\u1ecbnh",
+        "ndh",
+        "viettel nam \u0111\u1ecbnh",
+        "viettel ndh"
+    ],
+    "vtl": [
+        "vtl",
+        "telemor",
+        "telemor vtl",
+        "ct viettel timor leste",
+        "c\u00f4ng ty viettel timor leste",
+        "ct viettel timor leste vtl",
+        "c\u00f4ng ty viettel timor leste vtl",
+        "ct timor leste",
+        "c\u00f4ng ty timor leste",
+        "ct timor leste vtl",
+        "c\u00f4ng ty timor leste vtl",
+        "viettel vtl",
+        "viettel telemor",
+        "viettel telemor vtl",
+        "viettel ct viettel timor leste",
+        "viettel c\u00f4ng ty viettel timor leste",
+        "viettel ct viettel timor leste vtl",
+        "viettel c\u00f4ng ty viettel timor leste vtl",
+        "timor leste"
+    ],
+    "vht": [
+        "vnc",
+        "vht",
+        "tct c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao",
+        "tct c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao viettel",
+        "t\u1ed5ng c\u00f4ng ty c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao",
+        "t\u1ed5ng c\u00f4ng ty c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao viettel",
+        "tct c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao vht",
+        "tct c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao viettel vht",
+        "t\u1ed5ng c\u00f4ng ty c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao vht",
+        "t\u1ed5ng c\u00f4ng ty c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao viettel vht",
+        "viettel vnc",
+        "viettel vht",
+        "viettel tct c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao",
+        "viettel tct c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao viettel",
+        "viettel tct c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao vht",
+        "viettel tct c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao viettel vht",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao vht",
+        "viettel t\u1ed5ng c\u00f4ng ty c\u00f4ng nghi\u1ec7p c\u00f4ng ngh\u1ec7 cao viettel vht",
+        "viettel high tech"
+    ],
+    "ldg": [
+        "l\u00e2m \u0111\u1ed3ng",
+        "ldg",
+        "viettel l\u00e2m \u0111\u1ed3ng",
+        "viettel ldg"
+    ],
+    "t\u1ec9nh/tp": [
+        "viettel t\u1ec9nh/tp",
+        "viettel t\u1ec9nh th\u00e0nh ph\u1ed1",
+        "t\u1ec9nh/tp",
+        "t\u1ec9nh th\u00e0nh ph\u1ed1",
+        "viettel viettel t\u1ec9nh/tp"
+    ],
+    "hyn": [
+        "hyn",
+        "h\u01b0ng y\u00ean",
+        "viettel h\u01b0ng y\u00ean",
+        "viettel hyn"
+    ],
+    "tvh": [
+        "tvh",
+        "tr\u00e0 vinh",
+        "viettel tvh",
+        "viettel tr\u00e0 vinh"
+    ],
+    "vam": [
+        "vam",
+        "bds",
+        "c\u00f4ng ty qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n",
+        "c\u00f4ng ty qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n viettel",
+        "c\u00f4ng ty qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n vam",
+        "c\u00f4ng ty qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n viettel vam",
+        "qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n",
+        "ct qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n",
+        "ct qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n vam",
+        "viettel vam",
+        "viettel bds",
+        "viettel c\u00f4ng ty qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n",
+        "viettel c\u00f4ng ty qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n viettel",
+        "viettel c\u00f4ng ty qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n vam",
+        "viettel c\u00f4ng ty qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n viettel vam",
+        "viettel qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n",
+        "viettel ct qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n",
+        "viettel ct qu\u1ea3n l\u00fd t\u00e0i s\u1ea3n vam"
+    ],
+    "kgg": [
+        "ki\u00ean giang",
+        "kgg",
+        "viettel ki\u00ean giang",
+        "viettel kgg"
+    ],
+    "tnh": [
+        "tnh",
+        "t\u00e2y ninh",
+        "viettel tnh",
+        "viettel t\u00e2y ninh"
+    ],
+    "nat": [
+        "nat",
+        "natcom",
+        "natcom nat",
+        "c\u00f4ng ty natcom",
+        "ct natcom",
+        "c\u00f4ng ty natcom nat",
+        "ct natcom nat",
+        "viettel nat",
+        "viettel natcom",
+        "viettel natcom nat",
+        "viettel c\u00f4ng ty natcom",
+        "viettel ct natcom",
+        "viettel c\u00f4ng ty natcom nat",
+        "viettel ct natcom nat"
+    ],
+    "bte": [
+        "bte",
+        "b\u1ebfn tre",
+        "viettel bte",
+        "viettel b\u1ebfn tre"
+    ],
+    "dni": [
+        "dni",
+        "\u0111\u1ed3ng nai",
+        "viettel dni",
+        "viettel \u0111\u1ed3ng nai"
+    ],
+    "vtk": [
+        "tct t\u01b0 v\u1ea5n v\u00e0 dv viettel",
+        "t\u1ed5ng c\u00f4ng ty t\u01b0 v\u1ea5n v\u00e0 dv viettel",
+        "tct t\u01b0 v\u1ea5n v\u00e0 dv viettel vtk",
+        "t\u1ed5ng c\u00f4ng ty t\u01b0 v\u1ea5n v\u00e0 dv viettel vtk",
+        "vtk",
+        "tct t\u01b0 v\u1ea5n v\u00e0 dv",
+        "t\u1ed5ng c\u00f4ng ty t\u01b0 v\u1ea5n v\u00e0 dv",
+        "tct t\u01b0 v\u1ea5n v\u00e0 dv vtk",
+        "t\u1ed5ng c\u00f4ng ty t\u01b0 v\u1ea5n v\u00e0 dv vtk",
+        "viettel tct t\u01b0 v\u1ea5n v\u00e0 dv viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty t\u01b0 v\u1ea5n v\u00e0 dv viettel",
+        "viettel tct t\u01b0 v\u1ea5n v\u00e0 dv viettel vtk",
+        "viettel t\u1ed5ng c\u00f4ng ty t\u01b0 v\u1ea5n v\u00e0 dv viettel vtk",
+        "viettel vtk"
+    ],
+    "vmc": [
+        "vmc",
+        "t\u1ed5ng c\u00f4ng ty sxtb",
+        "t\u1ed5ng c\u00f4ng ty sxtb viettel",
+        "t\u1ed5ng c\u00f4ng ty sxtb vmc",
+        "t\u1ed5ng c\u00f4ng ty sxtb viettel vmc",
+        "tct sxtb",
+        "tct sxtb viettel",
+        "tct sxtb vmc",
+        "tct sxtb viettel vmc",
+        "viettel vmc",
+        "viettel t\u1ed5ng c\u00f4ng ty sxtb",
+        "viettel t\u1ed5ng c\u00f4ng ty sxtb viettel",
+        "viettel t\u1ed5ng c\u00f4ng ty sxtb vmc",
+        "viettel t\u1ed5ng c\u00f4ng ty sxtb viettel vmc",
+        "viettel tct sxtb",
+        "viettel tct sxtb viettel",
+        "viettel tct sxtb vmc",
+        "viettel tct sxtb viettel vmc"
+    ],
+    "vtsport": [
+        "vtsport",
+        "tt th\u1ec3 thao viettel",
+        "tt th\u1ec3 thao viettel vtsport",
+        "trung t\u00e2m th\u1ec3 thao viettel",
+        "trung t\u00e2m th\u1ec3 thao viettel vtsport",
+        "tt th\u1ec3 thao",
+        "tt th\u1ec3 thao vtsport",
+        "trung t\u00e2m th\u1ec3 thao",
+        "trung t\u00e2m th\u1ec3 thao vtsport",
+        "viettel vtsport",
+        "viettel tt th\u1ec3 thao viettel",
+        "viettel tt th\u1ec3 thao viettel vtsport",
+        "viettel trung t\u00e2m th\u1ec3 thao viettel",
+        "viettel trung t\u00e2m th\u1ec3 thao viettel vtsport",
+        "viettel tt th\u1ec3 thao",
+        "viettel tt th\u1ec3 thao vtsport",
+        "viettel trung t\u00e2m th\u1ec3 thao",
+        "viettel trung t\u00e2m th\u1ec3 thao vtsport"
+    ],
+    "h\u1ea3i ph\u00f2ng": [
+        "h\u1ea3i ph\u00f2ng",
+        "viettel h\u1ea3i ph\u00f2ng"
+    ],
+    "hv": [
+        "vtaca",
+        "h\u1ecdc vi\u1ec7n viettel",
+        "h\u1ecdc vi\u1ec7n viettel vtaca",
+        "hv viettel",
+        "hv viettel vtaca",
+        "h\u1ecdc vi\u1ec7n",
+        "h\u1ecdc vi\u1ec7n vtaca",
+        "hv",
+        "hv vtaca",
+        "viettel vtaca",
+        "viettel h\u1ecdc vi\u1ec7n viettel",
+        "viettel h\u1ecdc vi\u1ec7n viettel vtaca",
+        "viettel hv viettel",
+        "viettel hv viettel vtaca"
+    ],
+    "vtz": [
+        "vtz",
+        "halotel",
+        "halotel vtz",
+        "c\u00f4ng ty viettel tanzania",
+        "ct viettel tanzania",
+        "c\u00f4ng ty viettel tanzania vtz",
+        "ct viettel tanzania vtz",
+        "c\u00f4ng ty tanzania",
+        "ct tanzania",
+        "c\u00f4ng ty tanzania vtz",
+        "ct tanzania vtz",
+        "viettel vtz",
+        "viettel halotel",
+        "viettel halotel vtz",
+        "viettel c\u00f4ng ty viettel tanzania",
+        "viettel ct viettel tanzania",
+        "viettel c\u00f4ng ty viettel tanzania vtz",
+        "viettel ct viettel tanzania vtz",
+        "tanzania"
+    ],
+    "vtx": [
+        "vtx",
+        "vi\u1ec7n h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5",
+        "vi\u1ec7n h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5 viettel",
+        "vi\u1ec7n h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5 vtx",
+        "vi\u1ec7n h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5 viettel vtx",
+        "viettel vtx",
+        "viettel vi\u1ec7n h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5",
+        "viettel vi\u1ec7n h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5 viettel",
+        "viettel vi\u1ec7n h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5 vtx",
+        "viettel vi\u1ec7n h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5 viettel vtx"
+    ]
+}

@@ -1,0 +1,233 @@
+,Câu lệnh nhập vào,Câu lệnh có sẵn,Output,Dự đoán
+0,Cảnh báo năm,"Mở quản lý chu kỳ import tài chính, kinh doanh",1,Mở cảnh báo nhập KH năm
+1,báo cáo chi tiết n2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+2,báo cáo VPTD,Mở báo cáo động ,1,Mở báo cáo VPTD
+3,BÁO CÁO TỶ GIÁ MỚI,Mở quản lý chu kỳ mặc định ,0,Mở dashboard
+4,TH NGÀY,Mở dữ liệu TH ngày,0,Mở dashboard
+5,KẾT QUẢ LIÊN NGÀNH,Mở báo cáo KPI chấm điểm ,0,Mở profile
+6,Mở cảnh báo nhập kế hoạch QUÝ,Mở BC_CSKH,1,Mở cảnh báo nhập KH quý
+7,Mở kết quả liên ngành,Mở báo cáo động ,1,Mở kết quả liên ngành (tháng n-1)
+8,chốt quý,Mở dữ liệu TH tháng ,1,Mở báo cáo chốt quý
+9,CB QUÝ,Mở báo cáo chốt năm ,0,Mở BC_CSKH
+10,MỞ BC DỮ LIỆU TIN NHẮN KINH DOANH,Mở báo cáo dữ liệu tin nhắn kinh doanh,0,Mở BC_CSKH
+11,báo cáo chăm sóc khách hàng,Mở trang chủ,1,Mở BC_CSKH
+12,VPTD,Mở quản lý cấu hình truy vấn ,1,Mở báo cáo VPTD
+13,MỞ DỮ LIỆU TH NGÀY,Mở dữ liệu TH ngày,0,Mở profile
+14,Mở BC CSKH,Mở danh mục chỉ tiêu,1,Mở BC_CSKH
+15,BC KPI,Mở báo cáo KPI chấm điểm,0,Mở BC_CSKH
+16,Mở báo cáo dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh,1,Mở báo cáo dữ liệu tin nhắn kinh doanh
+17,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL)),Mở BC_CSKH,1,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+18,DL KH QUÝ,Mở cảnh báo nhập KH tháng,0,Mở dashboard
+19,kết quả liên ngành (tháng n-1),Mở quản lý cấu hình export file ,1,Mở kết quả liên ngành (tháng n-1)
+20,chốt tháng,Mở báo cáo chốt tháng,1,Mở báo cáo chốt tháng
+21,Mở dữ liệu TH ngày,Mở dữ liệu TH ngày,1,Mở dữ liệu TH ngày
+22,nhập kế hoạch năm,Mở tra cứu tần suất sử dụng hệ thống,0,Mở dữ liệu KH năm
+23,bc chốt tháng BCL,"Mở quản lý chu kỳ import tài chính, kinh doanh",0,Mở báo cáo chốt tháng
+24,MỞ KẾT QUẢ LIÊN NGÀNH,Mở quản lý chu kỳ mặc định ,0,Mở profile
+25,bc tỷ lệ chiết khấu thẻ cào,Mở báo cáo KPI chấm điểm ,1,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+26,DL KẾ HOẠCH NĂM,Mở biểu đồ,0,Mở dashboard
+27,CB KH NĂM,Mở báo cáo chi tiết n2 mới ,0,Mở BC_CSKH
+28,MỞ BÁO CÁO CHI TIẾT N2 MỚI,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+29,Mở cảnh báo nhập KH quý,"Mở quản lý chu kỳ import tài chính, kinh doanh",1,Mở cảnh báo nhập KH quý
+30,chăm sóc KH,Mở quản lý chu kỳ mặc định ,1,Mở BC_CSKH
+31,chốt dữ liệu BCL,Mở dữ liệu TH ngày ,1,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+32,dữ liệu TH tháng,Mở dữ liệu TH tháng,1,Mở dữ liệu TH tháng
+33,MỞ BC CHỐT QUÝ,Mở báo cáo dữ liệu tin nhắn kinh doanh ,0,Mở BC_CSKH
+34,Mở dữ liệu KH QUÝ,Mở quản lý nhóm đơn vị ,0,Mở upload dữ liệu
+35,Mở báo cáo chốt dữ liệu BCL,Mở cảnh báo nhập KH quý,1,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+36,BÁO CÁO CHỐT THÁNG BCL,Mở quản lý chu kỳ mặc định ,0,Mở BC_CSKH
+37,báo cáo KPI,Mở báo cáo KPI chấm điểm,1,Mở báo cáo KPI chấm điểm
+38,bc động,Mở báo cáo động,0,Mở dashboard
+39,LIÊN NGÀNH (THÁNG N-1),Mở quản lý thư mục,1,Mở kết quả liên ngành (tháng n-1)
+40,NHẬP KẾ HOẠCH QUÝ,Mở quản lý menu,0,Mở dashboard
+41,Mở dữ liệu KH NĂM,Mở quản lý phản ánh ,0,Mở upload dữ liệu
+42,MỞ BC VPTD,Mở BC_CSKH,1,Mở báo cáo VPTD
+43,MỞ DỮ LIỆU KH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+44,bc chốt năm,Mở báo cáo chốt năm,1,Mở báo cáo chốt năm
+45,bc chốt tháng,Mở báo cáo chốt tháng,1,Mở báo cáo chốt tháng
+46,cảnh báo quý,Mở quản lý cấu hình trình chiếu,1,Mở cảnh báo nhập KH quý
+47,MỞ CẢNH BÁO NHẬP KẾ HOẠCH QUÝ,Mở báo cáo VPTD,0,Mở profile
+48,CHI TIẾT N2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+49,CB KH THÁNG,Mở quản lý cấu hình truy vấn ,0,Mở BC_CSKH
+50,Mở dữ liệu KH tháng,Mở dữ liệu KH tháng,1,Mở dữ liệu KH tháng
+51,DỮ LIỆU KẾ HOẠCH QUÝ,Mở quản lý phản ánh ,0,Mở BC_VPTD
+52,BÁO CÁO KPI,Mở báo cáo KPI chấm điểm,1,Mở báo cáo KPI chấm điểm
+53,Mở báo cáo VPTD,Mở báo cáo tỷ lệ chiết khấu thẻ cào,1,Mở báo cáo VPTD
+54,Mở báo cáo chăm sóc khách hàng,Mở báo cáo tỷ lệ chiết khấu thẻ cào,1,Mở BC_CSKH
+55,BC LIÊN NGÀNH,Mở kết quả liên ngành (tháng n-1),0,Mở BC_CSKH
+56,dữ liệu thực hiện tháng,Mở dữ liệu TH tháng,1,Mở dữ liệu TH tháng
+57,bc chi tiết,Mở báo cáo chi tiết n2 mới,0,Mở BC_CSKH
+58,cảnh báo kế hoạch tháng,Mở quản lý phản ánh ,1,Mở cảnh báo nhập KH tháng
+59,Mở dữ liệu TH NGÀY,Mở dữ liệu TH ngày,1,Mở dữ liệu TH ngày
+60,CS khách hàng,Mở quản lý nhóm đơn vị ,1,Mở BC_CSKH
+61,MỞ DỮ LIỆU KẾ HOẠCH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+62,Mở dữ liệu thực hiện tháng,Mở dữ liệu TH tháng,1,Mở dữ liệu TH tháng
+63,KẾ HOẠCH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+64,CẢNH BÁO KH NĂM,Mở báo cáo tỷ lệ chiết khấu thẻ cào,0,Mở dashboard
+65,bc chốt dữ liệu BCL,Mở quản lý chu kỳ mặc định ,1,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+66,KH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+67,Mở cảnh báo nhập KH QUÝ,Mở hướng dẫn sử dụng ,1,Mở cảnh báo nhập KH quý
+68,CT chỉ tiêu,Mở công thức chỉ tiêu,0,Mở chỉ tiêu import
+69,bc tỷ giá mới,Mở dữ liệu TH tháng ,0,Mở báo cáo động
+70,BÁO CÁO TỶ LỆ CHIẾT KHẤU THẺ CÀO,Mở báo cáo chốt tháng ,0,Mở profile
+71,Mở bc chốt tháng,Mở báo cáo chốt tháng,1,Mở báo cáo chốt tháng
+72,cảnh báo KH năm,Mở danh mục chỉ tiêu,1,Mở cảnh báo nhập KH năm
+73,CHỐT NĂM,Mở báo cáo chốt năm,0,Mở dashboard
+74,NHẬP KH THÁNG,Mở báo cáo VPTD,0,Mở dashboard
+75,TH tháng,Mở dữ liệu TH tháng,0,Mở màn hình trình chiếu báo cáo tháng
+76,Mở bc tỷ giá mới,Mở dữ liệu TH tháng ,1,Mở báo cáo tỷ giá mới (đang phát triển)
+77,cảnh báo tháng,Mở báo cáo KPI chấm điểm ,1,Mở cảnh báo nhập KH tháng
+78,BC CHI TIẾT,Mở báo cáo chi tiết n2 mới,0,Mở BC_CSKH
+79,CHỈ TIÊU IMPORT,Mở chỉ tiêu import,0,Báo cáo chốt quý
+80,nhập kh quý,Mở danh mục chung ,0,Mở dữ liệu KH quý
+81,CẢNH BÁO NHẬP KH QUÝ,Mở quản lý nhóm đơn vị ,0,Mở BC_CSKH
+82,DL KẾ HOẠCH QUÝ,Mở báo cáo VPTD,0,Mở dashboard
+83,báo cáo chốt tháng,Mở báo cáo chốt tháng,1,Mở báo cáo chốt tháng
+84,Mở bc chốt năm,Mở báo cáo chốt năm,1,Mở báo cáo chốt năm
+85,cảnh báo nhập KH quý,Mở dữ liệu KH tháng ,1,Mở cảnh báo nhập KH quý
+86,MỞ BÁO CÁO CHỐT DỮ LIỆU BCL,Mở báo cáo tỷ giá mới (đang phát triển),0,Mở BC_CSKH
+87,bc VPTD,Mở báo cáo chi tiết n2 mới ,1,Mở báo cáo VPTD
+88,báo cáo chốt năm,Mở báo cáo chốt năm,1,Mở báo cáo chốt năm
+89,Mở dữ liệu KH năm,Mở báo cáo chốt tháng ,1,Mở dữ liệu KH năm
+90,NHẬP KH NĂM,Mở quản lý chu kỳ mặc định ,0,Mở dashboard
+91,cảnh báo KH tháng,Mở quản lý nhóm đơn vị ,1,Mở cảnh báo nhập KH tháng
+92,VPTD,Mở profile ,1,Mở báo cáo VPTD
+93,THỰC HIỆN NGÀY,Mở dữ liệu TH ngày,0,Mở dashboard
+94,BÁO CÁO N2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+95,DỮ LIỆU KH NĂM,Mở dữ liệu KH tháng ,0,Mở dashboard
+96,Mở cảnh báo nhập kế hoạch THÁNG,Mở dữ liệu TH tháng ,0,Mở cảnh báo nhập KH quý
+97,MỞ BC ĐANG PHÁT TRIỂN,Mở báo cáo chốt năm ,0,Mở BC_CSKH
+98,dữ liệu kế hoạch tháng,Mở dữ liệu KH tháng,1,Mở dữ liệu KH tháng
+99,cảnh báo năm,Mở tra cứu tần suất sử dụng hệ thống,1,Mở cảnh báo nhập KH năm
+100,CẢNH BÁO KH THÁNG,Mở cảnh báo nhập KH quý,0,Mở dashboard
+101,chăm sóc khách hàng,Mở dữ liệu TH ngày ,1,Mở BC_CSKH
+102,CẢNH BÁO NHẬP KH NĂM,Mở dữ liệu TH ngày ,0,Mở dashboard
+103,MỞ BÁO CÁO TỶ LỆ CHIẾT KHẤU THẺ CÀO,Mở kết quả liên ngành (tháng n-1),0,Mở profile
+104,MỞ BÁO CÁO VPTD,Mở quản lý chu kỳ mặc định ,1,Mở báo cáo VPTD
+105,import,Mở chỉ tiêu import,1,Mở chỉ tiêu import
+106,MỞ BÁO CÁO TỶ GIÁ MỚI,Mở báo cáo chốt quý,0,Mở profile
+107,DỮ LIỆU KH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+108,đang phát triển,Mở dữ liệu KH quý,0,Mở dashboard
+109,BC DỮ LIỆU TIN NHẮN KINH DOANH,Mở báo cáo dữ liệu tin nhắn kinh doanh,0,Mở BC_CSKH
+110,Ct chỉ tiêu,Mở công thức chỉ tiêu,0,Danh mục chỉ tiêu
+111,Mở bc tỷ lệ chiết khấu thẻ cào,Mở dữ liệu TH tháng ,1,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+112,BC CHI TIẾT N2,Mở báo cáo chi tiết n2 mới,0,Mở BC_CSKH
+113,kế hoạch năm,Mở cảnh báo nhập KH tháng,0,Mở dữ liệu KH năm
+114,bc chốt quý,Mở chỉ tiêu import ,1,Mở báo cáo chốt quý
+115,liên ngành,Mở dữ liệu KH quý,0,Mở dashboard
+116,tỷ giá mới,Mở profile ,1,Mở báo cáo tỷ giá mới (đang phát triển)
+117,dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh,1,Mở báo cáo dữ liệu tin nhắn kinh doanh
+118,BÁO CÁO LIÊN NGÀNH,Mở dữ liệu TH ngày ,0,Mở dashboard
+119,Mở dữ liệu thực hiện THÁNG,Mở dữ liệu TH tháng,0,Mở upload dữ liệu
+120,MỞ BC CHỐT THÁNG BCL,Mở màn hình trình chiếu ,0,Mở BC_CSKH
+121,MỞ DỮ LIỆU THỰC HIỆN NGÀY,Mở dữ liệu TH ngày,0,Mở profile
+122,báo cáo dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh,1,Mở báo cáo dữ liệu tin nhắn kinh doanh
+123,Mở dữ liệu thực hiện ngày,Mở dữ liệu TH ngày,1,Mở dữ liệu TH ngày
+124,BC TỶ GIÁ MỚI,Mở báo cáo dữ liệu tin nhắn kinh doanh ,0,Mở BC_CSKH
+125,báo cáo n2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+126,CB KH QUÝ,Mở báo cáo VPTD,0,Mở BC_CSKH
+127,Mở báo cáo đang phát triển,Mở cảnh báo nhập KH quý,0,Mở báo cáo động
+128,MỞ DỮ LIỆU TH THÁNG,Mở dữ liệu TH tháng,0,Mở dashboard
+129,Mở cảnh báo nhập KH tháng,Mở danh mục chung ,1,Mở cảnh báo nhập KH tháng
+130,dữ liệu thực hiện ngày,Mở dữ liệu TH ngày,1,Mở dữ liệu TH ngày
+131,thực hiện ngày,Mở dữ liệu TH ngày,0,Mở màn hình trình chiếu báo cáo ngày
+132,BÁO CÁO CHỐT QUÝ,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL)),0,Mở dashboard
+133,chốt tháng BCL,Mở dashboard ,0,Mở báo cáo chốt tháng
+134,dữ liệu KH quý,Mở cảnh báo nhập KH năm,1,Mở dữ liệu KH quý
+135,MỞ CẢNH BÁO NHẬP KH NĂM,Mở báo cáo tỷ giá mới (đang phát triển),0,Mở profile
+136,Mở cảnh báo nhập kế hoạch NĂM,Mở công thức chỉ tiêu ,0,Mở cảnh báo nhập KH quý
+137,MỞ DỮ LIỆU KẾ HOẠCH NĂM,"Mở quản lý chu kỳ import tài chính, kinh doanh",0,Mở dashboard
+138,BC KPI CĐ,Mở báo cáo KPI chấm điểm,0,Mở BC_CSKH
+139,bc liên ngành,Mở upload dữ liệu ,0,Mở BC_CSKH
+140,nhập kế hoạch quý,Mở báo cáo tỷ giá mới (đang phát triển),0,Mở dữ liệu KH quý
+141,CHỐT THÁNG BCL,Mở cảnh báo nhập KH quý,0,Mở BC_CSKH
+142,MỞ BÁO CÁO LIÊN NGÀNH,Mở quản lý hướng dẫn sử dụng ,0,Mở profile
+143,KẾT QUẢ LIÊN NGÀNH (THÁNG N-1),Mở quản lý đa ngôn ngữ,1,Mở kết quả liên ngành (tháng n-1)
+144,KH QUÝ,Mở danh mục chung ,0,Mở dashboard
+145,Mở bc đang phát triển,Mở quản lý phản ánh ,0,Mở BC_CSKH
+146,DỮ LIỆU THỰC HIỆN NGÀY,Mở dữ liệu TH ngày,0,Mở báo cáo VPTD
+147,BC TỶ LỆ CHIẾT KHẤU THẺ CÀO,Mở dữ liệu KH năm,0,Mở BC_CSKH
+148,MỞ CÔNG THỨC CHỈ TIÊU,Mở công thức chỉ tiêu,0,Mở dashboard
+149,chốt năm,Mở báo cáo chốt năm,1,Mở báo cáo chốt năm
+150,MỞ BÁO CÁO KPI CHẤM ĐIỂM,Mở báo cáo KPI chấm điểm,0,Mở profile
+151,báo cáo tỷ lệ chiết khấu thẻ cào,Mở dữ liệu KH tháng ,1,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+152,nhập kế hoạch tháng,Mở profile ,0,Mở màn hình trình chiếu báo cáo tháng
+153,Mở dữ liệu KH quý,"Mở quản lý chu kỳ import tài chính, kinh doanh",1,Mở dữ liệu KH quý
+154,bc kpi,Mở báo cáo KPI chấm điểm,0,Mở BC_CSKH
+155,MỞ DỮ LIỆU KH NĂM,Mở báo cáo dữ liệu tin nhắn kinh doanh ,0,Mở dashboard
+156,BÁO CÁO CHI TIẾT N2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+157,Mở chỉ tiêu import,Mở chỉ tiêu import,1,Mở chỉ tiêu import
+158,báo cáo liên ngành,Mở báo cáo động ,0,Mở báo cáo động
+159,BÁO CÁO CHỐT NĂM,Mở báo cáo chốt năm,0,Mở dashboard
+160,MỞ BC CHỐT NĂM,Mở báo cáo chốt năm,0,Mở BC_CSKH
+161,MỞ KẾT QUẢ LIÊN NGÀNH (THÁNG N-1),"Mở quản lý chu kỳ import tài chính, kinh doanh",1,Mở kết quả liên ngành (tháng n-1)
+162,BC CHỐT DỮ LIỆU BCL,Mở báo cáo tỷ lệ chiết khấu thẻ cào,0,Mở BC_CSKH
+163,dữ liệu TH ngày,Mở dữ liệu TH ngày,1,Mở dữ liệu TH ngày
+164,dữ liệu kế hoạch năm,Mở quản lý hướng dẫn sử dụng ,1,Mở dữ liệu KH năm
+165,CHỐT THÁNG,Mở báo cáo chốt tháng,0,Mở dashboard
+166,MỞ CẢNH BÁO NHẬP KH THÁNG,Mở báo cáo KPI chấm điểm ,0,Mở profile
+167,TH THÁNG,Mở dữ liệu TH tháng,0,Mở dashboard
+168,DL THỰC HIỆN NGÀY,Mở dữ liệu TH ngày,0,Mở dashboard
+169,CẢNH BÁO QUÝ,Mở quản lý cấu hình Upload template ,0,Mở dashboard
+170,dữ liệu KH tháng,Mở dữ liệu KH tháng,1,Mở dữ liệu KH tháng
+171,MỞ BÁO CÁO CHI TIẾT N2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+172,DL KẾ HOẠCH THÁNG,Mở dữ liệu KH tháng,0,Mở dashboard
+173,cảnh báo nhập KH tháng,Mở quản lý nhóm đơn vị ,1,Mở cảnh báo nhập KH tháng
+174,THỰC HIỆN THÁNG,Mở dữ liệu TH tháng,0,Mở dashboard
+175,Mở báo cáo chốt năm,Mở báo cáo chốt năm,1,Mở báo cáo chốt năm
+176,Mở báo cáo tỷ giá mới,Mở dữ liệu KH quý,1,Mở báo cáo tỷ giá mới (đang phát triển)
+177,cảnh báo kế hoạch năm,Mở quản lý nhóm đơn vị ,0,Mở dữ liệu KH năm
+178,Mở dữ liệu TH tháng,Mở dữ liệu TH tháng,1,Mở dữ liệu TH tháng
+179,CÔNG THỨC CHỈ TIÊU,Mở công thức chỉ tiêu,0,Mở dashboard
+180,KẾ HOẠCH QUÝ,Mở cảnh báo nhập KH năm,0,Mở dashboard
+181,CB THÁNG,Mở quản lý hướng dẫn sử dụng ,0,Mở BC_CSKH
+182,MỞ BÁO CÁO CHỐT THÁNG BCL,Mở quản lý chu kỳ mặc định ,0,Mở BC_CSKH
+183,Mở cảnh báo nhập KH năm,Mở quản lý nhóm đơn vị ,1,Mở cảnh báo nhập KH năm
+184,CT CHỈ TIÊU,Mở công thức chỉ tiêu,0,Mở BC_CSKH
+185,CẢNH BÁO NĂM,Mở dữ liệu TH ngày ,0,Mở dashboard
+186,chi tiết n2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+187,Mở báo cáo chốt quý,Mở công thức chỉ tiêu ,1,Mở báo cáo chốt quý
+188,công thức chỉ tiêu,Mở công thức chỉ tiêu,1,Mở công thức chỉ tiêu
+189,CẢNH BÁO KH QUÝ,"Mở quản lý chu kỳ import tài chính, kinh doanh",0,Mở dashboard
+190,MỞ CẢNH BÁO NHẬP KH QUÝ,Mở quản lý hướng dẫn sử dụng ,0,Mở BC_CSKH
+191,ĐANG PHÁT TRIỂN,Mở BC_CSKH,0,Mở dashboard
+192,MỞ DỮ LIỆU THỰC HIỆN THÁNG,Mở dữ liệu TH tháng,0,Mở dashboard
+193,MỞ BC TỶ LỆ CHIẾT KHẤU THẺ CÀO,Mở dữ liệu KH quý,0,Mở BC_CSKH
+194,báo cáo chi tiết,Mở báo cáo chi tiết n2 mới,0,Mở báo cáo động
+195,Mở BC_CSKH,Mở cảnh báo nhập KH quý,1,Mở BC_CSKH
+196,MỞ BC CHỐT DỮ LIỆU BCL,Mở kết quả liên ngành (tháng n-1),0,Mở BC_CSKH
+197,TỶ LỆ CHIẾT KHẤU THẺ CÀO,Mở trang chủ,0,Mở profile
+198,CẢNH BÁO NHẬP KẾ HOẠCH QUÝ,Mở biểu đồ,0,Mở BC_CSKH
+199,NHẬP KH QUÝ,Mở danh mục chung ,0,Mở dashboard
+200,Mở công thức chỉ tiêu,Mở công thức chỉ tiêu,1,Mở công thức chỉ tiêu
+201,BC ĐANG PHÁT TRIỂN,Mở cảnh báo nhập KH quý,0,Mở BC_CSKH
+202,MỞ BÁO CÁO CHỐT NĂM,Mở báo cáo chốt năm,0,Mở profile
+203,LIÊN NGÀNH,Mở chỉ tiêu import ,0,Mở dashboard
+204,Mở báo cáo chốt tháng,Mở báo cáo chốt tháng,1,Mở báo cáo chốt tháng
+205,Mở báo cáo tỷ giá mới (đang phát triển),Mở báo cáo tỷ lệ chiết khấu thẻ cào,1,Mở báo cáo tỷ giá mới (đang phát triển)
+206,DỮ LIỆU TH NGÀY,Mở dữ liệu TH ngày,0,Mở báo cáo VPTD
+207,tỷ lệ chiết khấu thẻ cào,Mở BC_CSKH,1,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+208,CHỐT DỮ LIỆU BCL,Mở chỉ tiêu import ,0,Mở BC_CSKH
+209,DỮ LIỆU TH THÁNG,Mở dữ liệu TH tháng,0,Mở dashboard
+210,BC CHỐT NĂM,Mở báo cáo chốt năm,0,Mở BC_CSKH
+211,MỞ DỮ LIỆU KH QUÝ,Mở báo cáo chốt quý,0,Mở BC_CSKH
+212,Cảnh báo quý,Mở báo cáo chi tiết n2 mới ,1,Mở cảnh báo nhập KH quý
+213,Mở bc chi tiết n2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+214,BC ĐỘNG,Mở báo cáo động,0,Mở BC_CSKH
+215,Mở bc chi tiết n2,Mở báo cáo chi tiết n2 mới,1,Mở báo cáo chi tiết n2 mới
+216,MỞ BÁO CÁO ĐỘNG,Mở báo cáo động,0,Mở dashboard
+217,cảnh báo nhập KH năm,Mở trang chủ,1,Mở cảnh báo nhập KH năm
+218,MỞ BC TỶ GIÁ MỚI,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL)),0,Mở BC_CSKH
+219,DL KH NĂM,Mở dữ liệu KH quý,0,Mở dashboard
+220,dữ liệu kế hoạch quý,Mở báo cáo tỷ lệ chiết khấu thẻ cào,1,Mở dữ liệu KH quý
+221,DỮ LIỆU KẾ HOẠCH NĂM,Mở quản lý báo cáo,0,Mở dashboard
+222,BÁO CÁO CHỐT DỮ LIỆU BCL,Mở công thức chỉ tiêu ,0,Mở BC_CSKH
+223,báo cáo động,Mở báo cáo động,1,Mở báo cáo động
+224,MỞ BÁO CÁO DỮ LIỆU TIN NHẮN KINH DOANH,Mở báo cáo dữ liệu tin nhắn kinh doanh,0,Mở profile
+225,Mở cảnh báo nhập KH THÁNG,Mở công thức chỉ tiêu ,0,Mở cảnh báo nhập KH quý
+226,Mở báo cáo tỷ lệ chiết khấu thẻ cào,Mở hướng dẫn sử dụng ,1,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+227,MỞ BÁO CÁO CHỐT QUÝ,Mở quản lý hướng dẫn sử dụng ,0,Mở profile
+228,TỶ GIÁ MỚI,Mở công thức chỉ tiêu ,0,Mở dashboard
+229,DL TH THÁNG,Mở dữ liệu TH tháng,0,Mở dashboard
+230,Mở cảnh báo nhập KH NĂM,Mở quản lý hướng dẫn sử dụng ,0,Mở cảnh báo nhập KH quý
+231,BÁO CÁO CHI TIẾT,Mở báo cáo chi tiết n2 mới,0,Mở dashboard

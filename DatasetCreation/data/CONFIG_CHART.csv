@@ -1,0 +1,823 @@
+﻿"CHART_NAME","TITLE_CHART","TYPE_CHART"
+Doanh thu thực hiện năm_VPTD_TD_VTS,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Tổng doanh thu thực hiện tháng_VPTD_MYN,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện quý_VPTD_STL,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTP,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTCC,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_IDC,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTX,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_M1,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTPOST,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Doanh thu thực hiện năm_VPTD_TD,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_NAT,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_MOV,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_VBD,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_VTL(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_VBD,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_VTZ,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_VTT,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB phát triển thực_VTT,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB phát triển thực_VTL,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB phát triển thực_VBD,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB phát triển thực_VTP,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Thực hiện tháng_Register và di động phát triển thực_NAT_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Xu hướng năm_VPTD_TB phát triển thực_VTT,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB phát triển thực_VTZ,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_MOV(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng năm_VPTD_TB MOBILE MONEY PSGD,VDS_TB MOBILE MONEY PSGD_TỪNG NĂM,COMBINE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BPC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BTCNL,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BTT,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VCS,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VDTC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BTCKT,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VTG,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_XNK,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VAM,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+Tiêu dùng thực di động thực hiện tháng_VPTD_(VTL)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Tiêu dùng thực di động thực hiện tháng_VPTD_(MYN)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Tiêu dùng thực di động thực hiện tháng_VPTD_(VTP)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Arpu thực hiện tháng_VPTD_NAT(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Thoại_Tốc độ tăng trường tháng_VPTD_TD,VTT_Thoại (TT+TS)_TĂNG TRƯỞNG THÁNG,COLUMN
+SMS_Tốc độ tăng trường tháng_VPTD_VTT,VTT_SMS (TT+TS)_TĂNG TRƯỞNG THÁNG,COLUMN
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_NAT,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_XMCP(1),DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện tháng_VPTD_TD,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tỷ lệ hoàn thành tiêu dùng thực DD tiến độ tháng các đơn vị_VPTD_TD,TẬP ĐOÀN_TD THỰC DV DI ĐỘNG_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_VTZ(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(VTC)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_MYN,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(STL)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VTP)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ_Tốc độ tăng trường tháng_VPTD_TD,TẬP ĐOÀN_DT DỊCH VỤ (TRỪ HUBBING)_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành doanh thu dịch vụ tiến độ quý các đơn vị_VPTD_TD,TẬP ĐOÀN_DT DỊCH VỤ (TRỪ HUBBING)_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ_Tốc độ tăng trường năm_VPTD_TD,TẬP ĐOÀN_DT DỊCH VỤ (TRỪ HUBBING)_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện năm_VPTD_(VTG)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(VTC)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(MOV)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Doanh thu thực hiện lũy kế ngày_VPTD_VTT,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_TD_CTM_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VDS_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_M3_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+LAO ĐỘNG BQ TRONG DS thực hiện tháng_VPTD_VTPOST_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTG_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTS_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Xu hướng ngày_VPTD_TB phát triển thực_VBD(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB phát triển thực_VTP(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+Tiêu dùng thực di động_Tốc độ tăng trường tháng_VPTD_TD,TẬP ĐOÀN_TD THỰC DV DI ĐỘNG_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+tiêu dùng thực di động thực hiện năm_VPTD_(VTG)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_DB tháng 1_TD,TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(VTL)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(VTT)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(MYN)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(MOV)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(VTL)_TD,DTDV & SX_TỪNG NĂM,LINE
+Doanh thu hợp nhất thực hiện lũy kế quý_VPTD_TD,DT HỢP NHẤT (TC)_TỪNG QUÝ,LINE
+Tăng/giảm năm đơn vị _VPTD_TB register_Tháng_TD,TẬP ĐOÀN_TB REGISTER DI ĐỘNG_TĂNG/GIẢM NĂM,COLUMN
+Cơ cấu theo từng khối_TB register_DB tháng,TẬP ĐOÀN_TB REGISTER DI ĐỘNG_CƠ CẤU ĐƠN VỊ (LK KỆ THỐNG),SHARE_TIME
+Xu hướng tháng_VPTD_TB register_VTL,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB register_NAT,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB register_MOV,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB register_VTT,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB register_NAT,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB register_VTG,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB FTTH_STL(TD),TB FTTH_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB FTTH_MYN(TD),TB FTTH_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_TB FTTH_VTT(TD),TB FTTH_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB FTTH_VTG(TD),TB FTTH_TỪNG NGÀY,COMBINE
+Tỷ lệ hoàn thành tiến độ quý các đơn vị_VPTD_TB FTTH_tháng,TẬP ĐOÀN_TB FTTH_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Xu hướng năm_VPTD_TB FTTH_NAT,TB FTTH_TỪNG NĂM,COMBINE
+Tỷ lệ hoàn thành doanh thu tiến độ năm các đơn vị_VPTD_TD,TẬP ĐOÀN_DOANH THU CỘNG NGANG_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Tổng doanh thu(KD)_Tốc độ tăng trường năm_VPTD_TD,TẬP ĐOÀN_DOANH THU CỘNG NGANG_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành doanh thu tiến độ tháng các đơn vị_VPTD_TD,TẬP ĐOÀN_DOANH THU CỘNG NGANG_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Thu nhập bq thực hiện tháng_VPTD_TD,TẬP ĐOÀN_Thu nhập BQ_TỪNG THÁNG,LINE
+Dòng tiền về VN_Tốc độ tăng trường tháng_VPTD_TD,TẬP ĐOÀN_DÒNG TIỀN VỀ VN_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+Dòng tiền về VN_Tốc độ tăng trường năm_VPTD_tháng_TD,TẬP ĐOÀN_DÒNG TIỀN VỀ VN_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+Lợi nhuận TT thực hiện tháng_VPTD_TD,LỢI NHUẬN TT_TỪNG THÁNG,LINE
+Thực hiện qua các tháng_VPTD_DT-CP-LN_CTM,CÔNG TY MẸ_DT-CP-LN_TỪNG THÁNG,LINE
+Tỷ lệ hoàn thành lợi nhuận tiến độ quý các đơn vị_VPTD_TD,TẬP ĐOÀN_LỢI NHUẬN TT_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Tổng doanh thu (TC)_Tốc độ tăng trường tháng_VPTD_TD,TẬP ĐOÀN_DT CỘNG NGANG (TC)_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành Doanh thu tài chính tiến độ quý các đơn vị_VPTD_TD,TẬP ĐOÀN_DT CỘNG NGANG (TC)_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Doanh thu tài chính thực hiện lũy kế quý_VPTD_TD,DT CỘNG NGANG (TC)_TỪNG QUÝ,LINE
+Cơ cấu theo từng khối_doanh thu dịch vụ_tháng_VTTN,VTTN_DOANH THU DỊCH VỤ_CƠ CẤU TỪNG KHỐI,SHARE_TIME
+Doanh thu dịch vụ_Tốc độ tăng trường quý_VPTD_VTTN,VTTN_DOANH THU DỊCH VỤ_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ_Tốc độ tăng trường năm_VPTD_VTTN,VTTN_DOANH THU DỊCH VỤ_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTG_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VDTC_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(VBD),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(VTZ),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu_Tháng_VPTD_TD,Doanh thu cộng ngang (KD),ALARM_CHART_2
+Doanh thu thực hiện năm_VPTD_TD_VBD,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTCC,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_M3,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTT,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTG,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VBD,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTS,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VCS,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VHT,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Doanh thu thực hiện năm_VPTD_TD_VTNET,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VCC,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_STL(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_MYN(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Tỷ lệ hoàn thành tiến độ quý các đơn vị_VPTD_TB 4G phát triển thực_tháng,TẬP ĐOÀN_TB DI ĐỘNG THỰC 4G_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Xu hướng năm_VPTD_TB 4G phát triển thực_VTC,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_STL,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_TD,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_VBD_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_VTZ_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng quý_VPTD_TB phát triển thực_TD,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB phát triển thực_MOV,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Thực hiện tháng_Register và di động phát triển thực_VTG_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Thực hiện tháng_Register và di động phát triển thực_VTL_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Xu hướng năm_VPTD_TB phát triển thực_VTC,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_VTZ(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB MOBILE MONEY PSGD,VDS_TB MOBILE MONEY PSGD_TỪNG THÁNG,COMBINE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_ BTTKT,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BCL,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_CT,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_XNK,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_XMCP,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BCT,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BCNTT,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BTTKT,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+Tiêu dùng thực di động thực hiện tháng_VPTD_(VBD)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Arpu thực hiện tháng_VPTD_VTC_(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Arpu thực hiện tháng_VPTD_VTZ(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Arpu thực hiện tháng_VPTD_VTP(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Cước TB TS_Tốc độ tăng trường tháng_VPTD_TD,VTT_Cước TB TS_TĂNG TRƯỞNG THÁNG,COLUMN
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_NAT(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_MOV,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(NAT)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(MOV)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VBD)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(VTT)_TD,DT DỊCH VỤ_TỪNG NĂM,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VCC,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Năng suất lao động BQ thực hiện tháng_VPTD_TD_CTM,CÔNG TY MẸ_NĂNG SUẤT LĐ BQ_TỪNG THÁNG,LINE
+Năng suất lao động BQ thực hiện tháng_VPTD_TD,TẬP ĐOÀN_NĂNG SUẤT LĐ BQ_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VTT_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VTX_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_TD_CTM,CÔNG TY MẸ_LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTX_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VPTD_TD_CTM,CÔNG TY MẸ_LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Xu hướng ngày_VPTD_TB phát triển thực_MYN(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+tiêu dùng thực di động thực hiện năm_VPTD_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+tiêu dùng thực di động thực hiện năm_VPTD_(MOV)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+tiêu dùng thực di động thực hiện năm_VPTD_(VTP)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_ngày 1_NAT(TD),TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_ngày 1_MOV(TD),TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_ngày 1_VBD(TD),TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(VTP)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(VTS)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(VTS)_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(VTC)_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(MOV)_TD,DTDV & SX_TỪNG QUÝ,LINE
+Cơ cấu theo từng khối_DOANH THU DỊCH VỤ & SẢN XUẤT_tháng_TD,TẬP ĐOÀN_DTDV & SX_CƠ CẤU KHỐI,SHARE_TIME
+Tỷ lệ hoàn thành DOANH THU DỊCH VỤ & SẢN XUẤT tiến độ tháng các đơn vị_VPTD_TD,TẬP ĐOÀN_DTDV & SX_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(VTZ)_TD,DTDV & SX_TỪNG NĂM,LINE
+Xu hướng năm_VPTD_TB register_VTZ,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB register_VTP,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Tăng/giảm các đơn vị _VPTD_TB register_Tháng_TD,TẬP ĐOÀN_TB REGISTER DI ĐỘNG_TĂNG/GIẢM THÁNG,COLUMN
+Thực hiện qua các năm_VPTD_TB register_VTC_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB register_NAT_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng tháng_VPTD_TB register_VTT,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB register_VTP,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB register_TD,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng ngày_VPTD_TB register_VTG,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB register_VTL,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng tháng_VPTD_TB FTTH_TD,TB FTTH_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB FTTH_NAT(TD),TB FTTH_TỪNG THÁNG,COMBINE
+Cơ cấu theo từng khối_Thuê bao FTTH_DB tháng,TẬP ĐOÀN_TB FTTH_CƠ CẤU ĐƠN VỊ (LK KỆ THỐNG),SHARE_TIME
+Xu hướng ngày_VPTD_TB FTTH_MOV(TD),TB FTTH_TỪNG NGÀY,COMBINE
+Tỷ lệ hoàn thành tiến độ năm các đơn vị_VPTD_TB FTTH_tháng,TẬP ĐOÀN_TB FTTH_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Tổng doanh thu(KD)_Tốc độ tăng trường tháng_VPTD_TD,TẬP ĐOÀN_DOANH THU CỘNG NGANG_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_VTC,DTDV & SX_LŨY KẾ NGÀY,LINE
+Lợi nhuận TT thực hiện lũy kế quý_VPTD_TD,LỢI NHUẬN TT_TỪNG QUÝ,LINE
+Lợi nhuận TT thực hiện năm_VPTD_CTM,LỢI NHUẬN TT_TỪNG NĂM,LINE
+Dòng tiền ròng thực hiện tháng_VPTD_TD,DÒNG TIỀN RÒNG_TỪNG THÁNG,LINE
+Dòng tiền ròng thực hiện năm_VPTD_TD,DÒNG TIỀN RÒNG_TỪNG NĂM,LINE
+Dòng tiền ròng_Tốc độ tăng trường năm_VPTD_tháng_TD,TẬP ĐOÀN_DÒNG TIỀN RÒNG_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_VTTN,VTTN_DOANH THU DỊCH VỤ_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_VTS (VTTN),VTS_DOANH THU DỊCH VỤ_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_VTTN,DOANH THU DỊCH VỤ_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_VTS (VTTN),VTS_DOANH THU DỊCH VỤ_TỪNG THÁNG,LINE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_TD_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTK_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTS_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(VTC),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ_Tháng_VPTD_TD,DOANH THU DỊCH VỤ (TRỪ HUBBING),ALARM_CHART_2
+KẾT QUẢ SXKD CÁC CHỈ TIÊU CHỦ YẾU_THÁNG_TD,TẬP ĐOÀN_KẾT QUẢ SXKD CÁC CHỈ TIÊU CHỦ YẾU THÁNG,COLUMN
+Tiêu dùng thực di động_Tháng_VPTD_TD,Tiêu dùng thực di động,ALARM_CHART_2
+Tổng doanh thu tài chính_Tháng_VPTD_TD,Doanh thu cộng ngang (TC),ALARM_CHART_2
+Tổng doanh thu thực hiện tháng_VPTD_NAT,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VDS,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTM,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTPOST,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VCM,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_XMCP(1),DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTZ,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu(KD)_Tốc độ tăng trường quý_VPTD_TD,TẬP ĐOÀN_DOANH THU CỘNG NGANG_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Xu hướng ngày_VPTD_TB 4G phát triển thực_VTT(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_VTC(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Tăng/giảm từng quý các đơn vị _VPTD_TB DI ĐỘNG THỰC 4G_Tháng_TD,TẬP ĐOÀN_TB DI ĐỘNG THỰC 4G_TĂNG/GIẢM QUÝ,COLUMN
+Xu hướng quý_VPTD_TB 4G phát triển thực_STL,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_NAT,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_VTG,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Cơ cấu theo từng khối_TB phát triển thực_ngày_DB tháng,TẬP ĐOÀN_TB DI ĐỘNG THỰC_CƠ CẤU ĐƠN VỊ (LK KỆ THỐNG),SHARE_TIME
+Thực hiện qua các năm_VPTD_TB phát triển thực_STL_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_NAT_TD,NATCOM_TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng quý_VPTD_TB phát triển thực_STL,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Thực hiện tháng_Register và di động phát triển thực_MYN_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Xu hướng năm_VPTD_TB phát triển thực_VTP,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Tỷ lệ hoàn thành tiến độ quý các đơn vị_VPTD_TB phát triển thực_tháng,TẬP ĐOÀN_TB DI ĐỘNG THỰC_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành tiến độ năm các đơn vị_VPTD_TB phát triển thực_tháng,TẬP ĐOÀN_TB DI ĐỘNG THỰC_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Xu hướng tháng_VPTD_TB phát triển thực_VTG(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_MYN(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_TD,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BCNTT,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTK,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTCC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BCL,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BHC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_XMCP,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+Tiêu dùng thực di động thực hiện tháng_VPTD_(NAT)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VBD,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VCS,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTK,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_VTTNEWNEW(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_STL(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_VTP(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+DT Dịch vụ_Thừa/thiếu so với KH tháng_VPTD_TD,Tập đoàn_DT Dịch vụ (trừ hubbing)_Thừa/thiếu so với KH tháng,COMPOUND
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VTZ)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(MYN)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(VTL)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(VTZ)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Năng suất lao động BQ thực hiện lũy kế quý_VPTD_TD,TẬP ĐOÀN_NĂNG SUẤT LĐ BQ_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VTS_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTT_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTM_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_IDC_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Xu hướng ngày_VPTD_TB phát triển thực_TD,TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB phát triển thực_STL(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB phát triển thực_VTZ(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+tiêu dùng thực di động thực hiện năm_VPTD_(STL)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(MOV)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_VBD,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+DOANH THU DỊCH VỤ & SẢN XUẤT_Thừa/thiếu so với KH tháng_VPTD_TD,Tập đoàn_DTDV & SX_Thừa/thiếu so với KH tháng,COMPOUND
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(VTG)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(VTL)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(VBD)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(VTT)_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(VTS)_TD,DTDV & SX_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(VTC)_TD,DTDV & SX_TỪNG NĂM,LINE
+Doanh thu hợp nhất thực hiện năm_VPTD_TD,TẬP ĐOÀN_DT HỢP NHẤT (TC)_TỪNG NĂM,LINE
+Thực hiện qua các năm_VPTD_TB register_VTG_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng tháng_VPTD_TB register_VTC,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB register_VBD,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_TB register_MYN,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng năm_VPTD_DỊCH VỤ TV360,DỊCH VỤ TV360_TỪNG NĂM,COMBINE
+Tăng/giảm từng quý các đơn vị _VPTD_TB FTTH_Tháng_TD,TẬP ĐOÀN_TB FTTH_TĂNG/GIẢM QUÝ,COLUMN
+Xu hướng quý_VPTD_TB FTTH_MYN,TB FTTH_TỪNG QUÝ,COMBINE
+Doanh thu thực hiện năm_VPTD_TD_M3,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_XMCP,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu_Thừa/thiếu so với KH tháng_VPTD_TD,Tập đoàn_Doanh thu cộng ngang_Thừa/thiếu so với KH tháng,COMPOUND
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_STL,DTDV & SX_LŨY KẾ NGÀY,LINE
+Thu nhập bq thực hiện lũy kế quý_VPTD_TD,TẬP ĐOÀN_THU NHẬP BQ_TỪNG QUÝ,LINE
+Dòng tiền về VN thực hiện tháng_VPTD_TD,DÒNG TIỀN VỀ VN_TỪNG THÁNG,LINE
+Dòng tiền về VN_Tốc độ tăng trường quý_VPTD_tháng_TD,TẬP ĐOÀN_DÒNG TIỀN VỀ VN_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành lợi nhuận tiến độ tháng các đơn vị_VPTD_TD,TẬP ĐOÀN_LỢI NHUẬN TT_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Cơ cấu theo từng khối_doanh thu TC_tháng,TẬP ĐOÀN_DT CỘNG NGANG (TC)_CƠ CẤU TỪNG KHỐI,SHARE_TIME
+Tổng DT TC_Tốc độ tăng trường quý_VPTD_TD,TẬP ĐOÀN_DT CỘNG NGANG (TC)_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTC,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Dòng tiền ròng thực hiện lũy kế quý_VPTD_TD,DÒNG TIỀN RÒNG_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_VTT (VTTN),VTT_DOANH THU DỊCH VỤ_LŨY KẾ NGÀY,LINE
+DOANH THU DỊCH VỤ thực hiện lũy kế quý_VPTD_VTS (VTTN),VTS_DOANH THU DỊCH VỤ_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_VTT (VTTN),VTT_DOANH THU DỊCH VỤ_TỪNG THÁNG,LINE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BNCSX (BCNC)_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BPC_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BTCNL_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BHC_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_CT_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_XNK_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_VO_TD_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ,TABLE_2
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(MOV),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(VTP),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+KẾT QUẢ SXKD CÁC CHỈ TIÊU CHỦ YẾU_QUÝ_TD,TẬP ĐOÀN_KẾT QUẢ SXKD CÁC CHỈ TIÊU CHỦ YẾU QUÝ,COLUMN
+DOANH THU DỊCH VỤ & SẢN XUẤT_Tháng_VPTD_TD,DOANH THU DỊCH VỤ & SẢN XUẤT,ALARM_CHART_2
+Thuê bao di động phát triển thực_tháng_VPTD_TD,Thuê bao di động PSC thực,ALARM_CHART_2
+Thu nhập bình quân_tháng_VPTD_TD,Thu nhập bình quân,ALARM_CHART_2
+Lao động BQ trong DS_tháng_VPTD_TD,Lao động BQ trong DS,ALARM_CHART_2
+Tổng doanh thu thực hiện tháng_VPTD_VTZ,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VBD,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTNET,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_MOV,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VDTC,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_XMCP,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Doanh thu thực hiện năm_VPTD_TD_VTT,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VTK,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VTL,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_VTL,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_VTG,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_VTZ,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng quý_VPTD_TB phát triển thực_VTC,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB phát triển thực_VTZ,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_VBD(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng năm_VPTD_TB VIETTEL MONEY PSGD,VDS_TB VIETTEL MONEY PSGD_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_VTP,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BCT,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BDTXD,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTS,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTM,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VP,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VDTC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+Arpu thực hiện tháng_VPTD_VTL(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Tỷ lệ hoàn thành tiêu dùng thực DD tiến độ năm các đơn vị_VPTD_tháng,TẬP ĐOÀN_TD THỰC DV DI ĐỘNG_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Tiêu dùng thực di động_Tốc độ tăng trường năm_VPTD_TD,TẬP ĐOÀN_TD THỰC DV DI ĐỘNG_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+Tiêu dùng thực di động thực hiện tháng_VPTD_(VTG)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_VBD(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD.,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_VTC,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_STL,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(VTS)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(VTC)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(VBD)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(VTP)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(VTS)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(VTP)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VCS_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_M1_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_XNK_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTNet_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_M1_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTPOST_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VCM_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+tiêu dùng thực di động thực hiện năm_VPTD_(VBD)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_ngày 1_STL(TD),TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_ngày 1_VTL(TD),TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(MYN)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(STL)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(NAT)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(NAT)_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(VBD)_TD,DTDV & SX_TỪNG QUÝ,LINE
+Tỷ lệ hoàn thành DOANH THU DỊCH VỤ & SẢN XUẤT tiến độ quý các đơn vị_VPTD_TD,TẬP ĐOÀN_DTDV & SX_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(VTT)_TD,DTDV & SX_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(STL)_TD,DTDV & SX_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(MYN)_TD,DTDV & SX_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(VTP)_TD,DTDV & SX_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT_Tốc độ tăng trường quý_VPTD_TD,TẬP ĐOÀN_DTDV & SX_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Tăng/giảm từng quý các đơn vị _VPTD_TB register_Tháng_TD,TẬP ĐOÀN_TB REGISTER DI ĐỘNG_TĂNG/GIẢM QUÝ,COLUMN
+Thực hiện qua các năm_VPTD_TB register_VTL_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng tháng_VPTD_TB register_VTZ,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB register_TD,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB register_NAT,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_epass,VDTC_Phát triển thẻ ePass_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_epass_ngày,VDTC_Phát triển thẻ ePass_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB register_VTC,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB register_NAT,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB register_MOV,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB register_VTZ,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng tháng_VPTD_TB FTTH_VTC(TD),TB FTTH_TỪNG THÁNG,COMBINE
+Tăng/giảm các đơn vị _VPTD_TB FTTH_Tháng_TD,TẬP ĐOÀN_TB FTTH_TĂNG/GIẢM THÁNG,COLUMN
+Xu hướng năm_VPTD_TB FTTH_VTC,TB FTTH_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB FTTH_MOV,TB FTTH_TỪNG NĂM,COMBINE
+Doanh thu thực hiện năm_VPTD_TD_VTM,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_IDC,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VHT,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VTX,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_M1,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VCM,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Xu hướng tháng_VPTD_TB TRUYỀN HÌNH_VTT,TB TRUYỀN HÌNH_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB TRUYỀN HÌNH_VTT,TB TRUYỀN HÌNH_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB TRUYỀN HÌNH_VTT,TB TRUYỀN HÌNH_TỪNG NĂM,COMBINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_VTL,DTDV & SX_LŨY KẾ NGÀY,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_VTP,DTDV & SX_LŨY KẾ NGÀY,LINE
+Xu hướng ngày_VPTD_TB MOBILE MONEY PSGD,VDS_TB MOBILE MONEY PSGD_TỪNG NGÀY,COMBINE
+Dòng tiền về VN thực hiện lũy kế quý_VPTD_TD,DÒNG TIỀN VỀ VN_TỪNG QUÝ,LINE
+Tỷ lệ hoàn thành dòng tiền về VN tiến độ năm các đơn vị_VPTD_TD,TẬP ĐOÀN_DÒNG TIỀN VỀ VN_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Lợi nhuận TT thực hiện năm_VPTD_TD,LỢI NHUẬN TT_TỪNG NĂM,LINE
+Doanh thu cộng ngang (TC) thực hiện năm_VPTD_TD,DT CỘNG NGANG (TC)_TỪNG NĂM,LINE
+DT Dịch vụ_Thừa/thiếu so với KH tháng_VPTD_VTTN,VTTN_DOANH THU DỊCH VỤ_Thừa/thiếu so với KH tháng,COMPOUND
+Tỷ lệ hoàn thành doanh thu dịch vụ tiến độ năm các đơn vị_VPTD_VTTN,VTTN_DOANH THU DỊCH VỤ_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VDS_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTCC_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_XMCP_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BDS_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+Doanh thu dịch vụ VTTN_Tháng_VPTD_VTTN,DOANH THU DỊCH VỤ VTTN,ALARM_CHART_2
+Thuê bao 4G phát triển thực_tháng_VPTD_TD,THUÊ BAO 4G PSC THỰC,ALARM_CHART_2
+Thuê bao register di động_tháng_VPTD_TD,Thuê bao register di động,ALARM_CHART_2
+Dán thẻ epass_Tháng_VPTD_TD,Phát triển thẻ ePass,ALARM_CHART_2
+Tổng doanh thu thực hiện tháng_VPTD_VTG,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_STL,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_MOV,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_IDC,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_M1,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Cơ cấu theo từng khối_doanh thu_tháng,TẬP ĐOÀN_DOANH THU CỘNG NGANG_CƠ CẤU TỪNG KHỐI,SHARE_TIME
+Tổng doanh thu thực hiện quý_VPTD_TD,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VCC,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Doanh thu thực hiện năm_VPTD_TD_VTC,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_VTZ,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_TD,TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_VTG(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Tăng/giảm các đơn vị _VPTD_TB DI ĐỘNG THỰC 4G_Tháng_TD,TẬP ĐOÀN_TB DI ĐỘNG THỰC 4G_TĂNG/GIẢM THÁNG,COLUMN
+Xu hướng quý_VPTD_TB 4G phát triển thực_VTC,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_VTP,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_TD,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_VTT (TD),TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Tỷ lệ hoàn thành tiến độ tháng các đơn vị_VPTD_TB phát triển thực,TẬP ĐOÀN_TB DI ĐỘNG THỰC_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Thực hiện tháng_Register và di động phát triển thực_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Thực hiện tháng_Register và di động phát triển thực_VTC_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Thực hiện tháng_Register và di động phát triển thực_MOV_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Xu hướng năm_VPTD_TB phát triển thực_VTL,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB phát triển thực_MYN,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_STL(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_VTP(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Tăng/giảm các đơn vị _VPTD_TB DI ĐỘNG THỰC_Tháng_TD,TẬP ĐOÀN_TB DI ĐỘNG THỰC_TĂNG/GIẢM THÁNG,COLUMN
+Xu hướng tháng_VPTD_TB VIETTEL MONEY PSGD,VDS_TB VIETTEL MONEY PSGD_TỪNG THÁNG,COMBINE
+Tăng/giảm năm đơn vị _VPTD_TB DI ĐỘNG THỰC 4G_Tháng_TD,TẬP ĐOÀN_TB DI ĐỘNG THỰC 4G_TĂNG/GIẢM NĂM,COLUMN
+Tỷ lệ hoàn thành tiến độ năm các đơn vị_VPTD_TB 4G phát triển thực_tháng,TẬP ĐOÀN_TB DI ĐỘNG THỰC 4G_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VP,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BTCNL,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BDTTC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BHC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BCNC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VTS,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_MYN,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTCC,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tiêu dùng thực di động_Tốc độ tăng trường quý_VPTD_TD,TẬP ĐOÀN_TD THỰC DV DI ĐỘNG_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_VTS,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_VDS,DT DỊCH VỤ_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_VTL,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_VBD,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VDS)_TD,DT DỊCH VỤ_TỪNG THÁNG,LINE
+Cơ cấu theo từng khối_doanh thu dịch vụ_tháng,TẬP ĐOÀN_DT DỊCH VỤ_CƠ CẤU TỪNG KHỐI,SHARE_TIME
+Doanh thu dịch vụ thực hiện quý_VPTD_(VDS)_TD,DT DỊCH VỤ_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(NAT)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTK,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_TVTK_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+LAO ĐỘNG BQ TRONG DS thực hiện tháng_VPTD_VDTC_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_XMCP_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VCC_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTCC_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VDTC_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Xu hướng ngày_VPTD_TB phát triển thực_NAT(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB phát triển thực_MOV(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+tiêu dùng thực di động thực hiện năm_VPTD_(VTC)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+tiêu dùng thực di động thực hiện năm_VPTD_(VTL)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+tiêu dùng thực di động thực hiện năm_VPTD_(NAT)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(NAT)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(VTC)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(VTZ)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện tháng_VPTD_(VTP)_TD,DTDV & SX_TỪNG THÁNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(VTL)_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(MYN)_TD,DTDV & SX_TỪNG QUÝ,LINE
+Tỷ lệ hoàn thành DOANH THU DỊCH VỤ & SẢN XUẤT tiến độ năm các đơn vị_VPTD_TD,TẬP ĐOÀN_DTDV & SX_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_TD,DTDV & SX_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(VBD)_TD,DTDV & SX_TỪNG NĂM,LINE
+Doanh thu hợp nhất thực hiện năm_VPTD_CTM(TD),DT HỢP NHẤT (TC)_TỪNG NĂM,LINE
+Thực hiện qua các năm_VPTD_TB register_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB register_VBD_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB register_VTZ_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng tháng_VPTD_TB register_VTP,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB register_VTG,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB register_MYN,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB register_VTC,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB register_VBD,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Doanh thu hợp nhất thực hiện tháng_VPTD_TD,DT HỢP NHẤT (TC)_TỪNG THÁNG,LINE
+Xu hướng quý_VPTD_epass,VDTC_Phát triển thẻ ePass_TỪNG QUÝ,COMBINE
+Xu hướng ngày_VPTD_TB register_VTT,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB register_STL (TD),TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB FTTH_TD,TB FTTH_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB FTTH_VTC(TD),TB FTTH_TỪNG NGÀY,COMBINE
+Xu hướng quý_VPTD_TB FTTH_VTG_TD,TB FTTH_TỪNG QUÝ,COMBINE
+Doanh thu thực hiện năm_VPTD_TD_VTPOST,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD,DTDV & SX_LŨY KẾ NGÀY,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_VTT,DTDV & SX_LŨY KẾ NGÀY,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_VTG,DTDV & SX_LŨY KẾ NGÀY,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_VTZ,DTDV & SX_LŨY KẾ NGÀY,LINE
+Thu nhập bq thực hiện tháng_VPTD_TD_CTM,CÔNG TY MẸ_Thu nhập BQ_TỪNG THÁNG,LINE
+Dòng tiền về VN thực hiện năm_VPTD_TD,DÒNG TIỀN VỀ VN_TỪNG NĂM,LINE
+Lợi nhuận TT thực hiện tháng_VPTD_CTM,LỢI NHUẬN TT_TỪNG THÁNG,LINE
+Lợi nhuận TT_Tốc độ tăng trường tháng_VPTD_tháng_TD,TẬP ĐOÀN_LỢI NHUẬN TT_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành Doanh thu tài chính tiến độ tháng các đơn vị_VPTD_TD,TẬP ĐOÀN_DT CỘNG NGANG (TC)_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Tổng doanh thu(TC)_Tốc độ tăng trường năm_VPTD_TD,TẬP ĐOÀN_DT CỘNG NGANG (TC)_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện lũy kế quý_VPTD_VDS (VTTN),VDS_DOANH THU DỊCH VỤ_TỪNG QUÝ,LINE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VP_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BCT_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BTTKT_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTT_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VCS_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_IDC_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(NAT),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTS,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VDTC,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTC,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_MYN,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_VTZ(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_VTG,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_VTL,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_MYN,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_NAT,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_VBD,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_VTC,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_VTT_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_VTG_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_VTC_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng quý_VPTD_TB phát triển thực_VTG,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB phát triển thực_NAT,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Thực hiện tháng_Register và di động phát triển thực_TD_VTT_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Xu hướng năm_VPTD_TB phát triển thực_TD,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB phát triển thực_NAT,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_TD,TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_VTL(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB MOBILE MONEY PSGD,VDS_TB MOBILE MONEY PSGD_TỪNG QUÝ,COMBINE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BPC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BTCKT,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTT,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VDS,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_IDC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VMC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_IDC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VTT,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VTK,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VDS,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+Tiêu dùng thực di động thực hiện tháng_VPTD_(MOV)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Tiêu dùng thực di động thực hiện tháng_VPTD_(VTZ)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+TD thực DV di động_Thừa/thiếu so với KH tháng_VPTD_TD,Tập đoàn_TD thực DV di động_Thừa/thiếu so với KH tháng,COMPOUND
+Arpu thực hiện tháng_VPTD_STL(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Arpu thực hiện tháng_VPTD_MOV(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Arpu thực hiện tháng_VPTD_VBD(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Data_Tốc độ tăng trường tháng_VPTD_TD,VTT_Data (TT+TS)_TĂNG TRƯỞNG THÁNG,COLUMN
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTP,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTM,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VDTC,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTT,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tiêu dùng thực di động thực hiện tháng_VPTD_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_VTZ,HALOTEL_DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VTL)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(VTL)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Tỷ lệ hoàn thành doanh thu dịch vụ tiến độ năm các đơn vị_VPTD_TD,TẬP ĐOÀN_DT DỊCH VỤ (TRỪ HUBBING)_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện năm_VPTD_(VDS)_TD,DT DỊCH VỤ_TỪNG NĂM,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTG,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VTNet_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VTG_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_IDC_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VHT_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VDS_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VCS_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VHT_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Xu hướng ngày_VPTD_TB phát triển thực_VTG(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB phát triển thực_VTL(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+tiêu dùng thực di động thực hiện năm_VPTD_(VTZ)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(STL)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(VTZ)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(VTG)_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(STL)_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(VTG)_TD,DTDV & SX_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(NAT)_TD,DTDV & SX_TỪNG NĂM,LINE
+Doanh thu hợp nhất thực hiện lũy kế quý_VPTD_CTM(TD),DT HỢP NHẤT (TC)_TỪNG QUÝ,LINE
+Thực hiện qua các năm_VPTD_TB register_STL_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng tháng_VPTD_TB register_TD,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB register_VTG,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB register_VTC,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB register_STL,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB register_MOV,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB register_VTT,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB register_VTL,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB register_MYN,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB register_MOV,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_DỊCH VỤ TV360,DỊCH VỤ TV360_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB FTTH_VTT(TD),TB FTTH_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB FTTH_VTC,TB FTTH_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB FTTH_NAT,TB FTTH_TỪNG QUÝ,COMBINE
+Tăng/giảm năm đơn vị _VPTD_TB FTTH_Tháng_TD,TẬP ĐOÀN_TB FTTH_TĂNG/GIẢM NĂM,COLUMN
+Doanh thu thực hiện năm_VPTD_TD_VCS,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VDTC,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Xu hướng ngày_VPTD_TB TRUYỀN HÌNH_VTT_NGÀY,TB TRUYỀN HÌNH_TỪNG NGÀY,COMBINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_MYN,DTDV & SX_LŨY KẾ NGÀY,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_VBD,DTDV & SX_LŨY KẾ NGÀY,LINE
+Tỷ lệ hoàn thành dòng tiền về VN tiến độ quý các đơn vị_VPTD_TD,TẬP ĐOÀN_DÒNG TIỀN VỀ VN_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Lợi nhuận TT thực hiện lũy kế quý_VPTD_CTM,LỢI NHUẬN TT_TỪNG QUÝ,LINE
+Tỷ lệ hoàn thành lợi nhuận tiến độ năm các đơn vị_VPTD_TD,TẬP ĐOÀN_LỢI NHUẬN TT_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành dòng tiền ròng tiến độ tháng các đơn vị_VPTD_TD,TẬP ĐOÀN_DÒNG TIỀN RÒNG_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Dòng tiền ròng_Tốc độ tăng trường quý_VPTD_tháng_TD,TẬP ĐOÀN_DÒNG TIỀN RÒNG_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện tháng_VPTD_VDS (VTTN),VDS_DOANH THU DỊCH VỤ_TỪNG THÁNG,LINE
+Tỷ lệ hoàn thành doanh thu dịch vụ tiến độ tháng các đơn vị_VPTD_VTTN,VTTN_DOANH THU DỊCH VỤ_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BTT_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BTCKT_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VTM_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_VMC_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BC_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+Thuê bao MOBILE MONEY PSGD_VPTD_tháng_TD(VDS),Thuê bao MOBILE MONEY PSGD,ALARM_CHART_2
+Doanh thu hợp nhất_Tháng_VPTD_TD,DOANH THU HỢP NHẤT (TC),ALARM_CHART_2
+Lợi nhuận trước thuế_tháng_VPTD_TD,Lợi nhuận TT,ALARM_CHART_2
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_VO_TD_TABLE 2,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ,TABLE_2
+Doanh thu thực hiện năm_VPTD_TD_VTZ,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTX,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện quý_VPTD_VDS,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_M3,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Doanh thu thực hiện năm_VPTD_TD_VTG,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_VTL,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_NAT(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_MOV(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_VTP(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Cơ cấu theo từng khối_TB 4G_DB tháng,TẬP ĐOÀN_TB DI ĐỘNG THỰC 4G_CƠ CẤU ĐƠN VỊ (LK KỆ THỐNG),SHARE_TIME
+Tỷ lệ hoàn thành tiến độ tháng các đơn vị_VPTD_TB 4G phát triển thực,TẬP ĐOÀN_TB DI ĐỘNG THỰC 4G_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Xu hướng quý_VPTD_TB 4G phát triển thực_TD,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_VTT (TD),TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_MYN,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB 4G phát triển thực_MOV,TB DI ĐỘNG THỰC 4G_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_STL,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_DB tháng_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_VTL_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_MYN_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng quý_VPTD_TB phát triển thực_MYN,TB DI ĐỘNG THỰC_TỪNG QUÝ,COMBINE
+Thực hiện tháng_Register và di động phát triển thực_VTZ_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Xu hướng năm_VPTD_TB phát triển thực_VTG,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB phát triển thực_STL,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Tăng/giảm năm đơn vị _VPTD_TB DI ĐỘNG THỰC_Tháng_TD,TẬP ĐOÀN_TB DI ĐỘNG THỰC_TĂNG/GIẢM NĂM,COLUMN
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BTT,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_TD,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BDTTC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VTM,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+Tiêu dùng thực di động thực hiện tháng_VPTD_(STL)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_STL,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTL,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTZ,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VDS,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTPOST,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VCM,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VCC,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tỷ lệ hoàn thành tiêu dùng thực DD tiến độ quý các đơn vị_VPTD_Tháng,TẬP ĐOÀN_TD THỰC DV DI ĐỘNG_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_MOV(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+tiêu dùng thực di động thực hiện quý_VPTD_(VTG)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_VTT,DT DỊCH VỤ_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_NAT,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VTT)_TD,DT DỊCH VỤ_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(MYN)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Tỷ lệ hoàn thành doanh thu dịch vụ tiến độ tháng các đơn vị_VPTD_TD,TẬP ĐOÀN_DT DỊCH VỤ (TRỪ HUBBING)_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện quý_VPTD_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(VTT)_TD,DT DỊCH VỤ_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(VTG)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(NAT)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ_Tốc độ tăng trường quý_VPTD_TD,TẬP ĐOÀN_DT DỊCH VỤ (TRỪ HUBBING)_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện năm_VPTD_(STL)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(MYN)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_(VBD)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Năng suất lao động BQ thực hiện lũy kế quý_VPTD_TD_CTM,CÔNG TY MẸ_NĂNG SUẤT LĐ BQ_TỪNG QUÝ,LINE
+LAO ĐỘNG BQ TRONG DS thực hiện tháng_VPTD_VCC_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VTM_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_CTM_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_XMCP_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Xu hướng ngày_VPTD_TB phát triển thực_VTC(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+tiêu dùng thực di động thực hiện quý_VPTD_(VBD)_TD,TD THỰC DV DI ĐỘNG_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(VTZ)_TD,DTDV & SX_TỪNG QUÝ,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện năm_VPTD_(MOV)_TD,DTDV & SX_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT_Tốc độ tăng trường tháng_VPTD_TD,TẬP ĐOÀN_DTDV & SX_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+DOANH THU DỊCH VỤ & SẢN XUẤT_Tốc độ tăng trường năm_VPTD_TD,TẬP ĐOÀN_DTDV & SX_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+Doanh thu hợp nhất thực hiện tháng_VPTD_CTM(TD),DT HỢP NHẤT (TC)_TỪNG THÁNG,LINE
+Thực hiện qua các năm_VPTD_TB register_MYN_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng tháng_VPTD_TB register_STL,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB register_MYN,TB REGISTER DI ĐỘNG_TỪNG THÁNG,COMBINE
+Xu hướng quý_VPTD_TB register_VTL,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB register_STL,TB REGISTER DI ĐỘNG_TỪNG NĂM,COMBINE
+Xu hướng ngày_VPTD_TB register_TD,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB register_VBD,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng tháng_VPTD_TB FTTH_VTG(TD),TB FTTH_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB FTTH_MOV(TD),TB FTTH_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_TB FTTH_MYN(TD),TB FTTH_TỪNG NGÀY,COMBINE
+Tỷ lệ hoàn thành tiến độ tháng các đơn vị_VPTD_TB FTTH,TẬP ĐOÀN_TB FTTH_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Xu hướng quý_VPTD_TB FTTH_TD,TB FTTH_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB FTTH_MOV,TB FTTH_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB FTTH_TD,TB FTTH_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB FTTH_VTT (TD),TB FTTH_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB FTTH_MYN,TB FTTH_TỪNG NĂM,COMBINE
+Doanh thu thực hiện năm_VPTD_TD_VTCC,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_VTS,DTDV & SX_LŨY KẾ NGÀY,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_NAT,DTDV & SX_LŨY KẾ NGÀY,LINE
+Xu hướng ngày_VPTD_DỊCH VỤ TV360,DỊCH VỤ TV360_TỪNG NGÀY,COMBINE
+Tỷ lệ hoàn thành dòng tiền về VN tiến độ tháng các đơn vị_VPTD_TD,TẬP ĐOÀN_DÒNG TIỀN VỀ VN_KẾT QUẢ THÁNG CÁC ĐƠN VỊ,COLUMN
+Thực hiện qua các tháng_VPTD_DT-CP-LN,TẬP ĐOÀN_DT-CP-LN_TỪNG THÁNG,LINE
+Lợi nhuận TT_Tốc độ tăng trường năm_VPTD_tháng_TD,TẬP ĐOÀN_LỢI NHUẬN TT_TĂNG TRƯỞNG NĂM TỪNG ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành Doanh thu tài chính tiến độ năm các đơn vị_VPTD_TD,TẬP ĐOÀN_DT CỘNG NGANG (TC)_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Dòng tiền ròng_Tốc độ tăng trường tháng_VPTD_tháng_TD,TẬP ĐOÀN_DÒNG TIỀN RÒNG_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+Tỷ lệ hoàn thành dòng tiền ròng tiến độ quý các đơn vị_VPTD_TD,TẬP ĐOÀN_DÒNG TIỀN RÒNG_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_VDS (VTTN),VDS_DOANH THU DỊCH VỤ_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_VTTN,DOANH THU DỊCH VỤ_TỪNG THÁNG,LINE
+Tỷ lệ hoàn thành doanh thu dịch vụ tiến độ quý các đơn vị_VPTD_VTTN,VTTN_DOANH THU DỊCH VỤ_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BCNTT_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BDTTC_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BCL_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BDTXD_THÁNG,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN THÁNG,PIE
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(VTT),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+DỊCH VỤ TV360_tháng_VPTD_TD,DỊCH VỤ TV360,ALARM_CHART_2
+Doanh thu thực hiện năm_VPTD_TD_MOV,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VTP,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_VDS,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTC,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTL,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTP,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VCS,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VHT,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTK,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTL,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_MYN,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_NAT,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VTM,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tổng doanh thu thực hiện quý_VPTD_VCM,DOANH THU CỘNG NGANG_TỪNG QUÝ,LINE
+Tỷ lệ hoàn thành doanh thu tiến độ quý các đơn vị_VPTD_TD,TẬP ĐOÀN_DOANH THU CỘNG NGANG_TIẾN ĐỘ QUÝ CÁC ĐƠN VỊ,COLUMN
+Doanh thu thực hiện năm_VPTD_TD_STL,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_MYN,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Doanh thu thực hiện năm_VPTD_TD_NAT,DOANH THU CỘNG NGANG_TỪNG NĂM,LINE
+Xu hướng tháng_VPTD_TB 4G phát triển thực_VTP,TB DI ĐỘNG THỰC 4G_TỪNG THÁNG,COMBINE
+Xu hướng ngày_VPTD_TB 4G phát triển thực_VBD(TD),TB DI ĐỘNG THỰC 4G_TỪNG NGÀY,COMBINE
+Xu hướng quý_VPTD_TB 4G phát triển thực_MOV,TB DI ĐỘNG THỰC 4G_TỪNG QUÝ,COMBINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_MOV_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB phát triển thực_VTP_TD,TB DI ĐỘNG THỰC_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện tháng_Register và di động phát triển thực_STL_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Thực hiện tháng_Register và di động phát triển thực_VBD_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Thực hiện tháng_Register và di động phát triển thực_VTP_TD,TB REGISTER VÀ DI ĐỘNG THỰC (LK)_TỪNG THÁNG,LINE
+Xu hướng năm_VPTD_TB phát triển thực_MOV,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB phát triển thực_VBD,TB DI ĐỘNG THỰC_TỪNG NĂM,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_VTT(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_VTC(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Xu hướng tháng_VPTD_TB phát triển thực_NAT(TD),TB DI ĐỘNG THỰC_TỪNG THÁNG,COMBINE
+Tăng/giảm từng quý các đơn vị _VPTD_TB DI ĐỘNG THỰC_Tháng_TD,TẬP ĐOÀN_TB DI ĐỘNG THỰC_TĂNG/GIẢM QUÝ,COLUMN
+Xu hướng quý_VPTD_TB VIETTEL MONEY PSGD,VDS_TB VIETTEL MONEY PSGD_TỪNG QUÝ,COMBINE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BCNC,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ NGÀY_VO_BDS,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_ĐẾN NGÀY 29/09,PIE
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VCS,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VTCC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_VMC,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_BDTXD,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+% HOÀN THÀNH NV GIAO THEO THÁNG_VO_CT,% HOÀN THÀNH NV GIAO THEO THÁNG,STACK
+Tiêu dùng thực di động thực hiện tháng_VPTD_(VTC)_TD,TD THỰC DV DI ĐỘNG_TỪNG THÁNG,LINE
+Arpu thực hiện tháng_VPTD_VTT(TD),VTT_Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+Arpu thực hiện tháng_VPTD_MYN(TD),Arpu DỊCH VỤ DI ĐỘNG_TỪNG THÁNG,COMBINE
+TD THỰC DV DI ĐỘNG_Tốc độ tăng trường tháng_VPTD_VTT,VTT_TD THỰC DV DI ĐỘNG_TĂNG TRƯỞNG THÁNG,COLUMN
+VAS_Tốc độ tăng trường tháng_VPTD_VTT,VTT_VAS (TT+TS)_TĂNG TRƯỞNG THÁNG,COLUMN
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_MOV,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_VTS,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_IDC,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Tổng doanh thu thực hiện tháng_VPTD_VTNET,DOANH THU CỘNG NGANG_TỪNG THÁNG,LINE
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_VTC(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_VTL(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+Thực hiện qua các tháng_VPTD_Tiêu dùng di động_MYN(TD),TD THỰC DV DI ĐỘNG_THEO LOẠI THUÊ BAO,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_VTG,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện lũy kế ngày_VPTD_TD_VTP,DT DỊCH VỤ (TRỪ HUBBING)_LŨY KẾ NGÀY,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VTS)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VTG)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện tháng_VPTD_(VTC)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG THÁNG,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(STL)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(MOV)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện quý_VPTD_(VTZ)_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG QUÝ,LINE
+Doanh thu dịch vụ thực hiện năm_VPTD_TD,DT DỊCH VỤ (TRỪ HUBBING)_TỪNG NĂM,LINE
+Tổng doanh thu thực hiện lũy kế ngày_VPTD_TD,DOANH THU CỘNG NGANG_LŨY KẾ NGÀY,LINE
+Lao động BQ trong DS thực hiện tháng_VPTD_VTCC_TD,LAO ĐỘNG BQ TRONG DS_TỪNG THÁNG,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_VTK_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Lao động BQ trong DS thực hiện lũy kế quý_M3_TD,LAO ĐỘNG BQ TRONG DS_TỪNG QUÝ,LINE
+Xu hướng ngày_VPTD_TB phát triển thực_VTT(TD),TB DI ĐỘNG THỰC_TỪNG NGÀY,COMBINE
+tiêu dùng thực di động thực hiện năm_VPTD_(MYN)_TD,TD THỰC DV DI ĐỘNG_TỪNG NĂM,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_ngày 1_VTC(TD),TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_ngày 1_MYN(TD),TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện quý_VPTD_(VTP)_TD,DTDV & SX_TỪNG QUÝ,LINE
+Thực hiện qua các năm_VPTD_TB register_VTT_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB register_MOV_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Thực hiện qua các năm_VPTD_TB register_VTP_TD,TB REGISTER DI ĐỘNG_THEO HẠ TẦNG (LK HỆ THỐNG),LINE
+Xu hướng quý_VPTD_TB register_VBD,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB register_VTZ,TB REGISTER DI ĐỘNG_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_DỊCH VỤ TV360,DỊCH VỤ TV360_TỪNG QUÝ,COMBINE
+Xu hướng ngày_VPTD_TB register_VTP,TB REGISTER DI ĐỘNG_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB FTTH_STL(TD),TB FTTH_TỪNG NGÀY,COMBINE
+Xu hướng ngày_VPTD_TB FTTH_NAT(TD),TB FTTH_TỪNG NGÀY,COMBINE
+Xu hướng quý_VPTD_TB FTTH_VTT (TD),TB FTTH_TỪNG QUÝ,COMBINE
+Xu hướng quý_VPTD_TB FTTH_STL,TB FTTH_TỪNG QUÝ,COMBINE
+Xu hướng năm_VPTD_TB FTTH_VTG,TB FTTH_TỪNG NĂM,COMBINE
+Xu hướng năm_VPTD_TB FTTH_STL,TB FTTH_TỪNG NĂM,COMBINE
+DOANH THU DỊCH VỤ & SẢN XUẤT thực hiện lũy kế ngày_VPTD_TD_MOV,DTDV & SX_LŨY KẾ NGÀY,LINE
+Xu hướng ngày_VPTD_TB VIETTEL MONEY PSGD,VDS_TB VIETTEL MONEY PSGD_TỪNG NGÀY,COMBINE
+Thu nhập bq thực hiện lũy kế quý_VPTD_TD_CTM,CÔNG TY MẸ_THU NHẬP BQ_TỪNG QUÝ,LINE
+Lợi nhuận TT_Tốc độ tăng trường quý_VPTD_tháng_TD,TẬP ĐOÀN_LỢI NHUẬN TT_TĂNG TRƯỞNG QUÝ TỪNG ĐƠN VỊ,COLUMN
+Doanh thu tài chính thực hiện tháng_VPTD_TD,DT CỘNG NGANG (TC)_TỪNG THÁNG,LINE
+Tỷ lệ hoàn thành dòng tiền ròng tiến độ năm các đơn vị_VPTD_TD,TẬP ĐOÀN_DÒNG TIỀN RÒNG_TIẾN ĐỘ NĂM CÁC ĐƠN VỊ,COLUMN
+Doanh thu dịch vụ thực hiện lũy kế quý_VPTD_VTT (VTTN),VTT_DOANH THU DỊCH VỤ_TỪNG QUÝ,LINE
+Doanh thu dịch vụ_Tốc độ tăng trường tháng_VPTD_VTTN,VTTN_DOANH THU DỊCH VỤ_TĂNG TRƯỞNG THÁNG TỪNG ĐƠN VỊ,COLUMN
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(VTL),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(STL),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+Tiêu dùng thực DT thực hiện lũy kế ngày_VPTD _TD(MYN),TD THỰC DV DI ĐỘNG_LŨY KẾ NGÀY,LINE
+Thực hiện qua các năm_VPTD_Tiêu dùng di động_ngày 1_TD,TD THỰC DV DI ĐỘNG_THEO HƯỚNG,LINE
+Thuê bao FTTH_tháng_VPTD_TD,Thuê bao FTTH,ALARM_CHART_2
+THUÊ BAO TRUYỀN HÌNH_tháng_VPTD_TD,THUÊ BAO TRUYỀN HÌNH,ALARM_CHART_2
+Năng suất lao động bq_tháng_VPTD_TD,Năng suất lao động BQ,ALARM_CHART_2
+Thuê bao VIETTEL MONEY PSGD_VPTD_tháng,Thuê bao VIETTEL MONEY PSGD,ALARM_CHART_2
+Dòng tiền ròng_tháng_VPTD_TD,Dòng tiền ròng,ALARM_CHART_2
+Dòng tiền về VN_tháng_VPTD_TD,Dòng tiền về VN,ALARM_CHART_2

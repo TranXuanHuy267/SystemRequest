@@ -1,0 +1,1065 @@
+﻿"ID","CODE","NAME","PARENT_ID","PARENT_CODE","DEPT_LEVEL","DEPT_LEVEL_CODE_FULL","DEPT_LEVEL_NAME_FULL","DESCRIPTION","STATUS","COUNTRY_ID","COUNTRY_CODE","COUNTRY_NAME","PROVINCE_ID","PROVINCE_CODE","PROVINCE_NAME","COMPANY_ID","COMPANY_CODE","COMPANY_NAME","UPDATE_TIME","UPDATE_USER","START_TIME","END_TIME","STANDARD_NAME"
+897,T074007,Trà Cú,355,T074,4,/TD/VTT/T074/T074007/,/TD/VTT/Trà Vinh/Trà Cú/,,1,281,VN,Việt Nam,897,,,,,,,,,,Trà Cú
+305442,T037_T037024,Triệu Sơn,289,T037,4,/TD/VTT/T037/T037_T037024/,/Tập đoàn/VTT/Thanh Hóa/Triệu Sơn/,,1,281,VN,Việt Nam,289,T037,Thanh Hóa,,,,2020-12-11 04:24:41,"241173",,,Triệu Sơn
+270,SXTB,SXTB,254,TD,6,/TD/SXTB/,/Tập đoàn/SXTB/,,1,,,,,,,,,,2021-07-15 15:47:08,"170635",,,SXTB
+20002,B650DN1,Bán hàng AM Viettel Bình Dương,361,B650,4,/TD/VTT/B650/B650DN1/,/TD/VTT/Bình Dương/Bán hàng AM Viettel Bình Dương/,,1,281,VN,Việt Nam,20002,,,,,,,,,,Bán hàng AM Viettel Bình Dương
+16002,B650TLS1,TLS Bình Dương,361,B650,4,/TD/VTT/B650/B650TLS1/,/TD/VTT/Bình Dương/TLS Bình Dương/,,1,281,VN,Việt Nam,16002,,,,,,,,,,TLS Bình Dương
+249,VTL,Viettel Timor Leste,256,VTG,5,/TD/VTG/VTL/,/Tập đoàn/VTNN/VTL/,"Đông Timor cũng được gọi là Timor-Leste, tên chính thức là Cộng hòa Dân chủ Đông Timor, là một quốc gia ở khu vực Đông Nam Á, bao gồm nửa phía Đông của đảo Timor, những đảo lân cận gồm Atauro và Jaco và Oecussi-Ambeno, một phần nằm ở phía Tây Bắc của đảo, trong Tây Timor của Indonesia.",1,,,,,,,,,,2021-08-21 15:39:45,"170635",,,Telemor
+252,VBD,Viettel Burundi S.A,256,VTG,5,/TD/VTG/VBD/,/Tập đoàn/VTNN/VTB/,"Burundi, tên chính thức Cộng hòa Burundi là một quốc gia ở phía đông châu Phi.",1,,,,,,,,,,2021-08-21 15:38:42,"170635",,,Lumitel
+287,T027,Tuyên Quang,307143,TSS,3,/TD/TSS/T027/,/Tập đoàn/Viettel Tỉnh/TP/Tuyên Quang/,"Tuyên Quang là thành phố tỉnh lỵ của tỉnh Tuyên Quang, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:42:35,"170635",,,TQG
+256,VTG,VTNN,254,TD,2,/TD/VTG/,/Tập đoàn/VTNN/,,1,,,,,,,,,,2021-12-29 12:37:26,"170635",,,VTG
+295,B281,Bắc Kạn,307143,TSS,3,/TD/TSS/B281/,/Tập đoàn/Viettel Tỉnh/TP/Bắc Kạn/,"Bắc Kạn là thành phố tỉnh lỵ của tỉnh Bắc Kạn, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:52:12,"170635",,,BKN
+294,B241,Bắc Ninh,307143,TSS,3,/TD/TSS/B241/,/Tập đoàn/Viettel Tỉnh/TP/Bắc Ninh/,"Bắc Ninh là thành phố tỉnh lỵ của tỉnh Bắc Ninh, Việt Nam. Thành phố Bắc Ninh có diện tích 82,64 km² với dân số là 270.426 người, mật độ dân số đạt 3.272 người/km².",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:52:01,"170635",,,BNH
+297,H018,Hòa Bình,307143,TSS,3,/TD/TSS/H018/,/Tập đoàn/Viettel Tỉnh/TP/Hòa Bình/,"Hòa Bình là một tỉnh miền núi thuộc vùng Tây Bắc Bộ, Việt Nam. Tỉnh Hòa Bình có diện tích lớn thứ 29 trong 63 tỉnh thành của Việt Nam và là đơn vị hành chính Việt Nam đông thứ 49 về số dân.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:55:18,"170635",,,HBH
+293,B240,Bắc Giang,307143,TSS,3,/TD/TSS/B240/,/Tập đoàn/Viettel Tỉnh/TP/Bắc Giang/,"Bắc Giang là thành phố tỉnh lỵ của tỉnh Bắc Giang, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:51:50,"170635",,,BGG
+307,N038,Nghệ An,307143,TSS,3,/TD/TSS/N038/,/Tập đoàn/Viettel Tỉnh/TP/Nghệ An/,"Nghệ An là một tỉnh ven biển nằm ở phía bắc của vùng Bắc Trung Bộ, miền Trung Việt Nam và là tỉnh có diện tích lớn nhất Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:58:53,"170635",,,NAN
+302,H321,Hưng Yên,307143,TSS,3,/TD/TSS/H321/,/Tập đoàn/Viettel Tỉnh/TP/Hưng Yên/,"Hưng Yên là một tỉnh nằm ở trung tâm đồng bằng sông Hồng, Việt Nam. Năm 2021, Hưng Yên là đơn vị hành chính Việt Nam có dân số 1.284,600 người, mật độ trung bình 1.381 người/km2, quy mô GRDP đạt 112.306 tỉ đồng, GRDP bình quân đầu người đạt 87,43 triệu đồng tương ứng với 3.817 USD.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:56:14,"170635",,,HYN
+305,L025,Lạng Sơn,307143,TSS,3,/TD/TSS/L025/,/Tập đoàn/Viettel Tỉnh/TP/Lạng Sơn/,"Lạng Sơn là thành phố tỉnh lỵ của tỉnh Lạng Sơn, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:57:48,"170635",,,LSN
+312,Q052,Quảng Bình,307143,TSS,3,/TD/TSS/Q052/,/Tập đoàn/Viettel Tỉnh/TP/Quảng Bình/,"Quảng Bình là một tỉnh ven biển nằm ở phía nam khu vực Bắc Trung Bộ, miền Trung của Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:40:01,"170635",,,QBH
+313,D230,Điện Biên,307143,TSS,3,/TD/TSS/D230/,/Tập đoàn/Viettel Tỉnh/TP/Điện Biên/,"Điện Biên Phủ là thành phố tỉnh lỵ của tỉnh Điện Biên, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:53:56,"170635",,,DBN
+318,Q055,Quảng Ngãi,307143,TSS,3,/TD/TSS/Q055/,/Tập đoàn/Viettel Tỉnh/TP/Quảng Ngãi/,"Quảng Ngãi là thành phố tỉnh lỵ của tỉnh Quảng Ngãi, thuộc vùng Duyên hải Nam Trung Bộ, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-12-02 13:40:00,"170635",,,QNI
+322,B056,Bình Định,307143,TSS,3,/TD/TSS/B056/,/Tập đoàn/Viettel Tỉnh/TP/Bình Định/,"Bình Định là một tỉnh thuộc vùng duyên hải Nam Trung Bộ Việt Nam. Tỉnh lỵ của Bình Định là thành phố cảng Quy Nhơn nằm cách thủ đô Hà Nội 1.070 km về phía nam, cách thành phố Đà Nẵng 323 km về phía nam và cách Thành phố Hồ Chí Minh 652 km về phía bắc theo đường Quốc lộ 1.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:51:03,"170635",,,BDH
+323,B062,Bình Thuận,307143,TSS,3,/TD/TSS/B062/,/Tập đoàn/Viettel Tỉnh/TP/Bình Thuận/,"Bình Thuận là một tỉnh thuộc vùng Duyên hải Nam Trung Bộ, Việt Nam. Năm 2018, Bình Thuận là đơn vị hành chính Việt Nam đông thứ 32 về số dân, xếp thứ 34 về Tổng sản phẩm trên địa bàn, xếp thứ 26 về GRDP bình quân đầu người, đứng thứ 35 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:51:24,"170635",,,BTN
+328,N068,Ninh Thuận,307143,TSS,3,/TD/TSS/N068/,/Tập đoàn/Viettel Tỉnh/TP/Ninh Thuận/,"Ninh Thuận là một tỉnh ven biển nằm ở gần cực nam khu vực duyên hải Nam Trung Bộ, miền Trung của Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:59:04,"170635",,,NTN
+335,T073,Tiền Giang,307143,TSS,3,/TD/TSS/T073/,/Tập đoàn/Viettel Tỉnh/TP/Tiền Giang/,"Tiền Giang là một tỉnh ven biển thuộc đồng bằng sông Cửu Long, miền Nam, Việt Nam. Tỉnh nằm trong Vùng kinh tế trọng điểm phía Nam. Tỉnh lỵ của tỉnh là Thành phố Mỹ Tho, nằm cách Thành phố Hồ Chí Minh 70 km về hướng Tây Nam và cách Thành phố Cần Thơ 90 km về hướng Đông Bắc theo đường Quốc lộ 1.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:43:17,"170635",,,TGG
+9001,VTTNEWNEW,VTTNEWNEW,254,TD,2,/TD/VTTNEWNEW/,/Tập đoàn/VTTNEWNEW/,"Việt Nam, tên gọi chính thức là Cộng hòa Xã hội Chủ nghĩa Việt Nam, là một quốc gia nằm ở cực Đông của bán đảo Đông Dương thuộc khu vực Đông Nam Á, giáp với Lào, Campuchia, Trung Quốc, biển Đông và vịnh Thái Lan.",1,,,,,,,,,,2021-12-23 09:19:27,"170635",,,VTT
+7367,TKTC,TT Thiết kế toàn cầu,254,TD,2,/TD/DVK/TKTC/,/Tập đoàn/TT Thiết kế toàn cầu/,,1,281,VN,Việt Nam,,,,,,,,,,,TT Thiết kế toàn cầu
+7368,VIT1,Trung tâm công nghệ thông tin 1,254,TD,2,/TD/CNTT/VIT1/,/Tập đoàn/Trung tâm công nghệ thông tin 1/,,1,281,VN,Việt Nam,,,,,,,,,,,Trung tâm công nghệ thông tin 1
+7369,VIT2,Trung tâm công nghệ thông tin 2,254,TD,2,/TD/CNTT/VIT2/,/Tập đoàn/Trung tâm công nghệ thông tin 2/,,1,281,VN,Việt Nam,,,,,,,,,,,Trung tâm công nghệ thông tin 2
+7370,VIT3,Trung tâm công nghệ thông tin 3,254,TD,2,/TD/CNTT/VIT3/,/Tập đoàn/Trung tâm công nghệ thông tin 3/,,1,281,VN,Việt Nam,,,,,,,,,,,Trung tâm công nghệ thông tin 3
+7371,VIT4,Trung tâm công nghệ thông tin 4,254,TD,2,/TD/CNTT/VIT4/,/Tập đoàn/Trung tâm công nghệ thông tin 4/,,1,281,VN,Việt Nam,,,,,,,,,,,Trung tâm công nghệ thông tin 4
+3095,PMVT,Trung tâm phần mềm Viễn thông(Hết hiệu lực),254,TD,2,/TD/CNTT/PMVT/,/Tập đoàn/Trung tâm phần mềm Viễn thông(Hết hiệu lực)/,,1,281,VN,Việt Nam,,,,,,,,,,,Trung tâm phần mềm Viễn thông(Hết hiệu lực)
+3096,QLDA,Ban QLDA,254,TD,2,/TD/KTM/QLDA/,/Tập đoàn/Ban QLDA/,,1,281,VN,Việt Nam,,,,,,,,,,,Ban QLDA
+3097,VHC,Viettel Hacic,254,TD,2,/TD/DVK/VHC/,/Tập đoàn/Viettel Hacic/,,1,281,VN,Việt Nam,,,,,,,,,,,Viettel Hacic
+3099,NCPTTB,TT NCPT thiết bị thông minh,254,TD,2,/TD/SXTB/NCPTTB/,/Tập đoàn/TT NCPT thiết bị thông minh/,,1,281,VN,Việt Nam,,,,,,,,,,,TT NCPT thiết bị thông minh
+3114,VPTD,Văn Phòng Tập Đoàn,254,TD,2,/TD/VPTD/,/Tập đoàn/Văn Phòng Tập Đoàn/,,1,,,,,,,,,,2021-07-16 14:43:15,"170635",,,Văn Phòng Tập Đoàn
+3115,VTA,Viettel America,254,DVK,2,/TD/DVK/VTA/,/Tập đoàn/Viettel America/,,1,281,VN,Việt Nam,,,,,,,,,,,VTA
+3137,VVHA,VVHA (Viettel Vinaconex),254,TD,2,/TD/DVK/VVHA/,/Tập đoàn/VVHA (Viettel Vinaconex)/,,1,281,VN,Việt Nam,,,,,,,,,,,VVHA (Viettel Vinaconex)
+2104,BDS,Bất động sản,254,TD,2,/TD/BDS/,/Tập đoàn/Bất động sản/,,1,,,,,,,,,,2021-08-25 14:31:15,"170635",,,VAM
+2105,ANM,Trung tâm An ninh mạng,254,TD,2,/TD/ANM/,/Tập đoàn/Trung tâm An ninh mạng/,,1,,,,,,,,,,2021-08-25 14:26:51,"170635",,,VCS
+2106,KGM,Trung tâm Không gian mạng,254,TD,2,/TD/KGM/,/Tập đoàn/Trung tâm Không gian mạng/,,1,,,,,,,,,,2021-08-25 14:27:37,"170635",,,VTCC
+2108,TTTT,Trung tâm thể thao,254,TD,2,/TD/TTTT/,/Tập đoàn/Trung tâm thể thao/,,1,,,,,,,,,,2021-08-25 14:32:07,"170635",,,VTSport
+2109,TTDL,Trung tâm Đo lường Viettel,254,TD,2,/TD/CNTT/TTDL/,/Tập đoàn/Trung tâm Đo lường Viettel/,,1,281,VN,Việt Nam,,,,,,,,,,,Trung tâm Đo lường Viettel
+1709,VTEK,TT  Nghiên cứu công nghệ mạng Viettel,254,TD,2,/TD/SXTB/VTEK/,/Tập đoàn/TT  Nghiên cứu công nghệ mạng Viettel/,,1,281,VN,Việt Nam,,,,,,,,,,,TT  Nghiên cứu công nghệ mạng Viettel
+8947,VTE,Viettel Europe,254,DVK,2,/TD/DVK/VTE/,/Tập đoàn/Viettel Europe/,,1,281,VN,Việt Nam,,,,,,,,,,,VTE
+8948,VTR,Viettel Russia,254,DVK,2,/TD/DVK/VTR/,/Tập đoàn/Viettel Russia/,,1,281,VN,Việt Nam,,,,,,,,,,,VTR
+7920,VTH,TT Kinh doanh sản phẩm công nghệ cao Viettel,254,TD,2,/TD/SXTB/VTH/,/Tập đoàn/TT Kinh doanh sản phẩm công nghệ cao Viettel/,,1,281,VN,Việt Nam,,,,,,,,,,,TT Kinh doanh sản phẩm công nghệ cao Viettel
+8986,VTTNEW,VTTNEW,254,TD,2,/TD/TN/VTTNEW/,/Tập đoàn/VTTNEW/,,1,281,VN,Việt Nam,,,,,,,,,,,VTTNEW
+8987,VTS,VTS,254,TN,2,/TD/TN/VTS/,/Tập đoàn/VTS/,,1,281,VN,Việt Nam,,,,,,,,,,,VTS
+865,V070002,Long Hồ,379,V070,4,/TD/VTT/V070/V070002/,/TD/VTT/Vĩnh Long/Long Hồ/,,1,281,VN,Việt Nam,865,,,,,,,,,,Long Hồ
+864,V070001,Thành Phố Vĩnh Long,379,V070,4,/TD/VTT/V070/V070001/,/TD/VTT/Vĩnh Long/Thành Phố Vĩnh Long/,,1,281,VN,Việt Nam,864,,,,,,,,,,Thành Phố Vĩnh Long
+421,V070008,Bình Tân,379,V070,4,/TD/VTT/V070/V070008/,/TD/VTT/Vĩnh Long/Bình Tân/,,1,281,VN,Việt Nam,421,,,,,,,,,,Bình Tân
+396,V070014,Long An,379,V070,4,/TD/VTT/V070/V070014/,/TD/VTT/Vĩnh Long/Long An/,,1,281,VN,Việt Nam,396,,,,,,,,,,Long An
+20008,B651DN1,Bán hàng AM Viettel Bình Phước,343,B651,4,/TD/VTT/B651/B651DN1/,/TD/VTT/Bình Phước/Bán hàng AM Viettel Bình Phước/,,1,281,VN,Việt Nam,20008,,,,,,,,,,Bán hàng AM Viettel Bình Phước
+16008,B651TLS1,TLS Bình Phước,343,B651,4,/TD/VTT/B651/B651TLS1/,/TD/VTT/Bình Phước/TLS Bình Phước/,,1,281,VN,Việt Nam,16008,,,,,,,,,,TLS Bình Phước
+288741,B651011,Phú Riềng,343,B651,4,/TD/VTT/B651/B651011/,/TD/VTT/Bình Phước/Phú Riềng/,,1,281,VN,Việt Nam,288741,,,,,,,,,,Phú Riềng
+684,B651003,Phước Long,343,B651,4,/TD/VTT/B651/B651003/,/TD/VTT/Bình Phước/Phước Long/,,1,281,VN,Việt Nam,684,,,,,,,,,,Phước Long
+687,B651006,Bình Long,343,B651,4,/TD/VTT/B651/B651006/,/TD/VTT/Bình Phước/Bình Long/,,1,281,VN,Việt Nam,687,,,,,,,,,,Bình Long
+14250,B651010,Bù Gia Mập,343,B651,4,/TD/VTT/B651/B651010/,/TD/VTT/Bình Phước/Bù Gia Mập/,,1,281,VN,Việt Nam,14250,,,,,,,,,,Bù Gia Mập
+685,B651004,Lộc Ninh,343,B651,4,/TD/VTT/B651/B651004/,/TD/VTT/Bình Phước/Lộc Ninh/,,1,281,VN,Việt Nam,685,,,,,,,,,,Lộc Ninh
+683,B651002,Đồng Phú,343,B651,4,/TD/VTT/B651/B651002/,/TD/VTT/Bình Phước/Đồng Phú/,,1,281,VN,Việt Nam,683,,,,,,,,,,Đồng Phú
+686,B651005,Bù Đăng,343,B651,4,/TD/VTT/B651/B651005/,/TD/VTT/Bình Phước/Bù Đăng/,,1,281,VN,Việt Nam,686,,,,,,,,,,Bù Đăng
+512,B651008,Chơn Thành,343,B651,4,/TD/VTT/B651/B651008/,/TD/VTT/Bình Phước/Chơn Thành/,,1,281,VN,Việt Nam,512,,,,,,,,,,Chơn Thành
+682,B651001,Đồng Xoài,343,B651,4,/TD/VTT/B651/B651001/,/TD/VTT/Bình Phước/Đồng Xoài/,,1,281,VN,Việt Nam,682,,,,,,,,,,Đồng Xoài
+511,B651007,Bù Đốp,343,B651,4,/TD/VTT/B651/B651007/,/TD/VTT/Bình Phước/Bù Đốp/,,1,281,VN,Việt Nam,511,,,,,,,,,,Bù Đốp
+14251,B651009,Hớn Quản,343,B651,4,/TD/VTT/B651/B651009/,/TD/VTT/Bình Phước/Hớn Quản/,,1,281,VN,Việt Nam,14251,,,,,,,,,,Hớn Quản
+16035,L072TLS1,TLS Long An,349,L072,4,/TD/VTT/L072/L072TLS1/,/TD/VTT/Long An/TLS Long An/,,1,281,VN,Việt Nam,16035,,,,,,,,,,TLS Long An
+20035,L072DN1,Bán hàng AM Viettel Long An,349,L072,4,/TD/VTT/L072/L072DN1/,/TD/VTT/Long An/Bán hàng AM Viettel Long An/,,1,281,VN,Việt Nam,20035,,,,,,,,,,Bán hàng AM Viettel Long An
+851,L072010,Thủ Thừa,349,L072,4,/TD/VTT/L072/L072010/,/TD/VTT/Long An/Thủ Thừa/,,1,281,VN,Việt Nam,851,,,,,,,,,,Thủ Thừa
+850,L072009,Bến Lức,349,L072,4,/TD/VTT/L072/L072009/,/TD/VTT/Long An/Bến Lức/,,1,281,VN,Việt Nam,850,,,,,,,,,,Bến Lức
+849,L072008,Đức Hòa,349,L072,4,/TD/VTT/L072/L072008/,/TD/VTT/Long An/Đức Hòa/,,1,281,VN,Việt Nam,849,,,,,,,,,,Đức Hòa
+846,L072004,Mộc Hóa,349,L072,4,/TD/VTT/L072/L072004/,/TD/VTT/Long An/Mộc Hóa/,,1,281,VN,Việt Nam,846,,,,,,,,,,Mộc Hóa
+582,L072006,Cần Giuộc,349,L072,4,/TD/VTT/L072/L072006/,/TD/VTT/Long An/Cần Giuộc/,,1,281,VN,Việt Nam,582,,,,,,,,,,Cần Giuộc
+422,L072012,Long Thảnh,349,L072,4,/TD/VTT/L072/L072012/,/TD/VTT/Long An/Long Thảnh/,,1,281,VN,Việt Nam,422,,,,,,,,,,Long Thảnh
+1085,L072014,Thạnh Hóa,349,L072,4,/TD/VTT/L072/L072014/,/TD/VTT/Long An/Thạnh Hóa/,,1,281,VN,Việt Nam,1085,,,,,,,,,,Thạnh Hóa
+845,L072003,Vĩnh Hưng,349,L072,4,/TD/VTT/L072/L072003/,/TD/VTT/Long An/Vĩnh Hưng/,,1,281,VN,Việt Nam,845,,,,,,,,,,Vĩnh Hưng
+847,L072005,Tân Thạnh,349,L072,4,/TD/VTT/L072/L072005/,/TD/VTT/Long An/Tân Thạnh/,,1,281,VN,Việt Nam,847,,,,,,,,,,Tân Thạnh
+843,L072001,Tân An,349,L072,4,/TD/VTT/L072/L072001/,/TD/VTT/Long An/Tân An/,,1,281,VN,Việt Nam,843,,,,,,,,,,Tân An
+848,L072007,Đức Huệ,349,L072,4,/TD/VTT/L072/L072007/,/TD/VTT/Long An/Đức Huệ/,,1,281,VN,Việt Nam,848,,,,,,,,,,Đức Huệ
+15481,L072016,Thị Xã Kiến Tường,349,L072,4,/TD/VTT/L072/L072016/,/TD/VTT/Long An/Thị Xã Kiến Tường/,,1,281,VN,Việt Nam,15481,,,,,,,,,,Thị Xã Kiến Tường
+418,L072015,Tân Trụ,349,L072,4,/TD/VTT/L072/L072015/,/TD/VTT/Long An/Tân Trụ/,,1,281,VN,Việt Nam,418,,,,,,,,,,Tân Trụ
+844,L072002,Tân Hưng,349,L072,4,/TD/VTT/L072/L072002/,/TD/VTT/Long An/Tân Hưng/,,1,281,VN,Việt Nam,844,,,,,,,,,,Tân Hưng
+20054,T073DN1,Bán hàng AM Viettel Tiền Giang,335,T073,4,/TD/VTT/T073/T073DN1/,/TD/VTT/Tiền Giang/Bán hàng AM Viettel Tiền Giang/,,1,281,VN,Việt Nam,20054,,,,,,,,,,Bán hàng AM Viettel Tiền Giang
+16054,T073TLS1,TLS Tiền Giang,335,T073,4,/TD/VTT/T073/T073TLS1/,/TD/VTT/Tiền Giang/TLS Tiền Giang/,,1,281,VN,Việt Nam,16054,,,,,,,,,,TLS Tiền Giang
+15681,T073011,Thị Xã Cai lậy,335,T073,4,/TD/VTT/T073/T073011/,/TD/VTT/Tiền Giang/Thị Xã Cai lậy/,,1,281,VN,Việt Nam,15681,,,,,,,,,,Thị Xã Cai lậy
+858,T073004,Châu Thành,335,T073,4,/TD/VTT/T073/T073004/,/TD/VTT/Tiền Giang/Châu Thành/,,1,281,VN,Việt Nam,858,,,,,,,,,,Châu Thành
+861,T073007,Cái Bè,335,T073,4,/TD/VTT/T073/T073007/,/TD/VTT/Tiền Giang/Cái Bè/,,1,281,VN,Việt Nam,861,,,,,,,,,,Cái Bè
+857,T073003,Tân Phước,335,T073,4,/TD/VTT/T073/T073003/,/TD/VTT/Tiền Giang/Tân Phước/,,1,281,VN,Việt Nam,857,,,,,,,,,,Tân Phước
+859,T073005,Cai Lậy,335,T073,4,/TD/VTT/T073/T073005/,/TD/VTT/Tiền Giang/Cai Lậy/,,1,281,VN,Việt Nam,859,,,,,,,,,,Cai Lậy
+855,T073001,Mỹ Tho,335,T073,4,/TD/VTT/T073/T073001/,/TD/VTT/Tiền Giang/Mỹ Tho/,,1,281,VN,Việt Nam,855,,,,,,,,,,Mỹ Tho
+862,T073008,Gò Công Tây,335,T073,4,/TD/VTT/T073/T073008/,/TD/VTT/Tiền Giang/Gò Công Tây/,,1,281,VN,Việt Nam,862,,,,,,,,,,Gò Công Tây
+860,T073006,Chợ Gạo,335,T073,4,/TD/VTT/T073/T073006/,/TD/VTT/Tiền Giang/Chợ Gạo/,,1,281,VN,Việt Nam,860,,,,,,,,,,Chợ Gạo
+856,T073002,Gò Công,335,T073,4,/TD/VTT/T073/T073002/,/TD/VTT/Tiền Giang/Gò Công/,,1,281,VN,Việt Nam,856,,,,,,,,,,Gò Công
+20009,B075DN1,Bán hàng AM Viettel Bến Tre,341,B075,4,/TD/VTT/B075/B075DN1/,/TD/VTT/Bến Tre/Bán hàng AM Viettel Bến Tre/,,1,281,VN,Việt Nam,20009,,,,,,,,,,Bán hàng AM Viettel Bến Tre
+16009,B075TLS1,TLS Bến Tre,341,B075,4,/TD/VTT/B075/B075TLS1/,/TD/VTT/Bến Tre/TLS Bến Tre/,,1,281,VN,Việt Nam,16009,,,,,,,,,,TLS Bến Tre
+891,B075008,Thạnh Phú,341,B075,4,/TD/VTT/B075/B075008/,/TD/VTT/Bến Tre/Thạnh Phú/,,1,281,VN,Việt Nam,891,,,,,,,,,,Thạnh Phú
+890,B075007,Ba Tri,341,B075,4,/TD/VTT/B075/B075007/,/TD/VTT/Bến Tre/Ba Tri/,,1,281,VN,Việt Nam,890,,,,,,,,,,Ba Tri
+884,B075001,Bến Tre,341,B075,4,/TD/VTT/B075/B075001/,/TD/VTT/Bến Tre/Bến Tre/,,1,281,VN,Việt Nam,884,,,,,,,,,,Bến Tre
+885,B075002,Châu Thành,341,B075,4,/TD/VTT/B075/B075002/,/TD/VTT/Bến Tre/Châu Thành/,,1,281,VN,Việt Nam,885,,,,,,,,,,Châu Thành
+887,B075004,Mỏ Cày Nam,341,B075,4,/TD/VTT/B075/B075004/,/TD/VTT/Bến Tre/Mỏ Cày Nam/,,1,281,VN,Việt Nam,887,,,,,,,,,,Mỏ Cày Nam
+889,B075006,Bình Đại,341,B075,4,/TD/VTT/B075/B075006/,/TD/VTT/Bến Tre/Bình Đại/,,1,281,VN,Việt Nam,889,,,,,,,,,,Bình Đại
+886,B075003,Chợ Lách,341,B075,4,/TD/VTT/B075/B075003/,/TD/VTT/Bến Tre/Chợ Lách/,,1,281,VN,Việt Nam,886,,,,,,,,,,Chợ Lách
+888,B075005,Giồng Trôm,341,B075,4,/TD/VTT/B075/B075005/,/TD/VTT/Bến Tre/Giồng Trôm/,,1,281,VN,Việt Nam,888,,,,,,,,,,Giồng Trôm
+14249,B075009,Mỏ Cày Bắc,341,B075,4,/TD/VTT/B075/B075009/,/TD/VTT/Bến Tre/Mỏ Cày Bắc/,,1,281,VN,Việt Nam,14249,,,,,,,,,,Mỏ Cày Bắc
+20056,T066DN1,Bán hàng AM Viettel Tây Ninh,334,T066,4,/TD/VTT/T066/T066DN1/,/TD/VTT/Tây Ninh/Bán hàng AM Viettel Tây Ninh/,,1,281,VN,Việt Nam,20056,,,,,,,,,,Bán hàng AM Viettel Tây Ninh
+16056,T066TLS1,TLS Tây Ninh,334,T066,4,/TD/VTT/T066/T066TLS1/,/TD/VTT/Tây Ninh/TLS Tây Ninh/,,1,281,VN,Việt Nam,16056,,,,,,,,,,TLS Tây Ninh
+652,T066006,Hòa Thành,334,T066,4,/TD/VTT/T066/T066006/,/TD/VTT/Tây Ninh/Hòa Thành/,,1,281,VN,Việt Nam,652,,,,,,,,,,Hòa Thành
+654,T066008,Gò Dầu,334,T066,4,/TD/VTT/T066/T066008/,/TD/VTT/Tây Ninh/Gò Dầu/,,1,281,VN,Việt Nam,654,,,,,,,,,,Gò Dầu
+653,T066007,Bến Cầu,334,T066,4,/TD/VTT/T066/T066007/,/TD/VTT/Tây Ninh/Bến Cầu/,,1,281,VN,Việt Nam,653,,,,,,,,,,Bến Cầu
+651,T066005,Châu Thành,334,T066,4,/TD/VTT/T066/T066005/,/TD/VTT/Tây Ninh/Châu Thành/,,1,281,VN,Việt Nam,651,,,,,,,,,,Châu Thành
+650,T066004,Dương Minh Châu,334,T066,4,/TD/VTT/T066/T066004/,/TD/VTT/Tây Ninh/Dương Minh Châu/,,1,281,VN,Việt Nam,650,,,,,,,,,,Dương Minh Châu
+655,T066009,Trảng Bàng ,334,T066,4,/TD/VTT/T066/T066009/,/TD/VTT/Tây Ninh/Trảng Bàng /,,1,281,VN,Việt Nam,655,,,,,,,,,,Trảng Bàng 
+648,T066002,Tân Biên,334,T066,4,/TD/VTT/T066/T066002/,/TD/VTT/Tây Ninh/Tân Biên/,,1,281,VN,Việt Nam,648,,,,,,,,,,Tân Biên
+649,T066003,Tân Châu,334,T066,4,/TD/VTT/T066/T066003/,/TD/VTT/Tây Ninh/Tân Châu/,,1,281,VN,Việt Nam,649,,,,,,,,,,Tân Châu
+647,T066001,Thành phố Tây Ninh ,334,T066,4,/TD/VTT/T066/T066001/,/TD/VTT/Tây Ninh/Thành phố Tây Ninh /,,1,281,VN,Việt Nam,647,,,,,,,,,,Thành phố Tây Ninh 
+20006,B781DN1,Bán hàng AM Viettel Bạc Liêu,344,B781,4,/TD/VTT/B781/B781DN1/,/TD/VTT/Bạc Liêu/Bán hàng AM Viettel Bạc Liêu/,,1,281,VN,Việt Nam,20006,,,,,,,,,,Bán hàng AM Viettel Bạc Liêu
+16006,B781TLS1,TLS Bạc Liêu,344,B781,4,/TD/VTT/B781/B781TLS1/,/TD/VTT/Bạc Liêu/TLS Bạc Liêu/,,1,281,VN,Việt Nam,16006,,,,,,,,,,TLS Bạc Liêu
+922,B781004,Vĩnh Lợi,344,B781,4,/TD/VTT/B781/B781004/,/TD/VTT/Bạc Liêu/Vĩnh Lợi/,,1,281,VN,Việt Nam,922,,,,,,,,,,Vĩnh Lợi
+920,B781002,Phước Long,344,B781,4,/TD/VTT/B781/B781002/,/TD/VTT/Bạc Liêu/Phước Long/,,1,281,VN,Việt Nam,920,,,,,,,,,,Phước Long
+921,B781003,Đông Hải,344,B781,4,/TD/VTT/B781/B781003/,/TD/VTT/Bạc Liêu/Đông Hải/,,1,281,VN,Việt Nam,921,,,,,,,,,,Đông Hải
+919,B781001,Bạc Liêu,344,B781,4,/TD/VTT/B781/B781001/,/TD/VTT/Bạc Liêu/Bạc Liêu/,,1,281,VN,Việt Nam,919,,,,,,,,,,Bạc Liêu
+976,B781006,Hồng Dân,344,B781,4,/TD/VTT/B781/B781006/,/TD/VTT/Bạc Liêu/Hồng Dân/,,1,281,VN,Việt Nam,976,,,,,,,,,,Hồng Dân
+923,B781005,Giá Rai,344,B781,4,/TD/VTT/B781/B781005/,/TD/VTT/Bạc Liêu/Giá Rai/,,1,281,VN,Việt Nam,923,,,,,,,,,,Giá Rai
+426,B781007,Hòa Bình,344,B781,4,/TD/VTT/B781/B781007/,/TD/VTT/Bạc Liêu/Hòa Bình/,,1,281,VN,Việt Nam,426,,,,,,,,,,Hòa Bình
+20022,T008DN1,Bán hàng AM Viettel HCM,366,T008,4,/TD/VTT/T008/T008DN1/,/TD/VTT/TPHCM/Bán hàng AM Viettel HCM/,,1,281,VN,Việt Nam,20022,,,,,,,,,,Bán hàng AM Viettel HCM
+16022,T008TLS1,TLS TPHCM,366,T008,4,/TD/VTT/T008/T008TLS1/,/TD/VTT/TPHCM/TLS TPHCM/,,1,281,VN,Việt Nam,16022,,,,,,,,,,TLS TPHCM
+821,T00806,Q.06,366,T008,4,/TD/VTT/T008/T00806/,/TD/VTT/TPHCM/Q.06/,,1,281,VN,Việt Nam,821,,,,,,,,,,Q.06
+818,T00803,Q.03,366,T008,4,/TD/VTT/T008/T00803/,/TD/VTT/TPHCM/Q.03/,,1,281,VN,Việt Nam,818,,,,,,,,,,Q.03
+581,T008HM,H.Hóc Môn,366,T008,4,/TD/VTT/T008/T008HM/,/TD/VTT/TPHCM/H.Hóc Môn/,,1,281,VN,Việt Nam,581,,,,,,,,,,H.Hóc Môn
+577,T008BT,Q.Bình Thạnh,366,T008,4,/TD/VTT/T008/T008BT/,/TD/VTT/TPHCM/Q.Bình Thạnh/,,1,281,VN,Việt Nam,577,,,,,,,,,,Q.Bình Thạnh
+817,T00802,Q.02,366,T008,4,/TD/VTT/T008/T00802/,/TD/VTT/TPHCM/Q.02/,,1,281,VN,Việt Nam,817,,,,,,,,,,Q.02
+1062,T008NB,H.Nhà Bè,366,T008,4,/TD/VTT/T008/T008NB/,/TD/VTT/TPHCM/H.Nhà Bè/,,1,281,VN,Việt Nam,1062,,,,,,,,,,H.Nhà Bè
+823,T00808,Q.08,366,T008,4,/TD/VTT/T008/T00808/,/TD/VTT/TPHCM/Q.08/,,1,281,VN,Việt Nam,823,,,,,,,,,,Q.08
+824,T00809,Q.09,366,T008,4,/TD/VTT/T008/T00809/,/TD/VTT/TPHCM/Q.09/,,1,281,VN,Việt Nam,824,,,,,,,,,,Q.09
+822,T00807,Q.07,366,T008,4,/TD/VTT/T008/T00807/,/TD/VTT/TPHCM/Q.07/,,1,281,VN,Việt Nam,822,,,,,,,,,,Q.07
+1057,T00811,Q.11,366,T008,4,/TD/VTT/T008/T00811/,/TD/VTT/TPHCM/Q.11/,,1,281,VN,Việt Nam,1057,,,,,,,,,,Q.11
+578,T008CC,H.Củ Chi,366,T008,4,/TD/VTT/T008/T008CC/,/TD/VTT/TPHCM/H.Củ Chi/,,1,281,VN,Việt Nam,578,,,,,,,,,,H.Củ Chi
+815,T00801,Q.01,366,T008,4,/TD/VTT/T008/T00801/,/TD/VTT/TPHCM/Q.01/,,1,281,VN,Việt Nam,815,,,,,,,,,,Q.01
+1058,T00812,Q.12,366,T008,4,/TD/VTT/T008/T00812/,/TD/VTT/TPHCM/Q.12/,,1,281,VN,Việt Nam,1058,,,,,,,,,,Q.12
+583,T008BI,Q.Bình Tân,366,T008,4,/TD/VTT/T008/T008BI/,/TD/VTT/TPHCM/Q.Bình Tân/,,1,281,VN,Việt Nam,583,,,,,,,,,,Q.Bình Tân
+580,T008GV,Q.Gò Vấp,366,T008,4,/TD/VTT/T008/T008GV/,/TD/VTT/TPHCM/Q.Gò Vấp/,,1,281,VN,Việt Nam,580,,,,,,,,,,Q.Gò Vấp
+1063,T008PN,Q.Phú Nhuận,366,T008,4,/TD/VTT/T008/T008PN/,/TD/VTT/TPHCM/Q.Phú Nhuận/,,1,281,VN,Việt Nam,1063,,,,,,,,,,Q.Phú Nhuận
+579,T008CG,H.Cần Giờ,366,T008,4,/TD/VTT/T008/T008CG/,/TD/VTT/TPHCM/H.Cần Giờ/,,1,281,VN,Việt Nam,579,,,,,,,,,,H.Cần Giờ
+820,T00805,Q.05,366,T008,4,/TD/VTT/T008/T00805/,/TD/VTT/TPHCM/Q.05/,,1,281,VN,Việt Nam,820,,,,,,,,,,Q.05
+1056,T00810,Q.10,366,T008,4,/TD/VTT/T008/T00810/,/TD/VTT/TPHCM/Q.10/,,1,281,VN,Việt Nam,1056,,,,,,,,,,Q.10
+819,T00804,Q.04,366,T008,4,/TD/VTT/T008/T00804/,/TD/VTT/TPHCM/Q.04/,,1,281,VN,Việt Nam,819,,,,,,,,,,Q.04
+576,T008BC,H.Bình Chánh,366,T008,4,/TD/VTT/T008/T008BC/,/TD/VTT/TPHCM/H.Bình Chánh/,,1,281,VN,Việt Nam,576,,,,,,,,,,H.Bình Chánh
+16045,P057TLS1,TLS Phú Yên,329,P057,4,/TD/VTT/P057/P057TLS1/,/TD/VTT/Phú Yên/TLS Phú Yên/,,1,281,VN,Việt Nam,16045,,,,,,,,,,TLS Phú Yên
+20045,P057DN1,Bán hàng AM Viettel Phú Yên,329,P057,4,/TD/VTT/P057/P057DN1/,/TD/VTT/Phú Yên/Bán hàng AM Viettel Phú Yên/,,1,281,VN,Việt Nam,20045,,,,,,,,,,Bán hàng AM Viettel Phú Yên
+1088,T073010,Tân Phú Đông,335,T073,4,/TD/VTT/T073/T073010/,/TD/VTT/Tiền Giang/Tân Phú Đông/,,1,281,VN,Việt Nam,1088,,,,,,,,,,Tân Phú Đông
+1038,T037006,Quan Sơn,289,T037,4,/TD/VTT/T037/T037006/,/TD/VTT/Thanh Hóa/Quan Sơn/,,1,281,VN,Việt Nam,1038,,,,,,,,,,Quan Sơn
+16024,H019TLS1,TLS Hà Giang,298,H019,4,/TD/VTT/H019/H019TLS1/,/TD/VTT/Hà Giang/TLS Hà Giang/,,1,281,VN,Việt Nam,16024,,,,,,,,,,TLS Hà Giang
+781,H019003,Mèo Vạc,298,H019,4,/TD/VTT/H019/H019003/,/TD/VTT/Hà Giang/Mèo Vạc/,,1,281,VN,Việt Nam,781,,,,,,,,,,Mèo Vạc
+1037,T037005,Quan Hóa,289,T037,4,/TD/VTT/T037/T037005/,/TD/VTT/Thanh Hóa/Quan Hóa/,,1,281,VN,Việt Nam,1037,,,,,,,,,,Quan Hóa
+451,T037026,Nông Cống,289,T037,4,/TD/VTT/T037/T037026/,/TD/VTT/Thanh Hóa/Nông Cống/,,1,281,VN,Việt Nam,451,,,,,,,,,,Nông Cống
+1034,T037002,Bỉm Sơn,289,T037,4,/TD/VTT/T037/T037002/,/TD/VTT/Thanh Hóa/Bỉm Sơn/,,1,281,VN,Việt Nam,1034,,,,,,,,,,Bỉm Sơn
+1036,T037004,Mường Lát,289,T037,4,/TD/VTT/T037/T037004/,/TD/VTT/Thanh Hóa/Mường Lát/,,1,281,VN,Việt Nam,1036,,,,,,,,,,Mường Lát
+1035,T037003,Sầm Sơn,289,T037,4,/TD/VTT/T037/T037003/,/TD/VTT/Thanh Hóa/Sầm Sơn/,,1,281,VN,Việt Nam,1035,,,,,,,,,,Sầm Sơn
+450,T037025,Quảng Xương,289,T037,4,/TD/VTT/T037/T037025/,/TD/VTT/Thanh Hóa/Quảng Xương/,,1,281,VN,Việt Nam,450,,,,,,,,,,Quảng Xương
+1033,T037001,Thanh Hóa,289,T037,4,/TD/VTT/T037/T037001/,/TD/VTT/Thanh Hóa/Thanh Hóa/,,1,281,VN,Việt Nam,1033,,,,,,,,,,Thanh Hóa
+452,T037027,Tĩnh Gia,289,T037,4,/TD/VTT/T037/T037027/,/TD/VTT/Thanh Hóa/Tĩnh Gia/,,1,281,VN,Việt Nam,452,,,,,,,,,,Tĩnh Gia
+449,T037024,Triệu Sơn,289,T037,4,/TD/VTT/T037/T037024/,/TD/VTT/Thanh Hóa/Triệu Sơn/,,1,281,VN,Việt Nam,449,,,,,,,,,,Triệu Sơn
+448,T037023,Đông Sơn,289,T037,4,/TD/VTT/T037/T037023/,/TD/VTT/Thanh Hóa/Đông Sơn/,,1,281,VN,Việt Nam,448,,,,,,,,,,Đông Sơn
+447,T037022,Hoằng Hóa,289,T037,4,/TD/VTT/T037/T037022/,/TD/VTT/Thanh Hóa/Hoằng Hóa/,,1,281,VN,Việt Nam,447,,,,,,,,,,Hoằng Hóa
+446,T037021,Thiệu Hóa,289,T037,4,/TD/VTT/T037/T037021/,/TD/VTT/Thanh Hóa/Thiệu Hóa/,,1,281,VN,Việt Nam,446,,,,,,,,,,Thiệu Hóa
+20057,T280DN1,Bán hàng AM Viettel Thái Nguyên,290,T280,4,/TD/VTT/T280/T280DN1/,/TD/VTT/Thái Nguyên/Bán hàng AM Viettel Thái Nguyên/,,1,281,VN,Việt Nam,20057,,,,,,,,,,Bán hàng AM Viettel Thái Nguyên
+16057,T280TLS1,TLS Thái Nguyên,290,T280,4,/TD/VTT/T280/T280TLS1/,/TD/VTT/Thái Nguyên/TLS Thái Nguyên/,,1,281,VN,Việt Nam,16057,,,,,,,,,,TLS Thái Nguyên
+955,T280003,Định Hóa,290,T280,4,/TD/VTT/T280/T280003/,/TD/VTT/Thái Nguyên/Định Hóa/,,1,281,VN,Việt Nam,955,,,,,,,,,,Định Hóa
+961,T280009,Phổ Yên,290,T280,4,/TD/VTT/T280/T280009/,/TD/VTT/Thái Nguyên/Phổ Yên/,,1,281,VN,Việt Nam,961,,,,,,,,,,Phổ Yên
+569,K058004,Ninh Hòa,325,K058,4,/TD/VTT/K058/K058004/,/TD/VTT/Khánh Hòa/Ninh Hòa/,,1,281,VN,Việt Nam,569,,,,,,,,,,Ninh Hòa
+1087,K058009,Cam Lâm,325,K058,4,/TD/VTT/K058/K058009/,/TD/VTT/Khánh Hòa/Cam Lâm/,,1,281,VN,Việt Nam,1087,,,,,,,,,,Cam Lâm
+572,K058007,Khánh Sơn,325,K058,4,/TD/VTT/K058/K058007/,/TD/VTT/Khánh Hòa/Khánh Sơn/,,1,281,VN,Việt Nam,572,,,,,,,,,,Khánh Sơn
+566,K058001,TP Nha Trang,325,K058,4,/TD/VTT/K058/K058001/,/TD/VTT/Khánh Hòa/TP Nha Trang/,,1,281,VN,Việt Nam,566,,,,,,,,,,TP Nha Trang
+567,K058002,Cam Ranh,325,K058,4,/TD/VTT/K058/K058002/,/TD/VTT/Khánh Hòa/Cam Ranh/,,1,281,VN,Việt Nam,567,,,,,,,,,,Cam Ranh
+570,K058005,Diên Khánh,325,K058,4,/TD/VTT/K058/K058005/,/TD/VTT/Khánh Hòa/Diên Khánh/,,1,281,VN,Việt Nam,570,,,,,,,,,,Diên Khánh
+571,K058006,Khánh Vĩnh,325,K058,4,/TD/VTT/K058/K058006/,/TD/VTT/Khánh Hòa/Khánh Vĩnh/,,1,281,VN,Việt Nam,571,,,,,,,,,,Khánh Vĩnh
+568,K058003,Vạn Ninh,325,K058,4,/TD/VTT/K058/K058003/,/TD/VTT/Khánh Hòa/Vạn Ninh/,,1,281,VN,Việt Nam,568,,,,,,,,,,Vạn Ninh
+20015,D501DN1,Bán hàng AM Viettel Đắc Nông,330,D501,4,/TD/VTT/D501/D501DN1/,/TD/VTT/Đắc Nông/Bán hàng AM Viettel Đắc Nông/,,1,281,VN,Việt Nam,20015,,,,,,,,,,Bán hàng AM Viettel Đắc Nông
+633,D501001,Đắk Nông,330,D501,4,/TD/VTT/D501/D501001/,/TD/VTT/Đắc Nông/Đắk Nông/,,1,281,VN,Việt Nam,633,,,,,,,,,,Đắk Nông
+1078,D501006,Gia Nghĩa,330,D501,4,/TD/VTT/D501/D501006/,/TD/VTT/Đắc Nông/Gia Nghĩa/,,1,281,VN,Việt Nam,1078,,,,,,,,,,Gia Nghĩa
+417,D501008,Krông Nô,330,D501,4,/TD/VTT/D501/D501008/,/TD/VTT/Đắc Nông/Krông Nô/,,1,281,VN,Việt Nam,417,,,,,,,,,,Krông Nô
+635,D501003,Đắk RLấp,330,D501,4,/TD/VTT/D501/D501003/,/TD/VTT/Đắc Nông/Đắk RLấp/,,1,281,VN,Việt Nam,635,,,,,,,,,,Đắk RLấp
+634,D501002,Đắk Mil,330,D501,4,/TD/VTT/D501/D501002/,/TD/VTT/Đắc Nông/Đắk Mil/,,1,281,VN,Việt Nam,634,,,,,,,,,,Đắk Mil
+435,D501007,Đắk Glong,330,D501,4,/TD/VTT/D501/D501007/,/TD/VTT/Đắc Nông/Đắk Glong/,,1,281,VN,Việt Nam,435,,,,,,,,,,Đắk Glong
+427,D501009,Tuy Đức,330,D501,4,/TD/VTT/D501/D501009/,/TD/VTT/Đắc Nông/Tuy Đức/,,1,281,VN,Việt Nam,427,,,,,,,,,,Tuy Đức
+636,D501004,Cư Jút,330,D501,4,/TD/VTT/D501/D501004/,/TD/VTT/Đắc Nông/Cư Jút/,,1,281,VN,Việt Nam,636,,,,,,,,,,Cư Jút
+20034,K060DN1,Bán hàng AM Viettel Kon Tum,326,K060,4,/TD/VTT/K060/K060DN1/,/TD/VTT/Kon Tum/Bán hàng AM Viettel Kon Tum/,,1,281,VN,Việt Nam,20034,,,,,,,,,,Bán hàng AM Viettel Kon Tum
+16034,K060TLS1,TLS Kon Tum,326,K060,4,/TD/VTT/K060/K060TLS1/,/TD/VTT/Kon Tum/TLS Kon Tum/,,1,281,VN,Việt Nam,16034,,,,,,,,,,TLS Kon Tum
+600,K060001,Kon Tum,326,K060,4,/TD/VTT/K060/K060001/,/TD/VTT/Kon Tum/Kon Tum/,,1,281,VN,Việt Nam,600,,,,,,,,,,Kon Tum
+602,K060003,Ngọc Hồi,326,K060,4,/TD/VTT/K060/K060003/,/TD/VTT/Kon Tum/Ngọc Hồi/,,1,281,VN,Việt Nam,602,,,,,,,,,,Ngọc Hồi
+1084,K060008,Kon Rẫy,326,K060,4,/TD/VTT/K060/K060008/,/TD/VTT/Kon Tum/Kon Rẫy/,,1,281,VN,Việt Nam,1084,,,,,,,,,,Kon Rẫy
+924,K060009,Tu mơ rông,326,K060,4,/TD/VTT/K060/K060009/,/TD/VTT/Kon Tum/Tu mơ rông/,,1,281,VN,Việt Nam,924,,,,,,,,,,Tu mơ rông
+604,K060005,Kon Plông,326,K060,4,/TD/VTT/K060/K060005/,/TD/VTT/Kon Tum/Kon Plông/,,1,281,VN,Việt Nam,604,,,,,,,,,,Kon Plông
+605,K060006,Đắk Hà,326,K060,4,/TD/VTT/K060/K060006/,/TD/VTT/Kon Tum/Đắk Hà/,,1,281,VN,Việt Nam,605,,,,,,,,,,Đắk Hà
+720,D067009,Lấp Vò,381,D067,4,/TD/VTT/D067/D067009/,/TD/VTT/Đồng Tháp/Lấp Vò/,,1,281,VN,Việt Nam,720,,,,,,,,,,Lấp Vò
+719,D067007,Tháp Mười,381,D067,4,/TD/VTT/D067/D067007/,/TD/VTT/Đồng Tháp/Tháp Mười/,,1,281,VN,Việt Nam,719,,,,,,,,,,Tháp Mười
+1076,D067008,Cao Lãnh,381,D067,4,/TD/VTT/D067/D067008/,/TD/VTT/Đồng Tháp/Cao Lãnh/,,1,281,VN,Việt Nam,1076,,,,,,,,,,Cao Lãnh
+718,D067006,Thanh Bình,381,D067,4,/TD/VTT/D067/D067006/,/TD/VTT/Đồng Tháp/Thanh Bình/,,1,281,VN,Việt Nam,718,,,,,,,,,,Thanh Bình
+713,D067001,TP Cao Lãnh,381,D067,4,/TD/VTT/D067/D067001/,/TD/VTT/Đồng Tháp/TP Cao Lãnh/,,1,281,VN,Việt Nam,713,,,,,,,,,,TP Cao Lãnh
+716,D067004,Hồng Ngự,381,D067,4,/TD/VTT/D067/D067004/,/TD/VTT/Đồng Tháp/Hồng Ngự/,,1,281,VN,Việt Nam,716,,,,,,,,,,Hồng Ngự
+717,D067005,Tam Nông,381,D067,4,/TD/VTT/D067/D067005/,/TD/VTT/Đồng Tháp/Tam Nông/,,1,281,VN,Việt Nam,717,,,,,,,,,,Tam Nông
+715,D067003,Tân Hồng,381,D067,4,/TD/VTT/D067/D067003/,/TD/VTT/Đồng Tháp/Tân Hồng/,,1,281,VN,Việt Nam,715,,,,,,,,,,Tân Hồng
+721,D067010,Lai Vung,381,D067,4,/TD/VTT/D067/D067010/,/TD/VTT/Đồng Tháp/Lai Vung/,,1,281,VN,Việt Nam,721,,,,,,,,,,Lai Vung
+714,D067002,Thành phố Sa Đéc,381,D067,4,/TD/VTT/D067/D067002/,/TD/VTT/Đồng Tháp/Thành phố Sa Đéc/,,1,281,VN,Việt Nam,714,,,,,,,,,,Thành phố Sa Đéc
+304770,ME-1,ME-1,254,N038,2,/TD/ME-1/,/Tập đoàn/ME-1/,description-1,1,281,VN,Việt Nam,,,Nghệ An,,,,2020-10-13 23:57:03,slgb_admin_bi,2020-09-10 07:00:00,2020-11-12 07:00:00,ME-1
+324,G059,Gia Lai,307143,TSS,3,/TD/TSS/G059/,/Tập đoàn/Viettel Tỉnh/TP/Gia Lai/,"Gia Lai là tỉnh có diện tích lớn thứ hai Việt Nam và là một tỉnh cao nguyên nằm ở khu vực Bắc Tây Nguyên, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:54:46,"170635",,,GLI
+306,N030,Ninh Bình,307143,TSS,3,/TD/TSS/N030/,/Tập đoàn/Viettel Tỉnh/TP/Ninh Bình/,"Ninh Bình là thành phố tỉnh lỵ của tỉnh Ninh Bình, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:58:36,"170635",,,NBH
+316,Q053,Quảng Trị,307143,TSS,3,/TD/TSS/Q053/,/Tập đoàn/Viettel Tỉnh/TP/Quảng Trị/,"Quảng Trị là một tỉnh ven biển nằm ở phía nam của vùng Bắc Trung Bộ, miền Trung Việt Nam. Năm 2018, Quảng Trị là đơn vị hành chính Việt Nam đông thứ 57 về số dân, xếp thứ 55 về Tổng sản phẩm trên địa bàn, xếp thứ 37 về GRDP bình quân đầu người, đứng thứ 51 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:40:08,"170635",,,QTI
+305101,"121","121",305100,"2222",5,/TD/CNTT/VTS1/2222/121/,/Tập đoàn/Trung tâm phần mềm Viettel 1/2222/121/,,1,,,,,,,,,,2020-11-26 08:08:18,"241173",2020-11-28 17:00:00,2020-11-22 17:00:00,"121"
+722,D067011,Châu Thành,381,D067,4,/TD/VTT/D067/D067011/,/TD/VTT/Đồng Tháp/Châu Thành/,,1,281,VN,Việt Nam,722,,,,,,,,,,Châu Thành
+285,S022,Sơn La,307143,TSS,3,/TD/TSS/S022/,/Tập đoàn/Viettel Tỉnh/TP/Sơn La/,"Sơn La là tỉnh miền núi nằm ở vùng Tây Bắc Bộ, Việt Nam. Năm 2018, Sơn La là đơn vị hành chính Việt Nam đông thứ 31 về số dân, xếp thứ 40 về Tổng sản phẩm trên địa bàn, xếp thứ 49 về GRDP bình quân đầu người, đứng thứ 63 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:40:37,"170635",,,SLA
+307143,TSS,Viettel Tỉnh/TP,254,TD,2,/TD/TSS/,/Tập đoàn/Viettel Tỉnh/TP/,,1,,,,,,,,,,2021-10-11 11:25:09,"170635",,,Viettel Tỉnh/TP
+305441,"121i",y,305101,"121",4,/TD/CNTT/VTS1/2222/121/121i/,/Tập đoàn/Trung tâm phần mềm Viettel 1/2222/121/y/,,1,,,,,,,,,,2020-12-11 04:23:13,"241173",,,y
+1025,D230005,Mường Nhé,313,D230,4,/TD/VTT/D230/D230005/,/TD/VTT/Điện Biên/Mường Nhé/,,1,281,VN,Việt Nam,1025,,,,,,,,,,Mường Nhé
+1022,D230001,Điện Biên Phủ,313,D230,4,/TD/VTT/D230/D230001/,/TD/VTT/Điện Biên/Điện Biên Phủ/,,1,281,VN,Việt Nam,1022,,,,,,,,,,Điện Biên Phủ
+434,D230002,Mường Lay,313,D230,4,/TD/VTT/D230/D230002/,/TD/VTT/Điện Biên/Mường Lay/,,1,281,VN,Việt Nam,434,,,,,,,,,,Mường Lay
+1027,D230007,Tủa Chùa,313,D230,4,/TD/VTT/D230/D230007/,/TD/VTT/Điện Biên/Tủa Chùa/,,1,281,VN,Việt Nam,1027,,,,,,,,,,Tủa Chùa
+1026,D230006,Mường Chà,313,D230,4,/TD/VTT/D230/D230006/,/TD/VTT/Điện Biên/Mường Chà/,,1,281,VN,Việt Nam,1026,,,,,,,,,,Mường Chà
+1023,D230003,Điện Biên,313,D230,4,/TD/VTT/D230/D230003/,/TD/VTT/Điện Biên/Điện Biên/,,1,281,VN,Việt Nam,1023,,,,,,,,,,Điện Biên
+1024,D230004,Điện Biên Đông,313,D230,4,/TD/VTT/D230/D230004/,/TD/VTT/Điện Biên/Điện Biên Đông/,,1,281,VN,Việt Nam,1024,,,,,,,,,,Điện Biên Đông
+1028,D230008,Tuần Giáo,313,D230,4,/TD/VTT/D230/D230008/,/TD/VTT/Điện Biên/Tuần Giáo/,,1,281,VN,Việt Nam,1028,,,,,,,,,,Tuần Giáo
+15581,D230010,Nậm Pồ,313,D230,4,/TD/VTT/D230/D230010/,/TD/VTT/Điện Biên/Nậm Pồ/,,1,281,VN,Việt Nam,15581,,,,,,,,,,Nậm Pồ
+392,D230009,Mường ảng,313,D230,4,/TD/VTT/D230/D230009/,/TD/VTT/Điện Biên/Mường ảng/,,1,281,VN,Việt Nam,392,,,,,,,,,,Mường ảng
+20048,Q055DN1,Bán hàng AM Viettel Quảng Ngãi,318,Q055,4,/TD/VTT/Q055/Q055DN1/,/TD/VTT/Tỉnh Quảng Ngãi/Bán hàng AM Viettel Quảng Ngãi/,,1,281,VN,Việt Nam,20048,,,,,,,,,,Bán hàng AM Viettel Quảng Ngãi
+16048,Q055TLS1,TLS Tỉnh Quảng Ngãi,318,Q055,4,/TD/VTT/Q055/Q055TLS1/,/TD/VTT/Tỉnh Quảng Ngãi/TLS Tỉnh Quảng Ngãi/,,1,281,VN,Việt Nam,16048,,,,,,,,,,TLS Tỉnh Quảng Ngãi
+555,Q055003,Huyện Bình Sơn,318,Q055,4,/TD/VTT/Q055/Q055003/,/TD/VTT/Tỉnh Quảng Ngãi/Huyện Bình Sơn/,,1,281,VN,Việt Nam,555,,,,,,,,,,Huyện Bình Sơn
+565,Q055013,Huyện Ba Tơ,318,Q055,4,/TD/VTT/Q055/Q055013/,/TD/VTT/Tỉnh Quảng Ngãi/Huyện Ba Tơ/,,1,281,VN,Việt Nam,565,,,,,,,,,,Huyện Ba Tơ
+559,Q055007,Sơn Hà,318,Q055,4,/TD/VTT/Q055/Q055007/,/TD/VTT/Tỉnh Quảng Ngãi/Sơn Hà/,,1,281,VN,Việt Nam,559,,,,,,,,,,Sơn Hà
+562,Q055010,Huyện Minh Long,318,Q055,4,/TD/VTT/Q055/Q055010/,/TD/VTT/Tỉnh Quảng Ngãi/Huyện Minh Long/,,1,281,VN,Việt Nam,562,,,,,,,,,,Huyện Minh Long
+558,Q055006,Sơn Tây,318,Q055,4,/TD/VTT/Q055/Q055006/,/TD/VTT/Tỉnh Quảng Ngãi/Sơn Tây/,,1,281,VN,Việt Nam,558,,,,,,,,,,Sơn Tây
+556,Q055004,Trà Bồng,318,Q055,4,/TD/VTT/Q055/Q055004/,/TD/VTT/Tỉnh Quảng Ngãi/Trà Bồng/,,1,281,VN,Việt Nam,556,,,,,,,,,,Trà Bồng
+553,Q055001,Thành Phố Quảng Ngãi,318,Q055,4,/TD/VTT/Q055/Q055001/,/TD/VTT/Tỉnh Quảng Ngãi/Thành Phố Quảng Ngãi/,,1,281,VN,Việt Nam,553,,,,,,,,,,Thành Phố Quảng Ngãi
+564,Q055012,Huyện Đức Phổ,318,Q055,4,/TD/VTT/Q055/Q055012/,/TD/VTT/Tỉnh Quảng Ngãi/Huyện Đức Phổ/,,1,281,VN,Việt Nam,564,,,,,,,,,,Huyện Đức Phổ
+554,Q055002,Huyện Lý Sơn,318,Q055,4,/TD/VTT/Q055/Q055002/,/TD/VTT/Tỉnh Quảng Ngãi/Huyện Lý Sơn/,,1,281,VN,Việt Nam,554,,,,,,,,,,Huyện Lý Sơn
+561,Q055009,Nghĩa Hành,318,Q055,4,/TD/VTT/Q055/Q055009/,/TD/VTT/Tỉnh Quảng Ngãi/Nghĩa Hành/,,1,281,VN,Việt Nam,561,,,,,,,,,,Nghĩa Hành
+560,Q055008,Tư Nghĩa,318,Q055,4,/TD/VTT/Q055/Q055008/,/TD/VTT/Tỉnh Quảng Ngãi/Tư Nghĩa/,,1,281,VN,Việt Nam,560,,,,,,,,,,Tư Nghĩa
+563,Q055011,Mộ Đức,318,Q055,4,/TD/VTT/Q055/Q055011/,/TD/VTT/Tỉnh Quảng Ngãi/Mộ Đức/,,1,281,VN,Việt Nam,563,,,,,,,,,,Mộ Đức
+557,Q055005,Huyện Sơn Tịnh,318,Q055,4,/TD/VTT/Q055/Q055005/,/TD/VTT/Tỉnh Quảng Ngãi/Huyện Sơn Tịnh/,,1,281,VN,Việt Nam,557,,,,,,,,,,Huyện Sơn Tịnh
+830,Q055014,Tây Trà,318,Q055,4,/TD/VTT/Q055/Q055014/,/TD/VTT/Tỉnh Quảng Ngãi/Tây Trà/,,1,281,VN,Việt Nam,830,,,,,,,,,,Tây Trà
+20029,T054DN1,Bán hàng AM Viettel Thừa Thiên Huế,320,T054,4,/TD/VTT/T054/T054DN1/,/TD/VTT/Thừa Thiên Huế/Bán hàng AM Viettel Thừa Thiên Huế/,,1,281,VN,Việt Nam,20029,,,,,,,,,,Bán hàng AM Viettel Thừa Thiên Huế
+16029,T054TLS1,TLS Thừa Thiên Huế,320,T054,4,/TD/VTT/T054/T054TLS1/,/TD/VTT/Thừa Thiên Huế/TLS Thừa Thiên Huế/,,1,281,VN,Việt Nam,16029,,,,,,,,,,TLS Thừa Thiên Huế
+521,T054005,Phú Vang,320,T054,4,/TD/VTT/T054/T054005/,/TD/VTT/Thừa Thiên Huế/Phú Vang/,,1,281,VN,Việt Nam,521,,,,,,,,,,Phú Vang
+518,T054002,Phong Điền,320,T054,4,/TD/VTT/T054/T054002/,/TD/VTT/Thừa Thiên Huế/Phong Điền/,,1,281,VN,Việt Nam,518,,,,,,,,,,Phong Điền
+523,T054007,Phú Lộc,320,T054,4,/TD/VTT/T054/T054007/,/TD/VTT/Thừa Thiên Huế/Phú Lộc/,,1,281,VN,Việt Nam,523,,,,,,,,,,Phú Lộc
+522,T054006,Hương Thủy,320,T054,4,/TD/VTT/T054/T054006/,/TD/VTT/Thừa Thiên Huế/Hương Thủy/,,1,281,VN,Việt Nam,522,,,,,,,,,,Hương Thủy
+517,T054001,Huế,320,T054,4,/TD/VTT/T054/T054001/,/TD/VTT/Thừa Thiên Huế/Huế/,,1,281,VN,Việt Nam,517,,,,,,,,,,Huế
+524,T054008,A Lưới,320,T054,4,/TD/VTT/T054/T054008/,/TD/VTT/Thừa Thiên Huế/A Lưới/,,1,281,VN,Việt Nam,524,,,,,,,,,,A Lưới
+520,T054004,Hương Trà,320,T054,4,/TD/VTT/T054/T054004/,/TD/VTT/Thừa Thiên Huế/Hương Trà/,,1,281,VN,Việt Nam,520,,,,,,,,,,Hương Trà
+519,T054003,Quảng Điền,320,T054,4,/TD/VTT/T054/T054003/,/TD/VTT/Thừa Thiên Huế/Quảng Điền/,,1,281,VN,Việt Nam,519,,,,,,,,,,Quảng Điền
+525,T054009,Nam Đông,320,T054,4,/TD/VTT/T054/T054009/,/TD/VTT/Thừa Thiên Huế/Nam Đông/,,1,281,VN,Việt Nam,525,,,,,,,,,,Nam Đông
+20003,B056DN1,Bán hàng AM Viettel Bình Định,322,B056,4,/TD/VTT/B056/B056DN1/,/TD/VTT/Bình Định/Bán hàng AM Viettel Bình Định/,,1,281,VN,Việt Nam,20003,,,,,,,,,,Bán hàng AM Viettel Bình Định
+16003,B056TLS1,TLS Bình Định,322,B056,4,/TD/VTT/B056/B056TLS1/,/TD/VTT/Bình Định/TLS Bình Định/,,1,281,VN,Việt Nam,16003,,,,,,,,,,TLS Bình Định
+595,B056007,Phù Cát,322,B056,4,/TD/VTT/B056/B056007/,/TD/VTT/Bình Định/Phù Cát/,,1,281,VN,Việt Nam,595,,,,,,,,,,Phù Cát
+599,B056011,Vân Canh,322,B056,4,/TD/VTT/B056/B056011/,/TD/VTT/Bình Định/Vân Canh/,,1,281,VN,Việt Nam,599,,,,,,,,,,Vân Canh
+594,B056006,Vĩnh Thạnh,322,B056,4,/TD/VTT/B056/B056006/,/TD/VTT/Bình Định/Vĩnh Thạnh/,,1,281,VN,Việt Nam,594,,,,,,,,,,Vĩnh Thạnh
+589,B056001,Quy Nhơn,322,B056,4,/TD/VTT/B056/B056001/,/TD/VTT/Bình Định/Quy Nhơn/,,1,281,VN,Việt Nam,589,,,,,,,,,,Quy Nhơn
+597,B056009,An Nhơn,322,B056,4,/TD/VTT/B056/B056009/,/TD/VTT/Bình Định/An Nhơn/,,1,281,VN,Việt Nam,597,,,,,,,,,,An Nhơn
+596,B056008,Tây Sơn,322,B056,4,/TD/VTT/B056/B056008/,/TD/VTT/Bình Định/Tây Sơn/,,1,281,VN,Việt Nam,596,,,,,,,,,,Tây Sơn
+590,B056002,An Lão,322,B056,4,/TD/VTT/B056/B056002/,/TD/VTT/Bình Định/An Lão/,,1,281,VN,Việt Nam,590,,,,,,,,,,An Lão
+592,B056004,Hoài Ân,322,B056,4,/TD/VTT/B056/B056004/,/TD/VTT/Bình Định/Hoài Ân/,,1,281,VN,Việt Nam,592,,,,,,,,,,Hoài Ân
+598,B056010,Tuy Phước,322,B056,4,/TD/VTT/B056/B056010/,/TD/VTT/Bình Định/Tuy Phước/,,1,281,VN,Việt Nam,598,,,,,,,,,,Tuy Phước
+20010,B062DN1,Bán hàng AM Viettel Bình Thuận,323,B062,4,/TD/VTT/B062/B062DN1/,/TD/VTT/Bình Thuận/Bán hàng AM Viettel Bình Thuận/,,1,281,VN,Việt Nam,20010,,,,,,,,,,Bán hàng AM Viettel Bình Thuận
+16012,C780TLS1,TLS Cà Mau,346,C780,4,/TD/VTT/C780/C780TLS1/,/TD/VTT/Cà Mau/TLS Cà Mau/,,1,281,VN,Việt Nam,16012,,,,,,,,,,TLS Cà Mau
+969,C780001,Cà Mau,346,C780,4,/TD/VTT/C780/C780001/,/TD/VTT/Cà Mau/Cà Mau/,,1,281,VN,Việt Nam,969,,,,,,,,,,Cà Mau
+972,C780004,Trần Văn Thời,346,C780,4,/TD/VTT/C780/C780004/,/TD/VTT/Cà Mau/Trần Văn Thời/,,1,281,VN,Việt Nam,972,,,,,,,,,,Trần Văn Thời
+970,C780002,Thới Bình,346,C780,4,/TD/VTT/C780/C780002/,/TD/VTT/Cà Mau/Thới Bình/,,1,281,VN,Việt Nam,970,,,,,,,,,,Thới Bình
+975,C780007,Ngọc Hiển,346,C780,4,/TD/VTT/C780/C780007/,/TD/VTT/Cà Mau/Ngọc Hiển/,,1,281,VN,Việt Nam,975,,,,,,,,,,Ngọc Hiển
+974,C780006,Đầm Dơi,346,C780,4,/TD/VTT/C780/C780006/,/TD/VTT/Cà Mau/Đầm Dơi/,,1,281,VN,Việt Nam,974,,,,,,,,,,Đầm Dơi
+971,C780003,U Minh,346,C780,4,/TD/VTT/C780/C780003/,/TD/VTT/Cà Mau/U Minh/,,1,281,VN,Việt Nam,971,,,,,,,,,,U Minh
+425,C780009,Phú Tân,346,C780,4,/TD/VTT/C780/C780009/,/TD/VTT/Cà Mau/Phú Tân/,,1,281,VN,Việt Nam,425,,,,,,,,,,Phú Tân
+973,C780005,Cái Nước,346,C780,4,/TD/VTT/C780/C780005/,/TD/VTT/Cà Mau/Cái Nước/,,1,281,VN,Việt Nam,973,,,,,,,,,,Cái Nước
+695,D061001,Biên Hòa,380,D061,4,/TD/VTT/D061/D061001/,/TD/VTT/Đồng Nai/Biên Hòa/,,1,281,VN,Việt Nam,695,,,,,,,,,,Biên Hòa
+700,D061006,Trảng Bom,380,D061,4,/TD/VTT/D061/D061006/,/TD/VTT/Đồng Nai/Trảng Bom/,,1,281,VN,Việt Nam,700,,,,,,,,,,Trảng Bom
+699,D061005,Nhơn Trạch,380,D061,4,/TD/VTT/D061/D061005/,/TD/VTT/Đồng Nai/Nhơn Trạch/,,1,281,VN,Việt Nam,699,,,,,,,,,,Nhơn Trạch
+1059,D061011,Long Khánh,380,D061,4,/TD/VTT/D061/D061011/,/TD/VTT/Đồng Nai/Long Khánh/,,1,281,VN,Việt Nam,1059,,,,,,,,,,Long Khánh
+20019,D067DN1,Bán hàng AM Viettel Đồng Tháp,381,D067,4,/TD/VTT/D067/D067DN1/,/TD/VTT/Đồng Tháp/Bán hàng AM Viettel Đồng Tháp/,,1,281,VN,Việt Nam,20019,,,,,,,,,,Bán hàng AM Viettel Đồng Tháp
+16019,D067TLS1,TLS Đồng Tháp,381,D067,4,/TD/VTT/D067/D067TLS1/,/TD/VTT/Đồng Tháp/TLS Đồng Tháp/,,1,281,VN,Việt Nam,16019,,,,,,,,,,TLS Đồng Tháp
+689,B650002,Dầu Tiếng,361,B650,4,/TD/VTT/B650/B650002/,/TD/VTT/Bình Dương/Dầu Tiếng/,,1,281,VN,Việt Nam,689,,,,,,,,,,Dầu Tiếng
+3135,KXD,Khối Xây dựng,254,TD,6,/TD/KXD/,/TD/Khối Xây dựng/,,1,281,VN,Việt Nam,,,,,,,,,,,Khối Xây dựng
+267,TN,VTTN,254,TD,2,/TD/TN/,/Tập đoàn/VTTN/,,1,,,,,,,,,,2021-11-01 15:30:10,"170635",,,VTTN
+2107,HC,Khối hành chính,254,TD,6,/TD/HC/,/TD/Khối hành chính/,,0,281,VN,Việt Nam,,,,,,,,,,,Khối hành chính
+3134,KTM,Khối TM&Logistic,254,TD,6,/TD/KTM/,/TD/Khối TM&Logistic/,,1,281,VN,Việt Nam,,,,,,,,,,,Khối TM&Logistic
+9020,VHT,Tổng công ty Công nghiệp Công nghệ cao Viettel (VHT),254,TD,6,/TD/VHT/,/Tập đoàn/Tổng công ty Công nghiệp Công nghệ cao Viettel (VHT)/,,1,,,,,,,,,,2021-08-25 14:28:27,"170635",,,VHT
+3136,DVK,Đơn vị khác,254,TD,6,/TD/DVK/,/TD/Đơn vị khác/,,1,281,VN,Việt Nam,,,,,,,,,,,Đơn vị khác
+3138,TD_DTDC,Điều chỉnh hợp nhất Tập đoàn,254,TD,6,/TD/TD_DTDC/,/TD/Điều chỉnh hợp nhất Tập đoàn/,,0,281,VN,Việt Nam,,,,,,,,,,,Điều chỉnh hợp nhất Tập đoàn
+271,CNTT,CNTT,254,TD,6,/TD/CNTT/,/Tập đoàn/CNTT/,,1,,,,,,,,,,2021-07-15 15:47:25,"170635",,,CNTT
+280,TC,HĐĐT Tài chính,254,TD,6,/TD/TC/,/TD/HĐĐT Tài chính/,,1,281,VN,Việt Nam,,,,,,,,,,,HĐĐT Tài chính
+269,KTT,Khối truyền thống,254,TD,6,/TD/KTT/,/TD/Khối truyền thống/,,0,281,VN,Việt Nam,,,,,,,,,,,Khối truyền thống
+263,CTT,Các thị trường nước ngoài,254,TD,6,/TD/CTT/,/TD/Các thị trường nước ngoài/,,1,281,VN,Việt Nam,,,,,,,,,,,Các thị trường nước ngoài
+304773,ME-31,ME-31,304771,N038,2,/TD/ME-1/ME-2/ME-31/,/Tập đoàn/ME-1/ME-2/ME-31/,description-1,1,281,VN,Việt Nam,,,Nghệ An,,,,2020-10-14 00:01:06,slgb_admin_bi,2020-09-10 07:00:00,2020-11-12 07:00:00,ME-31
+1037,MAS,MAS-1,327,,2,/TD/VTT/L063//MAS,/Tập đoàn/VTT/Lâm Đồng//MAS-1,,1,,,,,,,,,,2020-10-11 08:43:51,slgb_admin_bi,,,MAS-1
+1038,MAS-1,MAS-1-1,254,,2,/TD/MAS-1/,/Tập đoàn/MAS-1-1/,,1,,,,,,,,,,2020-10-11 08:46:53,slgb_admin_bi,,,MAS-1-1
+1039,MAS-2,MAS-1-2,254,,2,/TD/MAS-2/,/Tập đoàn/MAS-1-2/,,1,,STL,LAO,,,,,,,2020-10-11 08:54:18,slgb_admin_bi,,,MAS-1-2
+1040,MAS-3,MAS-1-3,327,,2,/TD/VTT/L063/MAS-3/,/Tập đoàn/VTT/Lâm Đồng/MAS-1-3/,,1,281,VN,Việt Nam,,,,,,,2020-10-11 09:00:55,slgb_admin_bi,,,MAS-1-3
+304764,MA-15-15,MAS-BZ-15-15,254,S022,2,/TD/MA-15-15/,/Tập đoàn/MAS-BZ-15-15/,,1,281,VN,Việt Nam,,,Sơn La,,,,2020-10-13 09:01:15,slgb_admin_bi,2020-09-13 07:00:00,2020-11-13 07:00:00,MAS-BZ-15-15
+304771,EA-22,EA-22,304770,S022,2,/TD/ME-1/EA-22/,/Tập đoàn/ME-1/EA-22/,,1,281,VN,Việt Nam,,,Sơn La,,,,2020-10-14 00:22:29,slgb_admin_bi,2020-09-13 07:00:00,2020-11-13 07:00:00,EA-22
+304772,EA-32,EA-32,304770,S022,2,/TD/ME-1/EA-32/,/Tập đoàn/ME-1/EA-32/,,1,281,VN,Việt Nam,,,Sơn La,,,,2020-10-14 00:23:03,slgb_admin_bi,2020-09-13 07:00:00,2020-11-13 07:00:00,EA-32
+349,L072,Long An,307143,TSS,3,/TD/TSS/L072/,/Tập đoàn/Viettel Tỉnh/TP/Long An/,"Long An là một tỉnh thuộc vùng Đồng bằng sông Cửu Long, Việt Nam. Là địa phương nằm ở cửa ngõ của vùng Đồng bằng sông Cửu Long liền kề với Thành phố Hồ Chí Minh.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:58:25,"170635",,,LAN
+310,P210,Phú Thọ,307143,TSS,3,/TD/TSS/P210/,/Tập đoàn/Viettel Tỉnh/TP/Phú Thọ/,"Phú Thọ là một tỉnh thuộc vùng Đông Bắc Bộ, Việt Nam. Năm 2018, Phú Thọ là đơn vị hành chính Việt Nam đông thứ 21 về số dân, xếp thứ 35 về Tổng sản phẩm trên địa bàn, xếp thứ 46 về GRDP bình quân đầu người, đứng thứ 23 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:39:41,"170635",,,PTO
+20062,V064DN1,Bán hàng AM Viettel Bà Rịa Vũng Tàu,378,V064,4,/TD/VTT/V064/V064DN1/,/TD/VTT/Bà Rịa Vũng Tàu/Bán hàng AM Viettel Bà Rịa Vũng Tàu/,,1,281,VN,Việt Nam,20062,,,,,,,,,,Bán hàng AM Viettel Bà Rịa Vũng Tàu
+305405,BC_S022_S022008,"1",305404,BC_S022,4,/TD/KTM/BC/BC_S022/BC_S022_S022008/,/Tập đoàn/Bưu chính/Đơn vị bưu chính/1/,,1,281,VN,Việt Nam,460,S022,Sơn La,,,,2020-12-14 08:21:29,"241173",,,"1"
+825,V064004,Xuyên Mộc,378,V064,4,/TD/VTT/V064/V064004/,/TD/VTT/Bà Rịa Vũng Tàu/Xuyên Mộc/,,1,281,VN,Việt Nam,825,,,,,,,,,,Xuyên Mộc
+870,V070007,Vũng Liêm,379,V070,4,/TD/VTT/V070/V070007/,/TD/VTT/Vĩnh Long/Vũng Liêm/,,1,281,VN,Việt Nam,870,,,,,,,,,,Vũng Liêm
+20012,C780DN1,Bán hàng AM Viettel Cà Mau,346,C780,4,/TD/VTT/C780/C780DN1/,/TD/VTT/Cà Mau/Bán hàng AM Viettel Cà Mau/,,1,281,VN,Việt Nam,20012,,,,,,,,,,Bán hàng AM Viettel Cà Mau
+1081,C780008,Năm Căn,346,C780,4,/TD/VTT/C780/C780008/,/TD/VTT/Cà Mau/Năm Căn/,,1,281,VN,Việt Nam,1081,,,,,,,,,,Năm Căn
+305411,"007112",teststatus,305402,"0071",4,/007/0071/007112/,/007/ha tsst 007/teststatus/,,1,,,,,,,,,,2020-12-10 10:00:13,"241173",,,teststatus
+917,S079006,Thạnh Trị,374,S079,4,/TD/VTT/S079/S079006/,/TD/VTT/Sóc Trăng/Thạnh Trị/,,1,281,VN,Việt Nam,917,,,,,,,,,,Thạnh Trị
+341,B075,Bến Tre,307143,TSS,3,/TD/TSS/B075/,/Tập đoàn/Viettel Tỉnh/TP/Bến Tre/,"Bến Tre là một tỉnh thuộc vùng Đồng bằng sông Cửu Long, Việt Nam. Năm 2021, Bến Tre là đơn vị hành chính Việt Nam đông thứ 28 về dân số, xếp thứ 46 về tổng sản phẩm trên địa bàn, xếp thứ 56 về GRDP bình quân đầu người, đứng thứ 48 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:51:36,"170635",,,BTE
+344,B781,Bạc Liêu,307143,TSS,3,/TD/TSS/B781/,/Tập đoàn/Viettel Tỉnh/TP/Bạc Liêu/,"Bạc Liêu là thành phố tỉnh lỵ của tỉnh Bạc Liêu, Việt Nam. Thành phố nằm ở phía đông tỉnh Bạc Liêu, bên bờ rạch Bạc Liêu. Trung tâm thành phố cách biển 10 km và là trung tâm hành chính và đầu mối giao lưu trong và ngoài tỉnh, cơ cấu kinh tế của thành phố là thương mại - dịch vụ - công nghiệp và nông nghiệp.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:52:49,"170635",,,BLU
+330,D501,Đắc Nông,307143,TSS,3,/TD/TSS/D501/,/Tập đoàn/Viettel Tỉnh/TP/Đắc Nông/,"Được dịch từ tiếng Anh-Đăk Nông, còn là Ðắc Nông, là một tỉnh của Việt Nam. Nó nằm ở Tây Nguyên của đất nước. Tỉnh lỵ là Gia Nghĩa.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:54:27,"170635",,,DCN
+326,K060,Kon Tum,307143,TSS,3,/TD/TSS/K060/,/Tập đoàn/Viettel Tỉnh/TP/Kon Tum/,"Kon Tum là thành phố tỉnh lỵ của tỉnh Kon Tum, Việt Nam. Nơi đây từ xưa đã là địa bàn cư trú của người Ba Na bản địa, dẫn đến tên gọi Kon Tum, nghĩa là ""Làng Hồ"" theo tiếng Ba Na.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:57:14,"170635",,,KTM
+332,A076,An Giang,307143,TSS,3,/TD/TSS/A076/,/Tập đoàn/Viettel Tỉnh/TP/An Giang/,"An Giang là một tỉnh thuộc vùng đồng bằng sông Cửu Long, Việt Nam. An Giang là tỉnh thuộc Vùng kinh tế trọng điểm vùng đồng bằng sông Cửu Long. Là tỉnh có dân số đông nhất vùng đồng bằng sông Cửu Long và là tỉnh đứng thứ 8 cả nước về dân số. Một phần của An Giang nằm trong vùng tứ giác Long Xuyên.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:48:42,"170635",,,AGG
+379,V070,Vĩnh Long,307143,TSS,3,/TD/TSS/V070/,/Tập đoàn/Viettel Tỉnh/TP/Vĩnh Long/,"Vĩnh Long là thành phố tỉnh lỵ của tỉnh Vĩnh Long, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:43:55,"170635",,,VLG
+346,C780,Cà Mau,307143,TSS,3,/TD/TSS/C780/,/Tập đoàn/Viettel Tỉnh/TP/Cà Mau/,"Cà Mau là thành phố tỉnh lỵ của tỉnh Cà Mau, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:53:33,"170635",,,CMU
+361,B650,Bình Dương,307143,TSS,3,/TD/TSS/B650/,/Tập đoàn/Viettel Tỉnh/TP/Bình Dương/,"Bình Dương là một tỉnh thuộc vùng Đông Nam Bộ, Việt Nam. Tỉnh lỵ của Bình Dương là thành phố Thủ Dầu Một, cách trung tâm của Thành phố Hồ Chí Minh 30 km theo đường Quốc lộ 13.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:52:29,"170635",,,BDG
+355,T074,Trà Vinh,307143,TSS,3,/TD/TSS/T074/,/Tập đoàn/Viettel Tỉnh/TP/Trà Vinh/,"Trà Vinh là thành phố tỉnh lỵ của tỉnh Trà Vinh, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:43:27,"170635",,,TVH
+380,D061,Đồng Nai,307143,TSS,3,/TD/TSS/D061/,/Tập đoàn/Viettel Tỉnh/TP/Đồng Nai/,"Đồng Nai là một tỉnh thuộc vùng Đông Nam Bộ trên cở sở hợp nhất 2 tỉnh cũ là Biên Hòa và Long Khánh, Việt Nam. Đây là tỉnh đông dân thứ 5 cả nước sau Thành phố Hồ Chí Minh, Thủ đô Hà Nội, tỉnh Thanh Hóa và tỉnh Nghệ An.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:53:20,"170635",,,DNI
+381,D067,Đồng Tháp,307143,TSS,3,/TD/TSS/D067/,/Tập đoàn/Viettel Tỉnh/TP/Đồng Tháp/,"Đồng Tháp là một tỉnh thuộc vùng Đồng bằng sông Cửu Long, Việt Nam. Vùng đất Đồng Tháp đã được Chúa Nguyễn khai phá vào khoảng thế kỷ XVII, XVIII. Tỉnh Đồng Tháp được thành lập trên cơ sở hợp nhất tỉnh Kiến Phong và tỉnh Sa Đéc vào năm 1976.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:53:46,"170635",,,DTP
+288,T036,Thái Bình,307143,TSS,3,/TD/TSS/T036/,/Tập đoàn/Viettel Tỉnh/TP/Thái Bình/,"Thái Bình là một tỉnh ven biển ở đồng bằng sông Hồng. Theo quy hoạch phát triển kinh tế, Thái Bình thuộc vùng duyên hải Bắc Bộ. Theo cuộc tổng điều tra về dân số năm 2019.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:42:44,"170635",,,TBH
+693,B650006,TX Thuận An,361,B650,4,/TD/VTT/B650/B650006/,/TD/VTT/Bình Dương/TX Thuận An/,,1,281,VN,Việt Nam,693,,,,,,,,,,TX Thuận An
+692,B650005,Tân Uyên,361,B650,4,/TD/VTT/B650/B650005/,/TD/VTT/Bình Dương/Tân Uyên/,,1,281,VN,Việt Nam,692,,,,,,,,,,Tân Uyên
+688,B650001,TP Thủ Dầu Một,361,B650,4,/TD/VTT/B650/B650001/,/TD/VTT/Bình Dương/TP Thủ Dầu Một/,,1,281,VN,Việt Nam,688,,,,,,,,,,TP Thủ Dầu Một
+291881,B650009,Bắc Tân Uyên,361,B650,4,/TD/VTT/B650/B650009/,/TD/VTT/Bình Dương/Bắc Tân Uyên/,,1,281,VN,Việt Nam,291881,,,,,,,,,,Bắc Tân Uyên
+15761,B650008,Bàu Bàng ,361,B650,4,/TD/VTT/B650/B650008/,/TD/VTT/Bình Dương/Bàu Bàng /,,1,281,VN,Việt Nam,15761,,,,,,,,,,Bàu Bàng 
+690,B650003,Bến Cát,361,B650,4,/TD/VTT/B650/B650003/,/TD/VTT/Bình Dương/Bến Cát/,,1,281,VN,Việt Nam,690,,,,,,,,,,Bến Cát
+691,B650004,Phú Giáo,361,B650,4,/TD/VTT/B650/B650004/,/TD/VTT/Bình Dương/Phú Giáo/,,1,281,VN,Việt Nam,691,,,,,,,,,,Phú Giáo
+694,B650007,TX Dĩ An,361,B650,4,/TD/VTT/B650/B650007/,/TD/VTT/Bình Dương/TX Dĩ An/,,1,281,VN,Việt Nam,694,,,,,,,,,,TX Dĩ An
+288206,H711009,Thị Xã Long Mỹ,369,H711,4,/TD/VTT/H711/H711009/,/TD/VTT/Hậu Giang/Thị Xã Long Mỹ/,,1,281,VN,Việt Nam,288206,,,,,,,,,,Thị Xã Long Mỹ
+20030,H711DN1,Bán hàng AM Viettel Hậu Giang,369,H711,4,/TD/VTT/H711/H711DN1/,/TD/VTT/Hậu Giang/Bán hàng AM Viettel Hậu Giang/,,1,281,VN,Việt Nam,20030,,,,,,,,,,Bán hàng AM Viettel Hậu Giang
+16030,H711TLS1,TLS Hậu Giang,369,H711,4,/TD/VTT/H711/H711TLS1/,/TD/VTT/Hậu Giang/TLS Hậu Giang/,,1,281,VN,Việt Nam,16030,,,,,,,,,,TLS Hậu Giang
+878,H711001,Vị Thanh,369,H711,4,/TD/VTT/H711/H711001/,/TD/VTT/Hậu Giang/Vị Thanh/,,1,281,VN,Việt Nam,878,,,,,,,,,,Vị Thanh
+440,H711008,Ngã Bảy,369,H711,4,/TD/VTT/H711/H711008/,/TD/VTT/Hậu Giang/Ngã Bảy/,,1,281,VN,Việt Nam,440,,,,,,,,,,Ngã Bảy
+881,H711004,Phụng Hiệp,369,H711,4,/TD/VTT/H711/H711004/,/TD/VTT/Hậu Giang/Phụng Hiệp/,,1,281,VN,Việt Nam,881,,,,,,,,,,Phụng Hiệp
+882,H711005,Vị Thủy,369,H711,4,/TD/VTT/H711/H711005/,/TD/VTT/Hậu Giang/Vị Thủy/,,1,281,VN,Việt Nam,882,,,,,,,,,,Vị Thủy
+880,H711003,Châu Thành,369,H711,4,/TD/VTT/H711/H711003/,/TD/VTT/Hậu Giang/Châu Thành/,,1,281,VN,Việt Nam,880,,,,,,,,,,Châu Thành
+879,H711002,Châu Thành A,369,H711,4,/TD/VTT/H711/H711002/,/TD/VTT/Hậu Giang/Châu Thành A/,,1,281,VN,Việt Nam,879,,,,,,,,,,Châu Thành A
+883,H711006,Long Mỹ,369,H711,4,/TD/VTT/H711/H711006/,/TD/VTT/Hậu Giang/Long Mỹ/,,1,281,VN,Việt Nam,883,,,,,,,,,,Long Mỹ
+20052,S079DN1,Bán hàng AM Viettel Sóc Trăng,374,S079,4,/TD/VTT/S079/S079DN1/,/TD/VTT/Sóc Trăng/Bán hàng AM Viettel Sóc Trăng/,,1,281,VN,Việt Nam,20052,,,,,,,,,,Bán hàng AM Viettel Sóc Trăng
+16052,S079TLS1,TLS Sóc Trăng,374,S079,4,/TD/VTT/S079/S079TLS1/,/TD/VTT/Sóc Trăng/TLS Sóc Trăng/,,1,281,VN,Việt Nam,16052,,,,,,,,,,TLS Sóc Trăng
+915,S079004,Mỹ Tú,374,S079,4,/TD/VTT/S079/S079004/,/TD/VTT/Sóc Trăng/Mỹ Tú/,,1,281,VN,Việt Nam,915,,,,,,,,,,Mỹ Tú
+914,S079003,Long Phú,374,S079,4,/TD/VTT/S079/S079003/,/TD/VTT/Sóc Trăng/Long Phú/,,1,281,VN,Việt Nam,914,,,,,,,,,,Long Phú
+423,S079009,Cù Lao Dung,374,S079,4,/TD/VTT/S079/S079009/,/TD/VTT/Sóc Trăng/Cù Lao Dung/,,1,281,VN,Việt Nam,423,,,,,,,,,,Cù Lao Dung
+912,S079001,Sóc Trăng,374,S079,4,/TD/VTT/S079/S079001/,/TD/VTT/Sóc Trăng/Sóc Trăng/,,1,281,VN,Việt Nam,912,,,,,,,,,,Sóc Trăng
+13859,S079011,Trần Đề,374,S079,4,/TD/VTT/S079/S079011/,/TD/VTT/Sóc Trăng/Trần Đề/,,1,281,VN,Việt Nam,13859,,,,,,,,,,Trần Đề
+913,S079002,Kế Sách,374,S079,4,/TD/VTT/S079/S079002/,/TD/VTT/Sóc Trăng/Kế Sách/,,1,281,VN,Việt Nam,913,,,,,,,,,,Kế Sách
+916,S079005,Mỹ Xuyên,374,S079,4,/TD/VTT/S079/S079005/,/TD/VTT/Sóc Trăng/Mỹ Xuyên/,,1,281,VN,Việt Nam,916,,,,,,,,,,Mỹ Xuyên
+1079,S079008,Thị Xã Ngã Năm,374,S079,4,/TD/VTT/S079/S079008/,/TD/VTT/Sóc Trăng/Thị Xã Ngã Năm/,,1,281,VN,Việt Nam,1079,,,,,,,,,,Thị Xã Ngã Năm
+585,S079010,Châu Thành,374,S079,4,/TD/VTT/S079/S079010/,/TD/VTT/Sóc Trăng/Châu Thành/,,1,281,VN,Việt Nam,585,,,,,,,,,,Châu Thành
+20059,T074DN1,Bán hàng AM Viettel Trà Vinh,355,T074,4,/TD/VTT/T074/T074DN1/,/TD/VTT/Trà Vinh/Bán hàng AM Viettel Trà Vinh/,,1,281,VN,Việt Nam,20059,,,,,,,,,,Bán hàng AM Viettel Trà Vinh
+16059,T074TLS1,TLS Trà Vinh,355,T074,4,/TD/VTT/T074/T074TLS1/,/TD/VTT/Trà Vinh/TLS Trà Vinh/,,1,281,VN,Việt Nam,16059,,,,,,,,,,TLS Trà Vinh
+893,T074002,Càng Long,355,T074,4,/TD/VTT/T074/T074002/,/TD/VTT/Trà Vinh/Càng Long/,,1,281,VN,Việt Nam,893,,,,,,,,,,Càng Long
+892,T074001,Trà Vinh,355,T074,4,/TD/VTT/T074/T074001/,/TD/VTT/Trà Vinh/Trà Vinh/,,1,281,VN,Việt Nam,892,,,,,,,,,,Trà Vinh
+894,T074003,Châu Thành,355,T074,4,/TD/VTT/T074/T074003/,/TD/VTT/Trà Vinh/Châu Thành/,,1,281,VN,Việt Nam,894,,,,,,,,,,Châu Thành
+896,T074006,Cầu Ngang,355,T074,4,/TD/VTT/T074/T074006/,/TD/VTT/Trà Vinh/Cầu Ngang/,,1,281,VN,Việt Nam,896,,,,,,,,,,Cầu Ngang
+895,T074005,Tiểu Cần,355,T074,4,/TD/VTT/T074/T074005/,/TD/VTT/Trà Vinh/Tiểu Cần/,,1,281,VN,Việt Nam,895,,,,,,,,,,Tiểu Cần
+288054,T074011,Thị xã Duyên Hải,355,T074,4,/TD/VTT/T074/T074011/,/TD/VTT/Trà Vinh/Thị xã Duyên Hải/,,1,281,VN,Việt Nam,288054,,,,,,,,,,Thị xã Duyên Hải
+898,T074008,Duyên Hải,355,T074,4,/TD/VTT/T074/T074008/,/TD/VTT/Trà Vinh/Duyên Hải/,,1,281,VN,Việt Nam,898,,,,,,,,,,Duyên Hải
+20018,D061DN1,Bán hàng AM Viettel Đồng Nai,380,D061,4,/TD/VTT/D061/D061DN1/,/TD/VTT/Đồng Nai/Bán hàng AM Viettel Đồng Nai/,,1,281,VN,Việt Nam,20018,,,,,,,,,,Bán hàng AM Viettel Đồng Nai
+16018,D061TLS1,TLS Đồng Nai,380,D061,4,/TD/VTT/D061/D061TLS1/,/TD/VTT/Đồng Nai/TLS Đồng Nai/,,1,281,VN,Việt Nam,16018,,,,,,,,,,TLS Đồng Nai
+703,D061009,Vĩnh Cửu,380,D061,4,/TD/VTT/D061/D061009/,/TD/VTT/Đồng Nai/Vĩnh Cửu/,,1,281,VN,Việt Nam,703,,,,,,,,,,Vĩnh Cửu
+698,D061004,Long Thành,380,D061,4,/TD/VTT/D061/D061004/,/TD/VTT/Đồng Nai/Long Thành/,,1,281,VN,Việt Nam,698,,,,,,,,,,Long Thành
+701,D061007,Thống Nhất,380,D061,4,/TD/VTT/D061/D061007/,/TD/VTT/Đồng Nai/Thống Nhất/,,1,281,VN,Việt Nam,701,,,,,,,,,,Thống Nhất
+697,D061003,Định Quán,380,D061,4,/TD/VTT/D061/D061003/,/TD/VTT/Đồng Nai/Định Quán/,,1,281,VN,Việt Nam,697,,,,,,,,,,Định Quán
+696,D061002,Cẩm Mỹ,380,D061,4,/TD/VTT/D061/D061002/,/TD/VTT/Đồng Nai/Cẩm Mỹ/,,1,281,VN,Việt Nam,696,,,,,,,,,,Cẩm Mỹ
+1055,D061010,Xuân Lộc,380,D061,4,/TD/VTT/D061/D061010/,/TD/VTT/Đồng Nai/Xuân Lộc/,,1,281,VN,Việt Nam,1055,,,,,,,,,,Xuân Lộc
+307141,TT,Truyền Thống,254,TD,2,/TD/TT/,/Tập đoàn/Truyền Thống/,,1,,,,,,,,,,2021-07-07 07:19:24,"241173",,,Truyền Thống
+305443,N030_N030004,Gia Viễn,306,N030,4,/TD/VTT/N030/N030_N030004/,/Tập đoàn/VTT/Ninh Bình/Gia Viễn/,,1,,,,,,,255,VTT,VTT,2021-07-16 11:30:29,"170635",,,Gia Viễn
+307142,DVDL,Đơn vị độc lập,254,TD,2,/TD/DVDL/,/Tập đoàn/Đơn vị độc lập/,,1,,,,,,,,,,2021-07-07 07:19:24,"241173",,,Đơn vị độc lập
+321,D500,Đắc Lắc,307143,TSS,3,/TD/TSS/D500/,/Tập đoàn/Viettel Tỉnh/TP/Đắc Lắc/,"Đắk Lắk là một tỉnh có diện tích lớn thứ 4 nằm ở trung tâm vùng Tây Nguyên, miền Trung Việt Nam. Năm 2019, Đắk Lắk là đơn vị hành chính Việt Nam đông thứ 10 về số dân, xếp thứ 22 về Tổng sản phẩm trên địa bàn, xếp thứ 41 về GRDP bình quân đầu người, đứng thứ 37 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:54:09,"170635",,,DLK
+300,H039,Hà Tĩnh,307143,TSS,3,/TD/TSS/H039/,/Tập đoàn/Viettel Tỉnh/TP/Hà Tĩnh/,"Hà Tĩnh là thành phố tỉnh lỵ của tỉnh Hà Tĩnh, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:55:40,"170635",,,HTH
+305457,B281_B281005,Na Rì,295,B281,4,/TD/VTT/B281/B281_B281005/,/Tập đoàn/VTT/Bắc Kạn/Na Rì/,,1,281,VN,Việt Nam,295,B281,Bắc Kạn,,,,2020-12-11 06:32:10,"241173",,,Na Rì
+308,N350,Nam Định,307143,TSS,3,/TD/TSS/N350/,/Tập đoàn/Viettel Tỉnh/TP/Nam Định/,"Nam Định là thành phố tỉnh lỵ thuộc tỉnh Nam Định, Việt Nam. Đây là một trong những thành phố được Pháp lập ra đầu tiên ở Liên bang Đông Dương.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:59:17,"170635",,,NDH
+314,Y029,Yên Bái,307143,TSS,3,/TD/TSS/Y029/,/Tập đoàn/Viettel Tỉnh/TP/Yên Bái/,"Yên Bái là thành phố tỉnh lỵ của tỉnh Yên Bái, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:44:17,"170635",,,YBI
+702,D061008,Tân Phú,380,D061,4,/TD/VTT/D061/D061008/,/TD/VTT/Đồng Nai/Tân Phú/,,1,281,VN,Việt Nam,702,,,,,,,,,,Tân Phú
+16015,D501TLS1,TLS Đắc Nông,330,D501,4,/TD/VTT/D501/D501TLS1/,/TD/VTT/Đắc Nông/TLS Đắc Nông/,,1,281,VN,Việt Nam,16015,,,,,,,,,,TLS Đắc Nông
+637,D501005,Đắk Song,330,D501,4,/TD/VTT/D501/D501005/,/TD/VTT/Đắc Nông/Đắk Song/,,1,281,VN,Việt Nam,637,,,,,,,,,,Đắk Song
+601,K060002,Đắk Glei,326,K060,4,/TD/VTT/K060/K060002/,/TD/VTT/Kon Tum/Đắk Glei/,,1,281,VN,Việt Nam,601,,,,,,,,,,Đắk Glei
+603,K060004,Đắk Tô,326,K060,4,/TD/VTT/K060/K060004/,/TD/VTT/Kon Tum/Đắk Tô/,,1,281,VN,Việt Nam,603,,,,,,,,,,Đắk Tô
+593,B056005,Phù Mỹ,322,B056,4,/TD/VTT/B056/B056005/,/TD/VTT/Bình Định/Phù Mỹ/,,1,281,VN,Việt Nam,593,,,,,,,,,,Phù Mỹ
+591,B056003,Hoài Nhơn,322,B056,4,/TD/VTT/B056/B056003/,/TD/VTT/Bình Định/Hoài Nhơn/,,1,281,VN,Việt Nam,591,,,,,,,,,,Hoài Nhơn
+20014,D230DN1,Bán hàng AM Viettel Điện Biên,313,D230,4,/TD/VTT/D230/D230DN1/,/TD/VTT/Điện Biên/Bán hàng AM Viettel Điện Biên/,,1,281,VN,Việt Nam,20014,,,,,,,,,,Bán hàng AM Viettel Điện Biên
+630,D500011,Krông A Na,321,D500,4,/TD/VTT/D500/D500011/,/TD/VTT/Đắc Lắc/Krông A Na/,,1,281,VN,Việt Nam,630,,,,,,,,,,Krông A Na
+944,Y029001,Yên Bái,314,Y029,4,/TD/VTT/Y029/Y029001/,/TD/VTT/Yên Bái/Yên Bái/,,1,281,VN,Việt Nam,944,,,,,,,,,,Yên Bái
+952,Y029009,Trạm Tấu,314,Y029,4,/TD/VTT/Y029/Y029009/,/TD/VTT/Yên Bái/Trạm Tấu/,,1,281,VN,Việt Nam,952,,,,,,,,,,Trạm Tấu
+1098,D511006,Hòa Vang,315,D511,4,/TD/VTT/D511/D511006/,/TD/VTT/Đà Nẵng/Hòa Vang/,,1,281,VN,Việt Nam,1098,,,,,,,,,,Hòa Vang
+854,L072013,Cần Đước,349,L072,4,/TD/VTT/L072/L072013/,/TD/VTT/Long An/Cần Đước/,,1,281,VN,Việt Nam,854,,,,,,,,,,Cần Đước
+852,L072011,Châu Thành,349,L072,4,/TD/VTT/L072/L072011/,/TD/VTT/Long An/Châu Thành/,,1,281,VN,Việt Nam,852,,,,,,,,,,Châu Thành
+863,T073009,Gò Công Đông,335,T073,4,/TD/VTT/T073/T073009/,/TD/VTT/Tiền Giang/Gò Công Đông/,,1,281,VN,Việt Nam,863,,,,,,,,,,Gò Công Đông
+16017,D511TLS1,TLS Đà Nẵng,315,D511,4,/TD/VTT/D511/D511TLS1/,/TD/VTT/Đà Nẵng/TLS Đà Nẵng/,,1,281,VN,Việt Nam,16017,,,,,,,,,,TLS Đà Nẵng
+1064,T008TB,Q.Tân Bình,366,T008,4,/TD/VTT/T008/T008TB/,/TD/VTT/TPHCM/Q.Tân Bình/,,1,281,VN,Việt Nam,1064,,,,,,,,,,Q.Tân Bình
+305529,BC_T280_T280002,Thanh oai,305420,BC_T280,4,/TD/KTM/BC/BC_T280/BC_T280_T280002/,/Tập đoàn/Bưu chính/Đơn vị gốc/Thanh oai/,,1,281,VN,Việt Nam,954,T280002,Sông Công,218,BC,Bưu chính,2020-12-14 10:20:33,"241173",,,Thanh oai
+584,T008TP,Q.Tân Phú,366,T008,4,/TD/VTT/T008/T008TP/,/TD/VTT/TPHCM/Q.Tân Phú/,,1,281,VN,Việt Nam,584,,,,,,,,,,Q.Tân Phú
+1065,T008TD,Q.Thủ Đức,366,T008,4,/TD/VTT/T008/T008TD/,/TD/VTT/TPHCM/Q.Thủ Đức/,,1,281,VN,Việt Nam,1065,,,,,,,,,,Q.Thủ Đức
+549,P057004,Tuy An,329,P057,4,/TD/VTT/P057/P057004/,/TD/VTT/Phú Yên/Tuy An/,,1,281,VN,Việt Nam,549,,,,,,,,,,Tuy An
+14134,D067012,TX Hồng Ngự,381,D067,4,/TD/VTT/D067/D067012/,/TD/VTT/Đồng Tháp/TX Hồng Ngự/,,1,281,VN,Việt Nam,14134,,,,,,,,,,TX Hồng Ngự
+419,N068006,Thuận Bắc,328,N068,4,/TD/VTT/N068/N068006/,/TD/VTT/Ninh Thuận/Thuận Bắc/,,1,281,VN,Việt Nam,419,,,,,,,,,,Thuận Bắc
+658,N068003,Bác ái,328,N068,4,/TD/VTT/N068/N068003/,/TD/VTT/Ninh Thuận/Bác ái/,,1,281,VN,Việt Nam,658,,,,,,,,,,Bác ái
+415,P057010,Đông Hòa,329,P057,4,/TD/VTT/P057/P057010/,/TD/VTT/Phú Yên/Đông Hòa/,,1,281,VN,Việt Nam,415,,,,,,,,,,Đông Hòa
+548,P057003,Sông Cầu,329,P057,4,/TD/VTT/P057/P057003/,/TD/VTT/Phú Yên/Sông Cầu/,,1,281,VN,Việt Nam,548,,,,,,,,,,Sông Cầu
+14181,P057011,Các xã hủy,329,P057,4,/TD/VTT/P057/P057011/,/TD/VTT/Phú Yên/Các xã hủy/,,1,281,VN,Việt Nam,14181,,,,,,,,,,Các xã hủy
+552,P057007,Sông Hinh,329,P057,4,/TD/VTT/P057/P057007/,/TD/VTT/Phú Yên/Sông Hinh/,,1,281,VN,Việt Nam,552,,,,,,,,,,Sông Hinh
+395,P057009,Tây Hòa,329,P057,4,/TD/VTT/P057/P057009/,/TD/VTT/Phú Yên/Tây Hòa/,,1,281,VN,Việt Nam,395,,,,,,,,,,Tây Hòa
+546,P057001,Tuy Hòa,329,P057,4,/TD/VTT/P057/P057001/,/TD/VTT/Phú Yên/Tuy Hòa/,,1,281,VN,Việt Nam,546,,,,,,,,,,Tuy Hòa
+551,P057006,Nam Hòa,329,P057,4,/TD/VTT/P057/P057006/,/TD/VTT/Phú Yên/Nam Hòa/,,1,281,VN,Việt Nam,551,,,,,,,,,,Nam Hòa
+1054,P057008,Phú Hòa,329,P057,4,/TD/VTT/P057/P057008/,/TD/VTT/Phú Yên/Phú Hòa/,,1,281,VN,Việt Nam,1054,,,,,,,,,,Phú Hòa
+550,P057005,Sơn Hòa,329,P057,4,/TD/VTT/P057/P057005/,/TD/VTT/Phú Yên/Sơn Hòa/,,1,281,VN,Việt Nam,550,,,,,,,,,,Sơn Hòa
+20032,K077DN1,Bán hàng AM Viettel Kiên Giang,367,K077,4,/TD/VTT/K077/K077DN1/,/TD/VTT/Kiên Giang/Bán hàng AM Viettel Kiên Giang/,,1,281,VN,Việt Nam,20032,,,,,,,,,,Bán hàng AM Viettel Kiên Giang
+16032,K077TLS1,TLS Kiên Giang,367,K077,4,/TD/VTT/K077/K077TLS1/,/TD/VTT/Kiên Giang/TLS Kiên Giang/,,1,281,VN,Việt Nam,16032,,,,,,,,,,TLS Kiên Giang
+905,K077007,Giồng Riềng,367,K077,4,/TD/VTT/K077/K077007/,/TD/VTT/Kiên Giang/Giồng Riềng/,,1,281,VN,Việt Nam,905,,,,,,,,,,Giồng Riềng
+910,K077012,Phú Quốc,367,K077,4,/TD/VTT/K077/K077012/,/TD/VTT/Kiên Giang/Phú Quốc/,,1,281,VN,Việt Nam,910,,,,,,,,,,Phú Quốc
+903,K077005,Tân Hiệp,367,K077,4,/TD/VTT/K077/K077005/,/TD/VTT/Kiên Giang/Tân Hiệp/,,1,281,VN,Việt Nam,903,,,,,,,,,,Tân Hiệp
+909,K077011,Vĩnh Thuận,367,K077,4,/TD/VTT/K077/K077011/,/TD/VTT/Kiên Giang/Vĩnh Thuận/,,1,281,VN,Việt Nam,909,,,,,,,,,,Vĩnh Thuận
+908,K077010,An Minh,367,K077,4,/TD/VTT/K077/K077010/,/TD/VTT/Kiên Giang/An Minh/,,1,281,VN,Việt Nam,908,,,,,,,,,,An Minh
+14252,K077015,Giang Thành,367,K077,4,/TD/VTT/K077/K077015/,/TD/VTT/Kiên Giang/Giang Thành/,,1,281,VN,Việt Nam,14252,,,,,,,,,,Giang Thành
+906,K077008,Gò Quao,367,K077,4,/TD/VTT/K077/K077008/,/TD/VTT/Kiên Giang/Gò Quao/,,1,281,VN,Việt Nam,906,,,,,,,,,,Gò Quao
+902,K077004,Hòn Đất,367,K077,4,/TD/VTT/K077/K077004/,/TD/VTT/Kiên Giang/Hòn Đất/,,1,281,VN,Việt Nam,902,,,,,,,,,,Hòn Đất
+899,K077001,Rạch Giá,367,K077,4,/TD/VTT/K077/K077001/,/TD/VTT/Kiên Giang/Rạch Giá/,,1,281,VN,Việt Nam,899,,,,,,,,,,Rạch Giá
+901,K077003,Kiên Lương,367,K077,4,/TD/VTT/K077/K077003/,/TD/VTT/Kiên Giang/Kiên Lương/,,1,281,VN,Việt Nam,901,,,,,,,,,,Kiên Lương
+904,K077006,Châu Thành,367,K077,4,/TD/VTT/K077/K077006/,/TD/VTT/Kiên Giang/Châu Thành/,,1,281,VN,Việt Nam,904,,,,,,,,,,Châu Thành
+907,K077009,An Biên,367,K077,4,/TD/VTT/K077/K077009/,/TD/VTT/Kiên Giang/An Biên/,,1,281,VN,Việt Nam,907,,,,,,,,,,An Biên
+900,K077002,Hà Tiên,367,K077,4,/TD/VTT/K077/K077002/,/TD/VTT/Kiên Giang/Hà Tiên/,,1,281,VN,Việt Nam,900,,,,,,,,,,Hà Tiên
+911,K077013,Kiên Hải,367,K077,4,/TD/VTT/K077/K077013/,/TD/VTT/Kiên Giang/Kiên Hải/,,1,281,VN,Việt Nam,911,,,,,,,,,,Kiên Hải
+438,K077014,U Minh Thượng,367,K077,4,/TD/VTT/K077/K077014/,/TD/VTT/Kiên Giang/U Minh Thượng/,,1,281,VN,Việt Nam,438,,,,,,,,,,U Minh Thượng
+20033,K058DN1,Bán hàng AM Viettel Khánh Hòa,325,K058,4,/TD/VTT/K058/K058DN1/,/TD/VTT/Khánh Hòa/Bán hàng AM Viettel Khánh Hòa/,,1,281,VN,Việt Nam,20033,,,,,,,,,,Bán hàng AM Viettel Khánh Hòa
+16033,K058TLS1,TLS Khánh Hòa,325,K058,4,/TD/VTT/K058/K058TLS1/,/TD/VTT/Khánh Hòa/TLS Khánh Hòa/,,1,281,VN,Việt Nam,16033,,,,,,,,,,TLS Khánh Hòa
+588,K058008,Trường Sa,325,K058,4,/TD/VTT/K058/K058008/,/TD/VTT/Khánh Hòa/Trường Sa/,,1,281,VN,Việt Nam,588,,,,,,,,,,Trường Sa
+918,S079007,Vĩnh Châu,374,S079,4,/TD/VTT/S079/S079007/,/TD/VTT/Sóc Trăng/Vĩnh Châu/,,1,281,VN,Việt Nam,918,,,,,,,,,,Vĩnh Châu
+432,T074010,Cầu Kè,355,T074,4,/TD/VTT/T074/T074010/,/TD/VTT/Trà Vinh/Cầu Kè/,,1,281,VN,Việt Nam,432,,,,,,,,,,Cầu Kè
+778,N350010,Hải Hậu,308,N350,4,/TD/VTT/N350/N350010/,/TD/VTT/Nam Định/Hải Hậu/,,1,281,VN,Việt Nam,778,,,,,,,,,,Hải Hậu
+769,N350001,Nam Định,308,N350,4,/TD/VTT/N350/N350001/,/TD/VTT/Nam Định/Nam Định/,,1,281,VN,Việt Nam,769,,,,,,,,,,Nam Định
+776,N350008,Giao Thủy,308,N350,4,/TD/VTT/N350/N350008/,/TD/VTT/Nam Định/Giao Thủy/,,1,281,VN,Việt Nam,776,,,,,,,,,,Giao Thủy
+394,N350011,Đò Quan,308,N350,4,/TD/VTT/N350/N350011/,/TD/VTT/Nam Định/Đò Quan/,,1,281,VN,Việt Nam,394,,,,,,,,,,Đò Quan
+770,N350002,Vụ Bản,308,N350,4,/TD/VTT/N350/N350002/,/TD/VTT/Nam Định/Vụ Bản/,,1,281,VN,Việt Nam,770,,,,,,,,,,Vụ Bản
+774,N350006,Trực Ninh,308,N350,4,/TD/VTT/N350/N350006/,/TD/VTT/Nam Định/Trực Ninh/,,1,281,VN,Việt Nam,774,,,,,,,,,,Trực Ninh
+773,N350005,Nam Trực,308,N350,4,/TD/VTT/N350/N350005/,/TD/VTT/Nam Định/Nam Trực/,,1,281,VN,Việt Nam,773,,,,,,,,,,Nam Trực
+20047,Q033DN1,Bán hàng AM Viettel Quảng Ninh,311,Q033,4,/TD/VTT/Q033/Q033DN1/,/TD/VTT/Quảng Ninh/Bán hàng AM Viettel Quảng Ninh/,,1,281,VN,Việt Nam,20047,,,,,,,,,,Bán hàng AM Viettel Quảng Ninh
+16047,Q033TLS1,TLS Quảng Ninh,311,Q033,4,/TD/VTT/Q033/Q033TLS1/,/TD/VTT/Quảng Ninh/TLS Quảng Ninh/,,1,281,VN,Việt Nam,16047,,,,,,,,,,TLS Quảng Ninh
+1019,Q033012,Đông Triều,311,Q033,4,/TD/VTT/Q033/Q033012/,/TD/VTT/Quảng Ninh/Đông Triều/,,1,281,VN,Việt Nam,1019,,,,,,,,,,Đông Triều
+1018,Q033011,Hoành Bồ,311,Q033,4,/TD/VTT/Q033/Q033011/,/TD/VTT/Quảng Ninh/Hoành Bồ/,,1,281,VN,Việt Nam,1018,,,,,,,,,,Hoành Bồ
+1020,Q033013,Cô Tô,311,Q033,4,/TD/VTT/Q033/Q033013/,/TD/VTT/Quảng Ninh/Cô Tô/,,1,281,VN,Việt Nam,1020,,,,,,,,,,Cô Tô
+1016,Q033009,Ba Chẽ,311,Q033,4,/TD/VTT/Q033/Q033009/,/TD/VTT/Quảng Ninh/Ba Chẽ/,,1,281,VN,Việt Nam,1016,,,,,,,,,,Ba Chẽ
+1014,Q033007,Đầm Hà,311,Q033,4,/TD/VTT/Q033/Q033007/,/TD/VTT/Quảng Ninh/Đầm Hà/,,1,281,VN,Việt Nam,1014,,,,,,,,,,Đầm Hà
+1021,Q033014,Quảng Yên,311,Q033,4,/TD/VTT/Q033/Q033014/,/TD/VTT/Quảng Ninh/Quảng Yên/,,1,281,VN,Việt Nam,1021,,,,,,,,,,Quảng Yên
+1015,Q033008,Tiên Yên,311,Q033,4,/TD/VTT/Q033/Q033008/,/TD/VTT/Quảng Ninh/Tiên Yên/,,1,281,VN,Việt Nam,1015,,,,,,,,,,Tiên Yên
+1009,Q033002,Cẩm Phả,311,Q033,4,/TD/VTT/Q033/Q033002/,/TD/VTT/Quảng Ninh/Cẩm Phả/,,1,281,VN,Việt Nam,1009,,,,,,,,,,Cẩm Phả
+16053,T036TLS1,TLS Thái Bình,288,T036,4,/TD/VTT/T036/T036TLS1/,/TD/VTT/Thái Bình/TLS Thái Bình/,,1,281,VN,Việt Nam,16053,,,,,,,,,,TLS Thái Bình
+754,T036008,Tiền Hải,288,T036,4,/TD/VTT/T036/T036008/,/TD/VTT/Thái Bình/Tiền Hải/,,1,281,VN,Việt Nam,754,,,,,,,,,,Tiền Hải
+753,T036007,Kiến Xương,288,T036,4,/TD/VTT/T036/T036007/,/TD/VTT/Thái Bình/Kiến Xương/,,1,281,VN,Việt Nam,753,,,,,,,,,,Kiến Xương
+748,T036002,Quỳnh Phụ,288,T036,4,/TD/VTT/T036/T036002/,/TD/VTT/Thái Bình/Quỳnh Phụ/,,1,281,VN,Việt Nam,748,,,,,,,,,,Quỳnh Phụ
+751,T036005,Đông Hưng,288,T036,4,/TD/VTT/T036/T036005/,/TD/VTT/Thái Bình/Đông Hưng/,,1,281,VN,Việt Nam,751,,,,,,,,,,Đông Hưng
+750,T036004,Thái Thụy,288,T036,4,/TD/VTT/T036/T036004/,/TD/VTT/Thái Bình/Thái Thụy/,,1,281,VN,Việt Nam,750,,,,,,,,,,Thái Thụy
+752,T036006,Vũ Thư,288,T036,4,/TD/VTT/T036/T036006/,/TD/VTT/Thái Bình/Vũ Thư/,,1,281,VN,Việt Nam,752,,,,,,,,,,Vũ Thư
+749,T036003,Hưng Hà,288,T036,4,/TD/VTT/T036/T036003/,/TD/VTT/Thái Bình/Hưng Hà/,,1,281,VN,Việt Nam,749,,,,,,,,,,Hưng Hà
+747,T036001,Thái Bình,288,T036,4,/TD/VTT/T036/T036001/,/TD/VTT/Thái Bình/Thái Bình/,,1,281,VN,Việt Nam,747,,,,,,,,,,Thái Bình
+304761,S022012,Vân Hồ,285,S022,4,/TD/VTT/S022/S022012/,/TD/VTT/Sơn La/Vân Hồ/,,1,281,VN,Việt Nam,304761,,,,,,,,,,Vân Hồ
+20051,S022DN1,Bán hàng AM Viettel Sơn La,285,S022,4,/TD/VTT/S022/S022DN1/,/TD/VTT/Sơn La/Bán hàng AM Viettel Sơn La/,,1,281,VN,Việt Nam,20051,,,,,,,,,,Bán hàng AM Viettel Sơn La
+16051,S022TLS1,TLS Sơn La,285,S022,4,/TD/VTT/S022/S022TLS1/,/TD/VTT/Sơn La/TLS Sơn La/,,1,281,VN,Việt Nam,16051,,,,,,,,,,TLS Sơn La
+1053,S022011,Sốp Cộp,285,S022,4,/TD/VTT/S022/S022011/,/TD/VTT/Sơn La/Sốp Cộp/,,1,281,VN,Việt Nam,1053,,,,,,,,,,Sốp Cộp
+459,S022007,Mai Sơn,285,S022,4,/TD/VTT/S022/S022007/,/TD/VTT/Sơn La/Mai Sơn/,,1,281,VN,Việt Nam,459,,,,,,,,,,Mai Sơn
+456,S022004,Thuận Châu,285,S022,4,/TD/VTT/S022/S022004/,/TD/VTT/Sơn La/Thuận Châu/,,1,281,VN,Việt Nam,456,,,,,,,,,,Thuận Châu
+454,S022002,Quỳnh Nhai,285,S022,4,/TD/VTT/S022/S022002/,/TD/VTT/Sơn La/Quỳnh Nhai/,,1,281,VN,Việt Nam,454,,,,,,,,,,Quỳnh Nhai
+453,S022001,Sơn La,285,S022,4,/TD/VTT/S022/S022001/,/TD/VTT/Sơn La/Sơn La/,,1,281,VN,Việt Nam,453,,,,,,,,,,Sơn La
+457,S022005,Bắc Yên,285,S022,4,/TD/VTT/S022/S022005/,/TD/VTT/Sơn La/Bắc Yên/,,1,281,VN,Việt Nam,457,,,,,,,,,,Bắc Yên
+458,S022006,Phù Yên,285,S022,4,/TD/VTT/S022/S022006/,/TD/VTT/Sơn La/Phù Yên/,,1,281,VN,Việt Nam,458,,,,,,,,,,Phù Yên
+462,S022010,Mộc Châu,285,S022,4,/TD/VTT/S022/S022010/,/TD/VTT/Sơn La/Mộc Châu/,,1,281,VN,Việt Nam,462,,,,,,,,,,Mộc Châu
+461,S022009,Yên Châu,285,S022,4,/TD/VTT/S022/S022009/,/TD/VTT/Sơn La/Yên Châu/,,1,281,VN,Việt Nam,461,,,,,,,,,,Yên Châu
+460,S022008,Sông Mã,285,S022,4,/TD/VTT/S022/S022008/,/TD/VTT/Sơn La/Sông Mã/,,1,281,VN,Việt Nam,460,,,,,,,,,,Sông Mã
+455,S022003,Mường La,285,S022,4,/TD/VTT/S022/S022003/,/TD/VTT/Sơn La/Mường La/,,1,281,VN,Việt Nam,455,,,,,,,,,,Mường La
+20058,T027DN1,Bán hàng AM Viettel Tuyên quang,287,T027,4,/TD/VTT/T027/T027DN1/,/TD/VTT/Tuyên Quang/Bán hàng AM Viettel Tuyên quang/,,1,281,VN,Việt Nam,20058,,,,,,,,,,Bán hàng AM Viettel Tuyên quang
+16058,T027TLS1,TLS Tuyên Quang,287,T027,4,/TD/VTT/T027/T027TLS1/,/TD/VTT/Tuyên Quang/TLS Tuyên Quang/,,1,281,VN,Việt Nam,16058,,,,,,,,,,TLS Tuyên Quang
+934,T027004,Hàm Yên,287,T027,4,/TD/VTT/T027/T027004/,/TD/VTT/Tuyên Quang/Hàm Yên/,,1,281,VN,Việt Nam,934,,,,,,,,,,Hàm Yên
+959,T280007,Đại Từ,290,T280,4,/TD/VTT/T280/T280007/,/TD/VTT/Thái Nguyên/Đại Từ/,,1,281,VN,Việt Nam,959,,,,,,,,,,Đại Từ
+958,T280006,Đồng Hỷ,290,T280,4,/TD/VTT/T280/T280006/,/TD/VTT/Thái Nguyên/Đồng Hỷ/,,1,281,VN,Việt Nam,958,,,,,,,,,,Đồng Hỷ
+954,T280002,Sông Công,290,T280,4,/TD/VTT/T280/T280002/,/TD/VTT/Thái Nguyên/Sông Công/,,1,281,VN,Việt Nam,954,,,,,,,,,,Sông Công
+960,T280008,Phú Bình,290,T280,4,/TD/VTT/T280/T280008/,/TD/VTT/Thái Nguyên/Phú Bình/,,1,281,VN,Việt Nam,960,,,,,,,,,,Phú Bình
+957,T280005,Phú Lương,290,T280,4,/TD/VTT/T280/T280005/,/TD/VTT/Thái Nguyên/Phú Lương/,,1,281,VN,Việt Nam,957,,,,,,,,,,Phú Lương
+956,T280004,Võ Nhai,290,T280,4,/TD/VTT/T280/T280004/,/TD/VTT/Thái Nguyên/Võ Nhai/,,1,281,VN,Việt Nam,956,,,,,,,,,,Võ Nhai
+953,T280001,Thái Nguyên,290,T280,4,/TD/VTT/T280/T280001/,/TD/VTT/Thái Nguyên/Thái Nguyên/,,1,281,VN,Việt Nam,953,,,,,,,,,,Thái Nguyên
+20061,V211DN1,Bán hàng AM Viettel Vĩnh Phúc,291,V211,4,/TD/VTT/V211/V211DN1/,/TD/VTT/Vĩnh Phúc/Bán hàng AM Viettel Vĩnh Phúc/,,1,281,VN,Việt Nam,20061,,,,,,,,,,Bán hàng AM Viettel Vĩnh Phúc
+16061,V211TLS1,TLS Vĩnh Phúc,291,V211,4,/TD/VTT/V211/V211TLS1/,/TD/VTT/Vĩnh Phúc/TLS Vĩnh Phúc/,,1,281,VN,Việt Nam,16061,,,,,,,,,,TLS Vĩnh Phúc
+14248,V211011,Sông Lô,291,V211,4,/TD/VTT/V211/V211011/,/TD/VTT/Vĩnh Phúc/Sông Lô/,,1,281,VN,Việt Nam,14248,,,,,,,,,,Sông Lô
+509,V211008,Phúc Yên,291,V211,4,/TD/VTT/V211/V211008/,/TD/VTT/Vĩnh Phúc/Phúc Yên/,,1,281,VN,Việt Nam,509,,,,,,,,,,Phúc Yên
+1003,V211002,Lập Thạch,291,V211,4,/TD/VTT/V211/V211002/,/TD/VTT/Vĩnh Phúc/Lập Thạch/,,1,281,VN,Việt Nam,1003,,,,,,,,,,Lập Thạch
+1007,V211006,Yên Lạc,291,V211,4,/TD/VTT/V211/V211006/,/TD/VTT/Vĩnh Phúc/Yên Lạc/,,1,281,VN,Việt Nam,1007,,,,,,,,,,Yên Lạc
+1005,V211004,Bình Xuyên,291,V211,4,/TD/VTT/V211/V211004/,/TD/VTT/Vĩnh Phúc/Bình Xuyên/,,1,281,VN,Việt Nam,1005,,,,,,,,,,Bình Xuyên
+1004,V211003,Tam Dương,291,V211,4,/TD/VTT/V211/V211003/,/TD/VTT/Vĩnh Phúc/Tam Dương/,,1,281,VN,Việt Nam,1004,,,,,,,,,,Tam Dương
+1006,V211005,Vĩnh Tường,291,V211,4,/TD/VTT/V211/V211005/,/TD/VTT/Vĩnh Phúc/Vĩnh Tường/,,1,281,VN,Việt Nam,1006,,,,,,,,,,Vĩnh Tường
+1002,V211001,Vĩnh Yên,291,V211,4,/TD/VTT/V211/V211001/,/TD/VTT/Vĩnh Phúc/Vĩnh Yên/,,1,281,VN,Việt Nam,1002,,,,,,,,,,Vĩnh Yên
+510,V211009,Tam Đảo,291,V211,4,/TD/VTT/V211/V211009/,/TD/VTT/Vĩnh Phúc/Tam Đảo/,,1,281,VN,Việt Nam,510,,,,,,,,,,Tam Đảo
+20025,H004DN1,Bán hàng AM Viettel Hà Nội,292,H004,4,/TD/VTT/H004/H004DN1/,/TD/VTT/Hà Nội/Bán hàng AM Viettel Hà Nội/,,1,281,VN,Việt Nam,20025,,,,,,,,,,Bán hàng AM Viettel Hà Nội
+16025,H004TLS1,TLS Hà Nội,292,H004,4,/TD/VTT/H004/H004TLS1/,/TD/VTT/Hà Nội/TLS Hà Nội/,,1,281,VN,Việt Nam,16025,,,,,,,,,,TLS Hà Nội
+289761,H004033,Đông Dương,292,H004,4,/TD/VTT/H004/H004033/,/TD/VTT/Hà Nội/Đông Dương/,,1,281,VN,Việt Nam,289761,,,,,,,,,,Đông Dương
+15601,H004031,Nam Từ Liêm,292,H004,4,/TD/VTT/H004/H004031/,/TD/VTT/Hà Nội/Nam Từ Liêm/,,1,281,VN,Việt Nam,15601,,,,,,,,,,Nam Từ Liêm
+1074,H004013,Long Biên,292,H004,4,/TD/VTT/H004/H004013/,/TD/VTT/Hà Nội/Long Biên/,,1,281,VN,Việt Nam,1074,,,,,,,,,,Long Biên
+1071,H004010,Sóc Sơn,292,H004,4,/TD/VTT/H004/H004010/,/TD/VTT/Hà Nội/Sóc Sơn/,,1,281,VN,Việt Nam,1071,,,,,,,,,,Sóc Sơn
+1069,H004008,Gia Lâm,292,H004,4,/TD/VTT/H004/H004008/,/TD/VTT/Hà Nội/Gia Lâm/,,1,281,VN,Việt Nam,1069,,,,,,,,,,Gia Lâm
+1068,H004007,Cầu Giấy,292,H004,4,/TD/VTT/H004/H004007/,/TD/VTT/Hà Nội/Cầu Giấy/,,1,281,VN,Việt Nam,1068,,,,,,,,,,Cầu Giấy
+1072,H004014,Hoàng Mai,292,H004,4,/TD/VTT/H004/H004014/,/TD/VTT/Hà Nội/Hoàng Mai/,,1,281,VN,Việt Nam,1072,,,,,,,,,,Hoàng Mai
+728,H004003,Ba Đình,292,H004,4,/TD/VTT/H004/H004003/,/TD/VTT/Hà Nội/Ba Đình/,,1,281,VN,Việt Nam,728,,,,,,,,,,Ba Đình
+729,H004004,Đống Đa,292,H004,4,/TD/VTT/H004/H004004/,/TD/VTT/Hà Nội/Đống Đa/,,1,281,VN,Việt Nam,729,,,,,,,,,,Đống Đa
+1092,H004011,Đông Anh,292,H004,4,/TD/VTT/H004/H004011/,/TD/VTT/Hà Nội/Đông Anh/,,1,281,VN,Việt Nam,1092,,,,,,,,,,Đông Anh
+1070,H004009,Thanh Trì,292,H004,4,/TD/VTT/H004/H004009/,/TD/VTT/Hà Nội/Thanh Trì/,,1,281,VN,Việt Nam,1070,,,,,,,,,,Thanh Trì
+730,H004005,Thanh Xuân,292,H004,4,/TD/VTT/H004/H004005/,/TD/VTT/Hà Nội/Thanh Xuân/,,1,281,VN,Việt Nam,730,,,,,,,,,,Thanh Xuân
+410,H004028,Phú Xuyên,292,H004,4,/TD/VTT/H004/H004028/,/TD/VTT/Hà Nội/Phú Xuyên/,,1,281,VN,Việt Nam,410,,,,,,,,,,Phú Xuyên
+409,H004025,Thường Tín,292,H004,4,/TD/VTT/H004/H004025/,/TD/VTT/Hà Nội/Thường Tín/,,1,281,VN,Việt Nam,409,,,,,,,,,,Thường Tín
+412,H004030,Mê Linh,292,H004,4,/TD/VTT/H004/H004030/,/TD/VTT/Hà Nội/Mê Linh/,,1,281,VN,Việt Nam,412,,,,,,,,,,Mê Linh
+726,H004001,Hai Bà Trưng,292,H004,4,/TD/VTT/H004/H004001/,/TD/VTT/Hà Nội/Hai Bà Trưng/,,1,281,VN,Việt Nam,726,,,,,,,,,,Hai Bà Trưng
+547,P057002,Đồng Xuân,329,P057,4,/TD/VTT/P057/P057002/,/TD/VTT/Phú Yên/Đồng Xuân/,,1,281,VN,Việt Nam,547,,,,,,,,,,Đồng Xuân
+1066,B281008,Pắc Nặm,295,B281,4,/TD/VTT/B281/B281008/,/TD/VTT/Bắc Kạn/Pắc Nặm/,,1,281,VN,Việt Nam,1066,,,,,,,,,,Pắc Nặm
+939,B281003,Ngân Sơn,295,B281,4,/TD/VTT/B281/B281003/,/TD/VTT/Bắc Kạn/Ngân Sơn/,,1,281,VN,Việt Nam,939,,,,,,,,,,Ngân Sơn
+938,B281002,Ba Bể,295,B281,4,/TD/VTT/B281/B281002/,/TD/VTT/Bắc Kạn/Ba Bể/,,1,281,VN,Việt Nam,938,,,,,,,,,,Ba Bể
+943,B281007,Chợ Mới,295,B281,4,/TD/VTT/B281/B281007/,/TD/VTT/Bắc Kạn/Chợ Mới/,,1,281,VN,Việt Nam,943,,,,,,,,,,Chợ Mới
+942,B281006,Bạch Thông,295,B281,4,/TD/VTT/B281/B281006/,/TD/VTT/Bắc Kạn/Bạch Thông/,,1,281,VN,Việt Nam,942,,,,,,,,,,Bạch Thông
+940,B281004,Chợ Đồn,295,B281,4,/TD/VTT/B281/B281004/,/TD/VTT/Bắc Kạn/Chợ Đồn/,,1,281,VN,Việt Nam,940,,,,,,,,,,Chợ Đồn
+941,B281005,Na Rì,295,B281,4,/TD/VTT/B281/B281005/,/TD/VTT/Bắc Kạn/Na Rì/,,1,281,VN,Việt Nam,941,,,,,,,,,,Na Rì
+937,B281001,Bắc Kạn,295,B281,4,/TD/VTT/B281/B281001/,/TD/VTT/Bắc Kạn/Bắc Kạn/,,1,281,VN,Việt Nam,937,,,,,,,,,,Bắc Kạn
+20007,B241DN1,Bán hàng AM Viettel Bắc Ninh,294,B241,4,/TD/VTT/B241/B241DN1/,/TD/VTT/Bắc Ninh/Bán hàng AM Viettel Bắc Ninh/,,1,281,VN,Việt Nam,20007,,,,,,,,,,Bán hàng AM Viettel Bắc Ninh
+16007,B241TLS1,TLS Bắc Ninh,294,B241,4,/TD/VTT/B241/B241TLS1/,/TD/VTT/Bắc Ninh/TLS Bắc Ninh/,,1,281,VN,Việt Nam,16007,,,,,,,,,,TLS Bắc Ninh
+1001,B241008,Gia Bình,294,B241,4,/TD/VTT/B241/B241008/,/TD/VTT/Bắc Ninh/Gia Bình/,,1,281,VN,Việt Nam,1001,,,,,,,,,,Gia Bình
+998,B241005,Từ Sơn,294,B241,4,/TD/VTT/B241/B241005/,/TD/VTT/Bắc Ninh/Từ Sơn/,,1,281,VN,Việt Nam,998,,,,,,,,,,Từ Sơn
+996,B241003,Quế Võ,294,B241,4,/TD/VTT/B241/B241003/,/TD/VTT/Bắc Ninh/Quế Võ/,,1,281,VN,Việt Nam,996,,,,,,,,,,Quế Võ
+995,B241002,Yên Phong,294,B241,4,/TD/VTT/B241/B241002/,/TD/VTT/Bắc Ninh/Yên Phong/,,1,281,VN,Việt Nam,995,,,,,,,,,,Yên Phong
+1000,B241007,Lương Tài,294,B241,4,/TD/VTT/B241/B241007/,/TD/VTT/Bắc Ninh/Lương Tài/,,1,281,VN,Việt Nam,1000,,,,,,,,,,Lương Tài
+994,B241001,Bắc Ninh,294,B241,4,/TD/VTT/B241/B241001/,/TD/VTT/Bắc Ninh/Bắc Ninh/,,1,281,VN,Việt Nam,994,,,,,,,,,,Bắc Ninh
+999,B241006,Thuận Thành,294,B241,4,/TD/VTT/B241/B241006/,/TD/VTT/Bắc Ninh/Thuận Thành/,,1,281,VN,Việt Nam,999,,,,,,,,,,Thuận Thành
+997,B241004,Tiên Du,294,B241,4,/TD/VTT/B241/B241004/,/TD/VTT/Bắc Ninh/Tiên Du/,,1,281,VN,Việt Nam,997,,,,,,,,,,Tiên Du
+20023,H320DN1,Bán hàng AM Viettel Hải Dương,301,H320,4,/TD/VTT/H320/H320DN1/,/TD/VTT/Hải Dương/Bán hàng AM Viettel Hải Dương/,,1,281,VN,Việt Nam,20023,,,,,,,,,,Bán hàng AM Viettel Hải Dương
+16023,H320TLS1,TLS Hải Dương,301,H320,4,/TD/VTT/H320/H320TLS1/,/TD/VTT/Hải Dương/TLS Hải Dương/,,1,281,VN,Việt Nam,16023,,,,,,,,,,TLS Hải Dương
+734,H320009,Cẩm Giàng,301,H320,4,/TD/VTT/H320/H320009/,/TD/VTT/Hải Dương/Cẩm Giàng/,,1,281,VN,Việt Nam,734,,,,,,,,,,Cẩm Giàng
+736,H320011,Thanh Miện,301,H320,4,/TD/VTT/H320/H320011/,/TD/VTT/Hải Dương/Thanh Miện/,,1,281,VN,Việt Nam,736,,,,,,,,,,Thanh Miện
+733,H320008,Tứ Kỳ,301,H320,4,/TD/VTT/H320/H320008/,/TD/VTT/Hải Dương/Tứ Kỳ/,,1,281,VN,Việt Nam,733,,,,,,,,,,Tứ Kỳ
+737,H320012,Ninh Giang,301,H320,4,/TD/VTT/H320/H320012/,/TD/VTT/Hải Dương/Ninh Giang/,,1,281,VN,Việt Nam,737,,,,,,,,,,Ninh Giang
+679,H320003,Nam Sách,301,H320,4,/TD/VTT/H320/H320003/,/TD/VTT/Hải Dương/Nam Sách/,,1,281,VN,Việt Nam,679,,,,,,,,,,Nam Sách
+731,H320006,Kim Thành,301,H320,4,/TD/VTT/H320/H320006/,/TD/VTT/Hải Dương/Kim Thành/,,1,281,VN,Việt Nam,731,,,,,,,,,,Kim Thành
+677,H320001,Hải Dương,301,H320,4,/TD/VTT/H320/H320001/,/TD/VTT/Hải Dương/Hải Dương/,,1,281,VN,Việt Nam,677,,,,,,,,,,Hải Dương
+735,H320010,Bình Giang,301,H320,4,/TD/VTT/H320/H320010/,/TD/VTT/Hải Dương/Bình Giang/,,1,281,VN,Việt Nam,735,,,,,,,,,,Bình Giang
+732,H320007,Gia Lộc,301,H320,4,/TD/VTT/H320/H320007/,/TD/VTT/Hải Dương/Gia Lộc/,,1,281,VN,Việt Nam,732,,,,,,,,,,Gia Lộc
+681,H320005,Kinh Môn,301,H320,4,/TD/VTT/H320/H320005/,/TD/VTT/Hải Dương/Kinh Môn/,,1,281,VN,Việt Nam,681,,,,,,,,,,Kinh Môn
+680,H320004,Thanh Hà,301,H320,4,/TD/VTT/H320/H320004/,/TD/VTT/Hải Dương/Thanh Hà/,,1,281,VN,Việt Nam,680,,,,,,,,,,Thanh Hà
+678,H320002,Chí Linh,301,H320,4,/TD/VTT/H320/H320002/,/TD/VTT/Hải Dương/Chí Linh/,,1,281,VN,Việt Nam,678,,,,,,,,,,Chí Linh
+20021,H018DN1,Bán hàng AM Viettel Hòa Bình,297,H018,4,/TD/VTT/H018/H018DN1/,/TD/VTT/Hòa Bình/Bán hàng AM Viettel Hòa Bình/,,1,281,VN,Việt Nam,20021,,,,,,,,,,Bán hàng AM Viettel Hòa Bình
+16021,H018TLS1,TLS Hòa Bình,297,H018,4,/TD/VTT/H018/H018TLS1/,/TD/VTT/Hòa Bình/TLS Hòa Bình/,,1,281,VN,Việt Nam,16021,,,,,,,,,,TLS Hòa Bình
+1080,H018011,Cao Phong,297,H018,4,/TD/VTT/H018/H018011/,/TD/VTT/Hòa Bình/Cao Phong/,,1,281,VN,Việt Nam,1080,,,,,,,,,,Cao Phong
+472,H018010,Yên Thủy,297,H018,4,/TD/VTT/H018/H018010/,/TD/VTT/Hòa Bình/Yên Thủy/,,1,281,VN,Việt Nam,472,,,,,,,,,,Yên Thủy
+469,H018007,Tân Lạc,297,H018,4,/TD/VTT/H018/H018007/,/TD/VTT/Hòa Bình/Tân Lạc/,,1,281,VN,Việt Nam,469,,,,,,,,,,Tân Lạc
+463,H018001,Hòa Bình,297,H018,4,/TD/VTT/H018/H018001/,/TD/VTT/Hòa Bình/Hòa Bình/,,1,281,VN,Việt Nam,463,,,,,,,,,,Hòa Bình
+466,H018004,Kỳ Sơn,297,H018,4,/TD/VTT/H018/H018004/,/TD/VTT/Hòa Bình/Kỳ Sơn/,,1,281,VN,Việt Nam,466,,,,,,,,,,Kỳ Sơn
+465,H018003,Mai Châu,297,H018,4,/TD/VTT/H018/H018003/,/TD/VTT/Hòa Bình/Mai Châu/,,1,281,VN,Việt Nam,465,,,,,,,,,,Mai Châu
+471,H018009,Lạc Thủy,297,H018,4,/TD/VTT/H018/H018009/,/TD/VTT/Hòa Bình/Lạc Thủy/,,1,281,VN,Việt Nam,471,,,,,,,,,,Lạc Thủy
+468,H018006,Kim Bôi,297,H018,4,/TD/VTT/H018/H018006/,/TD/VTT/Hòa Bình/Kim Bôi/,,1,281,VN,Việt Nam,468,,,,,,,,,,Kim Bôi
+464,H018002,Đà Bắc,297,H018,4,/TD/VTT/H018/H018002/,/TD/VTT/Hòa Bình/Đà Bắc/,,1,281,VN,Việt Nam,464,,,,,,,,,,Đà Bắc
+20024,H019DN1,Bán hàng AM Viettel Hà Giang,298,H019,4,/TD/VTT/H019/H019DN1/,/TD/VTT/Hà Giang/Bán hàng AM Viettel Hà Giang/,,1,281,VN,Việt Nam,20024,,,,,,,,,,Bán hàng AM Viettel Hà Giang
+15442,N038022,Hoàng Mai,307,N038,4,/TD/VTT/N038/N038022/,/TD/VTT/Nghệ An/Hoàng Mai/,,1,281,VN,Việt Nam,15442,,,,,,,,,,Hoàng Mai
+487,N038015,Đô Lương,307,N038,4,/TD/VTT/N038/N038015/,/TD/VTT/Nghệ An/Đô Lương/,,1,281,VN,Việt Nam,487,,,,,,,,,,Đô Lương
+1075,H019011,Quang Bình,298,H019,4,/TD/VTT/H019/H019011/,/TD/VTT/Hà Giang/Quang Bình/,,1,281,VN,Việt Nam,1075,,,,,,,,,,Quang Bình
+780,H019002,Đồng Văn,298,H019,4,/TD/VTT/H019/H019002/,/TD/VTT/Hà Giang/Đồng Văn/,,1,281,VN,Việt Nam,780,,,,,,,,,,Đồng Văn
+779,H019001,Hà Giang,298,H019,4,/TD/VTT/H019/H019001/,/TD/VTT/Hà Giang/Hà Giang/,,1,281,VN,Việt Nam,779,,,,,,,,,,Hà Giang
+787,H019009,Xín Mần,298,H019,4,/TD/VTT/H019/H019009/,/TD/VTT/Hà Giang/Xín Mần/,,1,281,VN,Việt Nam,787,,,,,,,,,,Xín Mần
+788,H019010,Bắc Quang,298,H019,4,/TD/VTT/H019/H019010/,/TD/VTT/Hà Giang/Bắc Quang/,,1,281,VN,Việt Nam,788,,,,,,,,,,Bắc Quang
+786,H019008,Vị Xuyên,298,H019,4,/TD/VTT/H019/H019008/,/TD/VTT/Hà Giang/Vị Xuyên/,,1,281,VN,Việt Nam,786,,,,,,,,,,Vị Xuyên
+783,H019005,Quản Bạ,298,H019,4,/TD/VTT/H019/H019005/,/TD/VTT/Hà Giang/Quản Bạ/,,1,281,VN,Việt Nam,783,,,,,,,,,,Quản Bạ
+782,H019004,Yên Minh,298,H019,4,/TD/VTT/H019/H019004/,/TD/VTT/Hà Giang/Yên Minh/,,1,281,VN,Việt Nam,782,,,,,,,,,,Yên Minh
+20027,H031DN1,Bán hàng AM Viettel Hải Phòng,299,H031,4,/TD/VTT/H031/H031DN1/,/TD/VTT/Hải Phòng/Bán hàng AM Viettel Hải Phòng/,,1,281,VN,Việt Nam,20027,,,,,,,,,,Bán hàng AM Viettel Hải Phòng
+16027,H031TLS1,TLS Hải Phòng,299,H031,4,/TD/VTT/H031/H031TLS1/,/TD/VTT/Hải Phòng/TLS Hải Phòng/,,1,281,VN,Việt Nam,16027,,,,,,,,,,TLS Hải Phòng
+674,H031012,Vĩnh Bảo,299,H031,4,/TD/VTT/H031/H031012/,/TD/VTT/Hải Phòng/Vĩnh Bảo/,,1,281,VN,Việt Nam,674,,,,,,,,,,Vĩnh Bảo
+1077,H031015,An Hải,299,H031,4,/TD/VTT/H031/H031015/,/TD/VTT/Hải Phòng/An Hải/,,1,281,VN,Việt Nam,1077,,,,,,,,,,An Hải
+676,H031014,Bạch Long Vĩ,299,H031,4,/TD/VTT/H031/H031014/,/TD/VTT/Hải Phòng/Bạch Long Vĩ/,,1,281,VN,Việt Nam,676,,,,,,,,,,Bạch Long Vĩ
+663,H031001,Hồng Bàng,299,H031,4,/TD/VTT/H031/H031001/,/TD/VTT/Hải Phòng/Hồng Bàng/,,1,281,VN,Việt Nam,663,,,,,,,,,,Hồng Bàng
+442,H031016,Dương Kinh,299,H031,4,/TD/VTT/H031/H031016/,/TD/VTT/Hải Phòng/Dương Kinh/,,1,281,VN,Việt Nam,442,,,,,,,,,,Dương Kinh
+420,H031030,Nam Sơn,299,H031,4,/TD/VTT/H031/H031030/,/TD/VTT/Hải Phòng/Nam Sơn/,,1,281,VN,Việt Nam,420,,,,,,,,,,Nam Sơn
+675,H031013,Cát Hải,299,H031,4,/TD/VTT/H031/H031013/,/TD/VTT/Hải Phòng/Cát Hải/,,1,281,VN,Việt Nam,675,,,,,,,,,,Cát Hải
+664,H031002,Ngô Quyền,299,H031,4,/TD/VTT/H031/H031002/,/TD/VTT/Hải Phòng/Ngô Quyền/,,1,281,VN,Việt Nam,664,,,,,,,,,,Ngô Quyền
+666,H031004,Kiến An,299,H031,4,/TD/VTT/H031/H031004/,/TD/VTT/Hải Phòng/Kiến An/,,1,281,VN,Việt Nam,666,,,,,,,,,,Kiến An
+670,H031008,An Dương,299,H031,4,/TD/VTT/H031/H031008/,/TD/VTT/Hải Phòng/An Dương/,,1,281,VN,Việt Nam,670,,,,,,,,,,An Dương
+665,H031003,Lê Chân,299,H031,4,/TD/VTT/H031/H031003/,/TD/VTT/Hải Phòng/Lê Chân/,,1,281,VN,Việt Nam,665,,,,,,,,,,Lê Chân
+672,H031010,Kiến Thụy,299,H031,4,/TD/VTT/H031/H031010/,/TD/VTT/Hải Phòng/Kiến Thụy/,,1,281,VN,Việt Nam,672,,,,,,,,,,Kiến Thụy
+669,H031007,Thủy Nguyên,299,H031,4,/TD/VTT/H031/H031007/,/TD/VTT/Hải Phòng/Thủy Nguyên/,,1,281,VN,Việt Nam,669,,,,,,,,,,Thủy Nguyên
+668,H031006,Đồ Sơn,299,H031,4,/TD/VTT/H031/H031006/,/TD/VTT/Hải Phòng/Đồ Sơn/,,1,281,VN,Việt Nam,668,,,,,,,,,,Đồ Sơn
+667,H031005,Hải An,299,H031,4,/TD/VTT/H031/H031005/,/TD/VTT/Hải Phòng/Hải An/,,1,281,VN,Việt Nam,667,,,,,,,,,,Hải An
+673,H031011,Tiên Lãng,299,H031,4,/TD/VTT/H031/H031011/,/TD/VTT/Hải Phòng/Tiên Lãng/,,1,281,VN,Việt Nam,673,,,,,,,,,,Tiên Lãng
+671,H031009,An Lão,299,H031,4,/TD/VTT/H031/H031009/,/TD/VTT/Hải Phòng/An Lão/,,1,281,VN,Việt Nam,671,,,,,,,,,,An Lão
+20028,H039DN1,Bán hàng AM Viettel Hà Tĩnh,300,H039,4,/TD/VTT/H039/H039DN1/,/TD/VTT/Hà Tĩnh/Bán hàng AM Viettel Hà Tĩnh/,,1,281,VN,Việt Nam,20028,,,,,,,,,,Bán hàng AM Viettel Hà Tĩnh
+16028,H039TLS1,TLS Hà Tĩnh,300,H039,4,/TD/VTT/H039/H039TLS1/,/TD/VTT/Hà Tĩnh/TLS Hà Tĩnh/,,1,281,VN,Việt Nam,16028,,,,,,,,,,TLS Hà Tĩnh
+402,H039012,Lộc Hà,300,H039,4,/TD/VTT/H039/H039012/,/TD/VTT/Hà Tĩnh/Lộc Hà/,,1,281,VN,Việt Nam,402,,,,,,,,,,Lộc Hà
+505,H039005,Hương Sơn,300,H039,4,/TD/VTT/H039/H039005/,/TD/VTT/Hà Tĩnh/Hương Sơn/,,1,281,VN,Việt Nam,505,,,,,,,,,,Hương Sơn
+507,H039007,Can Lộc,300,H039,4,/TD/VTT/H039/H039007/,/TD/VTT/Hà Tĩnh/Can Lộc/,,1,281,VN,Việt Nam,507,,,,,,,,,,Can Lộc
+287741,H039013,Thị xã Kỳ Anh,300,H039,4,/TD/VTT/H039/H039013/,/TD/VTT/Hà Tĩnh/Thị xã Kỳ Anh/,,1,281,VN,Việt Nam,287741,,,,,,,,,,Thị xã Kỳ Anh
+503,H039003,Nghi Xuân,300,H039,4,/TD/VTT/H039/H039003/,/TD/VTT/Hà Tĩnh/Nghi Xuân/,,1,281,VN,Việt Nam,503,,,,,,,,,,Nghi Xuân
+501,H039001,Hà Tĩnh,300,H039,4,/TD/VTT/H039/H039001/,/TD/VTT/Hà Tĩnh/Hà Tĩnh/,,1,281,VN,Việt Nam,501,,,,,,,,,,Hà Tĩnh
+504,H039004,Đức Thọ,300,H039,4,/TD/VTT/H039/H039004/,/TD/VTT/Hà Tĩnh/Đức Thọ/,,1,281,VN,Việt Nam,504,,,,,,,,,,Đức Thọ
+508,H039008,Thạch Hà,300,H039,4,/TD/VTT/H039/H039008/,/TD/VTT/Hà Tĩnh/Thạch Hà/,,1,281,VN,Việt Nam,508,,,,,,,,,,Thạch Hà
+514,H039009,Cẩm Xuyên,300,H039,4,/TD/VTT/H039/H039009/,/TD/VTT/Hà Tĩnh/Cẩm Xuyên/,,1,281,VN,Việt Nam,514,,,,,,,,,,Cẩm Xuyên
+506,H039006,Vũ Quang,300,H039,4,/TD/VTT/H039/H039006/,/TD/VTT/Hà Tĩnh/Vũ Quang/,,1,281,VN,Việt Nam,506,,,,,,,,,,Vũ Quang
+516,H039011,Kỳ Anh,300,H039,4,/TD/VTT/H039/H039011/,/TD/VTT/Hà Tĩnh/Kỳ Anh/,,1,281,VN,Việt Nam,516,,,,,,,,,,Kỳ Anh
+502,H039002,Hồng Lĩnh,300,H039,4,/TD/VTT/H039/H039002/,/TD/VTT/Hà Tĩnh/Hồng Lĩnh/,,1,281,VN,Việt Nam,502,,,,,,,,,,Hồng Lĩnh
+515,H039010,Hương Khê,300,H039,4,/TD/VTT/H039/H039010/,/TD/VTT/Hà Tĩnh/Hương Khê/,,1,281,VN,Việt Nam,515,,,,,,,,,,Hương Khê
+20004,B240DN1,Bán hàng AM Viettel Bắc Giang,293,B240,4,/TD/VTT/B240/B240DN1/,/TD/VTT/Bắc Giang/Bán hàng AM Viettel Bắc Giang/,,1,281,VN,Việt Nam,20004,,,,,,,,,,Bán hàng AM Viettel Bắc Giang
+962,B240001,Bắc Giang,293,B240,4,/TD/VTT/B240/B240001/,/TD/VTT/Bắc Giang/Bắc Giang/,,1,281,VN,Việt Nam,962,,,,,,,,,,Bắc Giang
+965,B240004,Lục Ngạn,293,B240,4,/TD/VTT/B240/B240004/,/TD/VTT/Bắc Giang/Lục Ngạn/,,1,281,VN,Việt Nam,965,,,,,,,,,,Lục Ngạn
+979,B240008,Lục Nam,293,B240,4,/TD/VTT/B240/B240008/,/TD/VTT/Bắc Giang/Lục Nam/,,1,281,VN,Việt Nam,979,,,,,,,,,,Lục Nam
+964,B240003,Tân Yên,293,B240,4,/TD/VTT/B240/B240003/,/TD/VTT/Bắc Giang/Tân Yên/,,1,281,VN,Việt Nam,964,,,,,,,,,,Tân Yên
+963,B240002,Yên Thế,293,B240,4,/TD/VTT/B240/B240002/,/TD/VTT/Bắc Giang/Yên Thế/,,1,281,VN,Việt Nam,963,,,,,,,,,,Yên Thế
+981,B240010,Yên Dũng,293,B240,4,/TD/VTT/B240/B240010/,/TD/VTT/Bắc Giang/Yên Dũng/,,1,281,VN,Việt Nam,981,,,,,,,,,,Yên Dũng
+980,B240009,Việt Yên,293,B240,4,/TD/VTT/B240/B240009/,/TD/VTT/Bắc Giang/Việt Yên/,,1,281,VN,Việt Nam,980,,,,,,,,,,Việt Yên
+967,B240006,Lạng Giang,293,B240,4,/TD/VTT/B240/B240006/,/TD/VTT/Bắc Giang/Lạng Giang/,,1,281,VN,Việt Nam,967,,,,,,,,,,Lạng Giang
+966,B240005,Hiệp Hòa,293,B240,4,/TD/VTT/B240/B240005/,/TD/VTT/Bắc Giang/Hiệp Hòa/,,1,281,VN,Việt Nam,966,,,,,,,,,,Hiệp Hòa
+20011,C026DN1,Bán hàng AM Viettel Cao Bằng,296,C026,4,/TD/VTT/C026/C026DN1/,/TD/VTT/Cao Bằng/Bán hàng AM Viettel Cao Bằng/,,1,281,VN,Việt Nam,20011,,,,,,,,,,Bán hàng AM Viettel Cao Bằng
+16011,C026TLS1,TLS Cao Bằng,296,C026,4,/TD/VTT/C026/C026TLS1/,/TD/VTT/Cao Bằng/TLS Cao Bằng/,,1,281,VN,Việt Nam,16011,,,,,,,,,,TLS Cao Bằng
+798,C026010,Quảng Hoà,296,C026,4,/TD/VTT/C026/C026010/,/TD/VTT/Cao Bằng/Quảng Hoà/,,1,281,VN,Việt Nam,798,,,,,,,,,,Quảng Hoà
+790,C026002,Bảo Lạc,296,C026,4,/TD/VTT/C026/C026002/,/TD/VTT/Cao Bằng/Bảo Lạc/,,1,281,VN,Việt Nam,790,,,,,,,,,,Bảo Lạc
+789,C026001,Cao Bằng,296,C026,4,/TD/VTT/C026/C026001/,/TD/VTT/Cao Bằng/Cao Bằng/,,1,281,VN,Việt Nam,789,,,,,,,,,,Cao Bằng
+797,C026009,Hòa An,296,C026,4,/TD/VTT/C026/C026009/,/TD/VTT/Cao Bằng/Hòa An/,,1,281,VN,Việt Nam,797,,,,,,,,,,Hòa An
+796,C026008,Nguyên Bình,296,C026,4,/TD/VTT/C026/C026008/,/TD/VTT/Cao Bằng/Nguyên Bình/,,1,281,VN,Việt Nam,796,,,,,,,,,,Nguyên Bình
+794,C026006,Trà Lĩnh,296,C026,4,/TD/VTT/C026/C026006/,/TD/VTT/Cao Bằng/Trà Lĩnh/,,1,281,VN,Việt Nam,794,,,,,,,,,,Trà Lĩnh
+793,C026005,Thông Nông,296,C026,4,/TD/VTT/C026/C026005/,/TD/VTT/Cao Bằng/Thông Nông/,,1,281,VN,Việt Nam,793,,,,,,,,,,Thông Nông
+791,C026003,Bảo Lâm,296,C026,4,/TD/VTT/C026/C026003/,/TD/VTT/Cao Bằng/Bảo Lâm/,,1,281,VN,Việt Nam,791,,,,,,,,,,Bảo Lâm
+1060,C026013,Phục Hòa,296,C026,4,/TD/VTT/C026/C026013/,/TD/VTT/Cao Bằng/Phục Hòa/,,1,281,VN,Việt Nam,1060,,,,,,,,,,Phục Hòa
+800,C026012,Thạch An,296,C026,4,/TD/VTT/C026/C026012/,/TD/VTT/Cao Bằng/Thạch An/,,1,281,VN,Việt Nam,800,,,,,,,,,,Thạch An
+792,C026004,Hà Quảng,296,C026,4,/TD/VTT/C026/C026004/,/TD/VTT/Cao Bằng/Hà Quảng/,,1,281,VN,Việt Nam,792,,,,,,,,,,Hà Quảng
+795,C026007,Trùng Khánh,296,C026,4,/TD/VTT/C026/C026007/,/TD/VTT/Cao Bằng/Trùng Khánh/,,1,281,VN,Việt Nam,795,,,,,,,,,,Trùng Khánh
+1013,Q033006,Hải Hà,311,Q033,4,/TD/VTT/Q033/Q033006/,/TD/VTT/Quảng Ninh/Hải Hà/,,1,281,VN,Việt Nam,1013,,,,,,,,,,Hải Hà
+1012,Q033005,Bình Liêu,311,Q033,4,/TD/VTT/Q033/Q033005/,/TD/VTT/Quảng Ninh/Bình Liêu/,,1,281,VN,Việt Nam,1012,,,,,,,,,,Bình Liêu
+1008,Q033001,Hạ Long,311,Q033,4,/TD/VTT/Q033/Q033001/,/TD/VTT/Quảng Ninh/Hạ Long/,,1,281,VN,Việt Nam,1008,,,,,,,,,,Hạ Long
+1011,Q033004,Móng Cái,311,Q033,4,/TD/VTT/Q033/Q033004/,/TD/VTT/Quảng Ninh/Móng Cái/,,1,281,VN,Việt Nam,1011,,,,,,,,,,Móng Cái
+1017,Q033010,Vân Đồn,311,Q033,4,/TD/VTT/Q033/Q033010/,/TD/VTT/Quảng Ninh/Vân Đồn/,,1,281,VN,Việt Nam,1017,,,,,,,,,,Vân Đồn
+1010,Q033003,Uông Bí,311,Q033,4,/TD/VTT/Q033/Q033003/,/TD/VTT/Quảng Ninh/Uông Bí/,,1,281,VN,Việt Nam,1010,,,,,,,,,,Uông Bí
+16037,L231TLS1,TLS Lai Châu,304,L231,4,/TD/VTT/L231/L231TLS1/,/TD/VTT/Lai Châu/TLS Lai Châu/,,1,281,VN,Việt Nam,16037,,,,,,,,,,TLS Lai Châu
+16010,B062TLS1,TLS Bình Thuận,323,B062,4,/TD/VTT/B062/B062TLS1/,/TD/VTT/Bình Thuận/TLS Bình Thuận/,,1,281,VN,Việt Nam,16010,,,,,,,,,,TLS Bình Thuận
+704,B062001,Phan Thiết,323,B062,4,/TD/VTT/B062/B062001/,/TD/VTT/Bình Thuận/Phan Thiết/,,1,281,VN,Việt Nam,704,,,,,,,,,,Phan Thiết
+441,B062010,La Gi,323,B062,4,/TD/VTT/B062/B062010/,/TD/VTT/Bình Thuận/La Gi/,,1,281,VN,Việt Nam,441,,,,,,,,,,La Gi
+711,B062008,Đức Linh,323,B062,4,/TD/VTT/B062/B062008/,/TD/VTT/Bình Thuận/Đức Linh/,,1,281,VN,Việt Nam,711,,,,,,,,,,Đức Linh
+710,B062007,Hàm Tân,323,B062,4,/TD/VTT/B062/B062007/,/TD/VTT/Bình Thuận/Hàm Tân/,,1,281,VN,Việt Nam,710,,,,,,,,,,Hàm Tân
+706,B062003,Bắc Bình,323,B062,4,/TD/VTT/B062/B062003/,/TD/VTT/Bình Thuận/Bắc Bình/,,1,281,VN,Việt Nam,706,,,,,,,,,,Bắc Bình
+707,B062004,Hàm Thuận Bắc,323,B062,4,/TD/VTT/B062/B062004/,/TD/VTT/Bình Thuận/Hàm Thuận Bắc/,,1,281,VN,Việt Nam,707,,,,,,,,,,Hàm Thuận Bắc
+705,B062002,Tuy Phong,323,B062,4,/TD/VTT/B062/B062002/,/TD/VTT/Bình Thuận/Tuy Phong/,,1,281,VN,Việt Nam,705,,,,,,,,,,Tuy Phong
+712,B062009,Phú Quý,323,B062,4,/TD/VTT/B062/B062009/,/TD/VTT/Bình Thuận/Phú Quý/,,1,281,VN,Việt Nam,712,,,,,,,,,,Phú Quý
+709,B062006,Tánh Linh,323,B062,4,/TD/VTT/B062/B062006/,/TD/VTT/Bình Thuận/Tánh Linh/,,1,281,VN,Việt Nam,709,,,,,,,,,,Tánh Linh
+20049,Q510DN1,Bán hàng AM Viettel Quảng Nam,319,Q510,4,/TD/VTT/Q510/Q510DN1/,/TD/VTT/Quảng Nam/Bán hàng AM Viettel Quảng Nam/,,1,281,VN,Việt Nam,20049,,,,,,,,,,Bán hàng AM Viettel Quảng Nam
+16049,Q510TLS1,TLS Quảng Nam,319,Q510,4,/TD/VTT/Q510/Q510TLS1/,/TD/VTT/Quảng Nam/TLS Quảng Nam/,,1,281,VN,Việt Nam,16049,,,,,,,,,,TLS Quảng Nam
+537,Q510005,Điện Bàn,319,Q510,4,/TD/VTT/Q510/Q510005/,/TD/VTT/Quảng Nam/Điện Bàn/,,1,281,VN,Việt Nam,537,,,,,,,,,,Điện Bàn
+542,Q510010,Hiệp Đức,319,Q510,4,/TD/VTT/Q510/Q510010/,/TD/VTT/Quảng Nam/Hiệp Đức/,,1,281,VN,Việt Nam,542,,,,,,,,,,Hiệp Đức
+538,Q510006,Duy Xuyên,319,Q510,4,/TD/VTT/Q510/Q510006/,/TD/VTT/Quảng Nam/Duy Xuyên/,,1,281,VN,Việt Nam,538,,,,,,,,,,Duy Xuyên
+428,Q510017,Tây Giang,319,Q510,4,/TD/VTT/Q510/Q510017/,/TD/VTT/Quảng Nam/Tây Giang/,,1,281,VN,Việt Nam,428,,,,,,,,,,Tây Giang
+545,Q510013,Nam Trà My,319,Q510,4,/TD/VTT/Q510/Q510013/,/TD/VTT/Quảng Nam/Nam Trà My/,,1,281,VN,Việt Nam,545,,,,,,,,,,Nam Trà My
+414,Q510019,Nông Sơn,319,Q510,4,/TD/VTT/Q510/Q510019/,/TD/VTT/Quảng Nam/Nông Sơn/,,1,281,VN,Việt Nam,414,,,,,,,,,,Nông Sơn
+543,Q510011,Tiên Phước,319,Q510,4,/TD/VTT/Q510/Q510011/,/TD/VTT/Quảng Nam/Tiên Phước/,,1,281,VN,Việt Nam,543,,,,,,,,,,Tiên Phước
+544,Q510012,Núi Thành,319,Q510,4,/TD/VTT/Q510/Q510012/,/TD/VTT/Quảng Nam/Núi Thành/,,1,281,VN,Việt Nam,544,,,,,,,,,,Núi Thành
+436,Q510016,Đông Giang,319,Q510,4,/TD/VTT/Q510/Q510016/,/TD/VTT/Quảng Nam/Đông Giang/,,1,281,VN,Việt Nam,436,,,,,,,,,,Đông Giang
+1091,Q510015,Phú Ninh,319,Q510,4,/TD/VTT/Q510/Q510015/,/TD/VTT/Quảng Nam/Phú Ninh/,,1,281,VN,Việt Nam,1091,,,,,,,,,,Phú Ninh
+540,Q510008,Thăng Bình,319,Q510,4,/TD/VTT/Q510/Q510008/,/TD/VTT/Quảng Nam/Thăng Bình/,,1,281,VN,Việt Nam,540,,,,,,,,,,Thăng Bình
+533,Q510001,Tam Kỳ,319,Q510,4,/TD/VTT/Q510/Q510001/,/TD/VTT/Quảng Nam/Tam Kỳ/,,1,281,VN,Việt Nam,533,,,,,,,,,,Tam Kỳ
+541,Q510009,Quế Sơn,319,Q510,4,/TD/VTT/Q510/Q510009/,/TD/VTT/Quảng Nam/Quế Sơn/,,1,281,VN,Việt Nam,541,,,,,,,,,,Quế Sơn
+536,Q510004,Đại Lộc,319,Q510,4,/TD/VTT/Q510/Q510004/,/TD/VTT/Quảng Nam/Đại Lộc/,,1,281,VN,Việt Nam,536,,,,,,,,,,Đại Lộc
+535,Q510003,Hiên,319,Q510,4,/TD/VTT/Q510/Q510003/,/TD/VTT/Quảng Nam/Hiên/,,1,281,VN,Việt Nam,535,,,,,,,,,,Hiên
+534,Q510002,Hội An,319,Q510,4,/TD/VTT/Q510/Q510002/,/TD/VTT/Quảng Nam/Hội An/,,1,281,VN,Việt Nam,534,,,,,,,,,,Hội An
+539,Q510007,Nam Giang,319,Q510,4,/TD/VTT/Q510/Q510007/,/TD/VTT/Quảng Nam/Nam Giang/,,1,281,VN,Việt Nam,539,,,,,,,,,,Nam Giang
+445,Q510018,Bắc Trà My,319,Q510,4,/TD/VTT/Q510/Q510018/,/TD/VTT/Quảng Nam/Bắc Trà My/,,1,281,VN,Việt Nam,445,,,,,,,,,,Bắc Trà My
+1090,Q510014,Phước Sơn,319,Q510,4,/TD/VTT/Q510/Q510014/,/TD/VTT/Quảng Nam/Phước Sơn/,,1,281,VN,Việt Nam,1090,,,,,,,,,,Phước Sơn
+20016,D500DN1,Bán hàng AM Viettel Đắc Lắc,321,D500,4,/TD/VTT/D500/D500DN1/,/TD/VTT/Đắc Lắc/Bán hàng AM Viettel Đắc Lắc/,,1,281,VN,Việt Nam,20016,,,,,,,,,,Bán hàng AM Viettel Đắc Lắc
+16016,D500TLS1,TLS Đắc Lắc,321,D500,4,/TD/VTT/D500/D500TLS1/,/TD/VTT/Đắc Lắc/TLS Đắc Lắc/,,1,281,VN,Việt Nam,16016,,,,,,,,,,TLS Đắc Lắc
+622,D500003,Ea Súp,321,D500,4,/TD/VTT/D500/D500003/,/TD/VTT/Đắc Lắc/Ea Súp/,,1,281,VN,Việt Nam,622,,,,,,,,,,Ea Súp
+628,D500009,MĐrăk,321,D500,4,/TD/VTT/D500/D500009/,/TD/VTT/Đắc Lắc/MĐrăk/,,1,281,VN,Việt Nam,628,,,,,,,,,,MĐrăk
+627,D500008,Ea Kar,321,D500,4,/TD/VTT/D500/D500008/,/TD/VTT/Đắc Lắc/Ea Kar/,,1,281,VN,Việt Nam,627,,,,,,,,,,Ea Kar
+620,D500001,Buôn Ma Thuột,321,D500,4,/TD/VTT/D500/D500001/,/TD/VTT/Đắc Lắc/Buôn Ma Thuột/,,1,281,VN,Việt Nam,620,,,,,,,,,,Buôn Ma Thuột
+631,D500012,Krông Bông,321,D500,4,/TD/VTT/D500/D500012/,/TD/VTT/Đắc Lắc/Krông Bông/,,1,281,VN,Việt Nam,631,,,,,,,,,,Krông Bông
+625,D500006,Buôn Đôn,321,D500,4,/TD/VTT/D500/D500006/,/TD/VTT/Đắc Lắc/Buôn Đôn/,,1,281,VN,Việt Nam,625,,,,,,,,,,Buôn Đôn
+629,D500010,Krông Pắk,321,D500,4,/TD/VTT/D500/D500010/,/TD/VTT/Đắc Lắc/Krông Pắk/,,1,281,VN,Việt Nam,629,,,,,,,,,,Krông Pắk
+624,D500005,Krông Búk,321,D500,4,/TD/VTT/D500/D500005/,/TD/VTT/Đắc Lắc/Krông Búk/,,1,281,VN,Việt Nam,624,,,,,,,,,,Krông Búk
+632,D500013,Lắk,321,D500,4,/TD/VTT/D500/D500013/,/TD/VTT/Đắc Lắc/Lắk/,,1,281,VN,Việt Nam,632,,,,,,,,,,Lắk
+621,D500002,Ea Hleo,321,D500,4,/TD/VTT/D500/D500002/,/TD/VTT/Đắc Lắc/Ea Hleo/,,1,281,VN,Việt Nam,621,,,,,,,,,,Ea Hleo
+623,D500004,Krông Năng,321,D500,4,/TD/VTT/D500/D500004/,/TD/VTT/Đắc Lắc/Krông Năng/,,1,281,VN,Việt Nam,623,,,,,,,,,,Krông Năng
+14247,D500015,Buôn Hồ,321,D500,4,/TD/VTT/D500/D500015/,/TD/VTT/Đắc Lắc/Buôn Hồ/,,1,281,VN,Việt Nam,14247,,,,,,,,,,Buôn Hồ
+626,D500007,Cư Mgar,321,D500,4,/TD/VTT/D500/D500007/,/TD/VTT/Đắc Lắc/Cư Mgar/,,1,281,VN,Việt Nam,626,,,,,,,,,,Cư Mgar
+978,D500014,Cư Kuin,321,D500,4,/TD/VTT/D500/D500014/,/TD/VTT/Đắc Lắc/Cư Kuin/,,1,281,VN,Việt Nam,978,,,,,,,,,,Cư Kuin
+20063,Y029DN1,Bán hàng AM Viettel Yên Bái,314,Y029,4,/TD/VTT/Y029/Y029DN1/,/TD/VTT/Yên Bái/Bán hàng AM Viettel Yên Bái/,,1,281,VN,Việt Nam,20063,,,,,,,,,,Bán hàng AM Viettel Yên Bái
+16063,Y029TLS1,TLS Yên Bái,314,Y029,4,/TD/VTT/Y029/Y029TLS1/,/TD/VTT/Yên Bái/TLS Yên Bái/,,1,281,VN,Việt Nam,16063,,,,,,,,,,TLS Yên Bái
+945,Y029002,Nghĩa Lộ,314,Y029,4,/TD/VTT/Y029/Y029002/,/TD/VTT/Yên Bái/Nghĩa Lộ/,,1,281,VN,Việt Nam,945,,,,,,,,,,Nghĩa Lộ
+948,Y029005,Mù Cang Chải,314,Y029,4,/TD/VTT/Y029/Y029005/,/TD/VTT/Yên Bái/Mù Cang Chải/,,1,281,VN,Việt Nam,948,,,,,,,,,,Mù Cang Chải
+951,Y029008,Văn Chấn,314,Y029,4,/TD/VTT/Y029/Y029008/,/TD/VTT/Yên Bái/Văn Chấn/,,1,281,VN,Việt Nam,951,,,,,,,,,,Văn Chấn
+947,Y029004,Văn Yên,314,Y029,4,/TD/VTT/Y029/Y029004/,/TD/VTT/Yên Bái/Văn Yên/,,1,281,VN,Việt Nam,947,,,,,,,,,,Văn Yên
+946,Y029003,Lục Yên,314,Y029,4,/TD/VTT/Y029/Y029003/,/TD/VTT/Yên Bái/Lục Yên/,,1,281,VN,Việt Nam,946,,,,,,,,,,Lục Yên
+950,Y029007,Yên Bình,314,Y029,4,/TD/VTT/Y029/Y029007/,/TD/VTT/Yên Bái/Yên Bình/,,1,281,VN,Việt Nam,950,,,,,,,,,,Yên Bình
+949,Y029006,Trấn Yên,314,Y029,4,/TD/VTT/Y029/Y029006/,/TD/VTT/Yên Bái/Trấn Yên/,,1,281,VN,Việt Nam,949,,,,,,,,,,Trấn Yên
+20017,D511DN1,Bán hàng AM Viettel Đà Nẵng,315,D511,4,/TD/VTT/D511/D511DN1/,/TD/VTT/Đà Nẵng/Bán hàng AM Viettel Đà Nẵng/,,1,281,VN,Việt Nam,20017,,,,,,,,,,Bán hàng AM Viettel Đà Nẵng
+708,B062005,Hàm Thuận Nam,323,B062,4,/TD/VTT/B062/B062005/,/TD/VTT/Bình Thuận/Hàm Thuận Nam/,,1,281,VN,Việt Nam,708,,,,,,,,,,Hàm Thuận Nam
+424,D511007,Cẩm Lệ,315,D511,4,/TD/VTT/D511/D511007/,/TD/VTT/Đà Nẵng/Cẩm Lệ/,,1,281,VN,Việt Nam,424,,,,,,,,,,Cẩm Lệ
+1096,D511004,Thanh Khê,315,D511,4,/TD/VTT/D511/D511004/,/TD/VTT/Đà Nẵng/Thanh Khê/,,1,281,VN,Việt Nam,1096,,,,,,,,,,Thanh Khê
+1094,D511002,Sơn Trà,315,D511,4,/TD/VTT/D511/D511002/,/TD/VTT/Đà Nẵng/Sơn Trà/,,1,281,VN,Việt Nam,1094,,,,,,,,,,Sơn Trà
+1095,D511003,Hải Châu,315,D511,4,/TD/VTT/D511/D511003/,/TD/VTT/Đà Nẵng/Hải Châu/,,1,281,VN,Việt Nam,1095,,,,,,,,,,Hải Châu
+1097,D511005,Liên Chiểu,315,D511,4,/TD/VTT/D511/D511005/,/TD/VTT/Đà Nẵng/Liên Chiểu/,,1,281,VN,Việt Nam,1097,,,,,,,,,,Liên Chiểu
+1093,D511001,Ngũ Hành Sơn,315,D511,4,/TD/VTT/D511/D511001/,/TD/VTT/Đà Nẵng/Ngũ Hành Sơn/,,1,281,VN,Việt Nam,1093,,,,,,,,,,Ngũ Hành Sơn
+16043,N068TLS1,TLS Ninh Thuận,328,N068,4,/TD/VTT/N068/N068TLS1/,/TD/VTT/Ninh Thuận/TLS Ninh Thuận/,,1,281,VN,Việt Nam,16043,,,,,,,,,,TLS Ninh Thuận
+20043,N068DN1,Bán hàng AM Viettel Ninh Thuận,328,N068,4,/TD/VTT/N068/N068DN1/,/TD/VTT/Ninh Thuận/Bán hàng AM Viettel Ninh Thuận/,,1,281,VN,Việt Nam,20043,,,,,,,,,,Bán hàng AM Viettel Ninh Thuận
+13841,N068007,Thuận Nam,328,N068,4,/TD/VTT/N068/N068007/,/TD/VTT/Ninh Thuận/Thuận Nam/,,1,281,VN,Việt Nam,13841,,,,,,,,,,Thuận Nam
+656,N068001,Phan Rang -Tháp Chàm,328,N068,4,/TD/VTT/N068/N068001/,/TD/VTT/Ninh Thuận/Phan Rang -Tháp Chàm/,,1,281,VN,Việt Nam,656,,,,,,,,,,Phan Rang -Tháp Chàm
+660,N068005,Ninh Phước,328,N068,4,/TD/VTT/N068/N068005/,/TD/VTT/Ninh Thuận/Ninh Phước/,,1,281,VN,Việt Nam,660,,,,,,,,,,Ninh Phước
+659,N068004,Ninh Hải,328,N068,4,/TD/VTT/N068/N068004/,/TD/VTT/Ninh Thuận/Ninh Hải/,,1,281,VN,Việt Nam,659,,,,,,,,,,Ninh Hải
+657,N068002,Ninh Sơn,328,N068,4,/TD/VTT/N068/N068002/,/TD/VTT/Ninh Thuận/Ninh Sơn/,,1,281,VN,Việt Nam,657,,,,,,,,,,Ninh Sơn
+16038,L063TLS1,TLS Lâm Đồng,5,L063,4,/TD/VTT/L063/L063TLS1/,/TD/VTT/Lâm Đồng/TLS Lâm Đồng/,,1,281,VN,Việt Nam,16038,,,,,,,,,,TLS Lâm Đồng
+20038,L063DN1,Bán hàng AM Viettel Lâm Đồng,5,L063,4,/TD/VTT/L063/L063DN1/,/TD/VTT/Lâm Đồng/Bán hàng AM Viettel Lâm Đồng/,,1,281,VN,Việt Nam,20038,,,,,,,,,,Bán hàng AM Viettel Lâm Đồng
+437,L063007,Bảo Lâm,327,L063,4,/TD/VTT/L063/L063007/,/TD/VTT/Lâm Đồng/Bảo Lâm/,,1,281,VN,Việt Nam,437,,,,,,,,,,Bảo Lâm
+640,L063003,Lạc Dương,327,L063,4,/TD/VTT/L063/L063003/,/TD/VTT/Lâm Đồng/Lạc Dương/,,1,281,VN,Việt Nam,640,,,,,,,,,,Lạc Dương
+639,L063002,Bảo Lộc,327,L063,4,/TD/VTT/L063/L063002/,/TD/VTT/Lâm Đồng/Bảo Lộc/,,1,281,VN,Việt Nam,639,,,,,,,,,,Bảo Lộc
+645,L063010,Đạ Tẻh,327,L063,4,/TD/VTT/L063/L063010/,/TD/VTT/Lâm Đồng/Đạ Tẻh/,,1,281,VN,Việt Nam,645,,,,,,,,,,Đạ Tẻh
+646,L063011,Cát Tiên,327,L063,4,/TD/VTT/L063/L063011/,/TD/VTT/Lâm Đồng/Cát Tiên/,,1,281,VN,Việt Nam,646,,,,,,,,,,Cát Tiên
+642,L063005,Đức Trọng,327,L063,4,/TD/VTT/L063/L063005/,/TD/VTT/Lâm Đồng/Đức Trọng/,,1,281,VN,Việt Nam,642,,,,,,,,,,Đức Trọng
+638,L063001,Đà Lạt,327,L063,4,/TD/VTT/L063/L063001/,/TD/VTT/Lâm Đồng/Đà Lạt/,,1,281,VN,Việt Nam,638,,,,,,,,,,Đà Lạt
+1086,L063012,Di Linh,327,L063,4,/TD/VTT/L063/L063012/,/TD/VTT/Lâm Đồng/Di Linh/,,1,281,VN,Việt Nam,1086,,,,,,,,,,Di Linh
+641,L063004,Đơn Dương,327,L063,4,/TD/VTT/L063/L063004/,/TD/VTT/Lâm Đồng/Đơn Dương/,,1,281,VN,Việt Nam,641,,,,,,,,,,Đơn Dương
+643,L063006,Lâm Hà,327,L063,4,/TD/VTT/L063/L063006/,/TD/VTT/Lâm Đồng/Lâm Hà/,,1,281,VN,Việt Nam,643,,,,,,,,,,Lâm Hà
+644,L063009,Đạ Huoai,327,L063,4,/TD/VTT/L063/L063009/,/TD/VTT/Lâm Đồng/Đạ Huoai/,,1,281,VN,Việt Nam,644,,,,,,,,,,Đạ Huoai
+444,L063008,Đam Rông,327,L063,4,/TD/VTT/L063/L063008/,/TD/VTT/Lâm Đồng/Đam Rông/,,1,281,VN,Việt Nam,444,,,,,,,,,,Đam Rông
+20001,A076DN1,Bán hàng AM Viettel An Giang,332,A076,4,/TD/VTT/A076/A076DN1/,/TD/VTT/An Giang/Bán hàng AM Viettel An Giang/,,1,281,VN,Việt Nam,20001,,,,,,,,,,Bán hàng AM Viettel An Giang
+16001,A076TLS1,TLS An Giang,332,A076,4,/TD/VTT/A076/A076TLS1/,/TD/VTT/An Giang/TLS An Giang/,,1,281,VN,Việt Nam,16001,,,,,,,,,,TLS An Giang
+828,A076001,Long Xuyên,332,A076,4,/TD/VTT/A076/A076001/,/TD/VTT/An Giang/Long Xuyên/,,1,281,VN,Việt Nam,828,,,,,,,,,,Long Xuyên
+839,A076008,Tri Tôn,332,A076,4,/TD/VTT/A076/A076008/,/TD/VTT/An Giang/Tri Tôn/,,1,281,VN,Việt Nam,839,,,,,,,,,,Tri Tôn
+841,A076010,Châu Thành,332,A076,4,/TD/VTT/A076/A076010/,/TD/VTT/An Giang/Châu Thành/,,1,281,VN,Việt Nam,841,,,,,,,,,,Châu Thành
+837,A076006,Châu Phú,332,A076,4,/TD/VTT/A076/A076006/,/TD/VTT/An Giang/Châu Phú/,,1,281,VN,Việt Nam,837,,,,,,,,,,Châu Phú
+834,A076003,An Phú,332,A076,4,/TD/VTT/A076/A076003/,/TD/VTT/An Giang/An Phú/,,1,281,VN,Việt Nam,834,,,,,,,,,,An Phú
+829,A076002,Châu Đốc,332,A076,4,/TD/VTT/A076/A076002/,/TD/VTT/An Giang/Châu Đốc/,,1,281,VN,Việt Nam,829,,,,,,,,,,Châu Đốc
+836,A076005,Phú Tân,332,A076,4,/TD/VTT/A076/A076005/,/TD/VTT/An Giang/Phú Tân/,,1,281,VN,Việt Nam,836,,,,,,,,,,Phú Tân
+840,A076009,Chợ Mới,332,A076,4,/TD/VTT/A076/A076009/,/TD/VTT/An Giang/Chợ Mới/,,1,281,VN,Việt Nam,840,,,,,,,,,,Chợ Mới
+842,A076011,Thoại Sơn,332,A076,4,/TD/VTT/A076/A076011/,/TD/VTT/An Giang/Thoại Sơn/,,1,281,VN,Việt Nam,842,,,,,,,,,,Thoại Sơn
+835,A076004,Tân Châu,332,A076,4,/TD/VTT/A076/A076004/,/TD/VTT/An Giang/Tân Châu/,,1,281,VN,Việt Nam,835,,,,,,,,,,Tân Châu
+838,A076007,Tịnh Biên,332,A076,4,/TD/VTT/A076/A076007/,/TD/VTT/An Giang/Tịnh Biên/,,1,281,VN,Việt Nam,838,,,,,,,,,,Tịnh Biên
+16013,C710TLS1,TLS Cần Thơ,364,C710,4,/TD/VTT/C710/C710TLS1/,/TD/VTT/Cần Thơ/TLS Cần Thơ/,,1,281,VN,Việt Nam,16013,,,,,,,,,,TLS Cần Thơ
+20013,C710DN1,Bán hàng AM Viettel Cần Thơ,364,C710,4,/TD/VTT/C710/C710DN1/,/TD/VTT/Cần Thơ/Bán hàng AM Viettel Cần Thơ/,,1,281,VN,Việt Nam,20013,,,,,,,,,,Bán hàng AM Viettel Cần Thơ
+872,C710002,Bình Thủy,364,C710,4,/TD/VTT/C710/C710002/,/TD/VTT/Cần Thơ/Bình Thủy/,,1,281,VN,Việt Nam,872,,,,,,,,,,Bình Thủy
+877,C710007,Thốt Nốt,364,C710,4,/TD/VTT/C710/C710007/,/TD/VTT/Cần Thơ/Thốt Nốt/,,1,281,VN,Việt Nam,877,,,,,,,,,,Thốt Nốt
+876,C710006,Cờ Đỏ,364,C710,4,/TD/VTT/C710/C710006/,/TD/VTT/Cần Thơ/Cờ Đỏ/,,1,281,VN,Việt Nam,876,,,,,,,,,,Cờ Đỏ
+875,C710005,Phong Điền,364,C710,4,/TD/VTT/C710/C710005/,/TD/VTT/Cần Thơ/Phong Điền/,,1,281,VN,Việt Nam,875,,,,,,,,,,Phong Điền
+874,C710004,Ô Môn,364,C710,4,/TD/VTT/C710/C710004/,/TD/VTT/Cần Thơ/Ô Môn/,,1,281,VN,Việt Nam,874,,,,,,,,,,Ô Môn
+977,C710008,Vĩnh Thạnh,364,C710,4,/TD/VTT/C710/C710008/,/TD/VTT/Cần Thơ/Vĩnh Thạnh/,,1,281,VN,Việt Nam,977,,,,,,,,,,Vĩnh Thạnh
+873,C710003,Cái Răng,364,C710,4,/TD/VTT/C710/C710003/,/TD/VTT/Cần Thơ/Cái Răng/,,1,281,VN,Việt Nam,873,,,,,,,,,,Cái Răng
+871,C710001,Ninh Kiều,364,C710,4,/TD/VTT/C710/C710001/,/TD/VTT/Cần Thơ/Ninh Kiều/,,1,281,VN,Việt Nam,871,,,,,,,,,,Ninh Kiều
+393,C710010,Thới Lai,364,C710,4,/TD/VTT/C710/C710010/,/TD/VTT/Cần Thơ/Thới Lai/,,1,281,VN,Việt Nam,393,,,,,,,,,,Thới Lai
+16062,V064TLS1,TLS Bà Rịa Vũng Tàu,378,V064,4,/TD/VTT/V064/V064TLS1/,/TD/VTT/Bà Rịa Vũng Tàu/TLS Bà Rịa Vũng Tàu/,,1,281,VN,Việt Nam,16062,,,,,,,,,,TLS Bà Rịa Vũng Tàu
+826,V064005,Thị xã Phú Mỹ,378,V064,4,/TD/VTT/V064/V064005/,/TD/VTT/Bà Rịa Vũng Tàu/Thị xã Phú Mỹ/,,1,281,VN,Việt Nam,826,,,,,,,,,,Thị xã Phú Mỹ
+1082,V064009,Long Đất,378,V064,4,/TD/VTT/V064/V064009/,/TD/VTT/Bà Rịa Vũng Tàu/Long Đất/,,1,281,VN,Việt Nam,1082,,,,,,,,,,Long Đất
+853,V064011,Long Tâm,378,V064,4,/TD/VTT/V064/V064011/,/TD/VTT/Bà Rịa Vũng Tàu/Long Tâm/,,1,281,VN,Việt Nam,853,,,,,,,,,,Long Tâm
+827,V064007,Côn Đảo,378,V064,4,/TD/VTT/V064/V064007/,/TD/VTT/Bà Rịa Vũng Tàu/Côn Đảo/,,1,281,VN,Việt Nam,827,,,,,,,,,,Côn Đảo
+513,V064008,Đất Đỏ,378,V064,4,/TD/VTT/V064/V064008/,/TD/VTT/Bà Rịa Vũng Tàu/Đất Đỏ/,,1,281,VN,Việt Nam,513,,,,,,,,,,Đất Đỏ
+723,V064001,Vũng Tàu,378,V064,4,/TD/VTT/V064/V064001/,/TD/VTT/Bà Rịa Vũng Tàu/Vũng Tàu/,,1,281,VN,Việt Nam,723,,,,,,,,,,Vũng Tàu
+725,V064003,Châu Đức,378,V064,4,/TD/VTT/V064/V064003/,/TD/VTT/Bà Rịa Vũng Tàu/Châu Đức/,,1,281,VN,Việt Nam,725,,,,,,,,,,Châu Đức
+430,V064010,Long Điền,378,V064,4,/TD/VTT/V064/V064010/,/TD/VTT/Bà Rịa Vũng Tàu/Long Điền/,,1,281,VN,Việt Nam,430,,,,,,,,,,Long Điền
+724,V064002,Bà Rịa,378,V064,4,/TD/VTT/V064/V064002/,/TD/VTT/Bà Rịa Vũng Tàu/Bà Rịa/,,1,281,VN,Việt Nam,724,,,,,,,,,,Bà Rịa
+20060,V070DN1,Bán hàng AM Viettel Vĩnh Long,379,V070,4,/TD/VTT/V070/V070DN1/,/TD/VTT/Vĩnh Long/Bán hàng AM Viettel Vĩnh Long/,,1,281,VN,Việt Nam,20060,,,,,,,,,,Bán hàng AM Viettel Vĩnh Long
+16060,V070TLS1,TLS Vĩnh Long,379,V070,4,/TD/VTT/V070/V070TLS1/,/TD/VTT/Vĩnh Long/TLS Vĩnh Long/,,1,281,VN,Việt Nam,16060,,,,,,,,,,TLS Vĩnh Long
+869,V070006,Trà Ôn,379,V070,4,/TD/VTT/V070/V070006/,/TD/VTT/Vĩnh Long/Trà Ôn/,,1,281,VN,Việt Nam,869,,,,,,,,,,Trà Ôn
+868,V070005,Tam Bình,379,V070,4,/TD/VTT/V070/V070005/,/TD/VTT/Vĩnh Long/Tam Bình/,,1,281,VN,Việt Nam,868,,,,,,,,,,Tam Bình
+867,V070004,Thị xã Bình Minh,379,V070,4,/TD/VTT/V070/V070004/,/TD/VTT/Vĩnh Long/Thị xã Bình Minh/,,1,281,VN,Việt Nam,867,,,,,,,,,,Thị xã Bình Minh
+866,V070003,Mang Thít,379,V070,4,/TD/VTT/V070/V070003/,/TD/VTT/Vĩnh Long/Mang Thít/,,1,281,VN,Việt Nam,866,,,,,,,,,,Mang Thít
+606,K060007,Sa Thầy,326,K060,4,/TD/VTT/K060/K060007/,/TD/VTT/Kon Tum/Sa Thầy/,,1,281,VN,Việt Nam,606,,,,,,,,,,Sa Thầy
+254,TD,Tập đoàn,,,1,/TD/,/Tập đoàn/,Tập đoàn Công nghiệp – Viễn thông Quân đội là một tập đoàn Viễn thông và Công nghệ Việt Nam được thành lập vào ngày 1 tháng 6 năm 1989.,1,,,,,,,,,,2021-07-16 14:06:41,"170635",,,Tập đoàn
+7318,VHK,Viện Hàng không vũ trụ,254,TD,2,/TD/VHK/,/Tập đoàn/Viện Hàng không vũ trụ/,,1,,,,,,,,,,2021-08-25 14:28:49,"170635",,,VTX
+9000,VDS,VIETTEL DIGITAL,254,TD,2,/TD/VDS/,/Tập đoàn/VIETTEL DIGITAL/,,1,,,,,,,,,,2021-08-25 14:26:17,"170635",,,VDS
+273,VTN,VTNet,254,TD,2,/TD/VTN/,/Tập đoàn/VTNet/,,1,,,,,,,,,,2021-08-25 14:25:13,"170635",,,VTNet
+286,XNK,TM&XNK,254,TD,2,/TD/XNK/,/Tập đoàn/TM&XNK/,,1,,,,,,,,,,2021-11-11 15:28:18,"170635",,,VCM
+282,M1,M1,308521,VMC,2,/TD/SXTB/VMC/M1/,/Tập đoàn/SXTB/VMC/M1/,,1,,,,,,,,,,2021-08-25 14:29:02,"170635",,,M1
+284,VNC,Viện NC,254,TD,2,/TD/SXTB/VNC/,/Tập đoàn/Viện NC/,,1,281,VN,Việt Nam,,,,,,,,,,,VNC
+218,BC,Bưu chính,254,TD,2,/TD/BC/,/Tập đoàn/Bưu chính/,,1,,,,,,,,,,2021-08-25 14:29:36,"170635",,,VTPost
+219,CT,Công trình,254,TD,2,/TD/CT/,/Tập đoàn/Công trình/,,1,,,,,,,,,,2021-08-25 14:25:31,"170635",,,VCC
+220,TVTK,TV&TK,254,TD,2,/TD/TVTK/,/Tập đoàn/TV&TK/,,1,,,,,,,,,,2021-08-25 14:25:50,"170635",,,VTK
+226,IDC,IDC,254,TD,2,/TD/IDC/,/Tập đoàn/IDC/,,1,,,,,,,,,,2021-08-25 14:27:46,"170635",,,IDC
+223,TH,Công ty Truyền thông Viettel,254,TD,2,/TD/TH/,/Tập đoàn/Công ty Truyền thông Viettel/,,1,,,,,,,,,,2021-08-25 14:26:35,"170635",,,VTM
+274,GPCNTT,TT GPCNTT & VT,254,TD,2,/TD/CNTT/GPCNTT/,/Tập đoàn/TT GPCNTT & VT/,,1,281,VN,Việt Nam,,,,,,,,,,,TT GPCNTT & VT
+227,NCSXTB,TT NCPT TBMVT,254,TD,2,/TD/SXTB/NCSXTB/,/Tập đoàn/TT NCPT TBMVT/,,1,281,VN,Việt Nam,,,,,,,,,,,TT NCPT TBMVT
+201,VTS1,Trung tâm phần mềm Viettel 1,254,TD,2,/TD/CNTT/VTS1/,/Tập đoàn/Trung tâm phần mềm Viettel 1/,,1,281,VN,Việt Nam,,,,,,,,,,,Trung tâm phần mềm Viettel 1
+202,VTS2,Trung tâm phần mềm Viettel 2,254,TD,2,/TD/CNTT/VTS2/,/Tập đoàn/Trung tâm phần mềm Viettel 2/,,1,281,VN,Việt Nam,,,,,,,,,,,Trung tâm phần mềm Viettel 2
+528,Q052003,Minh Hóa,312,Q052,4,/TD/VTT/Q052/Q052003/,/TD/VTT/Quảng Bình/Minh Hóa/,,1,281,VN,Việt Nam,528,,,,,,,,,,Minh Hóa
+527,Q052002,Tuyên Hóa,312,Q052,4,/TD/VTT/Q052/Q052002/,/TD/VTT/Quảng Bình/Tuyên Hóa/,,1,281,VN,Việt Nam,527,,,,,,,,,,Tuyên Hóa
+526,Q052001,Đồng Hới,312,Q052,4,/TD/VTT/Q052/Q052001/,/TD/VTT/Quảng Bình/Đồng Hới/,,1,281,VN,Việt Nam,526,,,,,,,,,,Đồng Hới
+16050,Q053TLS1,TLS Quảng Trị,316,Q053,4,/TD/VTT/Q053/Q053TLS1/,/TD/VTT/Quảng Trị/TLS Quảng Trị/,,1,281,VN,Việt Nam,16050,,,,,,,,,,TLS Quảng Trị
+494,Q053003,Vĩnh Linh,316,Q053,4,/TD/VTT/Q053/Q053003/,/TD/VTT/Quảng Trị/Vĩnh Linh/,,1,281,VN,Việt Nam,494,,,,,,,,,,Vĩnh Linh
+493,Q053002,Quảng Trị,316,Q053,4,/TD/VTT/Q053/Q053002/,/TD/VTT/Quảng Trị/Quảng Trị/,,1,281,VN,Việt Nam,493,,,,,,,,,,Quảng Trị
+500,Q053009,Đa Krông,316,Q053,4,/TD/VTT/Q053/Q053009/,/TD/VTT/Quảng Trị/Đa Krông/,,1,281,VN,Việt Nam,500,,,,,,,,,,Đa Krông
+498,Q053007,Hải Lăng,316,Q053,4,/TD/VTT/Q053/Q053007/,/TD/VTT/Quảng Trị/Hải Lăng/,,1,281,VN,Việt Nam,498,,,,,,,,,,Hải Lăng
+661,Q053011,TT Krông Klang,316,Q053,4,/TD/VTT/Q053/Q053011/,/TD/VTT/Quảng Trị/TT Krông Klang/,,1,281,VN,Việt Nam,661,,,,,,,,,,TT Krông Klang
+497,Q053006,Triệu Phong,316,Q053,4,/TD/VTT/Q053/Q053006/,/TD/VTT/Quảng Trị/Triệu Phong/,,1,281,VN,Việt Nam,497,,,,,,,,,,Triệu Phong
+496,Q053005,Cam Lộ,316,Q053,4,/TD/VTT/Q053/Q053005/,/TD/VTT/Quảng Trị/Cam Lộ/,,1,281,VN,Việt Nam,496,,,,,,,,,,Cam Lộ
+495,Q053004,Gio Linh,316,Q053,4,/TD/VTT/Q053/Q053004/,/TD/VTT/Quảng Trị/Gio Linh/,,1,281,VN,Việt Nam,495,,,,,,,,,,Gio Linh
+492,Q053001,Đông Hà,316,Q053,4,/TD/VTT/Q053/Q053001/,/TD/VTT/Quảng Trị/Đông Hà/,,1,281,VN,Việt Nam,492,,,,,,,,,,Đông Hà
+401,Q053010,Đảo Cồn Cỏ,316,Q053,4,/TD/VTT/Q053/Q053010/,/TD/VTT/Quảng Trị/Đảo Cồn Cỏ/,,1,281,VN,Việt Nam,401,,,,,,,,,,Đảo Cồn Cỏ
+499,Q053008,Hướng Hóa,316,Q053,4,/TD/VTT/Q053/Q053008/,/TD/VTT/Quảng Trị/Hướng Hóa/,,1,281,VN,Việt Nam,499,,,,,,,,,,Hướng Hóa
+16014,D230TLS1,TLS Điện Biên,313,D230,4,/TD/VTT/D230/D230TLS1/,/TD/VTT/Điện Biên/TLS Điện Biên/,,1,281,VN,Việt Nam,16014,,,,,,,,,,TLS Điện Biên
+16036,L020TLS1,TLS Lào Cai,303,L020,4,/TD/VTT/L020/L020TLS1/,/TD/VTT/Lào Cai/TLS Lào Cai/,,1,281,VN,Việt Nam,16036,,,,,,,,,,TLS Lào Cai
+20036,L020DN1,Bán hàng AM Viettel Lào Cai,303,L020,4,/TD/VTT/L020/L020DN1/,/TD/VTT/Lào Cai/Bán hàng AM Viettel Lào Cai/,,1,281,VN,Việt Nam,20036,,,,,,,,,,Bán hàng AM Viettel Lào Cai
+928,L020008,Sa Pa,303,L020,4,/TD/VTT/L020/L020008/,/TD/VTT/Lào Cai/Sa Pa/,,1,281,VN,Việt Nam,928,,,,,,,,,,Sa Pa
+927,L020007,Bảo Thắng,303,L020,4,/TD/VTT/L020/L020007/,/TD/VTT/Lào Cai/Bảo Thắng/,,1,281,VN,Việt Nam,927,,,,,,,,,,Bảo Thắng
+813,L020002,Cam Đường,303,L020,4,/TD/VTT/L020/L020002/,/TD/VTT/Lào Cai/Cam Đường/,,1,281,VN,Việt Nam,813,,,,,,,,,,Cam Đường
+812,L020001,Lào Cai,303,L020,4,/TD/VTT/L020/L020001/,/TD/VTT/Lào Cai/Lào Cai/,,1,281,VN,Việt Nam,812,,,,,,,,,,Lào Cai
+929,L020009,Bảo Yên,303,L020,4,/TD/VTT/L020/L020009/,/TD/VTT/Lào Cai/Bảo Yên/,,1,281,VN,Việt Nam,929,,,,,,,,,,Bảo Yên
+814,L020003,Mường Khương,303,L020,4,/TD/VTT/L020/L020003/,/TD/VTT/Lào Cai/Mường Khương/,,1,281,VN,Việt Nam,814,,,,,,,,,,Mường Khương
+930,L020011,Văn Bàn,303,L020,4,/TD/VTT/L020/L020011/,/TD/VTT/Lào Cai/Văn Bàn/,,1,281,VN,Việt Nam,930,,,,,,,,,,Văn Bàn
+926,L020006,Bắc Hà,303,L020,4,/TD/VTT/L020/L020006/,/TD/VTT/Lào Cai/Bắc Hà/,,1,281,VN,Việt Nam,926,,,,,,,,,,Bắc Hà
+662,L020004,Bát Xát,303,L020,4,/TD/VTT/L020/L020004/,/TD/VTT/Lào Cai/Bát Xát/,,1,281,VN,Việt Nam,662,,,,,,,,,,Bát Xát
+575,L020010,Than Uyên,303,L020,4,/TD/VTT/L020/L020010/,/TD/VTT/Lào Cai/Than Uyên/,,1,281,VN,Việt Nam,575,,,,,,,,,,Than Uyên
+925,L020005,Si Ma Cai,303,L020,4,/TD/VTT/L020/L020005/,/TD/VTT/Lào Cai/Si Ma Cai/,,1,281,VN,Việt Nam,925,,,,,,,,,,Si Ma Cai
+16040,N038TLS1,TLS Nghệ An,307,N038,4,/TD/VTT/N038/N038TLS1/,/TD/VTT/Nghệ An/TLS Nghệ An/,,1,281,VN,Việt Nam,16040,,,,,,,,,,TLS Nghệ An
+20040,N038DN1,Bán hàng AM Viettel Nghệ An,307,N038,4,/TD/VTT/N038/N038DN1/,/TD/VTT/Nghệ An/Bán hàng AM Viettel Nghệ An/,,1,281,VN,Việt Nam,20040,,,,,,,,,,Bán hàng AM Viettel Nghệ An
+481,N038009,Quỳnh Lưu,307,N038,4,/TD/VTT/N038/N038009/,/TD/VTT/Nghệ An/Quỳnh Lưu/,,1,281,VN,Việt Nam,481,,,,,,,,,,Quỳnh Lưu
+480,N038008,Tương Dương,307,N038,4,/TD/VTT/N038/N038008/,/TD/VTT/Nghệ An/Tương Dương/,,1,281,VN,Việt Nam,480,,,,,,,,,,Tương Dương
+483,N038011,Con Cuông,307,N038,4,/TD/VTT/N038/N038011/,/TD/VTT/Nghệ An/Con Cuông/,,1,281,VN,Việt Nam,483,,,,,,,,,,Con Cuông
+474,N038002,Cửa Lò,307,N038,4,/TD/VTT/N038/N038002/,/TD/VTT/Nghệ An/Cửa Lò/,,1,281,VN,Việt Nam,474,,,,,,,,,,Cửa Lò
+20053,T036DN1,Bán hàng AM Viettel Thái Bình,288,T036,4,/TD/VTT/T036/T036DN1/,/TD/VTT/Thái Bình/Bán hàng AM Viettel Thái Bình/,,1,281,VN,Việt Nam,20053,,,,,,,,,,Bán hàng AM Viettel Thái Bình
+14202,N038021,Thái Hòa,307,N038,4,/TD/VTT/N038/N038021/,/TD/VTT/Nghệ An/Thái Hòa/,,1,281,VN,Việt Nam,14202,,,,,,,,,,Thái Hòa
+485,N038013,Diễn Châu,307,N038,4,/TD/VTT/N038/N038013/,/TD/VTT/Nghệ An/Diễn Châu/,,1,281,VN,Việt Nam,485,,,,,,,,,,Diễn Châu
+473,N038001,Vinh,307,N038,4,/TD/VTT/N038/N038001/,/TD/VTT/Nghệ An/Vinh/,,1,281,VN,Việt Nam,473,,,,,,,,,,Vinh
+479,N038007,Nghĩa Đàn,307,N038,4,/TD/VTT/N038/N038007/,/TD/VTT/Nghệ An/Nghĩa Đàn/,,1,281,VN,Việt Nam,479,,,,,,,,,,Nghĩa Đàn
+477,N038005,Kỳ Sơn,307,N038,4,/TD/VTT/N038/N038005/,/TD/VTT/Nghệ An/Kỳ Sơn/,,1,281,VN,Việt Nam,477,,,,,,,,,,Kỳ Sơn
+482,N038010,Tân Kỳ,307,N038,4,/TD/VTT/N038/N038010/,/TD/VTT/Nghệ An/Tân Kỳ/,,1,281,VN,Việt Nam,482,,,,,,,,,,Tân Kỳ
+491,N038019,Hưng Nguyên,307,N038,4,/TD/VTT/N038/N038019/,/TD/VTT/Nghệ An/Hưng Nguyên/,,1,281,VN,Việt Nam,491,,,,,,,,,,Hưng Nguyên
+486,N038014,Anh Sơn,307,N038,4,/TD/VTT/N038/N038014/,/TD/VTT/Nghệ An/Anh Sơn/,,1,281,VN,Việt Nam,486,,,,,,,,,,Anh Sơn
+484,N038012,Yên Thành,307,N038,4,/TD/VTT/N038/N038012/,/TD/VTT/Nghệ An/Yên Thành/,,1,281,VN,Việt Nam,484,,,,,,,,,,Yên Thành
+490,N038018,Nam Đàn,307,N038,4,/TD/VTT/N038/N038018/,/TD/VTT/Nghệ An/Nam Đàn/,,1,281,VN,Việt Nam,490,,,,,,,,,,Nam Đàn
+488,N038016,Thanh Chương,307,N038,4,/TD/VTT/N038/N038016/,/TD/VTT/Nghệ An/Thanh Chương/,,1,281,VN,Việt Nam,488,,,,,,,,,,Thanh Chương
+816,N038020,Nghi Kim,307,N038,4,/TD/VTT/N038/N038020/,/TD/VTT/Nghệ An/Nghi Kim/,,1,281,VN,Việt Nam,816,,,,,,,,,,Nghi Kim
+476,N038004,Quỳ Châu,307,N038,4,/TD/VTT/N038/N038004/,/TD/VTT/Nghệ An/Quỳ Châu/,,1,281,VN,Việt Nam,476,,,,,,,,,,Quỳ Châu
+478,N038006,Quỳ Hợp,307,N038,4,/TD/VTT/N038/N038006/,/TD/VTT/Nghệ An/Quỳ Hợp/,,1,281,VN,Việt Nam,478,,,,,,,,,,Quỳ Hợp
+489,N038017,Nghi Lộc,307,N038,4,/TD/VTT/N038/N038017/,/TD/VTT/Nghệ An/Nghi Lộc/,,1,281,VN,Việt Nam,489,,,,,,,,,,Nghi Lộc
+16042,N350TLS1,TLS Nam Định,308,N350,4,/TD/VTT/N350/N350TLS1/,/TD/VTT/Nam Định/TLS Nam Định/,,1,281,VN,Việt Nam,16042,,,,,,,,,,TLS Nam Định
+20042,N350DN1,Bán hàng AM Viettel Nam Định,308,N350,4,/TD/VTT/N350/N350DN1/,/TD/VTT/Nam Định/Bán hàng AM Viettel Nam Định/,,1,281,VN,Việt Nam,20042,,,,,,,,,,Bán hàng AM Viettel Nam Định
+771,N350003,Mỹ Lộc,308,N350,4,/TD/VTT/N350/N350003/,/TD/VTT/Nam Định/Mỹ Lộc/,,1,281,VN,Việt Nam,771,,,,,,,,,,Mỹ Lộc
+775,N350007,Xuân Trường,308,N350,4,/TD/VTT/N350/N350007/,/TD/VTT/Nam Định/Xuân Trường/,,1,281,VN,Việt Nam,775,,,,,,,,,,Xuân Trường
+308510,BDTXD,Ban đầu tư - xây dựng,305964,CTM,3,/TD/CTM/BTTKT/,/Tập đoàn/Công ty mẹ/Ban đầu tư - xây dựng,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.ĐT-XD
+308511,BTCKT,Ban tài chính kế toán,305964,CTM,3,/TD/CTM/BTTKT/,/Tập đoàn/Công ty mẹ/Ban tài chính kế toán,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.TCKT
+308512,BHC,Ban hành chính,305964,CTM,3,/TD/CTM/BHC/,/Tập đoàn/Công ty mẹ/Ban hành chính,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.HC
+308514,BDVDC,Ban dịch vụ chung,305964,CTM,3,/TD/CTM/BDVDC/,/Tập đoàn/Công ty mẹ/Ban dịch vụ chung,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.DVDC
+308515,VGO,Khối cơ quan Tập Đoàn,254,TD,3,/TD/VGO/,/Tập đoàn/Khối cơ quan Tập Đoàn,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,Các CQ Tập đoàn
+308516,DSTCT,Danh sách Tổng công ty,254,TD,3,/TD/DSTCT/,/Tập đoàn/Danh sách Tổng công ty,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,Các đơn vị
+308485,VPDT,Văn phòng Tập đoàn đầu tư,254,TD,1,/TD/VPDT/,/Tập đoàn/Văn phòng Tập đoàn đầu tư/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VPDT
+308486,BDSKD,Công ty Bất động sản kinh doanh,254,TD,1,/TD/BDSKD/,/Tập đoàn/Văn phòng Tập đoàn đầu tư/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,BDSKD
+308487,VTNN,Viễn thông nước ngoài,256,VTG,1,/TD/VTNN/,/Tập đoàn/Viễn thông nước ngoài/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VTNN
+308488,NN,Các thị trường nước ngoài,256,VTG,1,/TD/NN/,/Tập đoàn/Các thị trường nước ngoài/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,NN
+308489,VTGVND,Tổng công ty CP Đầu tư Quốc tế Viettel,256,VTG,1,/TD/VTGVND/,/Tập đoàn/Tổng công ty CP Đầu tư Quốc tế Viettel/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VTGVND
+308490,VTGHN,VTG hợp nhất,256,VTG,1,/TD/VTGHN/,/Tập đoàn/VTG hợp nhất/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VTGHN
+308491,VPG,Văn phòng VTG,254,TD,1,/TD/VPG/,/Tập đoàn/Văn phòng VTG/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VPG
+308492,VHO,VHO,254,TD,1,/TD/VHO/,/Tập đoàn/VHO/,Khối cơ quan tập đoàn (cho TCKT),1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VPTD
+308493,VTPVND,Công ty Viettel Peru,256,VTG,1,/TD/VTPVND/,/Tập đoàn/Công ty Viettel Peru/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VTPVND
+308494,VTPHN,VTP (USD),256,VTG,1,/TD/VTPHN/,/Tập đoàn/VTP (USD)/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VTPHN
+308497,VTTN,Viễn thông trong nước,254,TD,1,/TD/VTTN/,/Tập đoàn/Viễn thông trong nước/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VTTN
+308517,CSX,Nhóm chờ sắp xếp,305964,CTM,3,/TD/CTM/CSX/,/Tập đoàn/Công ty mẹ/Nhóm chờ sắp xếp,,1,,,,,,,,,,2022-09-14 15:25:52,"250905",,,CSX
+308518,BKT,Ban Kỹ Thuật,305964,CTM,3,/TD/CTM/BKT/,/Tập đoàn/Công ty mẹ/Ban kỹ thuật,,1,,,,,,,,,,2022-09-14 15:25:52,"250905",,,B.KT
+308519,BDN,Ban Đối ngoại,305964,CTM,3,/TD/CTM/BDN/,/Tập đoàn/Công ty mẹ/Ban đối ngoại,,1,,,,,,,,,,2022-09-14 15:25:52,"250905",,,B.ĐN
+308520,TVDV,TV&DV,254,TD,2,/TD/TVDV/,/Tập đoàn/TV&DV/,,1,,,,,,,,,,2022-09-14 14:25:50,"170635",,,TVDV
+343,B651,Bình Phước,307143,TSS,3,/TD/TSS/B651/,/Tập đoàn/Viettel Tỉnh/TP/Bình Phước/,"Bình Phước là một tỉnh thành thuộc vùng Đông Nam Bộ, Việt Nam. Đây cũng là tỉnh có diện tích lớn nhất Nam Bộ. Tỉnh lỵ của Bình Phước hiện nay là thành phố Đồng Xoài, cách Thành phố Hồ Chí Minh khoảng 121 km theo đường Quốc lộ 13 và Quốc lộ 14 và 102 km theo đường Tỉnh lộ 741.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:52:39,"170635",,,BPC
+296,C026,Cao Bằng,307143,TSS,3,/TD/TSS/C026/,/Tập đoàn/Viettel Tỉnh/TP/Cao Bằng/,"Cao Bằng là một thành phố trực thuộc tỉnh Cao Bằng, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:53:00,"170635",,,CBG
+364,C710,Cần Thơ,307143,TSS,3,/TD/TSS/C710/,/Tập đoàn/Viettel Tỉnh/TP/Cần Thơ/,Cần Thơ là một thành phố thuộc tỉnh Cần Thơ cũ và là tỉnh lỵ của tỉnh Cần Thơ trước khi thành lập thành phố Cần Thơ trực thuộc trung ương.,1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:53:09,"170635",,,CTO
+315,D511,Đà Nẵng,307143,TSS,3,/TD/TSS/D511/,/Tập đoàn/Viettel Tỉnh/TP/Đà Nẵng/,"Đà Nẵng là một thành phố trực thuộc trung ương, nằm trong vùng Duyên hải Nam Trung Bộ Việt Nam, là thành phố trung tâm và lớn nhất khu vực miền Trung - Tây Nguyên.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:54:37,"170635",,,DNG
+292,H004,Hà Nội,307143,TSS,3,/TD/TSS/H004/,/Tập đoàn/Viettel Tỉnh/TP/Hà Nội/,"Hà Nội, thủ đô của Việt Nam, nổi tiếng với kiến trúc trăm tuổi và nền văn hóa phong phú với sự ảnh hưởng của khu vực Đông Nam Á, Trung Quốc và Pháp. Trung tâm thành phố là Khu phố cổ nhộn nhịp, nơi các con phố hẹp được mang tên ""hàng"". Có rất nhiều ngôi đền nhỏ, bao gồm Bạch Mã, tôn vinh một con ngựa huyền thoại, cùng với chợ Đồng Xuân, bán hàng gia dụng và thức ăn đường phố.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:54:56,"170635",,,HNI
+298,H019,Hà Giang,307143,TSS,3,/TD/TSS/H019/,/Tập đoàn/Viettel Tỉnh/TP/Hà Giang/,"Hà Giang là thành phố tỉnh lỵ của tỉnh Hà Giang, Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:55:08,"170635",,,HGG
+299,H031,Hải Phòng,307143,TSS,3,/TD/TSS/H031/,/Tập đoàn/Viettel Tỉnh/TP/Hải Phòng/,"Hải Phòng là thành phố cảng quan trọng, trung tâm công nghiệp, cảng biển, đồng thời cũng là trung tâm kinh tế, văn hóa, y tế, giáo dục, khoa học, thương mại và công nghệ thuộc Vùng duyên hải Bắc Bộ của Việt Nam. Đây là một trong 5 thành phố trực thuộc trung ương tại Việt Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:55:29,"170635",,,HPG
+301,H320,Hải Dương,307143,TSS,3,/TD/TSS/H320/,/Tập đoàn/Viettel Tỉnh/TP/Hải Dương/,"Hải Dương là một tỉnh thuộc vùng Đồng bằng sông Hồng, Việt Nam. Năm 2021, Hải Dương là đơn vị hành chính Việt Nam đông thứ 8 về số dân với 1.936.774 người, tốc độ tăng trưởng GRDP đạt 8,5%. GRDP đạt 149.700 tỉ đồng, GRDP bình quân đầu người đạt 77 triệu đồng. Hải Dương thuộc Vùng kinh tế trọng điểm Bắc bộ. ",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:56:23,"170635",,,HDG
+369,H711,Hậu Giang,307143,TSS,3,/TD/TSS/H711/,/Tập đoàn/Viettel Tỉnh/TP/Hậu Giang/,"Hậu Giang là một tỉnh thuộc vùng Đồng bằng sông Cửu Long, Việt Nam. Năm 2018, Hậu Giang là đơn vị hành chính Việt Nam đông thứ 54 về số dân, xếp thứ 52 về Tổng sản phẩm trên địa bàn, xếp thứ 48 về GRDP bình quân đầu người, đứng thứ 52 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:56:38,"170635",,,HUG
+325,K058,Khánh Hòa,307143,TSS,3,/TD/TSS/K058/,/Tập đoàn/Viettel Tỉnh/TP/Khánh Hòa/,"Khánh Hòa là một tỉnh ven biển nằm ở phía nam khu vực duyên hải Nam Trung Bộ, miền Trung của Việt Nam. Năm 2018, Khánh Hòa là đơn vị hành chính Việt Nam đông thứ 33 về số dân, xếp thứ 24 về Tổng sản phẩm trên địa bàn, xếp thứ 15 về GRDP bình quân đầu người, đứng thứ 42 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:57:00,"170635",,,KHA
+367,K077,Kiên Giang,307143,TSS,3,/TD/TSS/K077/,/Tập đoàn/Viettel Tỉnh/TP/Kiên Giang/,"Kiên Giang là một tỉnh ven biển thuộc vùng Đồng bằng sông Cửu Long, Nam Bộ. Phần lớn diện tích Kiên Giang ngày nay bao gồm thành phố Rạch Giá và toàn bộ tỉnh Hà Tiên cũ. Đây là tỉnh có diện tích lớn nhất vùng Tây Nam Bộ và lớn thứ hai ở Nam Bộ.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:57:26,"170635",,,KGG
+303,L020,Lào Cai,307143,TSS,3,/TD/TSS/L020/,/Tập đoàn/Viettel Tỉnh/TP/Lào Cai/,"Lào Cai là một thành phố biên giới phía bắc và là tỉnh lỵ của tỉnh Lào Cai, Việt Nam. Thành phố Lào Cai có cửa khẩu quốc tế Lào Cai là nơi giao thương quan trọng ở phía bắc Việt Nam với phía nam Trung Quốc.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:57:37,"170635",,,LCI
+327,L063,Lâm Đồng,307143,TSS,3,/TD/TSS/L063/,/Tập đoàn/Viettel Tỉnh/TP/Lâm Đồng/,"Lâm Đồng là một trong năm tỉnh thuộc vùng Tây Nguyên, Việt Nam, đồng thời là tỉnh có diện tích lớn thứ 7 cả nước, tiếp giáp với vùng kinh tế trọng điểm phía Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:58:03,"170635",,,LDG
+304,L231,Lai Châu,307143,TSS,3,/TD/TSS/L231/,/Tập đoàn/Viettel Tỉnh/TP/Lai Châu/,"Được dịch từ tiếng Anh-Tỉnh Lai Châu hay Lai Châu là một châu ở đế quốc Trung Hoa, trung tâm là Lai Châu, Sơn Đông, Trung Quốc ngày nay.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:58:14,"170635",,,LCU
+248,MOV,Movitel,256,VTG,5,/TD/VTG/MOV/,/Tập đoàn/VTNN/MVT/,"Mozambique, tên chính thức là Cộng hòa Mozambique, là một quốc gia ở đông nam châu Phi, giáp với Ấn Độ Dương về phía đông, Tanzania về phía bắc, Malawi và Zambia về phía tây bắc, Zimbabwe về phía tây, Eswatini và Nam Phi về phía tây nam.",1,,,,,,,,,,2021-08-21 15:37:13,"170635",,,Movitel
+7985,MYN,"Telecom International Myanmar Co., Ltd",256,VTG,5,/TD/VTG/MYN/,/Tập đoàn/VTNN/MYN/,"Myanmar còn gọi là Miến Điện tên chính thức là Cộng hòa Liên bang Myanmar, là một quốc gia tại Đông Nam Á. Myanmar có biên giới với Bangladesh, Ấn Độ, Trung Quốc, Lào và Thái Lan. Một phần ba tổng chu vi của Myanmar là đường bờ biển giáp với vịnh Bengal và biển Andaman.",1,,,,,,,,,,2021-08-21 15:37:35,"170635",,,Mytel
+309,N351,Hà Nam,307143,TSS,3,/TD/TSS/N351/,/Tập đoàn/Viettel Tỉnh/TP/Hà Nam/,"Hà Nam là một tỉnh thuộc vùng Đồng bằng sông Hồng, Việt Nam. Năm 2020, Hà Nam là đơn vị hành chính Việt Nam đông thứ 51 về số dân, xếp thứ 44 về Tổng sản phẩm trên địa bàn, xếp thứ 23 về GRDP bình quân đầu người, đứng thứ sáu về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 11:59:30,"170635",,,HNM
+247,NAT,"Natcom, S.A",256,VTG,5,/TD/VTG/NAT/,/Tập đoàn/VTNN/NCM/,"Haiti, tên chính thức Cộng hòa Haiti, là một quốc gia ở vùng biển Ca-ri-bê nói tiếng Creole Haiti- và tiếng Pháp. Cùng với Cộng hòa Dominicana, quốc gia này nằm ở đảo Hispaniola, trong quần đảo Đại Antilles. Ayiti đã là tên Taíno hay Amerindian bản địa của phía tây núi non của hòn đảo.",1,,,,,,,,,,2021-08-21 15:38:14,"170635",,,Natcom
+329,P057,Phú Yên,307143,TSS,3,/TD/TSS/P057/,/Tập đoàn/Viettel Tỉnh/TP/Phú Yên/,"Phú Yên là một tỉnh ven biển nằm ở phía bắc khu vực duyên hải Nam Trung Bộ, miền Trung của Việt Nam. Năm 2018, Phú Yên là đơn vị hành chính Việt Nam đông thứ 45 về số dân, xếp thứ 43 về Tổng sản phẩm trên địa bàn, xếp thứ 30 về GRDP bình quân đầu người, đứng thứ 25 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:39:19,"170635",,,PYN
+311,Q033,Quảng Ninh,307143,TSS,3,/TD/TSS/Q033/,/Tập đoàn/Viettel Tỉnh/TP/Quảng Ninh/,"Quảng Ninh là tỉnh ven biển thuộc vùng Đông Bắc Bộ Việt Nam Theo quy hoạch phát triển kinh tế, Quảng Ninh vừa thuộc vùng kinh tế trọng điểm phía bắc vừa thuộc Vùng duyên hải Bắc Bộ.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:39:49,"170635",,,QNH
+319,Q510,Quảng Nam,307143,TSS,3,/TD/TSS/Q510/,/Tập đoàn/Viettel Tỉnh/TP/Quảng Nam/,"Quảng Nam là một tỉnh ven biển nằm ở phía bắc khu vực duyên hải Nam Trung Bộ, miền Trung của Việt Nam. Tỉnh Quảng Nam nằm trong vùng kinh tế trọng điểm miền Trung. Năm 1997, tỉnh được tái lập trên cơ sở tách tỉnh Quảng Nam - Đà Nẵng thành 2 đơn vị hành chính là tỉnh Quảng Nam và thành phố Đà Nẵng.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:40:27,"170635",,,QNM
+374,S079,Sóc Trăng,307143,TSS,3,/TD/TSS/S079/,/Tập đoàn/Viettel Tỉnh/TP/Sóc Trăng/,"Sóc Trăng là một tỉnh ven biển, nằm trong vùng hạ lưu Nam sông Hậu thuộc đồng bằng sông Cửu Long, Việt Nam. Năm 2018, Sóc Trăng là đơn vị hành chính Việt Nam đông thứ 22 về số dân, xếp thứ 38 về Tổng sản phẩm trên địa bàn, xếp thứ 51 về GRDP bình quân đầu người, đứng thứ 47 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:42:19,"170635",,,STG
+246,STL,Star Telecom,256,VTG,5,/TD/VTG/STL/,/Tập đoàn/VTNN/STL/,"Lào, tên chính thức là Cộng hoà Dân chủ Nhân dân Lào, là quốc gia nội lục có chủ quyền tại bán đảo Đông Dương, Đông Nam Á, phía tây bắc giáp với Myanmar và Trung Quốc, phía đông giáp với Việt Nam, phía đông nam giáp với Campuchia, phía tây và tây nam giáp với Thái Lan.",1,,,,,,,,,,2021-08-21 15:38:29,"170635",,,Unitel
+366,T008,TPHCM,307143,TSS,3,/TD/TSS/T008/,/Tập đoàn/Viettel Tỉnh/TP/TPHCM/,"Thành phố Hồ Chí Minh (thường được gọi là Sài Gòn) là một thành phố ở miền nam Việt Nam nổi tiếng với vai trò nòng cốt trong chiến tranh Việt Nam. Sài Gòn cũng được biết đến với địa danh của thực dân Pháp, trong đó có Nhà thờ Đức Bà được xây dựng hoàn toàn bằng nguyên liệu nhập khẩu từ Pháp và Bưu điện trung tâm được xây dựng vào thế kỷ 19. Quán ăn nằm dọc các đường phố Sài Gòn, nhất là xung quanh chợ Bến Thành nhộn nhịp.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:42:27,"170635",,,HCM
+289,T037,Thanh Hóa,307143,TSS,3,/TD/TSS/T037/,/Tập đoàn/Viettel Tỉnh/TP/Thanh Hóa/,"Thành phố Thanh Hóa là thành phố tỉnh lỵ của tỉnh Thanh Hóa, Bắc Trung Bộ, Việt Nam. Đây là trung tâm hành chính, chính trị, kinh tế, văn hóa, khoa học kỹ thuật của tỉnh Thanh Hóa.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:42:52,"170635",,,THA
+320,T054,Thừa Thiên Huế,307143,TSS,3,/TD/TSS/T054/,/Tập đoàn/Viettel Tỉnh/TP/Thừa Thiên Huế/,"Thừa Thiên Huế là một tỉnh ven biển nằm ở cực nam của vùng Bắc Trung Bộ, miền Trung, Việt Nam. Năm 2018, Thừa Thiên Huế là đơn vị hành chính Việt Nam đông thứ 36 về số dân, xếp thứ 39 về Tổng sản phẩm trên địa bàn, xếp thứ 42 về GRDP bình quân đầu người, đứng thứ 52 về tốc độ tăng trưởng GRDP.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:43:02,"170635",,,HUE
+334,T066,Tây Ninh,307143,TSS,3,/TD/TSS/T066/,/Tập đoàn/Viettel Tỉnh/TP/Tây Ninh/,"Tây Ninh là một tỉnh thuộc vùng Đông Nam Bộ, Việt Nam. Tây Ninh nằm ở vị trí cầu nối giữa Thành phố Hồ Chí Minh và thủ đô Phnôm Pênh, vương quốc Campuchia và là một trong những tỉnh nằm trong Vùng kinh tế trọng điểm phía Nam.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:43:09,"170635",,,TNH
+290,T280,Thái Nguyên,307143,TSS,3,/TD/TSS/T280/,/Tập đoàn/Viettel Tỉnh/TP/Thái Nguyên/,"Thái Nguyên là thành phố tỉnh lỵ của tỉnh Thái Nguyên, nằm bên bờ sông Cầu, là một trong những thành phố lớn ở miền Bắc Việt Nam. Thành phố Thái Nguyên là trung tâm của vùng trung du và miền núi phía Bắc.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:43:35,"170635",,,TNN
+378,V064,Bà Rịa Vũng Tàu,307143,TSS,3,/TD/TSS/V064/,/Tập đoàn/Viettel Tỉnh/TP/Bà Rịa Vũng Tàu/,"Bà Rịa – Vũng Tàu là một tỉnh ven biển thuộc vùng Đông Nam Bộ, Việt Nam. Nằm trong Vùng kinh tế trọng điểm phía Nam, ở vị trí cửa ngõ ra Biển Đông của các tỉnh trong khu vực miền Đông Nam Bộ, Bà Rịa – Vũng Tàu kết nối với Thành phố Hồ Chí Minh và các địa phương khác bằng đường bộ, đường không và đường thủy.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:43:47,"170635",,,VTU
+20037,L231DN1,Bán hàng AM Viettel Lai Châu,304,L231,4,/TD/VTT/L231/L231DN1/,/TD/VTT/Lai Châu/Bán hàng AM Viettel Lai Châu/,,1,281,VN,Việt Nam,20037,,,,,,,,,,Bán hàng AM Viettel Lai Châu
+1032,L231004,Than Uyên,304,L231,4,/TD/VTT/L231/L231004/,/TD/VTT/Lai Châu/Than Uyên/,,1,281,VN,Việt Nam,1032,,,,,,,,,,Than Uyên
+1030,L231002,Sìn Hồ,304,L231,4,/TD/VTT/L231/L231002/,/TD/VTT/Lai Châu/Sìn Hồ/,,1,281,VN,Việt Nam,1030,,,,,,,,,,Sìn Hồ
+1029,L231001,Tam Đường,304,L231,4,/TD/VTT/L231/L231001/,/TD/VTT/Lai Châu/Tam Đường/,,1,281,VN,Việt Nam,1029,,,,,,,,,,Tam Đường
+1031,L231003,Phong Thổ,304,L231,4,/TD/VTT/L231/L231003/,/TD/VTT/Lai Châu/Phong Thổ/,,1,281,VN,Việt Nam,1031,,,,,,,,,,Phong Thổ
+15563,L231013,Nậm Nhùn ,304,L231,4,/TD/VTT/L231/L231013/,/TD/VTT/Lai Châu/Nậm Nhùn /,,1,281,VN,Việt Nam,15563,,,,,,,,,,Nậm Nhùn 
+416,L231006,Mường Tè,304,L231,4,/TD/VTT/L231/L231006/,/TD/VTT/Lai Châu/Mường Tè/,,1,281,VN,Việt Nam,416,,,,,,,,,,Mường Tè
+833,L231005,Tân Uyên,304,L231,4,/TD/VTT/L231/L231005/,/TD/VTT/Lai Châu/Tân Uyên/,,1,281,VN,Việt Nam,833,,,,,,,,,,Tân Uyên
+574,L231010,Bình Lư,304,L231,4,/TD/VTT/L231/L231010/,/TD/VTT/Lai Châu/Bình Lư/,,1,281,VN,Việt Nam,574,,,,,,,,,,Bình Lư
+573,L231008,Pa So,304,L231,4,/TD/VTT/L231/L231008/,/TD/VTT/Lai Châu/Pa So/,,1,281,VN,Việt Nam,573,,,,,,,,,,Pa So
+1089,L231012,Lai Châu,304,L231,4,/TD/VTT/L231/L231012/,/TD/VTT/Lai Châu/Lai Châu/,,1,281,VN,Việt Nam,1089,,,,,,,,,,Lai Châu
+1061,L231009,Giào San,304,L231,4,/TD/VTT/L231/L231009/,/TD/VTT/Lai Châu/Giào San/,,1,281,VN,Việt Nam,1061,,,,,,,,,,Giào San
+20031,H321DN1,Bán hàng AM Viettel Hưng Yên,302,H321,4,/TD/VTT/H321/H321DN1/,/TD/VTT/Hưng Yên/Bán hàng AM Viettel Hưng Yên/,,1,281,VN,Việt Nam,20031,,,,,,,,,,Bán hàng AM Viettel Hưng Yên
+16031,H321TLS1,TLS Hưng Yên,302,H321,4,/TD/VTT/H321/H321TLS1/,/TD/VTT/Hưng Yên/TLS Hưng Yên/,,1,281,VN,Việt Nam,16031,,,,,,,,,,TLS Hưng Yên
+744,H321008,Kim Động,302,H321,4,/TD/VTT/H321/H321008/,/TD/VTT/Hưng Yên/Kim Động/,,1,281,VN,Việt Nam,744,,,,,,,,,,Kim Động
+743,H321006,Khoái Châu,302,H321,4,/TD/VTT/H321/H321006/,/TD/VTT/Hưng Yên/Khoái Châu/,,1,281,VN,Việt Nam,743,,,,,,,,,,Khoái Châu
+739,H321002,Văn Lâm,302,H321,4,/TD/VTT/H321/H321002/,/TD/VTT/Hưng Yên/Văn Lâm/,,1,281,VN,Việt Nam,739,,,,,,,,,,Văn Lâm
+1083,H321007,Ân Thi,302,H321,4,/TD/VTT/H321/H321007/,/TD/VTT/Hưng Yên/Ân Thi/,,1,281,VN,Việt Nam,1083,,,,,,,,,,Ân Thi
+746,H321010,Tiên Lữ,302,H321,4,/TD/VTT/H321/H321010/,/TD/VTT/Hưng Yên/Tiên Lữ/,,1,281,VN,Việt Nam,746,,,,,,,,,,Tiên Lữ
+740,H321003,Mỹ Hào,302,H321,4,/TD/VTT/H321/H321003/,/TD/VTT/Hưng Yên/Mỹ Hào/,,1,281,VN,Việt Nam,740,,,,,,,,,,Mỹ Hào
+738,H321001,Hưng Yên,302,H321,4,/TD/VTT/H321/H321001/,/TD/VTT/Hưng Yên/Hưng Yên/,,1,281,VN,Việt Nam,738,,,,,,,,,,Hưng Yên
+742,H321005,Văn Giang,302,H321,4,/TD/VTT/H321/H321005/,/TD/VTT/Hưng Yên/Văn Giang/,,1,281,VN,Việt Nam,742,,,,,,,,,,Văn Giang
+741,H321004,Yên Mỹ,302,H321,4,/TD/VTT/H321/H321004/,/TD/VTT/Hưng Yên/Yên Mỹ/,,1,281,VN,Việt Nam,741,,,,,,,,,,Yên Mỹ
+745,H321009,Phù Cừ,302,H321,4,/TD/VTT/H321/H321009/,/TD/VTT/Hưng Yên/Phù Cừ/,,1,281,VN,Việt Nam,745,,,,,,,,,,Phù Cừ
+20026,N351DN1,Bán hàng AM Viettel Hà Nam,309,N351,4,/TD/VTT/N351/N351DN1/,/TD/VTT/Hà Nam/Bán hàng AM Viettel Hà Nam/,,1,281,VN,Việt Nam,20026,,,,,,,,,,Bán hàng AM Viettel Hà Nam
+16026,N351TLS1,TLS Hà Nam,309,N351,4,/TD/VTT/N351/N351TLS1/,/TD/VTT/Hà Nam/TLS Hà Nam/,,1,281,VN,Việt Nam,16026,,,,,,,,,,TLS Hà Nam
+756,N351002,Duy Tiên,309,N351,4,/TD/VTT/N351/N351002/,/TD/VTT/Hà Nam/Duy Tiên/,,1,281,VN,Việt Nam,756,,,,,,,,,,Duy Tiên
+755,N351001,Phủ Lý,309,N351,4,/TD/VTT/N351/N351001/,/TD/VTT/Hà Nam/Phủ Lý/,,1,281,VN,Việt Nam,755,,,,,,,,,,Phủ Lý
+757,N351003,Kim Bảng,309,N351,4,/TD/VTT/N351/N351003/,/TD/VTT/Hà Nam/Kim Bảng/,,1,281,VN,Việt Nam,757,,,,,,,,,,Kim Bảng
+759,N351005,Thanh Liêm,309,N351,4,/TD/VTT/N351/N351005/,/TD/VTT/Hà Nam/Thanh Liêm/,,1,281,VN,Việt Nam,759,,,,,,,,,,Thanh Liêm
+758,N351004,Lý Nhân,309,N351,4,/TD/VTT/N351/N351004/,/TD/VTT/Hà Nam/Lý Nhân/,,1,281,VN,Việt Nam,758,,,,,,,,,,Lý Nhân
+16044,P210TLS1,TLS Phú Thọ,310,P210,4,/TD/VTT/P210/P210TLS1/,/TD/VTT/Phú Thọ/TLS Phú Thọ/,,1,281,VN,Việt Nam,16044,,,,,,,,,,TLS Phú Thọ
+988,P210007,Lâm Thao,310,P210,4,/TD/VTT/P210/P210007/,/TD/VTT/Phú Thọ/Lâm Thao/,,1,281,VN,Việt Nam,988,,,,,,,,,,Lâm Thao
+993,P210012,Thanh Sơn,310,P210,4,/TD/VTT/P210/P210012/,/TD/VTT/Phú Thọ/Thanh Sơn/,,1,281,VN,Việt Nam,993,,,,,,,,,,Thanh Sơn
+985,P210004,Hạ Hòa,310,P210,4,/TD/VTT/P210/P210004/,/TD/VTT/Phú Thọ/Hạ Hòa/,,1,281,VN,Việt Nam,985,,,,,,,,,,Hạ Hòa
+433,P210013,Tân Sơn,310,P210,4,/TD/VTT/P210/P210013/,/TD/VTT/Phú Thọ/Tân Sơn/,,1,281,VN,Việt Nam,433,,,,,,,,,,Tân Sơn
+992,P210011,Thanh Thủy,310,P210,4,/TD/VTT/P210/P210011/,/TD/VTT/Phú Thọ/Thanh Thủy/,,1,281,VN,Việt Nam,992,,,,,,,,,,Thanh Thủy
+991,P210010,Tam Nông,310,P210,4,/TD/VTT/P210/P210010/,/TD/VTT/Phú Thọ/Tam Nông/,,1,281,VN,Việt Nam,991,,,,,,,,,,Tam Nông
+990,P210009,Yên Lập,310,P210,4,/TD/VTT/P210/P210009/,/TD/VTT/Phú Thọ/Yên Lập/,,1,281,VN,Việt Nam,990,,,,,,,,,,Yên Lập
+982,P210001,Việt Trì,310,P210,4,/TD/VTT/P210/P210001/,/TD/VTT/Phú Thọ/Việt Trì/,,1,281,VN,Việt Nam,982,,,,,,,,,,Việt Trì
+987,P210006,Phù Ninh,310,P210,4,/TD/VTT/P210/P210006/,/TD/VTT/Phú Thọ/Phù Ninh/,,1,281,VN,Việt Nam,987,,,,,,,,,,Phù Ninh
+986,P210005,Thanh Ba,310,P210,4,/TD/VTT/P210/P210005/,/TD/VTT/Phú Thọ/Thanh Ba/,,1,281,VN,Việt Nam,986,,,,,,,,,,Thanh Ba
+983,P210002,Phú Thọ,310,P210,4,/TD/VTT/P210/P210002/,/TD/VTT/Phú Thọ/Phú Thọ/,,1,281,VN,Việt Nam,983,,,,,,,,,,Phú Thọ
+989,P210008,Cẩm Khê,310,P210,4,/TD/VTT/P210/P210008/,/TD/VTT/Phú Thọ/Cẩm Khê/,,1,281,VN,Việt Nam,989,,,,,,,,,,Cẩm Khê
+16041,N030TLS1,TLS Ninh Bình,306,N030,4,/TD/VTT/N030/N030TLS1/,/TD/VTT/Ninh Bình/TLS Ninh Bình/,,1,281,VN,Việt Nam,16041,,,,,,,,,,TLS Ninh Bình
+20041,N030DN1,Bán hàng AM Viettel Ninh Bình,306,N030,4,/TD/VTT/N030/N030DN1/,/TD/VTT/Ninh Bình/Bán hàng AM Viettel Ninh Bình/,,1,281,VN,Việt Nam,20041,,,,,,,,,,Bán hàng AM Viettel Ninh Bình
+765,N030005,Hoa Lư,306,N030,4,/TD/VTT/N030/N030005/,/TD/VTT/Ninh Bình/Hoa Lư/,,1,281,VN,Việt Nam,765,,,,,,,,,,Hoa Lư
+766,N030006,Yên Mô,306,N030,4,/TD/VTT/N030/N030006/,/TD/VTT/Ninh Bình/Yên Mô/,,1,281,VN,Việt Nam,766,,,,,,,,,,Yên Mô
+761,N030001,Ninh Bình,306,N030,4,/TD/VTT/N030/N030001/,/TD/VTT/Ninh Bình/Ninh Bình/,,1,281,VN,Việt Nam,761,,,,,,,,,,Ninh Bình
+764,N030004,Gia Viễn,306,N030,4,/TD/VTT/N030/N030004/,/TD/VTT/Ninh Bình/Gia Viễn/,,1,281,VN,Việt Nam,764,,,,,,,,,,Gia Viễn
+763,N030003,Nho Quan,306,N030,4,/TD/VTT/N030/N030003/,/TD/VTT/Ninh Bình/Nho Quan/,,1,281,VN,Việt Nam,763,,,,,,,,,,Nho Quan
+768,N030008,Kim Sơn,306,N030,4,/TD/VTT/N030/N030008/,/TD/VTT/Ninh Bình/Kim Sơn/,,1,281,VN,Việt Nam,768,,,,,,,,,,Kim Sơn
+767,N030007,Yên Khánh,306,N030,4,/TD/VTT/N030/N030007/,/TD/VTT/Ninh Bình/Yên Khánh/,,1,281,VN,Việt Nam,767,,,,,,,,,,Yên Khánh
+762,N030002,Tam Điệp,306,N030,4,/TD/VTT/N030/N030002/,/TD/VTT/Ninh Bình/Tam Điệp/,,1,281,VN,Việt Nam,762,,,,,,,,,,Tam Điệp
+16039,L025TLS1,TLS Lạng Sơn,305,L025,4,/TD/VTT/L025/L025TLS1/,/TD/VTT/Lạng Sơn/TLS Lạng Sơn/,,1,281,VN,Việt Nam,16039,,,,,,,,,,TLS Lạng Sơn
+20039,L025DN1,Bán hàng AM Viettel Lạng Sơn,305,L025,4,/TD/VTT/L025/L025DN1/,/TD/VTT/Lạng Sơn/Bán hàng AM Viettel Lạng Sơn/,,1,281,VN,Việt Nam,20039,,,,,,,,,,Bán hàng AM Viettel Lạng Sơn
+804,L025004,Bình Gia,305,L025,4,/TD/VTT/L025/L025004/,/TD/VTT/Lạng Sơn/Bình Gia/,,1,281,VN,Việt Nam,804,,,,,,,,,,Bình Gia
+801,L025001,Lạng Sơn,305,L025,4,/TD/VTT/L025/L025001/,/TD/VTT/Lạng Sơn/Lạng Sơn/,,1,281,VN,Việt Nam,801,,,,,,,,,,Lạng Sơn
+810,L025010,Đình Lập,305,L025,4,/TD/VTT/L025/L025010/,/TD/VTT/Lạng Sơn/Đình Lập/,,1,281,VN,Việt Nam,810,,,,,,,,,,Đình Lập
+811,L025011,Hữu Lũng,305,L025,4,/TD/VTT/L025/L025011/,/TD/VTT/Lạng Sơn/Hữu Lũng/,,1,281,VN,Việt Nam,811,,,,,,,,,,Hữu Lũng
+809,L025009,Chi Lăng,305,L025,4,/TD/VTT/L025/L025009/,/TD/VTT/Lạng Sơn/Chi Lăng/,,1,281,VN,Việt Nam,809,,,,,,,,,,Chi Lăng
+806,L025006,Văn Quan,305,L025,4,/TD/VTT/L025/L025006/,/TD/VTT/Lạng Sơn/Văn Quan/,,1,281,VN,Việt Nam,806,,,,,,,,,,Văn Quan
+808,L025008,Lộc Bình,305,L025,4,/TD/VTT/L025/L025008/,/TD/VTT/Lạng Sơn/Lộc Bình/,,1,281,VN,Việt Nam,808,,,,,,,,,,Lộc Bình
+805,L025005,Bắc Sơn,305,L025,4,/TD/VTT/L025/L025005/,/TD/VTT/Lạng Sơn/Bắc Sơn/,,1,281,VN,Việt Nam,805,,,,,,,,,,Bắc Sơn
+803,L025003,Văn Lãng,305,L025,4,/TD/VTT/L025/L025003/,/TD/VTT/Lạng Sơn/Văn Lãng/,,1,281,VN,Việt Nam,803,,,,,,,,,,Văn Lãng
+807,L025007,Cao Lộc,305,L025,4,/TD/VTT/L025/L025007/,/TD/VTT/Lạng Sơn/Cao Lộc/,,1,281,VN,Việt Nam,807,,,,,,,,,,Cao Lộc
+802,L025002,Tràng Định,305,L025,4,/TD/VTT/L025/L025002/,/TD/VTT/Lạng Sơn/Tràng Định/,,1,281,VN,Việt Nam,802,,,,,,,,,,Tràng Định
+20020,G059DN1,Bán hàng AM Viettel Gia Lai,324,G059,4,/TD/VTT/G059/G059DN1/,/TD/VTT/Gia Lai/Bán hàng AM Viettel Gia Lai/,,1,281,VN,Việt Nam,20020,,,,,,,,,,Bán hàng AM Viettel Gia Lai
+16020,G059TLS1,TLS Gia Lai,324,G059,4,/TD/VTT/G059/G059TLS1/,/TD/VTT/Gia Lai/TLS Gia Lai/,,1,281,VN,Việt Nam,16020,,,,,,,,,,TLS Gia Lai
+614,G059008,Kông Chro,324,G059,4,/TD/VTT/G059/G059008/,/TD/VTT/Gia Lai/Kông Chro/,,1,281,VN,Việt Nam,614,,,,,,,,,,Kông Chro
+616,G059010,Chư Prông,324,G059,4,/TD/VTT/G059/G059010/,/TD/VTT/Gia Lai/Chư Prông/,,1,281,VN,Việt Nam,616,,,,,,,,,,Chư Prông
+14123,G059017,Chư Pưh,324,G059,4,/TD/VTT/G059/G059017/,/TD/VTT/Gia Lai/Chư Pưh/,,1,281,VN,Việt Nam,14123,,,,,,,,,,Chư Pưh
+617,G059011,Chư Sê,324,G059,4,/TD/VTT/G059/G059011/,/TD/VTT/Gia Lai/Chư Sê/,,1,281,VN,Việt Nam,617,,,,,,,,,,Chư Sê
+613,G059007,An Khê,324,G059,4,/TD/VTT/G059/G059007/,/TD/VTT/Gia Lai/An Khê/,,1,281,VN,Việt Nam,613,,,,,,,,,,An Khê
+612,G059006,Ia Grai,324,G059,4,/TD/VTT/G059/G059006/,/TD/VTT/Gia Lai/Ia Grai/,,1,281,VN,Việt Nam,612,,,,,,,,,,Ia Grai
+832,G059015,Ia Pa,324,G059,4,/TD/VTT/G059/G059015/,/TD/VTT/Gia Lai/Ia Pa/,,1,281,VN,Việt Nam,832,,,,,,,,,,Ia Pa
+831,G059014,Đắc Pơ,324,G059,4,/TD/VTT/G059/G059014/,/TD/VTT/Gia Lai/Đắc Pơ/,,1,281,VN,Việt Nam,831,,,,,,,,,,Đắc Pơ
+615,G059009,Đức Cơ,324,G059,4,/TD/VTT/G059/G059009/,/TD/VTT/Gia Lai/Đức Cơ/,,1,281,VN,Việt Nam,615,,,,,,,,,,Đức Cơ
+619,G059013,Krông Pa,324,G059,4,/TD/VTT/G059/G059013/,/TD/VTT/Gia Lai/Krông Pa/,,1,281,VN,Việt Nam,619,,,,,,,,,,Krông Pa
+618,G059012,Ayun Pa,324,G059,4,/TD/VTT/G059/G059012/,/TD/VTT/Gia Lai/Ayun Pa/,,1,281,VN,Việt Nam,618,,,,,,,,,,Ayun Pa
+608,G059002,Kbang,324,G059,4,/TD/VTT/G059/G059002/,/TD/VTT/Gia Lai/Kbang/,,1,281,VN,Việt Nam,608,,,,,,,,,,Kbang
+429,G059016,Phú Thiện,324,G059,4,/TD/VTT/G059/G059016/,/TD/VTT/Gia Lai/Phú Thiện/,,1,281,VN,Việt Nam,429,,,,,,,,,,Phú Thiện
+611,G059005,Chư Păh,324,G059,4,/TD/VTT/G059/G059005/,/TD/VTT/Gia Lai/Chư Păh/,,1,281,VN,Việt Nam,611,,,,,,,,,,Chư Păh
+610,G059004,Mang Yang,324,G059,4,/TD/VTT/G059/G059004/,/TD/VTT/Gia Lai/Mang Yang/,,1,281,VN,Việt Nam,610,,,,,,,,,,Mang Yang
+607,G059001,Pleiku,324,G059,4,/TD/VTT/G059/G059001/,/TD/VTT/Gia Lai/Pleiku/,,1,281,VN,Việt Nam,607,,,,,,,,,,Pleiku
+16046,Q052TLS1,TLS Quảng Bình,312,Q052,4,/TD/VTT/Q052/Q052TLS1/,/TD/VTT/Quảng Bình/TLS Quảng Bình/,,1,281,VN,Việt Nam,16046,,,,,,,,,,TLS Quảng Bình
+20046,Q052DN1,Bán hàng AM Viettel Quảng Bình,312,Q052,4,/TD/VTT/Q052/Q052DN1/,/TD/VTT/Quảng Bình/Bán hàng AM Viettel Quảng Bình/,,1,281,VN,Việt Nam,20046,,,,,,,,,,Bán hàng AM Viettel Quảng Bình
+529,Q052004,Quảng Trạch,312,Q052,4,/TD/VTT/Q052/Q052004/,/TD/VTT/Quảng Bình/Quảng Trạch/,,1,281,VN,Việt Nam,529,,,,,,,,,,Quảng Trạch
+531,Q052006,Quảng Ninh,312,Q052,4,/TD/VTT/Q052/Q052006/,/TD/VTT/Quảng Bình/Quảng Ninh/,,1,281,VN,Việt Nam,531,,,,,,,,,,Quảng Ninh
+530,Q052005,Bố Trạch,312,Q052,4,/TD/VTT/Q052/Q052005/,/TD/VTT/Quảng Bình/Bố Trạch/,,1,281,VN,Việt Nam,530,,,,,,,,,,Bố Trạch
+532,Q052007,Lệ Thủy,312,Q052,4,/TD/VTT/Q052/Q052007/,/TD/VTT/Quảng Bình/Lệ Thủy/,,1,281,VN,Việt Nam,532,,,,,,,,,,Lệ Thủy
+933,T027003,Chiêm Hóa,287,T027,4,/TD/VTT/T027/T027003/,/TD/VTT/Tuyên Quang/Chiêm Hóa/,,1,281,VN,Việt Nam,933,,,,,,,,,,Chiêm Hóa
+936,T027006,Sơn Dương,287,T027,4,/TD/VTT/T027/T027006/,/TD/VTT/Tuyên Quang/Sơn Dương/,,1,281,VN,Việt Nam,936,,,,,,,,,,Sơn Dương
+935,T027005,Yên Sơn,287,T027,4,/TD/VTT/T027/T027005/,/TD/VTT/Tuyên Quang/Yên Sơn/,,1,281,VN,Việt Nam,935,,,,,,,,,,Yên Sơn
+931,T027001,Tuyên Quang,287,T027,4,/TD/VTT/T027/T027001/,/TD/VTT/Tuyên Quang/Tuyên Quang/,,1,281,VN,Việt Nam,931,,,,,,,,,,Tuyên Quang
+14121,T027007,Lâm Bình,287,T027,4,/TD/VTT/T027/T027007/,/TD/VTT/Tuyên Quang/Lâm Bình/,,1,281,VN,Việt Nam,14121,,,,,,,,,,Lâm Bình
+16055,T037TLS1,TLS Thanh Hóa,289,T037,4,/TD/VTT/T037/T037TLS1/,/TD/VTT/Thanh Hóa/TLS Thanh Hóa/,,1,281,VN,Việt Nam,16055,,,,,,,,,,TLS Thanh Hóa
+1050,T037018,Yên Định,289,T037,4,/TD/VTT/T037/T037018/,/TD/VTT/Thanh Hóa/Yên Định/,,1,281,VN,Việt Nam,1050,,,,,,,,,,Yên Định
+1047,T037015,Vĩnh Lộc,289,T037,4,/TD/VTT/T037/T037015/,/TD/VTT/Thanh Hóa/Vĩnh Lộc/,,1,281,VN,Việt Nam,1047,,,,,,,,,,Vĩnh Lộc
+1052,T037020,Hậu Lộc,289,T037,4,/TD/VTT/T037/T037020/,/TD/VTT/Thanh Hóa/Hậu Lộc/,,1,281,VN,Việt Nam,1052,,,,,,,,,,Hậu Lộc
+1048,T037016,Hà Trung,289,T037,4,/TD/VTT/T037/T037016/,/TD/VTT/Thanh Hóa/Hà Trung/,,1,281,VN,Việt Nam,1048,,,,,,,,,,Hà Trung
+1051,T037019,Thọ Xuân,289,T037,4,/TD/VTT/T037/T037019/,/TD/VTT/Thanh Hóa/Thọ Xuân/,,1,281,VN,Việt Nam,1051,,,,,,,,,,Thọ Xuân
+1040,T037008,Cẩm Thủy,289,T037,4,/TD/VTT/T037/T037008/,/TD/VTT/Thanh Hóa/Cẩm Thủy/,,1,281,VN,Việt Nam,1040,,,,,,,,,,Cẩm Thủy
+1049,T037017,Nga Sơn,289,T037,4,/TD/VTT/T037/T037017/,/TD/VTT/Thanh Hóa/Nga Sơn/,,1,281,VN,Việt Nam,1049,,,,,,,,,,Nga Sơn
+1045,T037013,Như Xuân,289,T037,4,/TD/VTT/T037/T037013/,/TD/VTT/Thanh Hóa/Như Xuân/,,1,281,VN,Việt Nam,1045,,,,,,,,,,Như Xuân
+1042,T037010,Thạch Thành,289,T037,4,/TD/VTT/T037/T037010/,/TD/VTT/Thanh Hóa/Thạch Thành/,,1,281,VN,Việt Nam,1042,,,,,,,,,,Thạch Thành
+1041,T037009,Lang Chánh,289,T037,4,/TD/VTT/T037/T037009/,/TD/VTT/Thanh Hóa/Lang Chánh/,,1,281,VN,Việt Nam,1041,,,,,,,,,,Lang Chánh
+1044,T037012,Thường Xuân,289,T037,4,/TD/VTT/T037/T037012/,/TD/VTT/Thanh Hóa/Thường Xuân/,,1,281,VN,Việt Nam,1044,,,,,,,,,,Thường Xuân
+1043,T037011,Ngọc Lặc,289,T037,4,/TD/VTT/T037/T037011/,/TD/VTT/Thanh Hóa/Ngọc Lặc/,,1,281,VN,Việt Nam,1043,,,,,,,,,,Ngọc Lặc
+413,H004019,Đan Phượng,292,H004,4,/TD/VTT/H004/H004019/,/TD/VTT/Hà Nội/Đan Phượng/,,1,281,VN,Việt Nam,413,,,,,,,,,,Đan Phượng
+405,H004026,Mỹ Đức,292,H004,4,/TD/VTT/H004/H004026/,/TD/VTT/Hà Nội/Mỹ Đức/,,1,281,VN,Việt Nam,405,,,,,,,,,,Mỹ Đức
+400,H004022,Quốc Oai,292,H004,4,/TD/VTT/H004/H004022/,/TD/VTT/Hà Nội/Quốc Oai/,,1,281,VN,Việt Nam,400,,,,,,,,,,Quốc Oai
+404,H004021,Hoài Đức,292,H004,4,/TD/VTT/H004/H004021/,/TD/VTT/Hà Nội/Hoài Đức/,,1,281,VN,Việt Nam,404,,,,,,,,,,Hoài Đức
+411,H004023,Chương Mỹ,292,H004,4,/TD/VTT/H004/H004023/,/TD/VTT/Hà Nội/Chương Mỹ/,,1,281,VN,Việt Nam,411,,,,,,,,,,Chương Mỹ
+407,H004016,Sơn Tây,292,H004,4,/TD/VTT/H004/H004016/,/TD/VTT/Hà Nội/Sơn Tây/,,1,281,VN,Việt Nam,407,,,,,,,,,,Sơn Tây
+406,H004027,ứng Hòa,292,H004,4,/TD/VTT/H004/H004027/,/TD/VTT/Hà Nội/ứng Hòa/,,1,281,VN,Việt Nam,406,,,,,,,,,,ứng Hòa
+403,H004018,Phúc Thọ,292,H004,4,/TD/VTT/H004/H004018/,/TD/VTT/Hà Nội/Phúc Thọ/,,1,281,VN,Việt Nam,403,,,,,,,,,,Phúc Thọ
+399,H004020,Thạch Thất,292,H004,4,/TD/VTT/H004/H004020/,/TD/VTT/Hà Nội/Thạch Thất/,,1,281,VN,Việt Nam,399,,,,,,,,,,Thạch Thất
+408,H004024,Thanh Oai,292,H004,4,/TD/VTT/H004/H004024/,/TD/VTT/Hà Nội/Thanh Oai/,,1,281,VN,Việt Nam,408,,,,,,,,,,Thanh Oai
+397,H004015,Hà Đông,292,H004,4,/TD/VTT/H004/H004015/,/TD/VTT/Hà Nội/Hà Đông/,,1,281,VN,Việt Nam,397,,,,,,,,,,Hà Đông
+398,H004017,Ba Vì,292,H004,4,/TD/VTT/H004/H004017/,/TD/VTT/Hà Nội/Ba Vì/,,1,281,VN,Việt Nam,398,,,,,,,,,,Ba Vì
+20005,B281DN1,Bán hàng AM Viettel Bắc Cạn,295,B281,4,/TD/VTT/B281/B281DN1/,/TD/VTT/Bắc Kạn/Bán hàng AM Viettel Bắc Cạn/,,1,281,VN,Việt Nam,20005,,,,,,,,,,Bán hàng AM Viettel Bắc Cạn
+16005,B281TLS1,TLS Bắc Kạn,295,B281,4,/TD/VTT/B281/B281TLS1/,/TD/VTT/Bắc Kạn/TLS Bắc Kạn/,,1,281,VN,Việt Nam,16005,,,,,,,,,,TLS Bắc Kạn
+307140,VTSPORT,VTSport,254,TD,2,/TD/VTSPORT/,/Tập đoàn/VTSport/,,1,,,,,,,,,,2021-07-07 07:19:24,"241173",,,VTSport
+305961,VDTC,VDTC,254,TD,2,/TD/VDTC/,/Tập đoàn/VDTC/,,1,,,,,,,,,,2021-08-25 14:28:07,"170635",,,VDTC
+305960,M3,M3,308521,VMC,2,/TD/SXTB/VMC/M3/,/Tập đoàn/SXTB/VMC/M3/,,1,,,,,,,,,,2021-08-25 14:29:10,"170635",,,M3
+255,VTT,VTT,254,TD,2,/TD/VTT/,/Tập đoàn/VTT/,,1,,,,,,,,,,2021-11-01 14:31:30,"170635",,,VTT
+308344,TV360,TV360,,,1,/TV360/,/TV360/,,1,,,,,,,,,,2021-11-24 09:48:42,"170635",,,TV360
+308465,VTT_VDS,VTT+VDS,254,TD,2,/TD/VTT_VDS/,/Tập đoàn/VTT_VDS/,,1,,,,,,,,,,2021-11-01 14:31:30,"170635",,,VTT_VDS
+308466,VTT_VTS_VDS,VTT+VTS+VDS,254,TD,2,/TD/VTT_VTS_VDS/,/Tập đoàn/VTT_VTS_VDS/,,1,,,,,,,,,,2021-11-01 14:31:30,"170635",,,VTT_VTS_VDS
+308467,GPCNDV,Lĩnh vực GPCNTT - DV số,254,TD,1,/TD/GPCNDV/,/Tập đoàn/Lĩnh vực GPCNTT - DV số/,giangpth,1,,,,,,,,,,2021-12-30 10:50:55,"170635",,,GPCNDV
+308521,VMC,Tổng Công ty Sản xuất thiết bị Viettel,270,SXTB,2,/TD/SXTB/VMC/,/Tập đoàn/SXTB/VMC/,,1,,,,,,,,,,2021-08-25 14:29:02,"170635",,,VMC
+291,V211,Vĩnh Phúc,307143,TSS,3,/TD/TSS/V211/,/Tập đoàn/Viettel Tỉnh/TP/Vĩnh Phúc/,"Vĩnh Phúc là một tỉnh vùng đồng bằng sông Hồng, Việt Nam, nằm ở chính giữa trung tâm hình học trên bản đồ miền Bắc. Đây là tỉnh nằm trong quy hoạch vùng thủ đô Hà Nội, vùng kinh tế trọng điểm Bắc Bộ.",1,,,,,,,307143,TSS,Viettel Tỉnh/TP,2021-10-19 13:44:08,"170635",,,VPC
+245,VTC,"Viettel Cambodia Pte., Ltd",256,VTG,5,/TD/VTG/VTC/,/Tập đoàn/VTNN/VTC/,"Campuchia, tên chính thức là Vương quốc Campuchia, còn có tên gọi khác nay ít dùng là Cao Miên và Cam Bốt, là một quốc gia độc lập có chủ quyền nằm trên bán đảo Đông Dương ở vùng Đông Nam Á. Campuchia giáp với vịnh Thái Lan ở phía tây nam, Thái Lan ở phía tây bắc, Lào ở phía đông bắc và Việt Nam ở phía đông.",1,,,,,,,,,,2021-08-21 15:39:33,"170635",,,Metfone
+250,VTP,Viettel Peru,256,VTG,5,/TD/VTG/VTP/,/Tập đoàn/VTNN/VTP/,"Peru, tên chính thức là Cộng hòa Peru, là một quốc gia nằm ở phía Tây Nam Mỹ. Về phía bắc, Peru có biên giới với Ecuador và Colombia, về phía đông là Brasil, về phía đông nam là Bolivia, ở phía nam là Chile, phía tây Peru là Thái Bình Dương.",1,,,,,,,,,,2021-08-21 15:39:59,"170635",,,Bitel
+2102,VTZ,Viettel Tanzania,256,VTG,5,/TD/VTG/VTZ/,/Tập đoàn/VTNN/VTZ/,"Cộng hòa Thống nhất Tanzania là một đất nước ở bờ biển phía đông châu Phi. Phía bắc giáp Kenya, hồ Victoria và Uganda, phía tây giáp Rwanda, Burundi và đối diện Cộng hòa Dân chủ Congo qua hồ Tanganyika, phía nam giáp Zambia, Malawi, hồ Nyasa và Mozambique. Bờ biển phía đông là Ấn Độ dương.",1,,,,,,,,,,2021-08-21 16:04:29,"170635",,,Halotel
+308523,VTNNCN,Viễn thông nước ngoài cộng ngang,256,VTG,1,/TD/VTNNCN/,/Tập đoàn/Viễn thông nước ngoài cộng ngang/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VTNNCN
+308522,VTNNHN,Viễn thông nước ngoài hợp nhất,256,VTG,1,/TD/VTNNHN/,/Tập đoàn/Viễn thông nước ngoài hợp nhất/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,VTNNHN
+308482,SXTBCNC_HHL,Nhóm hết hiệu lực,,,6,/TD/SXTBCNC_HHL/,/Tập đoàn/Nhóm hết hiệu lực/,giangpth,1,,,,,,,,,,2021-12-29 11:03:10,"170635",,,SXTBCNC_HHL
+308468,GPCNDV_HHL,Nhóm hết hiệu lực,,,6,/GPCNDV_HHL/,/Nhóm hết hiệu lực/,giangpth,1,,,,,,,,,,2021-12-30 09:59:04,"170635",,,GPCNDV_HHL
+308483,CPLTM_HHL,Nhóm hết hiệu lực,,,6,/TD/CPLTM_HHL/,/Tập đoàn/Nhóm hết hiệu lực/,giangpth,1,,,,,,,,,,2021-12-29 11:03:10,"170635",,,CPLTM_HHL
+308484,LVK,Lĩnh vực khác,254,TD,1,/TD/LVK/,/Tập đoàn/Lĩnh vực khác/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,LVK
+308480,CPLTM,"Lĩnh vực TMĐT, Logistics và Khác",254,TD,1,/TD/CPLTM/,"/Tập đoàn/Lĩnh vực TMĐT, Logistics và Khác/",giangpth,1,,,,,,,,,,2021-12-30 10:52:17,"170635",,,CPLTM
+308479,SXTBCNC,Lĩnh vực Nghiên cứu sản xuất CN CNC,254,TD,1,/TD/SXTBCNC/,/Tập đoàn/Lĩnh vực Nghiên cứu sản xuất CN CNC/,giangpth,1,,,,,,,,,,2021-12-30 10:52:43,"170635",,,SXTBCNC
+305962,KXL,Xây lắp,254,TD,6,/TD/KXL/,/Tập đoàn/Xây lắp/,,1,,,,,,,,,,2021-07-15 15:55:43,"170635",,,Xây lắp
+305963,DTK,Doanh thu khác,254,TD,6,/TD/DTK/,/Tập đoàn/Doanh thu khác/,,1,,,,,,,,,,2021-07-15 15:57:04,"170635",,,Doanh thu khác
+305964,CTM,Công ty mẹ,254,TD,2,/TD/CTM/,/Tập đoàn/Công ty mẹ/,,1,,,,,,,,,,2021-11-01 15:46:40,"170635",,,Công ty mẹ
+15621,H004032,Bắc Từ Liêm,292,H004,4,/TD/VTT/H004/H004032/,/TD/VTT/Hà Nội/Bắc Từ Liêm/,,1,281,VN,Việt Nam,15621,,,,,,,,,,Bắc Từ Liêm
+1067,H004006,Tây Hồ,292,H004,4,/TD/VTT/H004/H004006/,/TD/VTT/Hà Nội/Tây Hồ/,,1,281,VN,Việt Nam,1067,,,,,,,,,,Tây Hồ
+727,H004002,Hoàn Kiếm,292,H004,4,/TD/VTT/H004/H004002/,/TD/VTT/Hà Nội/Hoàn Kiếm/,,1,281,VN,Việt Nam,727,,,,,,,,,,Hoàn Kiếm
+470,H018008,Lạc Sơn,297,H018,4,/TD/VTT/H018/H018008/,/TD/VTT/Hòa Bình/Lạc Sơn/,,1,281,VN,Việt Nam,470,,,,,,,,,,Lạc Sơn
+467,H018005,Lương Sơn,297,H018,4,/TD/VTT/H018/H018005/,/TD/VTT/Hòa Bình/Lương Sơn/,,1,281,VN,Việt Nam,467,,,,,,,,,,Lương Sơn
+785,H019007,Hoàng Su Phì,298,H019,4,/TD/VTT/H019/H019007/,/TD/VTT/Hà Giang/Hoàng Su Phì/,,1,281,VN,Việt Nam,785,,,,,,,,,,Hoàng Su Phì
+784,H019006,Bắc Mê,298,H019,4,/TD/VTT/H019/H019006/,/TD/VTT/Hà Giang/Bắc Mê/,,1,281,VN,Việt Nam,784,,,,,,,,,,Bắc Mê
+16004,B240TLS1,TLS Bắc Giang,293,B240,4,/TD/VTT/B240/B240TLS1/,/TD/VTT/Bắc Giang/TLS Bắc Giang/,,1,281,VN,Việt Nam,16004,,,,,,,,,,TLS Bắc Giang
+968,B240007,Sơn Động,293,B240,4,/TD/VTT/B240/B240007/,/TD/VTT/Bắc Giang/Sơn Động/,,1,281,VN,Việt Nam,968,,,,,,,,,,Sơn Động
+587,C026014,Quảng Uyên,296,C026,4,/TD/VTT/C026/C026014/,/TD/VTT/Cao Bằng/Quảng Uyên/,,1,281,VN,Việt Nam,587,,,,,,,,,,Quảng Uyên
+799,C026011,Hạ Lang,296,C026,4,/TD/VTT/C026/C026011/,/TD/VTT/Cao Bằng/Hạ Lang/,,1,281,VN,Việt Nam,799,,,,,,,,,,Hạ Lang
+760,N351006,Bình Lục,309,N351,4,/TD/VTT/N351/N351006/,/TD/VTT/Hà Nam/Bình Lục/,,1,281,VN,Việt Nam,760,,,,,,,,,,Bình Lục
+20044,P210DN1,Bán hàng AM Viettel Phú Thọ,310,P210,4,/TD/VTT/P210/P210DN1/,/TD/VTT/Phú Thọ/Bán hàng AM Viettel Phú Thọ/,,1,281,VN,Việt Nam,20044,,,,,,,,,,Bán hàng AM Viettel Phú Thọ
+984,P210003,Đoan Hùng,310,P210,4,/TD/VTT/P210/P210003/,/TD/VTT/Phú Thọ/Đoan Hùng/,,1,281,VN,Việt Nam,984,,,,,,,,,,Đoan Hùng
+609,G059003,Đăk Đoa,324,G059,4,/TD/VTT/G059/G059003/,/TD/VTT/Gia Lai/Đăk Đoa/,,1,281,VN,Việt Nam,609,,,,,,,,,,Đăk Đoa
+15741,Q052008,Thị xã Ba Đồn,312,Q052,4,/TD/VTT/Q052/Q052008/,/TD/VTT/Quảng Bình/Thị xã Ba Đồn/,,1,281,VN,Việt Nam,15741,,,,,,,,,,Thị xã Ba Đồn
+20050,Q053DN1,Bán hàng AM Viettel Quảng Trị,316,Q053,4,/TD/VTT/Q053/Q053DN1/,/TD/VTT/Quảng Trị/Bán hàng AM Viettel Quảng Trị/,,1,281,VN,Việt Nam,20050,,,,,,,,,,Bán hàng AM Viettel Quảng Trị
+475,N038003,Quế Phong,307,N038,4,/TD/VTT/N038/N038003/,/TD/VTT/Nghệ An/Quế Phong/,,1,281,VN,Việt Nam,475,,,,,,,,,,Quế Phong
+777,N350009,Nghĩa Hưng,308,N350,4,/TD/VTT/N350/N350009/,/TD/VTT/Nam Định/Nghĩa Hưng/,,1,281,VN,Việt Nam,777,,,,,,,,,,Nghĩa Hưng
+772,N350004,ý Yên,308,N350,4,/TD/VTT/N350/N350004/,/TD/VTT/Nam Định/ý Yên/,,1,281,VN,Việt Nam,772,,,,,,,,,,ý Yên
+932,T027002,Na Hang,287,T027,4,/TD/VTT/T027/T027002/,/TD/VTT/Tuyên Quang/Na Hang/,,1,281,VN,Việt Nam,932,,,,,,,,,,Na Hang
+20055,T037DN1,Bán hàng AM Viettel Thanh Hóa,289,T037,4,/TD/VTT/T037/T037DN1/,/TD/VTT/Thanh Hóa/Bán hàng AM Viettel Thanh Hóa/,,1,281,VN,Việt Nam,20055,,,,,,,,,,Bán hàng AM Viettel Thanh Hóa
+1046,T037014,Như Thanh,289,T037,4,/TD/VTT/T037/T037014/,/TD/VTT/Thanh Hóa/Như Thanh/,,1,281,VN,Việt Nam,1046,,,,,,,,,,Như Thanh
+1039,T037007,Bá Thước,289,T037,4,/TD/VTT/T037/T037007/,/TD/VTT/Thanh Hóa/Bá Thước/,,1,281,VN,Việt Nam,1039,,,,,,,,,,Bá Thước
+305965,HVT,Học viện Viettel,254,TD,6,/TD/HVT/,/Tập đoàn/Học viện Viettel/,,1,,,,,,,,,,2021-08-25 14:31:42,"170635",,,VTAca
+305980,XMCP,XMCP,254,TD,2,/TD/XMCP/,/Tập đoàn/XMCP/,,1,,,,,,,,,,2021-09-16 17:28:10,"170635",,,XMCP
+308341,VTCM,Công ty Viettel Cameroon S.A.R.L,256,VTG,5,/TD/VTG/VTCM/,/Tập đoàn/VTNN/Công ty Viettel Cameroon S.A.R.L/,"Cameroon hay Cameroun, tên chính thức là nước Cộng hòa Cameroon, là một quốc gia ở phía tây của khu vực Trung Phi. Cameroon có biên giới quốc tế với Nigeria ở phía tây; với Tchad ở phía đông bắc; với nước Cộng hòa Trung Phi ở phía đông; và với Guinea Xích Đạo, Gabon, và nước Cộng hòa Congo ở phía nam.",1,,,,,,,,,,2021-11-16 16:28:08,"250905",,,Nexttel
+308342,KDN,Công ty TNHH một thành viên Kinh doanh nhà Viettel,254,TD,2,/TD/KDN/,/Tập đoàn/Công ty TNHH một thành viên Kinh doanh nhà Viettel/,,1,,,,,,,,,,2021-11-16 23:17:22,"250905",,,KDN
+308343,DCHN,Điều chỉnh hợp nhất TĐ,254,TD,2,/TD/DCHN/,/Tập đoàn/Điều chỉnh hợp nhất TĐ/,,1,,,,,,,,,,2021-11-16 18:29:43,"250905",,,DCHN
+308464,VT,Lĩnh vực Viễn thông,254,TD,1,/TD/VT/,/Tập đoàn/Lĩnh vực Viễn thông/,giangpth,1,,,,,,,,,,2021-12-30 10:51:21,"170635",,,VT
+308496,DTTC,Hoạt động đầu tư tài chính,254,TD,1,/TD/DTTC/,/Tập đoàn/Hoạt động đầu tư tài chính/,,1,,,,,,,,,,2021-12-30 18:15:15,"170635",,,DTTC
+308498,BGD,Ban giám đốc tập đoàn,305964,CTM,3,/TD/CTM/BGD/,/Tập đoàn/Công ty mẹ/Ban giám đốc tập đoàn,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,BGĐ
+308499,VP,Văn phòng,305964,CTM,3,/TD/CTM/VP/,/Tập đoàn/Công ty mẹ/Văn phòng,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,VPTD
+308501,BCNC,Ban Công nghiệp Công nghệ cao,305964,CTM,3,/TD/CTM/BCNC/,/Tập đoàn/Công ty mẹ/Ban Công nghiệp Công nghệ cao,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.CNC
+308502,BCT,Cơ quan chính trị,305964,CTM,3,/TD/CTM/BCT/,/Tập đoàn/Công ty mẹ/Cơ quan chính trị,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.CQCT
+308503,BCNTT,Ban công nghệ thống tin,305964,CTM,3,/TD/CTM/BCNTT/,/Tập đoàn/Công ty mẹ/Ban công nghệ thống tin,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.CNTT
+308504,BDTTC,Ban đầu tư tài chính,305964,CTM,3,/TD/CTM/BDTTC/,/Tập đoàn/Công ty mẹ/Ban đầu tư tài chính,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.ĐTTC
+308505,BPC,Ban pháp chế,305964,CTM,3,/TD/CTM/BPC/,/Tập đoàn/Công ty mẹ/Ban pháp chế,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.PC
+308506,BTCNL,Ban tổ chức nhân lực,305964,CTM,3,/TD/CTM/BTCNL/,/Tập đoàn/Công ty mẹ/Ban tổ chức nhân lực,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.TCNL
+308507,BTT,Ban Thương hiệu và Truyền thông,305964,CTM,3,/TD/CTM/BTT/,/Tập đoàn/Công ty mẹ/Ban truyền thông,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.TH-TT
+308508,BTTKT,Ban thanh tra - kiểm toán,305964,CTM,3,/TD/CTM/BTTKT/,/Tập đoàn/Công ty mẹ/Ban thanh tra - kiểm toán,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.TTKT
+308509,BCL,Ban chiến lược,305964,BCL,3,/TD/CTM/BTTKT/,/Tập đoàn/Công ty mẹ/BCL,,1,,,,,,,,,,2022-07-13 15:25:52,"250905",,,B.CL
+304775,K060010,H.la H'Drai,326,K060,4,/TD/VTT/K060/K060010/,/TD/VTT/Kon Tum/H.la H'Drai/,,1,281,VN,Việt Nam,304775,,,,,,1970-01-01 07:00:00,,1970-01-01 07:00:00,1970-01-01 07:00:00,H.la H'Drai
+304774,T037028,TX.Nghi Sơn,289,T037,4,/TD/VTT/T037/T037028/,/TD/VTT/Thanh Hóa/TX.Nghi Sơn/,,1,281,VN,Việt Nam,304774,,,,,,1970-01-01 07:00:00,,1970-01-01 07:00:00,1970-01-01 07:00:00,TX.Nghi Sơn
+307164,DVHT,Đơn vị hạch toán phụ thuộc,254,TD,2,/TD/DVHT/,/Tập đoàn/Đơn vị hạch toán phụ thuộc/,,1,,,,,,,,,,2021-07-07 07:19:24,"241173",,,Đơn vị hạch toán phụ thuộc

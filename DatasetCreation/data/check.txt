@@ -1,0 +1,50 @@
+{
+    "name": "https://110.123.14.43:1234/vsds/api/chatbot/getStatisticalData",
+    "protocolProfileBehavior": {
+        "strictSSL": false
+    },
+    "request": {
+        "method": "POST",
+        "header": [
+            {
+                "key": "Authorization",
+                "value": "fdlsjahfdlasfhjlkdjsklf.fdasfhljasdhfjlkasdjfkljadslkfjlsadfa.adsfhuiowhjfklsdnajfnsafasdfljhsdajlfndasf",
+                "type": "text",
+                "disabled": true
+            }
+        ],
+        "body": {
+            "mode": "raw",
+            "raw": "{   \r\n    \"ip\": \"101.161.12.24\",\r\n    \"listServiceId\" : [\"19\"],\r\n    \"areaCode\" : \"Something\",\r\n    \"cycleTime\" : \"NGAY\",\r\n    \"fromDate1\" : \"20230513\",\r\n    \"toDate1\" : \"20230513\"\r\n}\r\n",
+            "options": {
+                "raw": {
+                    "language": "json"
+                }
+            }
+        },
+        "url": {
+            "raw": "https://110.123.14.43:1234/vsds/api/chatbot/getStatisticalData?token=fdlsjahfdlasfhjlkdjsklf.fdasfhljasdhfjlkasdjfkljadslkfjlsadfa.adsfhuiowhjfklsdnajfnsafasdfljhsdajlfndasf",
+            "protocol": "https",
+            "host": [
+                "110",
+                "123",
+                "14",
+                "43"
+            ],
+            "port": "1234",
+            "path": [
+                "vsds",
+                "api",
+                "chatbot",
+                "getStatisticalData"
+            ],
+            "query": [
+                {
+                    "key": "token",
+                    "value": "fdlsjahfdlasfhjlkdjsklf.fdasfhljasdhfjlkasdjfkljadslkfjlsadfa.adsfhuiowhjfklsdnajfnsafasdfljhsdajlfndasf"
+                }
+            ]
+        }
+    },
+    "response": []
+},

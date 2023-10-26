@@ -1,0 +1,305 @@
+,Câu lệnh sinh ra,Câu lệnh có sẵn
+0,bạn hãy mở lên báo cáo dl kế hoạch tháng,Mở công thức chỉ tiêu 
+1,bắt đầu cài đặt quyền quản lý người nhận cb ngay bận rộn,Mở trang chủ
+2,truy cập vào cài đặt quản lý cấu hình truy vấn,Mở quản lý SMS/Email
+3,"hãy mở quá trình quản lý chu kỳ nhập tài chính, kinh doanh để đảm bảo tính nhất quán và đồng bộ trong việc quản lý tài chính",Mở báo cáo chốt năm 
+4,mong bạn mở bc kpi cđ để đưa ra biện pháp,Mở quản lý chu kỳ mặc định 
+5,vui lòng mở báo cáo kpi cđ để tăng cường,Mở kết quả liên ngành (tháng n-1)
+6,"đừng bỏ qua, hãy mở trang chủ ngay",Mở danh mục chỉ tiêu
+7,xem công thức chỉ tiêu vận hành máy móc,Mở quản lý nhóm đơn vị 
+8,xin mở báo cáo cskh xem thông tin,Mở quản lý hướng dẫn sử dụng 
+9,hãy mở báo cáo cb nhập kế hoạch tháng cho tôi,Mở trang chủ
+10,mong bạn mở báo cáo chi tiết nờ 2 mới theo yêu cầu cụ thể của chúng tôi,Mở danh mục chỉ tiêu
+11,làm ơn tiến hành mở ql thư mục ngay,Mở cảnh báo nhập KH năm
+12,hãy mở báo cáo dữ liệu th ngày sau,Mở cảnh báo nhập KH tháng
+13,bắt đầu cài đặt quản lý cấu hình người nhận cảnh báo,Mở danh mục chỉ tiêu
+14,xin hãy mở báo cáo tỷ lệ chiết khấu thẻ cào,Mở kết quả liên ngành (tháng n-1)
+15,mở cảnh báo nhập kh tháng vào buổi trưa,Mở báo cáo chốt quý
+16,hãy mở màn hình trình chiếu để tôi có thể thể hiện bc tháng,Mở tra cứu số liệu 
+17,"không chơi trò chờ đợi nữa, hãy mở báo cáo động",Mở báo cáo chốt quý
+18,hãy mở màn hình trình chiếu để bc tuần diễn ra hiệu quả và rõ ràng,Mở BC_CSKH
+19,mở ngay báo cáo động với tư cách là một lệnh,Mở báo cáo chi tiết n2 mới 
+20,sử dụng hành động mở quản lý cấu hình trình chiếu,Mở quản lý hướng dẫn sử dụng 
+21,nhấp chuột để mở ql cấu hình trình chiếu,Mở chỉ tiêu import 
+22,mở tab quản lý menu,Mở quản lý nhóm đơn vị 
+23,mong muốn là mở báo cáo chốt tháng ngay tức thì,"Mở quản lý chu kỳ import tài chính, kinh doanh"
+24,mở báo cáo chốt dữ liệu ban chiến lược và tìm hiểu độ ổn định,Mở profile 
+25,hãy mở ql menu điều hướng,Mở báo cáo chốt năm 
+26,kiểm tra quản lý cấu hình up tem pờ lết,Mở báo cáo chốt tháng 
+27,cung cấp cho tôi hd mở quản lý đa ngôn ngữ,Mở quản lý báo cáo
+28,hãy click vào nút tra cứu chỉ tiêu để tiếp tục,Mở profile 
+29,truy cập vào quyền hạn quản lý cấu hình truy vấn,Mở cảnh báo nhập KH quý
+30,"nhanh lên, hãy mở bc chốt năm",Mở cảnh báo nhập KH năm
+31,đọc báo cáo dữ liệu kh năm,Mở báo cáo chốt năm 
+32,"sử dụng lệnh ""mở biểu đồ"" để bắt đầu",Mở hướng dẫn sử dụng 
+33,bật chế độ xem biểu đồ lên,Mở báo cáo chốt tháng 
+34,tra cứu báo cáo không mất thời gian nhiều,Mở quản lý cấu hình export file 
+35,mở báo cáo cảnh báo nhập kh năm để xem thông tin,Mở trang chủ
+36,hãy mở dashboard ngay lập tức,Mở trang chủ
+37,dựa trên danh sách chỉ tiêu đã xác định,Mở dữ liệu KH tháng 
+38,mở tra cứu ghi chú tạo mới,Mở báo cáo chốt quý
+39,tạo một sổ ct mới,"Mở quản lý chu kỳ import tài chính, kinh doanh"
+40,hiển thị báo cáo kq liên ngành tháng trước,Mở quản lý hướng dẫn sử dụng 
+41,bật chế độ quản lý cấu hình trình chiếu,Mở BC_CSKH
+42,hãy bật công cụ tra cứu chỉ tiêu,Mở quản lý cấu hình người nhận cảnh báo 
+43,"cần mở quá trình quản lý chu kỳ import tài chính, kinh doanh để đảm bảo việc nhập hàng được thực hiện đúng thời hạn",Mở dữ liệu TH ngày 
+44,xin hãy mở báo cáo cskh,Mở quản lý cấu hình truy vấn 
+45,xin mở ra để kiểm tra tần suất sử dụng hệ thống,Mở quản lý chu kỳ mặc định 
+46,xin mở bc_cskh lên xem thông tin,Mở báo cáo chốt năm 
+47,bật chế độ mở quản lý báo cáo,Mở quản lý thư mục
+48,mở báo cáo chốt dl ban chiến lược và phát hiện các rủi ro,"Mở quản lý chu kỳ import tài chính, kinh doanh"
+49,anh/chị hãy mở thông tin ct nhập,Mở quản lý hướng dẫn sử dụng 
+50,mong bạn ra lệnh để mở bc tỷ lệ chiết khấu thẻ cào,Mở công thức chỉ tiêu 
+51,hãy mở công cụ ql menu điều hướng,Mở BC_CSKH
+52,sử dụng chu kỳ mặc định để ql,Mở quản lý cấu hình trình chiếu
+53,khởi tạo quản lý với chu kỳ mặc định,Mở dữ liệu TH tháng 
+54,sao mở màn hình trình chiếu báo cáo ngày,Mở báo cáo chốt tháng 
+55,hãy truy cập vào trang chủ ngay lúc này,Mở báo cáo chốt quý
+56,xin mở dữ liệu kh tháng,Mở báo cáo tỷ giá mới (đang phát triển)
+57,mở danh sách tổng quan một cách hiệu quả và đúng lúc,Mở quản lý chu kỳ mặc định 
+58,mở trang chủ làm ơn đi,Mở báo cáo tỷ giá mới (đang phát triển)
+59,mở ql email để xem thư mới nhận từ gia đình,Mở biểu đồ
+60,nâng cấp quản lý cấu hình up tem pờ lết,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+61,cung cấp tiện ích tải lên dữ liệu lên trang web,Mở báo cáo động 
+62,hãy khởi động màn hình trình bày để tôi có thể trình chiếu bc tháng,Mở dữ liệu TH tháng 
+63,lấy dữ liệu kế hoạch năm,Mở quản lý cấu hình truy vấn 
+64,mở màn hình trình chiếu để đưa ra báo cáo tuần một cách mạnh mẽ,Mở quản lý đa ngôn ngữ
+65,mở danh sách ct nhập,Mở dữ liệu KH năm
+66,không nên bỏ qua việc đọc sách hướng dẫn,Mở quản lý hướng dẫn sử dụng 
+67,"đừng để tôi phải nhắc lại nữa, hãy mở báo cáo chốt năm",Mở cảnh báo nhập KH quý
+68,chuẩn bị mở màn hình trình chiếu báo cáo ngày,Mở quản lý báo cáo
+69,cần mở hướng dẫn sử dụng cho quản lý ngay bây giờ,Mở công thức chỉ tiêu 
+70,khai báo ql cấu hình trình chiếu,Mở quản lý chu kỳ mặc định 
+71,phân tích bc dl kh năm,Mở danh mục chung 
+72,hãy mở bc động ngay và luôn,Mở quản lý hướng dẫn sử dụng 
+73,mở màn hình trình chiếu vào chế độ hoạt động,Mở tra cứu log tác động
+74,thiết lập một danh sách chỉ tiêu chi tiết,Mở trang chủ
+75,hãy kích hoạt chức năng ql menu điều hướng,Mở báo cáo tỷ giá mới (đang phát triển)
+76,mở bc động ngay lập tức,Mở báo cáo chốt năm 
+77,xin vui lòng thực hiện mở quản lý thư mục nhanh lên,Mở cảnh báo nhập KH năm
+78,hãy thực hiện mở quản lý thư mục tức thì,Mở báo cáo tỷ giá mới (đang phát triển)
+79,hãy bắt đầu báo cáo tuần bằng cách mở màn hình trình chiếu ngay lập tức,Mở báo cáo tỷ giá mới (đang phát triển)
+80,hãy khởi chạy và mở báo cáo vptd để kiểm tra tình hình marketing,Mở báo cáo chi tiết n2 mới 
+81,truy cập chức năng quản lý cấu hình trình chiếu,Mở dữ liệu KH năm
+82,vui lòng mở thông tin cá nhân của bạn,Mở báo cáo dữ liệu tin nhắn kinh doanh 
+83,xin hãy thực hiện mở ql thư mục,Mở kết quả liên ngành (tháng n-1)
+84,xin mở dữ liệu kế hoạch tháng,"Mở quản lý chu kỳ import tài chính, kinh doanh"
+85,xin hãy mở màn hình trình diễn để hiển thị báo cáo tháng,Mở màn hình trình chiếu 
+86,vui lòng xem công thức chỉ tiêu suất ăn,Mở hướng dẫn sử dụng 
+87,vui lòng sử dụng tính năng tra cứu tần suất để xem thông tin về sử dụng hệ thống,Mở biểu đồ
+88,cần phải mở tính năng quản lý đa ngôn ngữ ngay lúc này,Mở quản lý nhóm đơn vị 
+89,hãy mở màn hình trình chiếu để tôi có thể thể hiện báo cáo tháng,Mở chỉ tiêu import 
+90,"mở quá trình ql chu kỳ im pót tài chính, kd sẽ giúp đảm bảo việc nhập hàng không gây ảnh hưởng đến lợi ích của các đối tác kd",Mở quản lý hướng dẫn sử dụng 
+91,mở cảnh báo để nhập kế hoạch năm,Mở trang chủ
+92,mở bc dữ liệu kh quý chứa thông tin quan trọng,Mở cảnh báo nhập KH năm
+93,xin mở báo cáo chi tiết n2 mới cho chúng tôi theo yêu cầu của chúng tôi,Mở BC_CSKH
+94,xin mời mở báo cáo tỷ giá mới (đang pt) để kiểm tra,Mở dữ liệu KH quý
+95,mở giao diện quản lý cấu hình truy vấn,Mở quản lý cấu hình Upload template 
+96,xem báo cáo kết quả liên ngành của tháng trước,Mở quản lý SMS/Email
+97,bật chức năng đăng tải dl lên server,Mở quản lý cấu hình người nhận cảnh báo 
+98,vui lòng mở đát bót,Mở quản lý phản ánh 
+99,cần mở hướng dẫn sử dụng cho quản lý ngay bây giờ,Mở trang chủ
+100,đừng để báo cáo chốt quý chờ đợi lâu,Mở báo cáo tỷ giá mới (đang phát triển)
+101,hiển thị mục kết quả liên ngành tháng trước,Mở báo cáo chốt tháng 
+102,trích dẫn dữ liệu kế hoạch năm,Mở chỉ tiêu import 
+103,phân tích báo cáo dl kh năm,Mở quản lý hướng dẫn sử dụng 
+104,mở cảnh báo nhập kh tháng cho đơn vị này,Mở quản lý hướng dẫn sử dụng 
+105,"rủi ro đó, hãy mở ql thư mục ngay",Mở profile 
+106,mở lệnh ghi chép di chuyển,Mở dữ liệu KH tháng 
+107,hãy khởi động màn hình trình chiếu báo cáo ngày,Mở công thức chỉ tiêu 
+108,xin hãy bắt đầu mở quản lý nhóm đơn vị,Mở quản lý cấu hình export file 
+109,hãy truy cập vào công cụ tra cứu để xem chỉ tiêu,Mở báo cáo chốt tháng 
+110,"cần mở quá trình quản lý chu kỳ import tài chính, kinh doanh để đảm bảo việc nhập hàng không gây ảnh hưởng đến quá trình sản xuất kinh doanh",Mở danh mục chỉ tiêu
+111,hãy mở ngay trang tra cứu số liệu và khám phá ngay,Mở quản lý thư mục
+112,hãy mở ra một trang tra cứu số liệu nhanh nào,Mở quản lý cấu hình truy vấn 
+113,làm ơn mở bảng điều khiển giúp tôi,Mở quản lý chu kỳ mặc định 
+114,hớt tay sách hướng dẫn sử dụng,Mở quản lý SMS/Email
+115,bạn cần mở bảng bc chỉ tiêu nhập,Mở trang chủ
+116,làm ơn mở bc dữ liệu th ngày kế tiếp,Mở dashboard 
+117,mở báo cáo chốt tháng bcl để đánh giá chiến lược hiện tại,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+118,đề nghị mở bc dữ liệu kh tháng,Mở quản lý SMS/Email
+119,mở báo cáo chốt dữ liệu ban chiến lược ngay trong tuần tới,Mở dữ liệu KH năm
+120,cung cấp khả năng đăng tải dữ liệu,Mở danh mục chỉ tiêu
+121,tra cứu báo cáo ngay tức khắc,Mở quản lý báo cáo
+122,tạo bc dữ liệu kế hoạch năm,Mở quản lý nhóm đơn vị 
+123,hãy xem báo cáo cảnh báo nhập kh quý,Mở quản lý thư mục
+124,hãy mở báo cáo chốt tháng ban chiến lược và so sánh với kế hoạch,Mở quản lý phản ánh 
+125,xin mở cb để xem thông tin về kế hoạch năm,Mở danh mục chung 
+126,mở báo cáo chốt dữ liệu ban chiến lược để theo dõi tiến độ,Mở dữ liệu KH năm
+127,hãy mở danh mục chung ngay lập tức và không lỡ lời,Mở quản lý nhóm đơn vị 
+128,xin vui lòng cho tôi thấy màn hình trình chiếu hoạt động,Mở cảnh báo nhập KH năm
+129,thoát ra màn hình tra cứu số liệu và truy cập ngay,Mở dashboard 
+130,hãy mở quản lý sms để kiểm tra tin nhắn đã gửi đi,Mở cảnh báo nhập KH quý
+131,bắt đầu cài đặt quyền quản lý người nhận cảnh báo,Mở cảnh báo nhập KH quý
+132,mong bạn mở báo cáo chi tiết nờ hai mới cho chúng tôi,Mở báo cáo chi tiết n2 mới 
+133,rất mong mở bc tỷ giá mới (đang pt),Mở tra cứu log tác động
+134,mong rằng bạn có thể mở dữ liệu thực hiện ngày đó,Mở quản lý hướng dẫn sử dụng 
+135,cần phải kích hoạt tính năng quản lý đa ngôn ngữ ngay bây giờ,Mở trang chủ
+136,hãy mở ql meo để xem tin nhắn từ bạn thân,Mở cảnh báo nhập KH tháng
+137,hãy kiểm tra hướng dẫn sử dụng một lần nữa,Mở hướng dẫn sử dụng 
+138,mở bc chốt dữ liệu ban chiến lược trong ngày,Mở chỉ tiêu import 
+139,đề xuất một báo cáo chi tiết về chỉ tiêu,Mở quản lý báo cáo
+140,chuyển đến báo cáo thành tích liên ngành tháng trước,Mở cảnh báo nhập KH tháng
+141,sử dụng tính năng quản lý phản ánh,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+142,tìm báo cáo bằng cách tra cứu ngay,Mở cảnh báo nhập KH quý
+143,bật tính năng up lên biểu mẫu,Mở cảnh báo nhập KH năm
+144,tìm báo cáo bằng cách tra cứu ngay,Mở quản lý cấu hình người nhận cảnh báo 
+145,"xin làm ơn, mở bc chốt năm",Mở cảnh báo nhập KH năm
+146,ngừng hoạt động tính năng quản lý nhóm đơn vị,"Mở quản lý chu kỳ import tài chính, kinh doanh"
+147,đề nghị mở bc dữ liệu th ngày ba năm sau,Mở quản lý SMS/Email
+148,yêu cầu mở mục kq liên ngành tháng trước,Mở công thức chỉ tiêu 
+149,vui lòng mở màn hình trình chiếu để tôi có thể trình bày báo cáo tháng,Mở báo cáo chốt quý
+150,xin hãy mở bc kpi chấm điểm để hoàn thiện,Mở báo cáo chi tiết n2 mới 
+151,hãy bật chức năng ql đơn vị theo nhóm,Mở dashboard 
+152,xin hãy khóa quản lý nhóm đơn vị,Mở quản lý đa ngôn ngữ
+153,kích hoạt màn hình hiển thị trình chiếu,Mở dữ liệu KH năm
+154,xin mở bc dữ liệu kh tháng,Mở dashboard 
+155,thực hiện lệnh bật quản lý bc,Mở công thức chỉ tiêu 
+156,tra cứu báo cáo không chậm trễ,Mở hướng dẫn sử dụng 
+157,hãy mở dữ liệu thực hiện tháng giúp tôi nhanh nhé,Mở tra cứu báo cáo
+158,yêu cầu mở bc kết quả liên ngành tháng trước,Mở dữ liệu TH ngày 
+159,"đừng cản trở, mở bc chốt quý ngay lập tức",Mở dữ liệu KH tháng 
+160,mở quản lý email để xem thư mới từ bạn thân,Mở quản lý nhóm đơn vị 
+161,cho phép quản lý báo cáo hiện lên,Mở profile 
+162,hãy mở danh mục chung mà không để chờ lâu,Mở báo cáo dữ liệu tin nhắn kinh doanh 
+163,xin mở bảng điều hướng giúp tôi,Mở quản lý SMS/Email
+164,"cần mở quá trình quản lý chu kỳ import tài chính, kinh doanh để đảm bảo việc nhập hàng được thực hiện đúng cả về số lượng và chất lượng",Mở cảnh báo nhập KH quý
+165,xin mở màn hình trình chiếu để bắt đầu báo cáo tuần chính xác,Mở quản lý chu kỳ mặc định 
+166,khởi động chức năng quản lý menu điều hướng,Mở công thức chỉ tiêu 
+167,kích hoạt giao diện quản lý phản ánh,Mở quản lý hướng dẫn sử dụng 
+168,hãy kích hoạt tính năng quản lý menu,Mở dữ liệu TH ngày 
+169,thực hiện việc mở kết quả liên ngành tháng trước,Mở dữ liệu TH tháng 
+170,mở bc tập đoàn để xem những thông tin quan trọng,Mở quản lý thư mục
+171,bật đăng tải dữ liệu lên,Mở danh mục chung 
+172,mở ngay báo cáo chi tiết n 2 mới cho chúng tôi theo yêu cầu của chúng tôi,Mở danh mục chỉ tiêu
+173,hãy mở bảng điều hướng,Mở chỉ tiêu import 
+174,thực hiện lệnh mở quản lý cấu hình trình chiếu,Mở cảnh báo nhập KH quý
+175,mọi người sẽ mong bạn mở dữ liệu thực hiện ngày này,Mở quản lý nhóm đơn vị 
+176,hãy truy cập trang chủ đi,Mở quản lý hướng dẫn sử dụng 
+177,hãy xem báo cáo cảnh báo nhập kế hoạch quý ngay và luôn,Mở báo cáo tỷ giá mới (đang phát triển)
+178,hãy mở ra trang tra cứu các số liệu liên quan,Mở dữ liệu KH tháng 
+179,hãy mở cảnh báo để báo cáo cảnh báo nhập kh năm,Mở dữ liệu TH ngày 
+180,cho phép tính năng quản lý báo cáo,Mở trang chủ
+181,hãy mở đát bót,Mở quản lý chu kỳ mặc định 
+182,đưa ra kq liên ngành tháng trước,Mở báo cáo động 
+183,tắt chế độ không cho phép quản lý nhóm đơn vị,Mở báo cáo dữ liệu tin nhắn kinh doanh 
+184,mở bc dl thực hiện tháng giùm tôi nhé,Mở chỉ tiêu import 
+185,mở cb nhập kh quý không để chậm trễ,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+186,"đừng chờ đợi nữa, mở trang chủ đi",Mở chỉ tiêu import 
+187,xin mở báo cáo dữ liệu th ngày đó,Mở quản lý nhóm đơn vị 
+188,đề nghị mở dữ liệu kế hoạch tháng,Mở profile 
+189,hãy sử dụng chức năng tra cứu để xem tần suất sử dụng của hệ thống,Mở cảnh báo nhập KH quý
+190,mở ngay báo cáo chi tiết n2 mới theo yêu cầu cụ thể của chúng tôi,Mở dữ liệu KH tháng 
+191,bật công cụ quản lý cấu hình xuất file,"Mở quản lý chu kỳ import tài chính, kinh doanh"
+192,mở bc chốt quý mà không chần chừ,Mở profile 
+193,hãy cho màn hình trình chiếu hiển thị báo cáo tháng ngay lập tức,Mở quản lý cấu hình người nhận cảnh báo 
+194,mở báo cáo động chớp nhoáng,Mở công thức chỉ tiêu 
+195,hãy cho tôi thấy màn hình trình chiếu đang hoạt động,Mở chỉ tiêu import 
+196,xin hãy mở pờ rô phai để tạo sự kiện mới,Mở BC_CSKH
+197,mở tab quản lý cấu hình truy vấn,Mở dữ liệu KH năm
+198,tra cứu báo cáo không chần chỡ,Mở BC_CSKH
+199,xin hãy mở báo cáo tỷ giá mới (đang phát triển) cho công ty,Mở quản lý hướng dẫn sử dụng 
+200,hãy mở bc cb nhập kế hoạch năm,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+201,mở kết quả liên ngành tháng trước,Mở quản lý hướng dẫn sử dụng 
+202,bắt đầu tra cứu bc ngay bây giờ,Mở tra cứu chỉ tiêu
+203,"cần mở quá trình ql chu kỳ import tài chính, kinh doanh để đảm bảo tính minh bạch và công bằng trong việc thanh toán các đối tác kinh doanh",Mở quản lý cấu hình người nhận cảnh báo 
+204,đặt lệnh mở quản lý cấu hình trình chiếu,Mở kết quả liên ngành (tháng n-1)
+205,kích hoạt tính năng tải lên dữ liệu lên,Mở quản lý cấu hình trình chiếu
+206,sử dụng chức năng quản lý phản ánh trong ứng dụng đã được khởi chạy trước đó,Mở báo cáo VPTD
+207,có thể bạn mở bc chốt năm được không?,Mở quản lý hướng dẫn sử dụng 
+208,hãy mở bc chốt tháng không phải sau,Mở quản lý phản ánh 
+209,mở cảnh báo nhập kh tháng cùng lúc với cảnh báo nhập kh tuần,Mở công thức chỉ tiêu 
+210,vui lòng đọc hướng dẫn sử dụng kỹ lưỡng,Mở danh mục chỉ tiêu
+211,hãy sử dụng màn hình trình chiếu để hiển thị báo cáo ngày,Mở quản lý cấu hình trình chiếu
+212,"mở quá trình quản lý chu kỳ im pót tài chính, kinh doanh giúp đảm bảo việc thanh toán các khoản nhập hàng được thực hiện đúng hạn",Mở danh mục chung 
+213,hãy xem công thức ct tiến độ,Mở dữ liệu KH quý
+214,xin mở báo cáo dl kế hoạch tháng,Mở tra cứu chỉ tiêu
+215,tra cứu báo cáo không chờ lâu,Mở quản lý cấu hình truy vấn 
+216,hãy truy cập vào chức năng quản lý menu,Mở quản lý nhóm đơn vị 
+217,xác định một tập chỉ tiêu,Mở dashboard 
+218,hãy mở báo cáo công thức chỉ tiêu khách hàng,Mở báo cáo động 
+219,xin hãy mở bản báo cáo kpi chấm điểm để xác nhận,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+220,xin vui lòng mở màn hình trình chiếu cho báo cáo ngày,Mở trang chủ
+221,hãy bật chức năng quản lý menu điều hướng,Mở dữ liệu KH năm
+222,đề xuất tạo báo cáo tỷ giá mới (đang phát triển) để đánh giá hiệu quả,Mở hướng dẫn sử dụng 
+223,vui lòng mở báo cáo dữ liệu kế hoạch quý ngay,Mở dữ liệu KH tháng 
+224,khởi động tính năng ql cấu hình của việc export tệp,Mở hướng dẫn sử dụng 
+225,sử dụng ứng dụng quản lý phản ánh,Mở kết quả liên ngành (tháng n-1)
+226,hãy mở profile để đăng ký tham gia sự kiện,Mở quản lý menu
+227,đề nghị thực hiện hành động mở tính năng ql đa ngôn ngữ,Mở cảnh báo nhập KH tháng
+228,hãy mở danh sách chung mà không để lâu,Mở quản lý hướng dẫn sử dụng 
+229,bật chế độ quản lý menu điều hướng,Mở báo cáo chi tiết n2 mới 
+230,cung cấp khả năng up lên dữ liệu lên,Mở trang chủ
+231,vui lòng mở màn hình trình chiếu để báo cáo ngày hiển thị,Mở profile 
+232,hiện thực quán lý cấu hình cho việc xuất tệp tin,Mở báo cáo chốt tháng (báo cáo chốt dữ liệu (BCL))
+233,"đừng bỏ qua, mở quản lý thư mục ngay",Mở báo cáo chốt quý
+234,hãy kiểm tra và cung cấp thông tin về tần suất sử dụng của hệ thống,Mở quản lý thư mục
+235,mong rằng bạn có thể mở dữ liệu thực hiện ngày hai năm sau,Mở chỉ tiêu import 
+236,hãy mở bc cảnh báo nhập kh tháng này để đối chiếu,Mở cảnh báo nhập KH quý
+237,mở trình duyệt biểu đồ,Mở báo cáo chốt năm 
+238,xin hãy mở danh sách bc ct import,Mở dữ liệu TH ngày 
+239,mở lệnh ghi nhật ký xoá bỏ,Mở tra cứu tần suất sử dụng hệ thống
+240,vui lòng mở file về chỉ tiêu import,Mở profile 
+241,hãy truy cập và mở báo cáo td để kiểm tra chỉ số tài chính,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+242,hãy mở báo cáo dữ liệu kế hoạch quý ngay,Mở danh mục chung 
+243,mở tra cứu biên bản di chuyển,Mở quản lý nhóm đơn vị 
+244,rất mong mở bc tỷ giá mới (đang phát triển) ngay lập tức,Mở công thức chỉ tiêu 
+245,sử dụng chu kỳ mặc định để cấu hình ql dự án,Mở BC_CSKH
+246,vui lòng mở bc tỷ lệ chiết khấu thẻ cào,Mở danh mục chỉ tiêu
+247,"chúng ta cần mở quá trình quản lý chu kỳ nhập vào tc, kinh doanh để kiểm soát số lượng hàng hóa nhập khẩu",Mở chỉ tiêu import 
+248,hãy xem bc cảnh báo nhập kế hoạch quý,Mở dữ liệu KH năm
+249,hãy đọc sách hd sử dụng trước khi bắt đầu,Mở dashboard 
+250,làm ơn mở bc dl th ngày sau kia,Mở quản lý đa ngôn ngữ
+251,vui lòng bật quản lý nhóm đơn vị,Mở quản lý báo cáo
+252,bắt đầu sử dụng ql phản ánh trong ứng dụng đã được sử dụng trước đó,Mở dữ liệu TH ngày 
+253,kích hoạt biểu đồ trong menu,Mở báo cáo chốt tháng 
+254,"hỏi ngay, làm ơn mở báo cáo chốt năm",Mở báo cáo VPTD
+255,mở tra cứu báo cáo ngay lập tức,Mở báo cáo chi tiết n2 mới 
+256,hãy khởi chạy và mở báo cáo vptd để xem chi tiết,Mở báo cáo tỷ lệ chiết khấu thẻ cào
+257,đưa ra kết quả liên ngành tháng trước,Mở biểu đồ
+258,mở trình quản lý cấu hình xuất file,Mở cảnh báo nhập KH quý
+259,sử dụng phím tắt để mở ql cấu hình trình chiếu,Mở cảnh báo nhập KH quý
+260,cho phép tải lên dữ liệu,Mở quản lý phản ánh 
+261,mở dữ liệu th tháng cho tôi được không?,Mở báo cáo chi tiết n2 mới 
+262,mở mục kết quả liên ngành tháng trước,Mở chỉ tiêu import 
+263,vui lòng mở báo cáo vptd để xem danh sách công việc cần hoàn thành,Mở quản lý chu kỳ mặc định 
+264,hãy mở ra bc kpi chấm điểm để đề xuất,Mở công thức chỉ tiêu 
+265,xin vui lòng mở báo cáo dữ liệu tin nhắn kinh doanh ngay,Mở quản lý cấu hình Upload template 
+266,mở ngay trang tra cứu báo cáo,Mở quản lý chu kỳ mặc định 
+267,đề nghị mở báo cáo dữ liệu kế hoạch tháng,Mở quản lý cấu hình người nhận cảnh báo 
+268,xin vui lòng mở màn hình trình chiếu báo cáo ngày,Mở biểu đồ
+269,đọc dữ liệu kế hoạch năm,Mở tra cứu tần suất sử dụng hệ thống
+270,cần mở hướng dẫn sử dụng cho quản lý ngay bây giờ,Mở báo cáo chốt quý
+271,mong bạn mở bc kpi chấm điểm để nắm bắt xu hướng,Mở cảnh báo nhập KH quý
+272,mở ngay bộ hướng dẫn sử dụng dành cho quản lý,Mở quản lý phản ánh 
+273,"mở báo cáo chốt năm đi, đừng để tôi chờ lâu",Mở dữ liệu KH tháng 
+274,"đừng làm tôi phải nói lần hai, mở bc động đi",Mở báo cáo động 
+275,báo cáo chốt quý,"Mở quản lý chu kỳ import tài chính, kinh doanh"
+276,mở báo cáo vptd,Mở chỉ tiêu import 
+277,mở kết quả liên ngành (tháng n-1),Mở công thức chỉ tiêu 
+278,mở bc chốt tháng bcl,Mở kết quả liên ngành (tháng n-1)
+279,dl thực hiện tháng,Mở dữ liệu TH tháng
+280,bc đang phát triển,Mở trang chủ
+281,dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh
+282,kết quả liên ngành,Mở dữ liệu KH tháng 
+283,dữ liệu kh năm,Mở cảnh báo nhập KH tháng
+284,dữ liệu kh quý,Mở quản lý hướng dẫn sử dụng 
+285,mở báo cáo chốt tháng,Mở báo cáo chốt tháng
+286,chỉ tiêu import,Mở chỉ tiêu import
+287,báo cáo vptd,Mở báo cáo dữ liệu tin nhắn kinh doanh 
+288,mở dữ liệu kế hoạch quý,Mở quản lý báo cáo
+289,kế hoạch tháng,Mở dữ liệu TH tháng 
+290,báo cáo chi tiết n2 mới,Mở báo cáo chi tiết n2 mới
+291,chốt quý,Mở upload dữ liệu 
+292,báo cáo dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh
+293,dữ liệu kế hoạch tháng,Mở dữ liệu KH tháng
+294,cảnh báo tháng,"Mở quản lý chu kỳ import tài chính, kinh doanh"
+295,bc dữ liệu tin nhắn kinh doanh,Mở báo cáo dữ liệu tin nhắn kinh doanh
+296,dl th ngày,Mở dữ liệu TH ngày
+297,bc chốt tháng,Mở báo cáo chốt tháng
+298,báo cáo đang phát triển,Mở trang chủ
+299,mở dữ liệu th tháng,Mở dữ liệu TH tháng
+300,th ngày,Mở dữ liệu TH ngày
+301,mở báo cáo động,Mở báo cáo động
+302,nhập kh năm,Mở cảnh báo nhập KH tháng
+303,dữ liệu thực hiện tháng,Mở dữ liệu TH tháng

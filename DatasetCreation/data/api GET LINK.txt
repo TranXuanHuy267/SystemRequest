@@ -1,0 +1,389 @@
+ @Override
+    public List<SpeechToTextDTO> getLinkBySpeechToText(SpeechCommandRequestDTO speechCommandRequestDTO) throws Exception {
+        List<SpeechToTextDTO> result = new ArrayList<>();
+        if (speechCommandRequestDTO.getCommand().toLowerCase().contains("mở dashboard") ||
+                speechCommandRequestDTO.getCommand().toLowerCase().contains("mở db") || speechCommandRequestDTO.getCommand().toLowerCase().contains("mở DB")) {
+            String keySearch=speechCommandRequestDTO.getCommand().toLowerCase().trim();
+            if(keySearch.contains("của")){
+                keySearch=keySearch.replace("của ","");
+            }
+            if(keySearch.contains("dashboard viettel") && !keySearch.contains("dashboard viettel telecom")){
+                keySearch=keySearch.replace("dashboard viettel", "dashboard");
+            }
+
+            if(! keySearch.contains("chỉ huy")){
+                keySearch=keySearch.replace("dashboard", "dashboard chỉ huy");
+            }
+            if(keySearch.contains("mở db")){
+                keySearch=keySearch.replace("db", "dashboard chỉ huy");
+            }else if(keySearch.contains("mở DB")){
+                keySearch=keySearch.replace("DB", "dashboard chỉ huy");
+            }
+
+            if(! keySearch.contains("ngày")){
+                keySearch=keySearch+" ngày";
+            }
+            List<ChatBotCommand> chatBotCommand = chatBotCommandRepository.getByCodeContainingIgnoreCase(keySearch.toLowerCase().trim());
+            if (!DataUtil.isNullOrEmpty(chatBotCommand)) {
+                String toDate = null;
+                Date date = null;
+                if (speechCommandRequestDTO.getCommand().contains("ngày")) {
+                    date = this.safeToDate(speechCommandRequestDTO.getCommand().substring(speechCommandRequestDTO.getCommand().indexOf("ngày") + 4)
+                            , "dd/MM/yyyy");
+                    if (DataUtil.isNullOrEmpty(date)) {
+                        date = this.safeToDate(speechCommandRequestDTO.getCommand().substring(speechCommandRequestDTO.getCommand().indexOf("ngày") + 4)
+                                , "dd/MM");
+                        if (!DataUtil.isNullOrEmpty(date)) {
+                            LocalDate currentDate = LocalDate.now();
+                            int year = currentDate.getYear();
+                            LocalDate localDate = LocalDate.of(year, date.toInstant().atZone(ZoneId.systemDefault()).toLocalDate().getMonthValue(), date.toInstant().atZone(ZoneId.systemDefault()).toLocalDate().getDayOfMonth());
+                            date = Date.from(localDate.atStartOfDay(ZoneId.systemDefault()).toInstant());
+                        }
+                    }
+                    if (DataUtil.isNullOrEmpty(date)) {
+                        date = this.safeToDate(speechCommandRequestDTO.getCommand().substring(speechCommandRequestDTO.getCommand().indexOf("ngày") + 4)
+                                , "dd");
+                        if (!DataUtil.isNullOrEmpty(date)) {
+                            LocalDate currentDate = LocalDate.now();
+                            int year = currentDate.getYear();
+                            int month = currentDate.getMonthValue();
+                            LocalDate localDate = LocalDate.of(year, month, date.toInstant().atZone(ZoneId.systemDefault()).toLocalDate().getDayOfMonth());
+                            date = Date.from(localDate.atStartOfDay(ZoneId.systemDefault()).toInstant());
+                        }
+                    }
+                    if (DataUtil.isNullOrEmpty(date))
+                        date = Date.from(LocalDate.now().minusDays(2).atStartOfDay(ZoneId.systemDefault()).toInstant());
+                } else if (speechCommandRequestDTO.getCommand().contains("tháng")) {
+                    date = this.safeToDate(speechCommandRequestDTO.getCommand().substring(speechCommandRequestDTO.getCommand().indexOf("tháng") + 5)
+                            , "MM/yyyy");
+                    if (DataUtil.isNullOrEmpty(date)) {
+                        date = this.safeToDate(speechCommandRequestDTO.getCommand().substring(speechCommandRequestDTO.getCommand().indexOf("tháng") + 5)
+                                , "MM");
+                        if (!DataUtil.isNullOrEmpty(date)) {
+                            LocalDate currentDate = LocalDate.now();
+                            int year = currentDate.getYear();
+                            LocalDate localDate = LocalDate.of(year, date.toInstant().atZone(ZoneId.systemDefault()).toLocalDate().getMonthValue(), 1);
+                            date = DateUtil.getLastDateOfMonth(Date.from(localDate.atStartOfDay(ZoneId.systemDefault()).toInstant()));
+                        }
+                    } else {
+                        date = DateUtil.getLastDateOfMonth(date);
+                    }
+                    if (DataUtil.isNullOrEmpty(date))
+                        date = Date.from(LocalDate.now().minusMonths(1).atStartOfDay(ZoneId.systemDefault()).toInstant());
+                } else {
+                    date = Date.from(LocalDate.now().minusDays(2).atStartOfDay(ZoneId.systemDefault()).toInstant());
+                }
+                if (!DataUtil.isNullOrEmpty(date))
+                    toDate = DateUtil.date2StringByPattern(date, "yyyyMMdd");
+                result.add(new SpeechToTextDTO(chatBotCommand.get(0).getType(), chatBotCommand.get(0).getUrl(), toDate, null, null));
+                return result;
+            }
+        } else {
+            ChatBotCommand chatBotCommand = chatBotCommandRepository.findByCodeIgnoreCase(speechCommandRequestDTO.getCommand().trim());
+            if (!DataUtil.isNullOrEmpty(chatBotCommand)) {
+                result.add(new SpeechToTextDTO(chatBotCommand.getType(), chatBotCommand.getUrl(), null, null, null));
+                return result;
+            }
+        }
+        String typeChart = null ,department = null,kpi = null;
+        List<String> listKpi = new ArrayList<>();
+        SeachRequestDTO seachRequestDTO = new SeachRequestDTO();
+        List<CatItemEntity> listTypeChart = catItemRepository.findAllByCategoryCode("TYPE_CHART");
+        List<CatDepartmentEntity> listDepartment = catDepartmentRepository.findAll();
+        String textVoice=speechCommandRequestDTO.getCommand().toLowerCase().trim();
+        if(textVoice.contains("của")){
+            textVoice=textVoice.replace(" của","");
+        }
+
+        speechCommandRequestDTO.setCommand(textVoice);
+        String textFinal=textVoice;
+        boolean isDeptCode=false;
+        List<String> listTypeChartFilter  = listTypeChart.stream()
+                .map(e -> " " + e.getItemName().toLowerCase().trim() + " ")
+                .filter(e -> speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(e))
+                .filter(e -> speechCommandRequestDTO.getCommand().toLowerCase().trim().replace(e,e).equals(speechCommandRequestDTO.getCommand().toLowerCase().trim()))
+                .collect(Collectors.toList());
+        List<CatDepartmentEntity> listDepartmentFilter  = listDepartment.stream()
+                .filter(e -> speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(" " + e.getName().toLowerCase().trim() ))
+                .filter(e -> speechCommandRequestDTO.getCommand().toLowerCase().trim().replace(e.getName().toLowerCase().trim(),e.getName().toLowerCase().trim()).equals(speechCommandRequestDTO.getCommand().toLowerCase().trim()))
+                .collect(Collectors.toList());
+        if(DataUtil.isNullOrEmpty(listDepartmentFilter)){
+//            listDepartmentFilter  = listDepartment.stream()
+//                    .filter(e -> speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(" " + e.getCode().toLowerCase().trim() ))
+//                    .filter(e -> speechCommandRequestDTO.getCommand().toLowerCase().trim().replace(e.getCode().toLowerCase().trim(),e.getCode().toLowerCase().trim()).equals(speechCommandRequestDTO.getCommand().toLowerCase().trim()))
+//                    .collect(Collectors.toList());
+            for(CatDepartmentEntity item:listDepartment ){
+                if (speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(" " + item.getCode().toLowerCase().trim() )){
+                    if(!item.getCode().equals("TH")){
+                        isDeptCode=true;
+                        listDepartmentFilter.add(item);
+                    }
+
+                }
+            }
+        }else{
+            isDeptCode=false;
+        }
+
+       String firtCycle="ngày";
+       String cycle = "ngày";
+
+
+        String [] arrMonth={"từng tháng", "tăng giảm tháng", "tăng/giảm tháng","cơ cấu từng khối"};
+        String [] arrDay={"lũy kế ngày","thừa/thiếu so với kh ngày", "từng ngày","tiến độ tháng các đơn vị"};
+        String [] arrQuater={"từng quý"};
+
+        boolean paramChartName=false;
+        List<String> listKeyChart=Arrays.asList("biểu đồ cơ cấu cột chồng", "biểu đồ cột chồng","biểu đồ cột ngang");
+        for (String item:listKeyChart){
+            if( speechCommandRequestDTO.getCommand().toLowerCase().contains(item)){
+                listTypeChartFilter.clear();
+                listTypeChartFilter.add(item);
+            }
+        }
+        if( speechCommandRequestDTO.getCommand().toLowerCase().contains("biểu đồ table")){
+            listTypeChartFilter.clear();
+            listTypeChartFilter.add("biểu đồ table 2");
+        }
+
+        if(DataUtil.isNullOrEmpty(listTypeChartFilter) && speechCommandRequestDTO.getCommand().toLowerCase().contains("biểu đồ")){
+            paramChartName=true;
+            listTypeChartFilter.add("biểu đồ cảnh báo");
+        }
+
+        String [] listKeyTitle={"từng tháng", "tiến độ tháng các đơn vị","tăng trưởng tháng từng đơn vị", "tăng giảm tháng", "tăng/giảm tháng", " từng năm",
+                "từng quý","cơ cấu từng khối", "thừa thiếu so với kh ngày", "lũy kế ngày","thừa/thiếu so với kh ngày", "từng ngày","theo hạ tầng (LK hệ thống)",
+        "cơ cấu các đơn vị (lk hệ thống)","thừa thiếu so với kế hoạch ngày"};
+
+
+        String kpiProcess="";
+        String tempCycle="";
+        for (String i : listTypeChartFilter){
+            for (CatDepartmentEntity j: listDepartmentFilter){
+                String  kpiCut  =null;
+                if(isDeptCode){
+                    kpiCut  = speechCommandRequestDTO.getCommand().toLowerCase()
+                            .replace(i,"")
+                            .replace(j.getCode().toLowerCase().trim(),"")
+                            .replace("mở","")
+                            .trim();
+                }else{
+                    kpiCut  = speechCommandRequestDTO.getCommand().toLowerCase()
+                            .replace(i,"")
+                            .replace(j.getName().toLowerCase().trim(),"")
+                            .replace("mở","")
+                            .trim();
+                }
+
+
+                String [] splitspeechCommand=kpiCut.toLowerCase().trim().split(" ");
+                if(splitspeechCommand[splitspeechCommand.length-1].equals(splitspeechCommand[splitspeechCommand.length-2])){
+                    if(splitspeechCommand[splitspeechCommand.length-1].equals("ngày") || splitspeechCommand[splitspeechCommand.length-1].equals("tháng")
+                    || splitspeechCommand[splitspeechCommand.length-1].equals("quý") || splitspeechCommand[splitspeechCommand.length-1].equals("năm")){
+
+                        tempCycle=splitspeechCommand[splitspeechCommand.length-1];
+                        cycle= splitspeechCommand[splitspeechCommand.length-1];
+                        splitspeechCommand[splitspeechCommand.length-1]="";
+                        for (int x=0;x<splitspeechCommand.length-1;x++){
+                            kpiProcess=kpiProcess+" "+splitspeechCommand[x];
+                        }
+
+                    }
+                }else{
+                    if(splitspeechCommand[splitspeechCommand.length-1].equals("ngày") || splitspeechCommand[splitspeechCommand.length-1].equals("tháng")
+                            || splitspeechCommand[splitspeechCommand.length-1].equals("quý") || splitspeechCommand[splitspeechCommand.length-1].equals("năm")){
+                        cycle= splitspeechCommand[splitspeechCommand.length-1];
+                        tempCycle=splitspeechCommand[splitspeechCommand.length-1];
+
+                        for(String key:listKeyTitle){
+                            if(kpiCut.toLowerCase().trim().contains(key+ " "+ splitspeechCommand[splitspeechCommand.length-1])){
+                                splitspeechCommand[splitspeechCommand.length-1]="";
+                            }
+
+                        }
+                        for (int x=0;x<splitspeechCommand.length;x++){
+                            kpiProcess=kpiProcess+" "+splitspeechCommand[x];
+                        }
+
+                    }else{
+                        for (int x=0;x<splitspeechCommand.length;x++){
+                            kpiProcess=kpiProcess+" "+splitspeechCommand[x];
+                        }
+                    }
+                }
+                for(String item : listTypeChartFilter){
+                    if(!kpiProcess.toLowerCase().contains(item)&& kpiProcess.contains("biểu đồ")
+                    || !kpiProcess.toLowerCase().contains(item)&& kpiProcess.contains("biểu đồ table")){
+                        kpiProcess=kpiProcess.replace("biểu đồ","");
+                    }
+                }
+                listKpi.add(kpiProcess.trim());
+            }
+        }
+
+        for(String item:arrMonth){
+            if(speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(item)){
+                cycle = "tháng";
+            }
+        }
+
+        for(String item:arrQuater){
+            if(speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(item)){
+                cycle = "quý";
+            }
+        }
+
+
+        String finalCycle = cycle;
+        for (String i : listTypeChartFilter){
+            for (CatDepartmentEntity j: listDepartmentFilter){
+                for(String k : listKpi){
+                    String textCompare ="";
+                    if(paramChartName){
+                        if(isDeptCode){
+                            textCompare = "mở" + "biểu đồ".trim().replace(" ","")
+                                    + k.trim().replace(" ","")
+                                    + j.getCode().trim().replace(" ","");
+                        }else{
+                            textCompare = "mở" + "biểu đồ".trim().replace(" ","")
+                                    + k.trim().replace(" ","")
+                                    + j.getName().trim().replace(" ","");
+                        }
+
+                    }else{
+                        if(isDeptCode){
+                            textCompare = "mở" + i.trim().replace(" ","")
+                                    + k.trim().replace(" ","")
+                                    + j.getCode().trim().replace(" ","");
+                        }else{
+                            textCompare = "mở" + i.trim().replace(" ","")
+                                    + k.trim().replace(" ","")
+                                    + j.getName().trim().replace(" ","");
+                        }
+
+                    }
+
+                    if(firtCycle.equals(finalCycle)){
+
+                        if(speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(finalCycle)
+                        && (( k+" "+j+" "+ finalCycle).trim()).equals(speechCommandRequestDTO.getCommand().toLowerCase().trim())){
+                            textCompare+=finalCycle;
+                        }
+
+                    }else{
+                        if(speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(finalCycle)
+                                && (( k+" "+j+" "+ finalCycle).trim()).equals(speechCommandRequestDTO.getCommand().toLowerCase().trim())){
+                            textCompare+=finalCycle;
+                        }
+                        if(speechCommandRequestDTO.getCommand().toLowerCase().trim().contains(firtCycle)
+                                && (( k+" "+j+" "+ firtCycle).trim()).equals(speechCommandRequestDTO.getCommand().toLowerCase().trim())) {
+                            textCompare += firtCycle;
+                        }
+                    }
+
+                if(textCompare.equalsIgnoreCase(speechCommandRequestDTO.getCommand().toLowerCase().trim().replace(" ",""))){
+                    typeChart = i;
+                    department = j.getCode();
+                    kpi = k;
+                }
+                }
+            }
+        }
+
+
+
+        for(String item:listKeyTitle){
+            if(kpiProcess.toLowerCase().trim().contains(item) && ! kpiProcess.toLowerCase().trim().contains("_") ){
+                kpi=kpi.replace(item,"");
+                kpi=kpi.trim()+"_"+item.trim();
+            }
+        }
+
+        if(kpi.contains("trừ hubbing") && kpi.contains("doanh thu") && !typeChart.trim().equals("biểu đồ cảnh báo")){
+            if(kpi.contains("thừa thiếu so với kế hoạch ngày")){
+                kpi=kpi.toLowerCase().replace("thừa thiếu so với kế hoạch ngày","thừa/thiếu so với kh ngày");
+            }
+            kpi=kpi.toLowerCase().replace("trừ hubbing","(trừ hubbing)");
+            kpi=kpi.toLowerCase().replace("doanh thu","dt");
+
+        }else if (!kpi.contains("(trừ hubbing)")){
+            kpi=kpi.toLowerCase().replace("trừ hubbing","(trừ hubbing)");
+        }
+
+        if(kpi.contains("dịch vụ") && kpi.contains("tiêu dùng")){
+            kpi=kpi.toLowerCase().replace("dịch vụ","dv");
+            kpi=kpi.toLowerCase().replace("tiêu dùng","td");
+        }
+
+        if(kpi.contains("thuê bao") && kpi.contains("register") && !typeChart.equals("biểu đồ cảnh báo")){
+            kpi=kpi.toLowerCase().replace("thuê bao","tb");
+        }
+
+        if(kpi.contains("tăng giảm tháng")){
+            kpi=kpi.toLowerCase().replace("tăng giảm tháng","tăng/giảm tháng");
+        }
+        if(kpi.contains("thừa thiếu so với kế hoạch ngày")){
+            kpi=kpi.toLowerCase().replace("thừa thiếu so với kế hoạch ngày","thừa thiếu so với kh ngày");
+        }
+
+        String S1=typeChart;
+        S1=S1.trim();
+        List<String> listItemTypeChart=catItemRepository.findItemChart(S1.trim());
+
+        seachRequestDTO.setKeyNameTitle(kpi);
+        seachRequestDTO.setType(listItemTypeChart.get(0));
+
+        if(cycle.equals("tháng")){
+            cycle="THANG";
+        }else if(cycle.equals("quý")){
+            cycle="QUY";
+        }else {
+            cycle="NGAY";
+        }
+        seachRequestDTO.setCycleTime(cycle);
+        seachRequestDTO.setEmployeeCode(super.getCurrentUsername());
+
+        if(department.equals("VTT")){
+            seachRequestDTO.setAreaCode("VTTNEWNEW");
+        }else{
+            seachRequestDTO.setAreaCode(!DataUtil.isNullOrEmpty(department)
+                    ? department : catDepartmentRepository.findById(super.getCurrentUserDeptId()).get().getCode());
+        }
+
+        ResponseChat responseChat = this.getListChart(seachRequestDTO);
+        List<Object> listChart = ((ArrayList) responseChat.getResponse());
+
+        String currentDate = DateUtil.getSysDateTime("yyyyMMdd");
+        if(DataUtil.isNullOrEmpty(listChart)){
+            return result;
+        }
+        listChart.forEach(e ->{
+            SpeechToTextDTO speechToTextDTO=new SpeechToTextDTO();
+            speechToTextDTO.setCommand("OPEN_CHART");
+            speechToTextDTO.setUrl(null);
+            speechToTextDTO.setChartId(((DChartDeptServiceEntity) e).getChart_id());
+            speechToTextDTO.setTitleChart(((DChartDeptServiceEntity) e).getTitle_chart());
+            if(DataUtil.isNullOrEmpty(responseChat.getToDate()) && seachRequestDTO.getCycleTime().equals("NGAY")){
+                try {
+                    speechToTextDTO.setToDate(DateUtil.getDateN2(currentDate));
+                } catch (Exception ex) {
+                    ex.printStackTrace();
+                }
+            } else if(DataUtil.isNullOrEmpty(responseChat.getToDate()) && seachRequestDTO.getCycleTime().equals("THANG")){
+                try {
+                    speechToTextDTO.setToDate(DateUtil.getDateMonthN1(currentDate));
+                } catch (Exception ex) {
+                    ex.printStackTrace();
+                }
+            }else {
+                try {
+                    speechToTextDTO.setToDate(DateUtil.getDateN2(currentDate));
+                } catch (Exception ex) {
+                    ex.printStackTrace();
+                }
+            }
+
+            result.add(speechToTextDTO);
+        });
+        return result;
+    }

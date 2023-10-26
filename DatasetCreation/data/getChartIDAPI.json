@@ -1,0 +1,53 @@
+{
+    "name": "https://10.30.164.32:8192/vsds/api/chatbot/getListChart",
+    "protocolProfileBehavior": {
+        "strictSSL": false
+    },
+    "request": {
+        "auth": {
+            "type": "bearer"
+        },
+        "method": "POST",
+        "header": [
+            {
+                "key": "Authorization",
+                "type": "text",
+                "value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzsDQzNbQ0NdRRSq0ogAiYG1sYgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUACRxmBHgAAAA.dW2sAp4ADz-gnoRG_1QsJRet3z_0Ue4GDWsvTrtebIg",
+                "disabled": true
+            }
+        ],
+        "body": {
+            "mode": "raw",
+            "raw": "{\r\n\"ip\": \"10.61.142.22\",\r\n\"serviceId\" : \"19\",\r\n\"areaCode\" : \"VTTNEWNEW\",\r\n\"cycleTime\" : \"NGAY\",\r\n\"keyNameTitle\" : \"doanh\",\r\n\"typeChart\" : \"Biểu đồ cảnh báo 2\"\r\n}\r\n",
+            "options": {
+                "raw": {
+                    "language": "json"
+                }
+            }
+        },
+        "url": {
+            "raw": "https://10.30.164.32:8192/vsds/api/chatbot/getListChart?token=eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDKzMLU0NdJRSq0ogAiYmxsZgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAoOBjYXgAAAA.0jEJ8Y7YQ6lin1wG9WbeCn1La3nI1URlMyURbhbFyOI",
+            "protocol": "https",
+            "host": [
+                "10",
+                "30",
+                "164",
+                "32"
+            ],
+            "port": "8192",
+            "path": [
+                "vsds",
+                "api",
+                "chatbot",
+                "getListChart"
+            ],
+            "query": [
+                {
+                    "key": "token",
+                    "value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWyiwuVrJSSk8qSVHSUcpMLFGyMjSzNDKzMLU0NdJRSq0ogAiYmxsZgwSKSxLT0pzzU1KBmozMLE0MjYHaUlILSjxTQCKmJkBuaXFqEYwL4-cl5iJpqQUAoOBjYXgAAAA.0jEJ8Y7YQ6lin1wG9WbeCn1La3nI1URlMyURbhbFyOI"
+                }
+            ]
+        }
+    },
+    "response": []
+}

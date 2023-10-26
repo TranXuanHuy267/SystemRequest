@@ -1,0 +1,8 @@
+torch
+transformers
+numpy
+pandas
+sentence_transformers
+uvicorn
+fastapi
+protobuf

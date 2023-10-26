@@ -1,0 +1,3941 @@
+GROUPPROFILECODE,CYCLETIME,AREACODE,DASHBOARDID,DASHBOARDNAME
+VPTD,1,H031,3581,Doanh thu dịch vụ nhóm VTT
+VPTD,1,H031,3582,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H321,3517,Doanh thu dịch vụ SME
+VPTD,2,H321,3518,Doanh thu dịch vụ di động
+VPTD,2,H321,3519,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H321,3520,Thuê bao FTTH
+VPTD,2,H321,3521,Thuê bao di động phát triển thực
+VPTD,2,H321,3522,Thuê bao 4G phát triển thực
+VPTD,2,H321,3523,Tổng doanh thu dịch vụ
+VPTD,2,H321,3524,Thuê bao register
+VPTD,1,VTZ,2880,Doanh thu dịch vụ
+VPTD,1,MOV,2754,Doanh thu dịch vụ
+VPTD,1,MOV,2755,Thuê bao di động phát triển thực
+VPTD,1,MOV,2756,Thuê bao 4G phát triển thực
+VPTD,1,MOV,2757,Tổng doanh thu
+VPTD,1,MOV,2758,Tiêu dùng thực di động
+VPTD,1,MOV,2759,Thuê bao register
+VPTD,1,MOV,2760,Thuê bao FTTH
+VPTD,1,MOV,2761,MOV
+VPTD,1,VTZ,2881,Thuê bao di động phát triển thực
+VPTD,1,VTZ,2882,Thuê bao 4G phát triển thực
+VPTD,1,VTZ,2883,Tổng doanh thu
+VPTD,1,VTZ,2884,Tiêu dùng thực di động
+VPTD,1,VTZ,2885,Thuê bao register
+VPTD,1,VTZ,2887,VTZ
+VPTD,2,BC,3011,Lợi nhuận
+VPTD,2,BC,3012,Doanh thu cộng ngang (KD)
+VPTD,2,ANM,3179,Thu nhập BQ
+VPTD,2,ANM,3180,Chi phí
+VPTD,2,BC,3015,Doanh thu bán hàng
+VPTD,2,BC,3016,Doanh thu hợp nhất (TC)
+VPTD,2,BC,3017,Doanh thu hợp nhất (KD)
+VPTD,2,BC,3018,Doanh thu chuyển phát
+VPTD,2,BC,3019,Doanh thu LOGISTICS
+VPTD,2,BC,3020,Dòng tiền ròng
+VPTD,2,BC,3021,VTPost
+VPTD,2,ANM,3181,Lợi nhuận
+VPTD,2,ANM,3182,Doanh thu dịch vụ
+VPTD,2,ANM,3183,VCS
+VPTD,1,BC,3025,Doanh thu hợp nhất KD
+VPTD,1,BC,3026,Tổng doanh thu KD
+VPTD,1,BC,3027,Doanh thu bán hàng
+VPTD,1,BC,3028,Doanh thu chuyển phát
+VPTD,1,BC,3029,Doanh thu LOGISTICS
+VPTD,1,BC,3030,VTPost
+VPTD,2,ANM,3184,Năng suất lao động BQ
+VPTD,2,ANM,3185,Tổng doanh thu
+VPTD,1,VTS,3229,VTS
+VPTD,2,ANM,3187,Tổng doanh thu tài chính
+VPTD,1,VTS,3230,TỔNG DOANH THU (TRỪ HUBBING)
+VPTD,1,VTS,3242,DT BÁN HÀNG VIỄN THÔNG
+VPTD,2,VTS,3257,Doanh thu bán hàng DA BQP
+VPTD,2,VTS,3260,Chi Phí
+VPTD,2,T037,3396,Doanh thu dịch vụ SME
+VPTD,2,T037,3397,Doanh thu dịch vụ di động
+VPTD,2,T037,3398,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T037,3399,Thuê bao FTTH
+VPTD,2,T037,3400,Thuê bao di động phát triển thực
+VPTD,2,T037,3401,Thuê bao 4G phát triển thực
+VPTD,2,T037,3402,Tổng doanh thu dịch vụ
+VPTD,2,T037,3403,Thuê bao register
+VPTD,2,T037,3404,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T037,3405,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T037,3406,Doanh thu dịch vụ nhóm VDS
+VPTD,2,T054,3429,Doanh thu dịch vụ SME
+VPTD,2,T054,3430,Doanh thu dịch vụ di động
+VPTD,2,T054,3431,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T054,3432,Thuê bao FTTH
+VPTD,2,T054,3433,Thuê bao di động phát triển thực
+VPTD,2,T054,3434,Thuê bao 4G phát triển thực
+VPTD,2,T054,3435,Tổng doanh thu dịch vụ
+VPTD,2,T054,3436,Thuê bao register
+VPTD,2,T054,3437,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T054,3438,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T054,3439,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H019,3550,Doanh thu dịch vụ SME
+VPTD,1,H019,3551,Doanh thu dịch vụ di động
+VPTD,1,H019,3552,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H019,3553,Thuê bao FTTH
+VPTD,1,H019,3554,Thuê bao di động phát triển thực
+VPTD,1,H019,3555,Thuê bao 4G phát triển thực
+VPTD,1,H019,3556,Tổng doanh thu dịch vụ
+VPTD,1,H019,3557,Thuê bao register
+VPTD,1,H019,3558,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,H019,3559,Doanh thu dịch vụ nhóm VTT
+VPTD,1,H019,3560,Doanh thu dịch vụ nhóm VDS
+VPTD,1,N351,3561,Doanh thu dịch vụ SME
+VPTD,1,N351,3562,Doanh thu dịch vụ di động
+VPTD,1,N351,3563,Doanh thu dịch vụ nhóm VTS
+VPTD,1,N351,3564,Thuê bao FTTH
+VPTD,1,N351,3565,Thuê bao di động phát triển thực
+VPTD,1,N351,3566,Thuê bao 4G phát triển thực
+VPTD,1,N351,3567,Tổng doanh thu dịch vụ
+VPTD,1,N351,3568,Thuê bao register
+VPTD,1,N351,3569,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,N351,3570,Doanh thu dịch vụ nhóm VTT
+VPTD,1,N351,3571,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H039,3583,Doanh thu dịch vụ SME
+VPTD,1,H039,3584,Doanh thu dịch vụ di động
+VPTD,1,H039,3585,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H039,3586,Thuê bao FTTH
+VPTD,1,H039,3587,Thuê bao di động phát triển thực
+VPTD,1,H039,3588,Thuê bao 4G phát triển thực
+VPTD,1,H039,3589,Tổng doanh thu dịch vụ
+VPTD,1,H039,3590,Thuê bao register
+VPTD,1,H039,3591,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,H039,3592,Doanh thu dịch vụ nhóm VTT
+VPTD,1,H039,3593,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B240,3594,Doanh thu dịch vụ SME
+VPTD,2,B240,3595,Doanh thu dịch vụ di động
+VPTD,2,B240,3596,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B240,3597,Thuê bao FTTH
+VPTD,2,B240,3598,Thuê bao di động phát triển thực
+VPTD,2,B240,3599,Thuê bao 4G phát triển thực
+VPTD,2,B240,3600,Tổng doanh thu dịch vụ
+VPTD,2,B240,3601,Thuê bao register
+VPTD,2,VDTC,3089,Tổng doanh thu tài chính
+VPTD,2,VTP,2856,Lợi nhuận
+VPTD,2,VTP,2857,Doanh thu dịch vụ
+VPTD,2,VTP,2858,Thuê bao di động phát triển thực
+VPTD,2,VTP,2859,Thuê bao 4G phát triển thực
+VPTD,2,VTP,2861,Tổng doanh thu tài chính
+VPTD,2,VTP,2862,Tổng doanh thu
+VPTD,2,VTP,2863,Tiêu dùng thực di động
+VPTD,2,VTP,2864,Thuê bao register
+VPTD,2,VTP,2865,Dòng tiền ròng
+VPTD,2,VTP,2866,VTP
+VPTD,2,VTP,2867,Dòng tiền về VN
+VPTD,2,XNK,3116,Doanh thu phân phối
+VPTD,2,XMCP,3136,TỔNG DOANH THU (TC)
+VPTD,1,ANM,3154,TỔNG DOANH THU (KD)
+VPTD,1,IDC,3214,DOANH THU DỊCH VỤ
+VPTD,2,IDC,3215,Dòng tiền ròng
+VPTD,1,A076,3374,Doanh thu dịch vụ SME
+VPTD,1,A076,3375,Doanh thu dịch vụ di động
+VPTD,1,A076,3376,Doanh thu dịch vụ nhóm VTS
+VPTD,1,A076,3377,Thuê bao FTTH
+VPTD,1,A076,3378,Thuê bao di động phát triển thực
+VPTD,1,A076,3379,Thuê bao 4G phát triển thực
+VPTD,1,A076,3380,Tổng doanh thu dịch vụ
+VPTD,1,A076,3381,Thuê bao register
+VPTD,1,A076,3382,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,A076,3383,Doanh thu dịch vụ nhóm VTT
+VPTD,1,A076,3384,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H711,3484,Doanh thu dịch vụ SME
+VPTD,1,H711,3485,Doanh thu dịch vụ di động
+VPTD,1,H711,3486,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H711,3487,Thuê bao FTTH
+VPTD,1,D067,3356,Thuê bao FTTH
+VPTD,1,D067,3335,Thuê bao di động phát triển thực
+VPTD,1,D067,3336,Thuê bao 4G phát triển thực
+VPTD,1,D067,3337,Tổng doanh thu dịch vụ
+VPTD,1,H711,3488,Thuê bao di động phát triển thực
+VPTD,1,D067,3339,Thuê bao register
+VPTD,1,D067,3340,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,H711,3489,Thuê bao 4G phát triển thực
+VPTD,1,H711,3490,Tổng doanh thu dịch vụ
+VPTD,1,D067,3347,Doanh thu dịch vụ nhóm VTT
+VPTD,1,D067,3354,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H711,3491,Thuê bao register
+VPTD,1,H711,3492,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,H711,3493,Doanh thu dịch vụ nhóm VTT
+VPTD,1,H711,3494,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H711,3495,Doanh thu dịch vụ SME
+VPTD,2,H711,3496,Doanh thu dịch vụ di động
+VPTD,2,H711,3497,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H711,3498,Thuê bao FTTH
+VPTD,2,H711,3499,Thuê bao di động phát triển thực
+VPTD,2,H711,3500,Thuê bao 4G phát triển thực
+VPTD,2,H711,3501,Tổng doanh thu dịch vụ
+VPTD,2,H711,3502,Thuê bao register
+VPTD,2,H711,3503,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,H711,3504,Doanh thu dịch vụ nhóm VTT
+VPTD,1,P057,4654,Doanh thu dịch vụ SME
+VPTD,1,P057,4655,Doanh thu dịch vụ di động
+VPTD,1,P057,4656,Doanh thu dịch vụ nhóm VTS
+VPTD,1,P057,4657,Thuê bao FTTH
+VPTD,1,P057,4658,Thuê bao di động phát triển thực
+VPTD,1,P057,4659,Thuê bao 4G phát triển thực
+VPTD,1,P057,4660,Tổng doanh thu dịch vụ
+VPTD,1,P057,4661,Thuê bao register
+VPTD,1,P057,4662,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,P057,4663,Doanh thu dịch vụ nhóm VTT
+VPTD,1,P057,4664,Doanh thu dịch vụ nhóm VDS
+VPTD,2,P057,4665,Doanh thu dịch vụ SME
+VPTD,2,P057,4666,Doanh thu dịch vụ di động
+VPTD,2,P057,4667,Doanh thu dịch vụ nhóm VTS
+VPTD,2,P057,4668,Thuê bao FTTH
+VPTD,2,P057,4669,Thuê bao di động phát triển thực
+VPTD,2,P057,4670,Thuê bao 4G phát triển thực
+VPTD,2,P057,4671,Tổng doanh thu dịch vụ
+VPTD,2,P057,4672,Thuê bao register
+VPTD,2,P057,4673,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,P057,4674,Doanh thu dịch vụ nhóm VTT
+VPTD,2,P057,4675,Doanh thu dịch vụ nhóm VDS
+VPTD,1,G059,4786,Doanh thu dịch vụ SME
+VPTD,1,G059,4787,Doanh thu dịch vụ di động
+VPTD,1,G059,4788,Doanh thu dịch vụ nhóm VTS
+VPTD,1,G059,4789,Thuê bao FTTH
+VPTD,1,G059,4790,Thuê bao di động phát triển thực
+VPTD,1,H320,4864,Doanh thu dịch vụ nhóm VTT
+VPTD,1,G059,4792,Tổng doanh thu dịch vụ
+VPTD,1,G059,4793,Thuê bao register
+VPTD,1,G059,4794,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,G059,4795,Doanh thu dịch vụ nhóm VTT
+VPTD,1,G059,4796,Doanh thu dịch vụ nhóm VDS
+VPTD,2,D061,4775,Doanh thu dịch vụ SME
+VPTD,2,D061,4776,Doanh thu dịch vụ di động
+VPTD,2,D061,4777,Doanh thu dịch vụ nhóm VTS
+VPTD,2,D061,4778,Thuê bao FTTH
+VPTD,2,D061,4779,Thuê bao di động phát triển thực
+VPTD,2,D061,4780,Thuê bao 4G phát triển thực
+VPTD,2,D061,4781,Tổng doanh thu dịch vụ
+VPTD,2,D061,4782,Thuê bao register
+VPTD,2,D061,4783,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,D061,4784,Doanh thu dịch vụ nhóm VTT
+VPTD,2,D061,4785,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H320,4865,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H320,4866,Doanh thu dịch vụ SME
+VPTD,1,H320,4867,Doanh thu dịch vụ di động
+VPTD,1,H320,4868,Thuê bao register
+VPTD,1,H320,4869,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H320,4870,Thuê bao FTTH
+VPTD,1,H320,4871,Thuê bao di động phát triển thực
+VPTD,1,H320,4872,Thuê bao 4G phát triển thực
+VPTD,1,H320,4873,Tổng doanh thu dịch vụ
+VPTD,1,H320,4874,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,VBD,5098,Doanh thu di động
+VPTD,2,G059,4819,Doanh thu dịch vụ SME
+VPTD,2,G059,4820,Doanh thu dịch vụ di động
+VPTD,2,G059,4821,Doanh thu dịch vụ nhóm VTS
+VPTD,2,G059,4822,Thuê bao FTTH
+VPTD,2,G059,4823,Thuê bao di động phát triển thực
+VPTD,2,G059,4824,Thuê bao 4G phát triển thực
+VPTD,2,G059,4825,Tổng doanh thu dịch vụ
+VPTD,2,G059,4826,Thuê bao register
+VPTD,2,G059,4827,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,G059,4828,Doanh thu dịch vụ nhóm VTT
+VPTD,2,G059,4829,Doanh thu dịch vụ nhóm VDS
+VPTD,2,VHK,4895,VTX
+VPTD,1,VBD,5100,Doanh thu giải pháp CNTT
+VPTD,2,VHK,5097,DT CÁC ĐƠN VỊ
+VPTD,1,VBD,5101,Doanh thu kinh doanh quốc tế
+BCL,1,CTM,4917,6. Doanh thu dịch vụ và sản xuất
+BCL,2,VTZ,4922,11. Doanh thu dịch vụ và sản xuất
+BCL,1,VTZ,4923,6. Doanh thu dịch vụ và sản xuất
+BCL,1,NAT,4936,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,2,VDS,4938,5. Doanh thu dịch vụ và sản xuất
+BCL,1,MOV,4940,Doanh thu dv và sx lũy kế (kinh doanh)
+VPTD,2,XNK,4980,NĂNG SUẤT LAO ĐỘNG
+BCL,1,VTL,4944,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,2,VTZ,4948,Doanh thu kinh doanh Copy
+VPTD,2,IDC,4959,LAO ĐỘNG BQ TRONG DS
+VPTD,2,CT,4966,THU NHẬP BÌNH QUÂN
+VPTD,2,TVTK,4979,LAO ĐỘNG BQ TRONG DS
+VPTD,2,XNK,4981,THU NHẬP BÌNH QUÂN
+VPTD,2,XNK,4982,LAO ĐỘNG BQ TRONG DS
+VPTD,2,TH,4985,LAO ĐỘNG BQ TRONG DS
+VPTD,2,M3,4989,NĂNG SUẤT LAO ĐỘNG
+VPTD,2,M3,4990,THU NHẬP BÌNH QUÂN
+VPTD,2,M3,4991,LAO ĐỘNG BQ TRONG DS
+VPTD,2,M1,4992,NĂNG SUẤT LAO ĐỘNG
+VPTD,2,M1,4993,THU NHẬP BÌNH QUÂN
+VPTD,2,VNC,4996,LAO ĐỘNG BQ TRONG DS
+VPTD,2,VHK,4998,LAO ĐỘNG BQ TRONG DS
+VPTD,1,BC,4999,DT THƯƠNG MẠI VÀ DỊCH VỤ
+VPTD,1,VTTNEWNEW,5017,Doanh thu di động
+VPTD,2,BC,5016,DỊCH VỤ OS
+VPTD,1,CT,5022,DT NĂNG LƯỢNG VÀ CƠ ĐIỆN
+VPTD,2,VTTNEWNEW,5023,Doanh thu di động
+VPTD,2,VTTNEWNEW,5025,Doanh thu dịch vụ mới
+VPTD,2,CT,5026,DT HẠ TẦNG CHO THUÊ
+VPTD,2,VTTNEWNEW,5027,Doanh thu dịch vụ nhóm SME
+VPTD,2,VDTC,5037,Doanh thu dịch vụ GTGT
+VPTD,2,VDTC,5036,Doanh thu kết nối
+VPTD,1,VTC,5039,Doanh thu di động
+VPTD,2,VTC,5041,Doanh thu cố định
+VPTD,1,VTC,5044,Doanh thu kinh doanh quốc tế
+VPTD,1,STL,5048,Doanh thu di động
+VPTD,1,STL,5049,Doanh thu cố định
+VPTD,1,STL,5051,Doanh thu kinh doanh quốc tế
+VPTD,1,STL,5052,Doanh thu thương mại điện tử
+VPTD,2,STL,5053,Doanh thu di động
+VPTD,2,STL,5054,Doanh thu cố định
+VPTD,2,STL,5056,Doanh thu kinh doanh quốc tế
+VPTD,2,MOV,5064,Doanh thu di động
+VPTD,2,NAT,5069,Doanh thu di động
+VPTD,2,NAT,5070,Doanh thu cố định
+VPTD,2,NAT,5071,Doanh thu giải pháp CNTT
+VPTD,2,NAT,5072,Doanh thu thương mại điện tử
+VPTD,1,NAT,5073,Doanh thu di động
+VPTD,1,NAT,5076,Doanh thu thương mại điện tử
+VPTD,1,VTL,5077,Doanh thu di động
+VPTD,1,VTL,5079,Doanh thu giải pháp CNTT
+VPTD,1,VTL,5080,Doanh thu kinh doanh quốc tế
+VPTD,2,VTL,5082,Doanh thu di động
+VPTD,2,VTL,5086,Doanh thu thương mại điện tử
+VPTD,1,VTP,5089,Doanh thu giải pháp CNTT
+VPTD,2,VTP,5092,Doanh thu di động
+VPTD,2,VTP,5093,Doanh thu cố định
+VPTD,1,VBD,5102,Doanh thu thương mại điện tử
+VPTD,2,VHK,5104,DT CÁC ĐƠN VỊ BÊN NGOÀI
+VPTD,2,VBD,5105,Doanh thu di động
+VPTD,2,VBD,5109,Doanh thu thương mại điện tử
+VPTD,1,IDC,5111,DOANH THU DỰ ÁN
+VPTD,2,IDC,5114,DOANH THU DỊCH VỤ TRUYỀN THỐNG
+VPTD,2,IDC,5115,CÁC DV CLOUD
+VPTD,2,IDC,5117,DT CÁC ĐƠN VỊ NGOÀI TĐ
+VPTD,2,IDC,5118,DT CÁC ĐƠN VỊ TRONG TĐ
+VPTD,2,XNK,5123,DOANH THU KINH DOANH IN
+VPTD,2,XNK,5126,DOANH THU KINH DOANH DVCNTT
+VPTD,1,MYN,5133,MYN
+VPTD,1,MYN,5128,DOANH THU DI ĐỘNG
+VPTD,1,MYN,5130,DOANH THU GIẢI PHÁP CNTT
+VPTD,2,MYN,5134,DOANH THU DI ĐỘNG
+VPTD,2,MYN,5137,DOANH THU KINH DOANH QUỐC TẾ
+VPTD,2,MYN,5138,DOANH THU THƯƠNG MẠI ĐIỆN TỬ
+VPTD,1,VTZ,5139,Doanh thu di động
+VPTD,1,VTZ,5140,Doanh thu cố định
+VPTD,1,VTZ,5141,Doanh thu giải pháp CNTT
+VPTD,1,VTZ,5142,Doanh thu kinh doanh quốc tế
+VPTD,2,VTZ,5145,Doanh thu cố định
+VPTD,2,VTZ,5146,Doanh thu giải pháp CNTT
+VPTD,2,VTZ,5147,Doanh thu kinh doanh quốc tế
+VPTD,2,VTZ,5148,Doanh thu thương mại điện tử
+VPTD,2,XMCP,5151,TỔNG DOANH THU
+VPTD,1,VDS,5155,DOANH THU CHUYỂN TIỀN
+VPTD,2,VDS,5158,DOANH THU CHUYỂN TIỀN
+VPTD,1,VDS,5162,DOANH THU THANH TOÁN
+VPTD,2,VDS,5163,DOANH THU THANH TOÁN
+VPTD,2,VTG,5454,LỢI NHUÂN TT (KHÔNG CLTG) Copy
+VPTD,2,VTG,5455,Doanh thu hợp nhất Copy
+VPTD,2,VTC,5456,LỢI NHUẬN TT (KHÔNG CLTG) Copy
+VPTD,2,MOV,5459,LỢI NHUÂN TT (KHÔNG CLTG) Copy
+VPTD,2,M3,5203,DT NỘI BỘ
+VPTD,2,M3,5205,DT SẢN PHẨM DÂN SỰ
+VPTD,2,M3,5206,DT SẢN PHẨM QUÂN SỰ
+VPTD,2,M3,5207,DT TRONG NƯỚC
+VPTD,2,M3,5209,GTSL CÁP QUANG
+VPTD,2,M3,5211,GTSL CƠ KHÍ (KHÔNG CNC)
+VPTD,2,M3,5213,DOANH THU CÁP QUANG
+VPTD,2,VNC,5237,DT NỘI BỘ
+VPTD,2,VNC,5239,DT SẢN PHẨM DÂN SỰ
+VPTD,2,VNC,5240,DT SẢN PHẨM QUÂN SỰ
+VPTD,2,VNC,5242,DT XUẤT KHẨU
+VPTD,2,ANM,5254,DT TỪ KHÁCH HÀNG NGOÀI
+VPTD,2,ANM,5255,DT QUỸ CHUYÊN DÙNG TỪ BQP
+VPTD,2,ANM,5253,DT CÁC ĐƠN VỊ TRONG TĐ
+VPTD,2,ANM,5256,DT DV GIÁM SÁT VÀ XỬ LÝ SỰ CỐ
+VPTD,2,ANM,5258,DT DV CHO THUÊ/BÁN LICENSE
+VPTD,1,KGM,5266,KHỐI PHÂN TÍCH DỮ LIỆU
+VPTD,2,KGM,5269,DT NỘI BỘ TĐ
+VPTD,2,KGM,5274,KHỐI XỬ LÝ TIẾNG NÓI VÀ NGÔN NGỮ TỰ NHIÊN
+VPTD,2,KGM,5275,KHỐI THỊ GIÁC MÁY TÍNH
+VPTD,1,NAT,5276,Doanh thu kinh doanh quốc tế
+VPTD,2,NAT,5277,Doanh thu kinh doanh quốc tế
+VPTD,2,TVTK,5286,TỔNG DOANH THU (KD)
+VPTD,2,TVTK,5287,DT NỘI BỘ TĐ
+VPTD,1,TH,5288,Doanh thu khách hàng nội bộ
+VPTD,1,TH,5289,Doanh thu khách hàng ngoài
+VPTD,1,TH,5290,Doanh thu dịch vụ game
+VPTD,1,TH,5291,Doanh thu nội dung
+VPTD,2,TH,5303,Doanh thu quảng cáo
+VPTD,1,TVTK,5307,"TƯ VẤN TK, GP KIÊN CỐ HTVT"
+VPTD,1,TVTK,5306,DT NGOÀI TĐ
+VPTD,2,VDS,5315,Doanh thu dịch vụ
+VPTD,2,VNC,5354,Tổng doanh thu tài chính
+VPTD,2,VHK,5355,Tổng doanh thu tài chính
+VPTD,2,M1,5356,Tổng doanh thu tài chính
+VPTD,2,M3,5357,Tổng doanh thu tài chính
+VPTD,2,VTL,5460,LỢI NHUÂN TT (KHÔNG CLTG) Copy
+VPTD,2,VDTC,5435,THẺ CÓ NẠP TIỀN
+VPTD,1,Q053,4676,Doanh thu dịch vụ SME
+VPTD,1,Q053,4677,Doanh thu dịch vụ di động
+VPTD,1,Q053,4678,Doanh thu dịch vụ nhóm VTS
+VPTD,1,Q053,4679,Thuê bao FTTH
+VPTD,1,Q053,4680,Thuê bao di động phát triển thực
+VPTD,1,Q053,4681,Thuê bao 4G phát triển thực
+VPTD,1,Q053,4682,Tổng doanh thu dịch vụ
+VPTD,1,Q053,4683,Thuê bao register
+VPTD,1,Q053,4684,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,Q053,4685,Doanh thu dịch vụ nhóm VTT
+VPTD,1,Q053,4686,Doanh thu dịch vụ nhóm VDS
+VPTD,2,Q053,4687,Doanh thu dịch vụ SME
+VPTD,2,Q053,4688,Doanh thu dịch vụ di động
+VPTD,2,Q053,4689,Doanh thu dịch vụ nhóm VTS
+VPTD,2,Q053,4690,Thuê bao FTTH
+VPTD,2,Q053,4691,Thuê bao di động phát triển thực
+VPTD,2,Q053,4692,Thuê bao 4G phát triển thực
+VPTD,2,Q053,4693,Tổng doanh thu dịch vụ
+VPTD,2,Q053,4694,Thuê bao register
+VPTD,2,Q053,4695,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,Q053,4696,Doanh thu dịch vụ nhóm VTT
+VPTD,2,Q053,4697,Doanh thu dịch vụ nhóm VDS
+VPTD,1,Q510,4720,Doanh thu dịch vụ nhóm VTT
+VPTD,1,Q510,4721,Doanh thu dịch vụ nhóm VDS
+VPTD,1,Q510,4722,Doanh thu dịch vụ SME
+VPTD,1,Q510,4723,Doanh thu dịch vụ di động
+VPTD,1,Q510,4724,Thuê bao register
+VPTD,1,Q510,4725,Doanh thu dịch vụ nhóm VTS
+VPTD,1,Q510,4726,Thuê bao FTTH
+VPTD,1,Q510,4727,Thuê bao di động phát triển thực
+VPTD,1,Q510,4728,Thuê bao 4G phát triển thực
+VPTD,1,Q510,4729,Tổng doanh thu dịch vụ
+VPTD,1,Q510,4730,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,D061,4764,Doanh thu dịch vụ SME
+VPTD,1,D061,4765,Doanh thu dịch vụ di động
+VPTD,1,D061,4766,Doanh thu dịch vụ nhóm VTS
+VPTD,1,D061,4767,Thuê bao FTTH
+VPTD,1,D061,4768,Thuê bao di động phát triển thực
+VPTD,1,D061,4769,Thuê bao 4G phát triển thực
+VPTD,1,D061,4770,Tổng doanh thu dịch vụ
+VPTD,1,D061,4771,Thuê bao register
+VPTD,1,D061,4772,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,D061,4773,Doanh thu dịch vụ nhóm VTT
+VPTD,1,D061,4774,Doanh thu dịch vụ nhóm VDS
+VPTD,2,D511,4842,Doanh thu dịch vụ di động
+VPTD,2,D511,4843,Doanh thu dịch vụ nhóm VTS
+VPTD,2,D511,4844,Thuê bao FTTH
+VPTD,2,D511,4845,Thuê bao di động phát triển thực
+VPTD,2,D511,4846,Thuê bao 4G phát triển thực
+VPTD,2,D511,4847,Tổng doanh thu dịch vụ
+VPTD,2,D511,4848,Thuê bao register
+VPTD,2,D511,4849,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,D511,4850,Doanh thu dịch vụ nhóm VTT
+VPTD,2,D511,4851,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H320,4853,Doanh thu dịch vụ SME
+VPTD,1,D511,4830,Doanh thu dịch vụ SME
+VPTD,1,D511,4831,Doanh thu dịch vụ di động
+VPTD,1,D511,4832,Doanh thu dịch vụ nhóm VTS
+VPTD,1,D511,4833,Thuê bao FTTH
+VPTD,1,D511,4834,Thuê bao di động phát triển thực
+VPTD,1,D511,4835,Thuê bao 4G phát triển thực
+VPTD,1,D511,4836,Tổng doanh thu dịch vụ
+VPTD,1,D511,4837,Thuê bao register
+VPTD,1,D511,4838,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,D511,4839,Doanh thu dịch vụ nhóm VTT
+VPTD,1,D511,4840,Doanh thu dịch vụ nhóm VDS
+VPTD,2,D511,4841,Doanh thu dịch vụ SME
+VPTD,2,H320,4854,Doanh thu dịch vụ di động
+VPTD,2,H320,4855,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H320,4856,Thuê bao FTTH
+VPTD,2,H320,4857,Thuê bao di động phát triển thực
+VPTD,2,H320,4858,Thuê bao 4G phát triển thực
+VPTD,2,H320,4859,Tổng doanh thu dịch vụ
+VPTD,2,H320,4860,Thuê bao register
+VPTD,2,H320,4861,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,H320,4862,Doanh thu dịch vụ nhóm VTT
+VPTD,2,H320,4863,Doanh thu dịch vụ nhóm VDS
+VPTD,2,VHK,4899,TỔNG DOANH THU (KD)
+VPTD,2,VHK,4901,LỢI NHUẬN
+VPTD,2,M3,4904,Lợi nhuận
+VPTD,2,M3,4905,M3
+VPTD,2,M3,4906,Giá trị sản lượng
+VPTD,1,BC,5014,DỊCH VỤ OS
+VPTD,2,M3,4908,TỔNG DOANH THU (KD)
+VPTD,2,VTE,5520,VTE
+BCL,2,TD,4916,11. Doanh thu dịch vụ và sản xuất
+BCL,2,MYN,4918,11. Doanh thu dịch vụ và sản xuất
+BCL,1,TN,4921,Doanh thu dịch vụ và sản xuất VTTN (Kinh doanh)
+BCL,1,VTG,4928,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,2,VTL,4945,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,1,VTP,4946,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,2,VTP,4947,Doanh thu dv và sx lũy kế (kinh doanh)
+VPTD,2,VDTC,4968,THU NHẬP BÌNH QUÂN
+VPTD,2,VTTNEWNEW,4975,Lao động BQ trong DS
+VPTD,2,TD,4974,Lao động BQ trong DS
+VPTD,2,TVTK,4978,THU NHẬP BÌNH QUÂN
+VPTD,2,TH,4984,THU NHẬP BÌNH QUÂN
+VPTD,2,VDS,4988,LAO ĐỘNG BQ TRONG DS
+VPTD,2,M1,4994,LAO ĐỘNG BQ TRONG DS
+VPTD,1,VTTNEWNEW,5020,Doanh thu dịch vụ nhóm SME
+VPTD,1,VTTNEWNEW,5019,DOANH THU DỊCH VỤ MỚI
+VPTD,1,CT,5021,DT HẠ TẦNG CHO THUÊ
+VPTD,2,VTTNEWNEW,5024,Doanh thu cố định
+VPTD,1,VDTC,5030,Doanh thu dịch vụ thu phí
+VPTD,1,VDTC,5031,Doanh thu phát hành thẻ
+VPTD,1,VDTC,5032,Doanh thu kết nối
+VPTD,1,VDTC,5033,Doanh thu dịch vụ giá trị gia tăng
+VPTD,2,VTC,5038,Doanh thu di động
+VPTD,1,VTC,5040,Doanh thu cố định
+VPTD,2,VTC,5042,Doanh thu giải pháp CNTT
+VPTD,1,VTC,5043,Doanh thu giải pháp CNTT
+VPTD,2,VTC,5045,Doanh thu kinh doanh quốc tế
+VPTD,1,VTC,5047,Doanh thu thương mại điện tử
+VPTD,1,MOV,5058,Doanh thu di động
+VPTD,1,MOV,5061,Doanh thu kinh doanh quốc tế
+VPTD,1,VTL,5081,Doanh thu thương mại điện tử
+VPTD,2,MOV,5066,Doanh thu giải pháp CNTT
+VPTD,2,MOV,5067,Doanh thu kinh doanh quốc tế
+VPTD,2,MOV,5068,Doanh thu thương mại điện tử
+VPTD,2,VTL,5084,Doanh thu giải pháp CNTT
+VPTD,2,VTL,5085,Doanh thu kinh doanh quốc tế
+VPTD,1,VTP,5091,Doanh thu thương mại điện tử
+VPTD,2,VTP,5094,Doanh thu giải pháp CNTT
+VPTD,2,VTP,5096,Doanh thu thương mại điện tử
+VPTD,2,VBD,5107,Doanh thu giải pháp CNTT
+VPTD,1,IDC,5110,CÁC DV CLOUD
+VPTD,2,IDC,5116,DOANH THU DỰ ÁN
+VPTD,1,XNK,5119,DOANH THU KINH DOANH IN
+VPTD,1,XNK,5120,DOANH THU KINH DOANH XNK
+VPTD,1,MYN,5129,DOANH THU CỐ ĐỊNH
+VPTD,1,MYN,5131,DOANH THU KINH DOANH QUỐC TẾ
+VPTD,1,VTZ,5143,Doanh thu thương mại điện tử
+VPTD,2,VTZ,5144,Doanh thu di động
+VPTD,2,MYN,5149,MYN
+VPTD,1,VDS,5159,DOANH THU CHẤM ĐIỂM KHÁCH HÀNG
+VPTD,2,VDS,5160,DOANH THU TÀI CHÍNH SỐ
+VPTD,2,STL,5457,LỢI NHUÂN TT (KHÔNG CLTG) Copy
+VPTD,2,NAT,5458,LỢI NHUÂN TT (KHÔNG CLTG) Copy
+VPTD,2,M3,5212,GTSL CƠ KHÍ CNC
+VPTD,2,M3,5214,DT CƠ KHÍ (KHÔNG CNC)
+VPTD,2,M3,5215,DT CƠ KHÍ CNC
+VPTD,2,VNC,5234,DOANH THU NSNN
+VPTD,2,VNC,5235,DT CÁC ĐƠN VỊ TRONG VT
+VPTD,2,VNC,5238,DT BÊN NGOÀI
+VPTD,1,ANM,5252,DT DV CHO THUÊ/BÁN LICENSE
+VPTD,1,VTS,5259,Doanh thu dịch vụ (trừ hubbing)
+VPTD,1,VTS,5260,Doanh thu bán hàng DA BQP
+VPTD,1,KGM,5263,DT NỘI BỘ TĐ
+VPTD,1,KGM,5268,KHỐI THỊ GIÁC MÁY TÍNH
+VPTD,2,KGM,5271,DT QUỸ CHUYÊN DÙNG
+VPTD,1,VDS,5314,Doanh thu dịch vụ
+VPTD,2,KGM,5273,KHỐI PHÂN TÍCH DỮ LIỆU
+VPTD,1,TVTK,5279,TVTK
+VPTD,1,TVTK,5280,TỔNG DOANH THU (KD)
+VPTD,2,VTG,5316,Thu nhập BQ
+VPTD,2,VTN,5503,VTNet
+VPTD,1,VDTC,5434,Thẻ có nạp tiền
+VPTD,2,VTE,5521,Lao động BQ trong DS
+VPTD,2,VTE,5522,Năng suất lao động BQ
+VPTD,1,TH,5292,Doanh thu quảng cáo
+VPTD,2,VTE,5523,Thu nhập BQ
+VPTD,2,VTN,5507,Lao động BQ trong DS
+VPTD,2,VTS,5534,TỔNG DOANH THU (KD) (TRỪ HUBBING)
+VPTD,2,VTN,5510,Năng suất lao động BQ
+VPTD,2,VTN,5511,Thu nhập BQ
+VPTD,2,Q510,4732,Doanh thu dịch vụ di động
+VPTD,2,Q510,4733,Doanh thu dịch vụ nhóm VTS
+VPTD,2,Q510,4734,Thuê bao FTTH
+VPTD,2,Q510,4735,Thuê bao di động phát triển thực
+VPTD,2,Q510,4736,Thuê bao 4G phát triển thực
+VPTD,2,Q510,4737,Tổng doanh thu dịch vụ
+VPTD,2,Q510,4738,Thuê bao register
+VPTD,2,Q510,4739,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,Q510,4740,Doanh thu dịch vụ nhóm VTT
+VPTD,2,Q510,4741,Doanh thu dịch vụ nhóm VDS
+VPTD,2,M1,4903,Dòng tiền ròng
+BCL,1,VTTNEWNEW,4926,6. Doanh thu dịch vụ và sản xuất VTTN (Kinh doanh)
+BCL,2,CTM,4919,10. Doanh thu dịch vụ và sản xuất
+BCL,1,VTC,4930,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,2,VTC,4931,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,1,STL,4932,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,1,VTS,4933,3. Doanh thu dịch vụ và sản xuất
+BCL,2,STL,4934,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,2,VTS,4935,5. Doanh thu dịch vụ và sản xuất
+BCL,2,NAT,4939,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,2,MOV,4941,Doanh thu dv và sx lũy kế (kinh doanh)
+VPTD,2,ANM,4957,LAO ĐỘNG BQ TRONG DS
+VPTD,2,Q510,4731,Doanh thu dịch vụ SME
+VPTD,2,VDS,4987,THU NHẬP BÌNH QUÂN
+VPTD,2,VTS,4960,Lao động BQ trong DS
+VPTD,2,CT,4964,NĂNG SUẤT LAO ĐỘNG
+VPTD,2,CT,4967,LAO ĐỘNG BQ TRONG DS
+VPTD,2,XMCP,4969,NĂNG SUẤT LAO ĐỘNG
+VPTD,2,XMCP,4970,THU NHẬP BÌNH QUÂN
+VPTD,2,XMCP,4976,LAO ĐỘNG BQ TRONG DS
+VPTD,2,VNC,4995,THU NHẬP BÌNH QUÂN
+VPTD,2,VHK,4997,THU NHẬP BÌNH QUÂN
+VPTD,2,BC,5001,DT THƯƠNG MẠI VÀ DỊCH VỤ
+VPTD,1,VTTNEWNEW,5018,Doanh thu cố định
+VPTD,2,CT,5028,DT NĂNG LƯỢNG VÀ CƠ ĐIỆN
+VPTD,2,VDTC,5034,Doanh thu dịch vụ thu phí
+VPTD,2,VDTC,5035,Doanh thu phát hành thẻ
+VPTD,2,VTC,5046,Doanh thu thương mại điện tử
+VPTD,1,STL,5050,Doanh thu giải pháp CNTT
+VPTD,2,STL,5055,Doanh thu giải pháp CNTT
+VPTD,2,STL,5057,Doanh thu thương mại điện tử
+VPTD,1,MOV,5059,Doanh thu cố định
+VPTD,1,MOV,5060,Doanh thu giải pháp CNTT
+VPTD,1,MOV,5062,Doanh thu thương mại điện tử
+VPTD,2,MOV,5065,Doanh thu cố định
+VPTD,1,NAT,5074,Doanh thu cố định
+VPTD,1,NAT,5075,Doanh thu giải pháp CNTT
+VPTD,1,VTL,5078,Doanh thu cố định
+VPTD,2,VTL,5083,Doanh thu cố định
+VPTD,1,VTP,5087,Doanh thu di động
+VPTD,1,VTP,5088,Doanh thu cố định
+VPTD,1,VTP,5090,Doanh thu kinh doanh quốc tế
+VPTD,2,VTP,5095,Doanh thu kinh doanh quốc tế
+VPTD,1,VBD,5099,Doanh thu cố định
+VPTD,1,IDC,5103,DOANH THU DỊCH VỤ TRUYỀN THỐNG
+VPTD,2,VBD,5106,Doanh thu cố định
+VPTD,2,VBD,5108,Doanh thu kinh doanh quốc tế
+VPTD,1,IDC,5112,DT CÁC ĐƠN VỊ NGOÀI TĐ
+VPTD,1,IDC,5113,DT CÁC ĐƠN VỊ TRONG TĐ
+VPTD,1,XNK,5122,DOANH THU KINH DOANH DVCNTT
+VPTD,2,XNK,5124,DOANH THU KINH DOANH XNK
+VPTD,1,MYN,5132,DOANH THU THƯƠNG MẠI ĐIỆN TỬ
+VPTD,2,MYN,5135,DOANH THU CỐ ĐỊNH
+VPTD,2,MYN,5136,DOANH THU GIẢI PHÁP CNTT
+VPTD,1,XMCP,5150,TỔNG DOANH THU
+VPTD,2,VDS,5157,DOANH THU SMS BANKING
+VPTD,1,VDS,5153,DOANH THU SMS BANKING
+VPTD,2,VDS,5161,DOANH THU CHẤM ĐIỂM KHÁCH HÀNG
+VPTD,1,VDS,5156,DOANH THU TÀI CHÍNH SỐ
+VPTD,2,MYN,5461,LỢI NHUÂN TT (KHÔNG CLTG) Copy
+VPTD,2,TTTT,5512,VTSport
+VPTD,2,TTTT,5513,Lao động BQ trong DS
+VPTD,2,TTTT,5514,Năng suất lao động BQ
+VPTD,2,TTTT,5515,Thu nhập BQ
+VPTD,2,M1,5197,DT SẢN PHẨM DÂN SỰ
+VPTD,2,M1,5198,DT SẢN PHẨM QUÂN SỰ
+VPTD,2,M1,5199,DT NỘI BỘ
+VPTD,2,M1,5200,DT BÊN NGOÀI
+VPTD,2,M1,5201,DT TRONG NƯỚC
+VPTD,2,M1,5202,DT XUẤT KHẨU
+VPTD,2,M3,5204,DT BÊN NGOÀI
+VPTD,2,M3,5208,DT XUẤT KHẨU
+VPTD,2,VNC,5236,DT CÁC ĐƠN VỊ BÊN NGOÀI
+VPTD,2,VNC,5241,DT TRONG NƯỚC
+VPTD,1,ANM,5243,DT CÁC ĐƠN VỊ TRONG TĐ
+VPTD,1,ANM,5244,DT TỪ KHÁCH HÀNG NGOÀI
+VPTD,1,ANM,5245,DT QUỸ CHUYÊN DÙNG TỪ BQP
+VPTD,1,ANM,5246,DT DV GIÁM SÁT VÀ XỬ LÝ SỰ CỐ
+VPTD,1,ANM,5251,DT DV ATTT CHUYÊN NGHIỆP
+VPTD,2,ANM,5257,DT DV ATTT CHUYÊN NGHIỆP
+VPTD,1,VTS,5261,Doanh thu bán hàng giáo dục
+VPTD,1,VTS,5262,Doanh thu bán hàng y tế
+VPTD,1,KGM,5264,DT BÊN NGOÀI TĐ
+BCL,1,TD,5575,Tỷ lệ kết nối thành công đến tổng đài
+VPTD,2,VDTC,5556,HOÀN VỐN
+VPTD,2,MOV,5617,HOÀN VỐN
+VPTD,2,VTC,5615,HOÀN VỐN
+VPTD,2,VTL,5616,HOÀN VỐN
+VPTD,2,VTP,5598,HOÀN VỐN
+VPTD,1,VDS,5656,THUÊ BAO VIETTEL MONEY
+BCL,1,VTS,5756,4. TỶ LỆ KẾT NỐI THÀNH CÔNG ĐẾN TỔNG ĐÀI
+VPTD,1,TD,5715,Thuê bao VIETTEL MONEY
+BCL,1,VTS,5779,6.Thời gian trung bình để xử lý PA
+BCL,1,VTS,5778,5.Tỷ lệ phản ánh
+BCL,1,VTS,5783,7. Tỷ lệ xử lý phản ánh của KH
+BCL,1,VTS,5784,8. Mức độ hài lòng của KH
+BCL,1,VDS,5785,6. Tỷ lệ xử lý phản ánh của KH
+BCL,1,VDS,5786,7. Mức độ hài lòng của KH
+BCL,1,BC,5787,4.Tỷ lệ xử lý phản ánh của KH
+BCL,2,VTS,5855,7.Tỷ lệ phản ánh
+BCL,2,VTS,5856,8.Thời gian trung bình để xử lý PA
+BCL,2,VDS,5843,Tỷ lệ phản ánh
+BCL,2,BC,5840,Tỷ lệ xử lý phản ánh của KH
+BCL,2,BC,5841,Mức độ hài lòng của KH
+BCL,2,VDS,5842,Mức độ hài lòng của KH
+BCL,1,TD,5935,TỶ LỆ PHẢN ÁNH
+VPTD,2,VTC,6176,Thuê bao phát sinh lưu lượng Copy
+BCL,1,TD,5919,TỶ LỆ XỬ LÝ PHẢN ÁNH CỦA KH
+VPTD,2,VTTNEWNEW,6155,Thuê bao phát sinh lưu lượng Copy
+CSKH,2,VTTNEWNEW,5996,14. Tỷ lệ phản ánh
+CSKH,1,TD,5957,Mức độ hài lòng của KH
+CSKH,2,VTTNEWNEW,5997,15. Thời gian trung bình để xử lý PA
+CSKH,2,VTTNEWNEW,5998,17. Mức độ hài lòng của KH
+CSKH,2,VTTNEWNEW,5995,13.Tỷ lệ kết nối thành công đến tổng đài
+CSKH,1,TD,5961,Tỷ lệ kết nối thành công đến tổng đài
+CSKH,1,TD,5962,TỶ LỆ PHẢN ÁNH
+CSKH,1,TD,5963,THỜI GIAN TRUNG BÌNH ĐỂ XỬ LÝ PA
+CSKH,1,TD,5964,TIẾN ĐỘ XỬ LÝ PHẢN ÁNH CỦA KH
+CSKH,1,VDS,6095,TIẾN ĐỘ GIAO TIỀN CỦA DV CHUYỂN TIỀN
+CSKH,2,VTTNEWNEW,6000,16. Tiến độ xử lý phản ánh của KH
+CSKH,2,TD,6027,TỶ LỆ KẾT NỐI THÀNH CÔNG ĐẾN TỔNG ĐÀI
+CSKH,2,TD,6028,TỶ LỆ PHẢN ÁNH
+CSKH,2,TD,6029,THỜI GIAN TRUNG BÌNH ĐỂ XỬ LÝ PA
+CSKH,2,TD,6030,TIẾN ĐỘ XỬ LÝ PHẢN ÁNH CỦA KH
+CSKH,2,TD,6031,MỨC ĐỘ HÀI LÒNG CỦA KH
+CSKH,1,TD,5972,TẬP ĐOÀN
+CSKH,2,VDS,6090,Tiến độ giao tiền của DV chuyển tiền
+CSKH,1,BC,6091,Thời gian trung bình để xử lý PA
+CSKH,2,BC,6096,Thời gian trung bình để xử lý PA
+VPTD,2,VTG,6175,Thuê bao phát sinh lưu lượng Copy
+VPTD,2,STL,6156,Thuê bao phát sinh lưu lượng Copy
+VPTD,2,VTL,6177,Thuê bao phát sinh lưu lượng Copy
+VPTD,2,MYN,6157,Thuê bao phát sinh lưu lượng Copy
+VPTD,2,VBD,6158,Thuê bao phát sinh lưu lượng Copy
+VPTD,1,T037,6168,Thanh Hoá
+CSKH,1,VTTNEWNEW,6015,8.Tỷ lệ phản ánh
+CSKH,1,VTTNEWNEW,6016,9. Thời gian trung bình để xử lý PA
+CSKH,1,VTTNEWNEW,6017,11.Mức độ hài lòng của KH
+CSKH,1,VTTNEWNEW,6018,7.TỶ LỆ KẾT NỐI THÀNH CÔNG ĐẾN TỔNG ĐÀI
+CSKH,1,VTTNEWNEW,6019,10.Tiến độ xử lý phản ánh của KH
+VPTD,1,B241,6169,Bắc Ninh
+VPTD,1,T008,6161,Hồ Chí Minh
+CSKH,1,VTTNEWNEW,6022,VTT
+VPTD,1,V064,6162,Bà Rịa Vũng Tàu
+CSKH,2,TD,6044,TẬP ĐOÀN
+VPTD,1,A076,6163,An Giang
+VPTD,1,V211,6164,Vĩnh Phúc
+CSKH,1,VTS,5979,4. TỶ LỆ KẾT NỐI THÀNH CÔNG ĐẾN TỔNG ĐÀI
+CSKH,1,VTS,5980,6.Thời gian trung bình để xử lý PA
+CSKH,1,VTS,5981,5.Tỷ lệ phản ánh
+CSKH,1,VTS,5982,7. Tỷ lệ xử lý phản ánh của KH
+VPTD,1,B650,6165,Bình Dương
+VPTD,1,T074,6275,Trà Vinh
+CSKH,1,VTS,5985,VTS
+CSKH,2,VDS,6059,Tỷ lệ phản ánh
+CSKH,2,VDS,6060,Mức độ hài lòng của KH
+CSKH,2,VTS,5988,7.Tỷ lệ phản ánh
+CSKH,2,VTS,5989,8.Thời gian trung bình để xử lý PA
+CSKH,2,VTS,5990,10.Mức độ hài lòng của KH
+CSKH,2,VTS,5991,6.Tỷ lệ kết nối thành công đến tổng đài
+CSKH,2,VTS,5992,9.Tiến độ xử lý phản ánh của KH
+CSKH,2,VDS,6061,Tỷ lệ kết nối thành công đến tổng đài
+CSKH,2,VDS,6062,Tiến độ xử lý phản ánh của KH
+VPTD,1,B781,6276,Bạc Liêu
+CSKH,2,VTS,6056,VTS
+VPTD,1,T027,6277,Tuyên Quang
+VPTD,1,T280,6295,Thái Nguyên
+CSKH,2,VDS,6066,VDS
+VPTD,1,T073,6170,Tiền Giang
+CSKH,1,VDS,6068,6. Tiến độ xử lý phản ánh của KH
+CSKH,1,VDS,6069,7. Mức độ hài lòng của KH
+VPTD,1,T036,6172,Thái Bình
+CSKH,1,VDS,6071,4. Tỷ lệ kết nối thành công đến tổng đài
+CSKH,1,VDS,6072,5. Tỷ lệ phản ánh
+VPTD,1,S079,6316,Sóc Trăng
+CSKH,1,VDS,6074,VDS
+VPTD,1,S022,6318,Sơn La
+VPTD,1,Q510,6174,Quảng Nam
+VPTD,1,C026,6335,Cao bằng
+VPTD,1,Q055,6356,Quảng Ngãi
+VPTD,1,C710,6336,Cần Thơ
+VPTD,1,Q033,6357,Quảng Ninh
+VPTD,1,D230,6337,Điện Biên
+VPTD,1,Q052,6338,Quảng Bình
+VPTD,1,P057,6340,Phú Yên
+VPTD,1,N068,6342,Ninh Thuận
+VPTD,1,N350,6343,Nam Định
+VPTD,1,N030,6345,Ninh Bình
+VPTD,1,D067,6347,Đồng Tháp
+VPTD,1,L025,6348,Lạng Sơn
+VPTD,1,L063,6377,Lâm Đồng
+VPTD,1,G059,6349,Gia Lai
+VPTD,1,H018,6351,Hoà Bình
+VPTD,1,H018,6353,Hòa Bình
+DTTC,2,TD,6396,Lợi nhuận từ hoạt động Đầu tư Tài chính
+DTTC,2,TD,6398,Tập Đoàn
+VPTD,1,L072,6435,Long An
+VPTD,1,K060,6436,Kon Tum
+VPTD,1,K077,6456,Kiên Giang
+VPTD,1,H711,6401,Hậu Giang
+VPTD,1,N351,6402,Hà Nam
+VPTD,1,H031,6403,Hải Phòng
+VPTD,1,T054,6404,Thừa Thiên Huế
+VPTD,1,H039,6405,Hà Tĩnh
+VPTD,2,Y029,6406,Yên Bái
+VPTD,1,TD,6407,DỊCH VỤ TV360
+VPTD,2,V064,6409,Bà Rịa Vũng Tàu
+VPTD,2,V211,6495,Vĩnh Phúc
+VPTD,2,V070,6496,Vĩnh Long
+VPTD,2,T280,6498,Thái Nguyên
+VPTD,2,T066,6411,Tây Ninh
+VPTD,2,T037,6499,Thanh Hoá
+VPTD,2,A076,6413,An Giang
+VPTD,2,B650,6515,Bình Dương
+VPTD,2,H018,6517,Hòa Bình
+VPTD,2,Q053,6536,Quảng Trị
+VPTD,2,B240,6519,Bắc Giang
+VPTD,2,Q510,6520,Quảng Nam
+VPTD,2,Q055,6521,Quảng Ngãi
+VPTD,2,B241,6539,Bắc Ninh
+VPTD,2,B651,6525,Bình Phước
+VPTD,2,B075,6526,Bến Tre
+VPTD,2,N350,6543,Nam Định
+VPTD,2,H320,6552,Hải Dương
+VPTD,2,C780,6529,Cà Mau
+VPTD,2,D230,6532,Điện Biên
+VPTD,2,N038,6533,Nghệ An
+VPTD,2,K058,6561,Khánh Hoà
+VPTD,2,H321,6576,Hưng Yên
+VPTD,2,H711,6577,Hậu Giang
+VPTD,2,T054,6578,Thừa Thiên Huế
+VPTD,2,H039,6579,Hà Tĩnh
+VPTD,2,H031,6580,Hải Phòng
+VPTD,2,H019,6595,Hà Giang
+CNTT,2,VTTNEWNEW,6551,THI PHẦN
+VPTD,2,D511,6616,Đà Nẵng
+VPTD,2,D500,6635,Đắc Lắc
+VPTD,1,VDS,6815,DỊCH VỤ SMS Copy
+CNTT,1,VTTNEWNEW,6837,TV360_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,VTTNEWNEW,6838,TV360_Tỷ lệ khách hàng trải nghiệm tồi
+CNTT,1,VTTNEWNEW,6836,TV360_Tỷ lệ giao dịch thành công
+CNTT,1,VTTNEWNEW,6882,MYVIETTEL_Tỷ lệ khách hàng trải nghiệm tồi
+CNTT,1,VTTNEWNEW,6883,VTT
+CNTT,2,TD,6715,Ban CNTT
+CNTT,2,TD,6680,TL CUỘC GỌI THOẠI ĐƯỢC THIẾT LẬP TC (VOICE CSSR)
+CNTT,2,TD,6681,TL CUỘC GỌI THOẠI BỊ RƠI (VOICE CDR)
+CNTT,2,TD,6682,TL PHIÊN DV DATA THIẾT LẬP THÀNH CÔNG (MOBILE DATA SR)
+CNTT,2,TD,6717,TL PHIÊN DV DATA BỊ NGẮT KẾT NỐI (MOBILE DATA DR)
+CNTT,2,TD,6720,TL KHUNG TG TRUY NHẬP DV TỒI - TẢI DL (INTERNET FR - DL)
+CNTT,2,TD,6721,TL KHUNG TG TRUY NHẬP DV TỒI - VIDEO STREAMING (INTERNET FR - VS)
+CNTT,1,TD,6735,Ban CNTT
+CNTT,1,TD,6736,TV360_Tỷ lệ giao dịch thành công
+CNTT,1,TD,6737,TV360_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,6739,TL CUỘC GỌI THOẠI ĐƯỢC THIẾT LẬP TC (VOICE CSSR)
+CNTT,1,TD,6740,TL CUỘC GỌI THOẠI BỊ RƠI (VOICE CDR)
+CNTT,1,TD,6741,TL PHIÊN DV DATA BỊ NGẮT KẾT NỐI (MOBILE DATA DR)
+CNTT,1,TD,6742,TL PHIÊN DV DATA TỒI - VIDEO (MOBILE DATA FR - VIDEO)
+CNTT,1,TD,6743,TL KHUNG TG TRUY NHẬP DV TỒI - WEB (INTERNET FR - WEB)
+CNTT,1,TD,6744,TL KHUNG TG TRUY NHẬP DV TỒI - TẢI DL (INTERNET FR - DL)
+CNTT,1,TD,6745,TL KHUNG TG TRUY NHẬP DV TỒI - VIDEO STREAMING (INTERNET FR - VS)
+CNTT,1,TD,6746,TL KHUNG TG TRUY NHẬP DV TỒI - GAME (INTERNET FR - GAME)
+CNTT,1,TD,6747,TL KHUNG TG TRUY NHẬP DV TỒI - VIDEO CONFERENCE (INTERNET FR - VC)
+CNTT,1,TD,6748,TL KHUNG TG TRUY NHẬP DV TỒI - MẠNG XÃ HỘI (INTERNET FR - SOCIAL)
+CNTT,1,TD,6749,TL CUỘC GỌI THOẠI TỒI (VOICE FR)
+CNTT,1,TD,6750,TL PHIÊN DV DATA THIẾT LẬP THÀNH CÔNG (MOBILE DATA SR)
+CNTT,1,TD,6751,TL PHIÊN XEM KÊNH TRUYỀN HÌNH TỒI IPTV (IPTV FR - CHANNEL)
+CNTT,1,TD,6752,TL LƯỢT XEM VOD TỒI TRÊN IPTV (IPTV FR - VOD)
+CNTT,1,TD,6753,MOCHA_TỶ LỆ GIAO DỊCH THÀNH CÔNG
+CNTT,1,TD,6777,MOCHA_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,6754,TỶ LỆ GIAO DỊCH THÀNH CÔNG
+VPTD,2,NAT,5597,HOÀN VỐN
+QTDL,2,VTTNEWNEW,7135,TỔNG DOANH THU CÁC DỰ ÁN/UC
+BCL,2,VTS,5857,10.Mức độ hài lòng của KH
+BCL,2,VDS,5839,Tỷ lệ kết nối thành công đến tổng đài
+BCL,2,BC,5860,Tỷ lệ phản ánh
+BCL,2,BC,5875,TỶ LỆ KẾT NỐI THÀNH CÔNG ĐẾN TỔNG ĐÀI
+CSKH,2,BC,6082,Tiến độ xử lý phản ánh của KH
+CSKH,2,BC,6083,Mức độ hài lòng của KH
+BCL,1,TD,5918,Mức độ hài lòng của KH
+CSKH,2,BC,6084,Tỷ lệ phản ánh
+CSKH,2,BC,6085,TỶ LỆ KẾT NỐI THÀNH CÔNG ĐẾN TỔNG ĐÀI
+VPTD,1,V070,6255,Vĩnh Long
+CSKH,2,BC,6087,BƯU CHÍNH
+VPTD,1,B075,6315,Bến tre
+VPTD,1,H019,6399,Hà Giang
+VPTD,2,B056,6518,Bình Định
+VPTD,2,Q033,6522,Quảng Ninh
+VPTD,2,B281,6537,Bắc Kạn
+VPTD,2,B781,6523,Bạc Liêu
+VPTD,2,P057,6524,Phú Yên
+VPTD,2,C026,6527,Cao Bằng
+VPTD,2,D067,6554,Đồng Tháp
+CNTT,1,VDS,6849,VIETTELPAY_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,6935,TV360_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,2,TD,6722,TL KHUNG TG TRUY NHẬP DV TỒI - VIDEO CONFERENCE (INTERNET FR - VC)
+CNTT,1,VDS,6851,VDS
+CNTT,1,TH,6918,MOCHA_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TH,6919,VTM
+CNTT,1,TD,6936,MYVIETTEL_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+VPTD,2,M1,7095,TỔNG SỐ LAO ĐỘNG
+QTDL,2,TD,7155,TỔNG DOANH THU CÁC DỰ ÁN/UC
+CNTT,1,TH,6917,Tỷ lệ khách hàng trải nghiệm tồi
+QTDL,2,TD,7156,TẬP ĐOÀN
+QTDL,2,TD,7157,SỐ LƯỢNG DỰ ÁN/ UC
+QTDL,2,TD,7158,TỔNG DOANH THU DỰ ÁN NGOÀI HỆ THỐNG BDT
+QTDL,2,TD,7159,SỐ LƯỢNG DỰ ÁN BDT
+CNTT,1,TD,7195,VOFFICE_TỶ LỆ GIAO DỊCH THÀNH CÔNG
+QTDL,2,TD,7296,HIỆU QUẢ CÁC DỰ ÁN NLP
+QTDL,2,KGM,7395,TỔNG DOANH THU CÁC DỰ ÁN/UC
+QTDL,2,KGM,7396,VTCC
+QTDL,2,VTS,7403,TỔNG DOANH THU CÁC DỰ ÁN/UC
+QTDL,2,KGM,7397,SỐ LƯỢNG DỰ ÁN/ UC
+QTDL,2,KGM,7398,HIỆU QUẢ CÁC DỰ ÁN CV
+QTDL,2,KGM,7399,TỔNG DOANH THU DỰ ÁN NGOÀI HỆ THỐNG BDT
+QTDL,2,VTTNEWNEW,7110,VTT
+QTDL,2,VTTNEWNEW,7111,SỐ LƯỢNG DỰ ÁN/ UC
+QTDL,2,KGM,7400,HIỆU QUẢ CÁC Ucs PTDL
+QTDL,2,KGM,7401,HIỆU QUẢ CÁC DỰ ÁN NLP
+QTDL,2,KGM,7402,SỐ LƯỢNG DỰ ÁN BDT
+QTDL,2,VTS,7404,VTS
+QTDL,2,VTS,7405,SỐ LƯỢNG DỰ ÁN/ UC
+QTDL,2,VTS,7406,HIỆU QUẢ CÁC DỰ ÁN CV
+QTDL,2,VTS,7407,TỔNG DOANH THU DỰ ÁN NGOÀI HỆ THỐNG BDT
+QTDL,2,VTS,7408,HIỆU QUẢ CÁC Ucs PTDL
+QTDL,2,VTS,7409,HIỆU QUẢ CÁC DỰ ÁN NLP
+QTDL,2,VTS,7410,SỐ LƯỢNG DỰ ÁN BDT
+CNTT,1,TD,7415,DMS MỘC CHÂU_Tỷ lệ giao dịch thành công
+VPTD,2,SXTB,7005,DOANH THU NỘI BỘ
+VPTD,2,SXTB,7006,TỔNG DOANH THU (TC)
+VPTD,2,SXTB,7007,DOANH THU BÊN NGOÀI
+CNTT,1,TD,7416,DMS MỘC CHÂU_Tỷ lệ giao dịch hoàn thành đúng hạn
+VPTD,2,SXTB,7009,DT SẢN PHẨM DÂN SỰ
+VPTD,2,SXTB,7010,"TỔNG DOANH THU (Không bao gồm VTA, VTE, VTR)"
+VPTD,2,SXTB,7011,NCSX
+VPTD,2,SXTB,7012,TỔNG DOANH THU (KD)
+CNTT,1,TD,7435,DMS MỘC CHÂU_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTS,7417,DMS MỘC CHÂU_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTS,7418,DMS MỘC CHÂU_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,7455,SALE_Tỷ lệ giao dịch thành công
+CNTT,1,TD,7420,SALE_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,TD,7421,IM2_TỶ LỆ GIAO DỊCH THÀNH CÔNG
+CNTT,1,TD,7515,IM2_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,7535,IM2_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,TD,7604,VIETTEL_MAP_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,7422,VIETTEL_MAP_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTS,7658,VIETTEL_MAP_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,VTS,7425,VIETTEL_MAP_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTTNEWNEW,7659,SALE_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,VTTNEWNEW,7660,SALE_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTTNEWNEW,7662,IM2_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTTNEWNEW,7663,MBCCS_Tỷ lệ giao dịch thành công
+VPTD_6T,2,VTG,7593,Doanh thu dịch vụ
+VPTD_6T,2,VTG,7594,Thuê bao di động phát triển thực
+VPTD_6T,2,TD,7490,Lợi nhuận
+VPTD_6T,2,TD,7491,Doanh thu dịch vụ
+VPTD_6T,2,TD,7492,Thuê bao di động phát triển thực
+VPTD_6T,2,TD,7493,Thuê bao 4G phát triển thực
+VPTD_6T,2,TD,7494,Thuê bao FTTH
+VPTD_6T,2,TD,7495,Doanh thu tài chính
+VPTD_6T,2,TD,7496,Tổng doanh thu
+VPTD_6T,2,TD,7497,Tiêu dùng thực di động
+VPTD_6T,2,VTG,7595,Thuê bao 4G phát triển thực
+VPTD_6T,2,TD,7499,Dòng tiền ròng
+VPTD_6T,2,TD,7500,Tập Đoàn
+VPTD_6T,2,VTG,7596,Thuê bao FTTH
+VPTD_6T,2,TD,7502,Dòng tiền về VN
+VPTD_6T,2,VTG,7597,Doanh thu tài chính
+VPTD_6T,2,VTG,7598,Tổng doanh thu
+VPTD_6T,2,VTG,7599,Tiêu dùng thực di động
+CNTT,1,VTTNEWNEW,7427,MBCCS_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+QTDL,2,VDS,7675,TỔNG DOANH THU CÁC DỰ ÁN/UC
+VPTD_6T,2,VTG,7602,VTG
+QTDL,2,VDS,7676,VDS
+QTDL,2,VDS,7677,SỐ LƯỢNG DỰ ÁN/ UC
+QTDL,2,VDS,7678,HIỆU QUẢ CÁC DỰ ÁN CV
+QTDL,2,VDS,7679,TỔNG DOANH THU DỰ ÁN NGOÀI HỆ THỐNG BDT
+VPTD_6T,2,VTTNEWNEW,7577,VTT
+QTDL,2,VDS,7680,HIỆU QUẢ CÁC Ucs PTDL
+QTDL,2,VDS,7681,HIỆU QUẢ CÁC DỰ ÁN NLP
+QTDL,2,VDS,7682,SỐ LƯỢNG DỰ ÁN BDT
+VPTD_6M,2,TD,7429,Lao động BQ trong DS
+VPTD_6M,2,TD,7430,Thuê bao VIETTEL MONEY
+VPTD,1,TD,7755,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD_6M,2,TD,7432,Lợi nhuận
+VPTD_6M,2,TD,7433,Doanh thu dịch vụ
+VPTD_6M,2,TD,7434,Thuê bao di động phát triển thực
+VPTD_6M,2,TD,7695,Thuê bao 4G phát triển thực
+VPTD_6M,2,TD,7696,Thuê bao FTTH
+VPTD_6M,2,TD,7697,Doanh thu tài chính
+VPTD_6M,2,TD,7698,Tổng doanh thu
+VPTD_6M,2,TD,7699,Tiêu dùng thực di động
+VPTD_6M,2,TD,7700,Thuê bao register
+VPTD_6M,2,TD,7701,Dòng tiền ròng
+VPTD_6M,2,TD,7702,Tập Đoàn
+VPTD_6M,2,TD,7703,Dán thẻ epass
+VPTD_6M,2,TD,7704,Dòng tiền về VN
+VPTD_6M,2,TD,7705,Thu nhập BQ
+VPTD_6M,2,TD,7706,Doanh thu hợp nhất
+VPTD_6M,2,TD,7707,Năng suất lao động BQ
+VPTD,2,TD,7775,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD_6M,2,VTG,7717,Thu nhập BQ
+CNTT,1,TD,7756,K12ONLINE_Tỷ lệ giao dịch thành công
+VPTD_6M,2,VTG,7719,Năng suất lao động BQ
+VPTD_6M,2,VTG,7720,Lao động BQ trong DS
+VPTD_6M,2,VTG,7721,Lợi nhuận
+VPTD_6M,2,VTG,7722,Doanh thu dịch vụ
+VPTD_6M,2,VTG,7723,Thuê bao di động phát triển thực
+VPTD_6M,2,VTG,7724,Thuê bao 4G phát triển thực
+VPTD_6M,2,VTG,7725,Thuê bao FTTH
+VPTD_6M,2,VTG,7726,Doanh thu tài chính
+VPTD_6M,2,VTG,7727,Tổng doanh thu
+VPTD_6M,2,VTG,7728,Tiêu dùng thực di động
+VPTD_6M,2,VTG,7729,Thuê bao register
+VPTD_6M,2,VTG,7730,Dòng tiền ròng
+VPTD_6M,2,VTG,7731,VTG
+VPTD_6M,2,VTG,7732,Dòng tiền về VN
+VPTD_6M,2,VTTNEWNEW,7735,Doanh thu di động
+VPTD_6M,2,VTTNEWNEW,7736,Doanh thu dịch vụ mới
+VPTD_6M,2,VTTNEWNEW,7737,Doanh thu dịch vụ nhóm SME
+VPTD_6M,2,VTTNEWNEW,7738,Lao động BQ trong DS
+VPTD_6M,2,VTTNEWNEW,7739,Doanh thu cố định
+CNTT,1,TD,7795,K12ONLINE_Tỷ lệ giao dịch hoàn thành đúng hạn
+VPTD_6M,2,VTTNEWNEW,7741,Năng suất lao động BQ
+VPTD_6M,2,VTTNEWNEW,7742,Thu nhập BQ
+VPTD_6M,2,VTTNEWNEW,7743,Tổng doanh thu
+VPTD_6M,2,VTTNEWNEW,7744,Tiêu dùng thực di động
+VPTD_6M,2,VTTNEWNEW,7745,Thuê bao register
+VPTD_6M,2,VTTNEWNEW,7746,VTT
+VPTD_6M,2,VTTNEWNEW,7747,Lợi nhuận
+VPTD_6M,2,VTTNEWNEW,7748,Doanh thu dịch vụ
+VPTD_6M,2,VTTNEWNEW,7749,Thuê bao di động phát triển thực
+VPTD_6M,2,VTTNEWNEW,7750,Thuê bao 4G phát triển thực
+VPTD_6M,2,VTTNEWNEW,7751,Thuê bao FTTH
+VPTD_6M,2,VTTNEWNEW,7752,Tổng doanh thu tài chính
+VPTD,1,VTG,7815,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VTG,7835,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,VTTNEWNEW,7855,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,VTS,7915,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VTTNEWNEW,7895,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VTS,7935,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,VDS,7955,DOANH THU DỊCH VỤ & SẢN XUẤT
+QTDL,2,,8155,TỔNG DOANH THU CÁC DỰ ÁN/UC_8155
+VPTD,2,VTC,7975,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,STL,7995,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,MYN,7996,DOANH THU DỊCH VỤ & SẢN XUẤT
+CNTT,1,VTTNEWNEW,7999,PAYMENT_Tỷ lệ giao dịch thành công
+CNTT,1,TD,7762,PAYMENT_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,VTTNEWNEW,8000,PAYMENT_Tỷ lệ giao dịch hoàn thành đúng hạn
+VPTD,2,STL,8003,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VTZ,8004,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,VBD,7765,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VBD,8005,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VTP,8006,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VTL,8008,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,NAT,8017,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,MOV,7767,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,MOV,8015,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,VDTC,8035,DOANH THU DỊCH VỤ & SẢN XUẤT
+QTDL,2,VTN,7768,TỔNG DOANH THU CÁC DỰ ÁN/UC
+QTDL,2,,8156,VTT_8156
+QTDL,2,VTN,7770,SỐ LƯỢNG DỰ ÁN/ UC
+QTDL,2,VTN,7771,HIỆU QUẢ CÁC DỰ ÁN CV
+QTDL,2,VTN,7773,HIỆU QUẢ CÁC Ucs PTDL
+QTDL,2,VTN,7774,HIỆU QUẢ CÁC DỰ ÁN NLP
+QTDL,2,,8157,SỐ LƯỢNG DỰ ÁN/ UC_8157
+QTDL,2,,8158,HIỆU QUẢ CÁC DỰ ÁN CV_8158
+QTDL,2,,8159,TỔNG DOANH THU DỰ ÁN NGOÀI HỆ THỐNG BDT_8159
+QTDL,2,,8160,HIỆU QUẢ CÁC Ucs PTDL_8160
+QTDL,2,,8161,HIỆU QUẢ CÁC DỰ ÁN NLP_8161
+QTDL,2,,8162,SỐ LƯỢNG DỰ ÁN BDT_8162
+QTDL,2,CTM,8163,DGD
+QTDL,2,CTM,8164,SỐ LƯỢNG DỰ ÁN BDT
+QTDL,2,CTM,8165,TỔNG DOANH THU HỆ THỐNG BDT
+QTDL,2,CTM,8166,SỐ LƯỢNG DỰ ÁN/ UC
+VPTD,1,KGM,5265,DT QUỸ CHUYÊN DÙNG
+VPTD,1,KGM,5267,KHỐI XỬ LÝ TIẾNG NÓI VÀ NGÔN NGỮ TỰ NHIÊN
+VPTD,2,KGM,5270,DT BÊN NGOÀI TĐ
+VPTD,2,TVTK,5293,DT NGOÀI TĐ
+VPTD,2,TVTK,5294,"TƯ VẤN TK, GP KIÊN CỐ HTVT"
+VPTD,2,TH,5295,Doanh thu khách hàng nội bộ
+VPTD,2,TVTK,5301,CÁC LĨNH VỰC MỚI
+VPTD,2,TH,5297,Doanh thu dịch vụ game
+VPTD,2,TH,5300,Doanh thu khách hàng ngoài
+VPTD,2,TVTK,5299,KIỂM SOÁT CHẤT LƯỢNG
+VPTD,2,TH,5302,Doanh thu nội dung
+VPTD,1,TVTK,5305,DT NỘI BỘ TĐ
+VPTD,1,TVTK,5308,KIỂM SOÁT CHẤT LƯỢNG
+VPTD,1,TVTK,5309,CÁC LĨNH VỰC MỚI
+VPTD,2,VTG,5317,Năng suất lao động BQ
+VPTD,2,VTG,5318,Lao động BQ trong DS
+VPTD,1,VDTC,5358,Thẻ có PSGD qua trạm
+VPTD,2,VDTC,5359,Thẻ có PSGD qua trạm
+VPTD,2,VTA,5516,VTA
+VPTD,2,VTA,5517,Lao động BQ trong DS
+VPTD,2,VTA,5518,Năng suất lao động BQ
+VPTD,2,VTA,5519,Thu nhập BQ
+VPTD,2,HVT,5524,VTAca
+VPTD,2,HVT,5525,Lao động BQ trong DS
+VPTD,2,HVT,5526,Năng suất lao động BQ
+VPTD,2,HVT,5527,Thu nhập BQ
+VPTD,2,BDS,5528,BDS
+VPTD,2,BDS,5529,Lao động BQ trong DS
+VPTD,2,BDS,5530,Năng suất lao động BQ
+VPTD,2,BDS,5531,Thu nhập BQ
+VPTD,1,Q052,4414,Doanh thu dịch vụ di động
+VPTD,1,Q052,4415,Thuê bao register
+VPTD,1,Q052,4416,Doanh thu dịch vụ nhóm VTS
+VPTD,1,Q052,4417,Thuê bao FTTH
+VPTD,1,Q052,4418,Thuê bao di động phát triển thực
+VPTD,1,Q052,4419,Thuê bao 4G phát triển thực
+VPTD,1,Q052,4420,Tổng doanh thu dịch vụ
+VPTD,1,Q052,4421,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,Q033,4422,Thuê bao di động phát triển thực
+VPTD,1,D501,4557,Doanh thu dịch vụ nhóm VTS
+VPTD,1,D501,4558,Thuê bao FTTH
+VPTD,1,D501,4559,Thuê bao di động phát triển thực
+VPTD,1,D501,4560,Thuê bao 4G phát triển thực
+VPTD,1,D501,4561,Tổng doanh thu dịch vụ
+VPTD,1,D501,4562,Thuê bao register
+VPTD,1,D501,4563,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,D501,4564,Doanh thu dịch vụ nhóm VTT
+VPTD,1,D501,4565,Doanh thu dịch vụ nhóm VDS
+VPTD,2,D501,4566,Doanh thu dịch vụ SME
+VPTD,2,D501,4567,Doanh thu dịch vụ di động
+VPTD,2,D501,4568,Doanh thu dịch vụ nhóm VTS
+VPTD,2,D501,4569,Thuê bao FTTH
+VPTD,2,D501,4570,Thuê bao di động phát triển thực
+VPTD,2,D501,4571,Thuê bao 4G phát triển thực
+VPTD,2,D501,4572,Tổng doanh thu dịch vụ
+VPTD,2,D501,4573,Thuê bao register
+VPTD,2,D501,4574,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,D501,4575,Doanh thu dịch vụ nhóm VTT
+VPTD,2,D501,4576,Doanh thu dịch vụ nhóm VDS
+VPTD,1,D500,4577,Doanh thu dịch vụ SME
+VPTD,1,D500,4578,Doanh thu dịch vụ di động
+VPTD,1,D500,4579,Doanh thu dịch vụ nhóm VTS
+VPTD,1,S079,3848,Doanh thu dịch vụ SME
+VPTD,1,S079,3849,Doanh thu dịch vụ di động
+VPTD,1,S079,3850,Doanh thu dịch vụ nhóm VTS
+VPTD,1,S079,3851,Thuê bao FTTH
+VPTD,1,S079,3852,Thuê bao di động phát triển thực
+VPTD,1,S079,3853,Thuê bao 4G phát triển thực
+VPTD,1,S079,3854,Tổng doanh thu dịch vụ
+VPTD,1,S079,3855,Thuê bao register
+VPTD,1,S079,3856,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,S079,3857,Doanh thu dịch vụ nhóm VTT
+VPTD,1,S079,3858,Doanh thu dịch vụ nhóm VDS
+VPTD,2,T073,3892,Doanh thu dịch vụ SME
+VPTD,2,T073,3893,Doanh thu dịch vụ di động
+VPTD,2,T073,3894,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T073,3895,Thuê bao FTTH
+VPTD,2,T073,3896,Thuê bao di động phát triển thực
+VPTD,2,T073,3897,Thuê bao 4G phát triển thực
+VPTD,2,T073,3898,Tổng doanh thu dịch vụ
+VPTD,2,T073,3899,Thuê bao register
+VPTD,2,T073,3900,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T073,3901,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T073,3902,Doanh thu dịch vụ nhóm VDS
+VPTD,2,S079,3914,Doanh thu dịch vụ SME
+VPTD,2,S079,3915,Doanh thu dịch vụ di động
+VPTD,2,S079,3916,Doanh thu dịch vụ nhóm VTS
+VPTD,2,S079,3917,Thuê bao FTTH
+VPTD,2,S079,3918,Thuê bao di động phát triển thực
+VPTD,2,S079,3919,Thuê bao 4G phát triển thực
+VPTD,2,S079,3920,Tổng doanh thu dịch vụ
+VPTD,2,S079,3921,Thuê bao register
+VPTD,2,S079,3922,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,S079,3923,Doanh thu dịch vụ nhóm VTT
+VPTD,2,S079,3924,Doanh thu dịch vụ nhóm VDS
+VPTD,2,L020,3958,Doanh thu dịch vụ SME
+VPTD,2,L020,3959,Doanh thu dịch vụ di động
+VPTD,2,L020,3960,Doanh thu dịch vụ nhóm VTS
+VPTD,2,L020,3961,Thuê bao FTTH
+VPTD,2,L020,3962,Thuê bao di động phát triển thực
+VPTD,2,L020,3963,Thuê bao 4G phát triển thực
+VPTD,2,L020,3964,Tổng doanh thu dịch vụ
+VPTD,2,L020,3965,Thuê bao register
+VPTD,2,L020,3966,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,L020,3967,Doanh thu dịch vụ nhóm VTT
+VPTD,2,L020,3968,Doanh thu dịch vụ nhóm VDS
+VPTD,1,B651,4024,Doanh thu dịch vụ SME
+VPTD,1,B651,4025,Doanh thu dịch vụ di động
+VPTD,1,B651,4026,Doanh thu dịch vụ nhóm VTS
+VPTD,1,B651,4027,Thuê bao FTTH
+VPTD,1,B651,4028,Thuê bao di động phát triển thực
+VPTD,1,B651,4029,Thuê bao 4G phát triển thực
+VPTD,1,B651,4030,Tổng doanh thu dịch vụ
+VPTD,1,B651,4031,Thuê bao register
+VPTD,1,B651,4032,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B651,4033,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B651,4034,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B651,4035,Doanh thu dịch vụ SME
+VPTD,2,B651,4036,Doanh thu dịch vụ di động
+VPTD,2,B651,4037,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B651,4038,Thuê bao FTTH
+VPTD,2,B651,4039,Thuê bao di động phát triển thực
+VPTD,2,B651,4040,Thuê bao 4G phát triển thực
+VPTD,2,B651,4041,Tổng doanh thu dịch vụ
+VPTD,2,B651,4042,Thuê bao register
+VPTD,2,B651,4043,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B651,4044,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B651,4045,Doanh thu dịch vụ nhóm VDS
+VPTD,1,B075,4046,Doanh thu dịch vụ SME
+VPTD,1,B075,4047,Doanh thu dịch vụ di động
+VPTD,1,B075,4048,Doanh thu dịch vụ nhóm VTS
+VPTD,1,B075,4049,Thuê bao FTTH
+VPTD,1,B075,4050,Thuê bao di động phát triển thực
+VPTD,1,B075,4051,Thuê bao 4G phát triển thực
+VPTD,1,B075,4052,Tổng doanh thu dịch vụ
+VPTD,1,B075,4053,Thuê bao register
+VPTD,1,B075,4054,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B075,4055,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B075,4056,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B075,4057,Doanh thu dịch vụ SME
+VPTD,2,B075,4058,Doanh thu dịch vụ di động
+VPTD,2,B075,4059,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B075,4060,Thuê bao FTTH
+VPTD,2,B075,4061,Thuê bao di động phát triển thực
+VPTD,2,B075,4062,Thuê bao 4G phát triển thực
+VPTD,2,B075,4063,Tổng doanh thu dịch vụ
+VPTD,2,B075,4064,Thuê bao register
+VPTD,2,B075,4065,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B075,4066,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B075,4067,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H004,4090,Doanh thu dịch vụ SME
+VPTD,1,H004,4091,Doanh thu dịch vụ di động
+VPTD,1,H004,4092,Thuê bao register
+VPTD,1,H004,4093,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H004,4094,Thuê bao FTTH
+VPTD,1,H004,4095,Thuê bao di động phát triển thực
+VPTD,1,H004,4096,Thuê bao 4G phát triển thực
+VPTD,1,H004,4097,Tổng doanh thu dịch vụ
+VPTD,1,H004,4098,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,H004,4099,Doanh thu dịch vụ nhóm VTT
+VPTD,2,V211,4211,Doanh thu dịch vụ di động
+VPTD,2,V211,4212,Doanh thu dịch vụ SME
+VPTD,2,V211,4213,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H018,4643,Doanh thu dịch vụ SME
+VPTD,2,H018,4644,Doanh thu dịch vụ di động
+VPTD,2,H018,4645,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H018,4646,Thuê bao FTTH
+VPTD,2,H018,4647,Thuê bao di động phát triển thực
+VPTD,2,H018,4648,Thuê bao 4G phát triển thực
+VPTD,2,H018,4649,Tổng doanh thu dịch vụ
+VPTD,2,H018,4650,Thuê bao register
+VPTD,2,H018,4651,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,H018,4652,Doanh thu dịch vụ nhóm VTT
+VPTD,2,H018,4653,Doanh thu dịch vụ nhóm VDS
+VPTD,1,P210,4610,Doanh thu dịch vụ SME
+VPTD,1,P210,4611,Doanh thu dịch vụ di động
+VPTD,1,P210,4612,Doanh thu dịch vụ nhóm VTS
+VPTD,1,P210,4613,Thuê bao FTTH
+VPTD,1,P210,4614,Thuê bao di động phát triển thực
+VPTD,1,P210,4615,Thuê bao 4G phát triển thực
+VPTD,1,P210,4616,Tổng doanh thu dịch vụ
+VPTD,1,P210,4617,Thuê bao register
+VPTD,1,P210,4618,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,P210,4619,Doanh thu dịch vụ nhóm VTT
+VPTD,1,P210,4620,Doanh thu dịch vụ nhóm VDS
+VPTD,2,P210,4621,Doanh thu dịch vụ SME
+VPTD,2,P210,4622,Doanh thu dịch vụ di động
+VPTD,2,P210,4623,Doanh thu dịch vụ nhóm VTS
+VPTD,2,P210,4624,Thuê bao FTTH
+VPTD,2,P210,4625,Thuê bao di động phát triển thực
+VPTD,2,P210,4626,Thuê bao 4G phát triển thực
+VPTD,2,P210,4627,Tổng doanh thu dịch vụ
+VPTD,2,P210,4628,Thuê bao register
+VPTD,2,P210,4629,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,P210,4630,Doanh thu dịch vụ nhóm VTT
+VPTD,2,P210,4631,Doanh thu dịch vụ nhóm VDS
+VPTD,2,D500,4599,Doanh thu dịch vụ SME
+VPTD,2,D500,4600,Doanh thu dịch vụ di động
+VPTD,2,D500,4601,Doanh thu dịch vụ nhóm VTS
+VPTD,2,D500,4602,Thuê bao FTTH
+VPTD,2,D500,4603,Thuê bao di động phát triển thực
+VPTD,2,D500,4604,Thuê bao 4G phát triển thực
+VPTD,2,D500,4605,Tổng doanh thu dịch vụ
+VPTD,2,D500,4606,Thuê bao register
+VPTD,2,D500,4607,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,D500,4608,Doanh thu dịch vụ nhóm VTT
+VPTD,2,D500,4609,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H018,4632,Doanh thu dịch vụ nhóm VTT
+VPTD,1,H018,4633,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H018,4634,Doanh thu dịch vụ SME
+VPTD,1,H018,4635,Doanh thu dịch vụ di động
+VPTD,1,H018,4636,Thuê bao register
+VPTD,1,H018,4637,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H018,4638,Thuê bao FTTH
+VPTD,1,H018,4639,Thuê bao di động phát triển thực
+VPTD,1,H018,4640,Thuê bao 4G phát triển thực
+VPTD,1,H018,4641,Tổng doanh thu dịch vụ
+VPTD,1,H018,4642,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,G059,4852,Thuê bao 4G phát triển thực
+VPTD,2,VHK,4900,GIÁ TRỊ SẢN LƯỢNG
+VPTD,2,VHK,4902,NĂNG SUẤT LAO ĐỘNG
+VPTD,2,M3,4913,Dòng tiền ròng
+BCL,1,TD,4914,6. Doanh thu dịch vụ và sản xuất
+BCL,1,MYN,4920,6. Doanh thu dịch vụ và sản xuất
+BCL,2,VBD,4924,11. Doanh thu dịch vụ và sản xuất
+BCL,1,VBD,4925,6. Doanh thu dịch vụ và sản xuất
+BCL,2,VTTNEWNEW,4927,8. Doanh thu dịch vụ và sản xuất VTTN (Kinh doanh)
+BCL,2,VTG,4929,Doanh thu dv và sx lũy kế (kinh doanh)
+BCL,1,VDS,4937,3. Doanh thu dịch vụ và sản xuất
+VPTD,2,VTTNEWNEW,4954,Năng suất lao động BQ
+VPTD,2,VTTNEWNEW,4955,Thu nhập BQ
+VPTD,2,BC,4961,NĂNG SUẤT LAO ĐỘNG BQ
+VPTD,2,BC,4962,THU NHẬP BÌNH QUÂN
+VPTD,2,BC,4963,LAO ĐỘNG BQ TRONG DS
+VPTD,2,KGM,4965,Lao động BQ trong DS
+VPTD,2,TVTK,4977,NĂNG SUẤT LAO ĐỘNG
+VPTD,2,TH,4983,NĂNG SUẤT LAO ĐỘNG
+VPTD,2,VDS,4986,NĂNG SUẤT LAO ĐỘNG
+VPTD,2,STL,5596,HOÀN VỐN
+VPTD,2,VTZ,5635,HOÀN VỐN
+VPTD,2,VBD,5636,HOÀN VỐN
+VPTD,2,MYN,5637,HOÀN VỐN
+BCL,1,BC,5758,2.TỶ LỆ KẾT NỐI THÀNH CÔNG ĐẾN TỔNG ĐÀI
+BCL,1,VDS,5757,4. Tỷ lệ kết nối thành công đến tổng đài
+BCL,1,BC,5759,3.Tỷ lệ phản ánh
+CNTT,1,VTN,7035,VTNet
+VPTD,2,SXTB,6993,DT SẢN PHẨM QUÂN SỰ
+BCL,2,VTS,5837,6.Tỷ lệ kết nối thành công đến tổng đài
+BCL,2,VTS,5838,9.Tỷ lệ xử lý phản ánh của KH
+BCL,2,VDS,5859,Tỷ lệ xử lý phản ánh của KH
+VPTD,2,TSS,7335,TIÊU DÙNG THỰC DI ĐỘNG
+CSKH,1,BC,6076,4.Tiến độ xử lý phản ánh của KH
+CSKH,1,BC,6077,2.TỶ LỆ KẾT NỐI THÀNH CÔNG ĐẾN TỔNG ĐÀI
+CSKH,1,BC,6078,3.Tỷ lệ phản ánh
+CSKH,1,BC,6079,5.Mức độ hài lòng của KH
+VPTD,2,VTP,6181,Thuê bao phát sinh lưu lượng Copy
+CSKH,1,BC,6081,BƯU CHÍNH
+VPTD,1,H004,6215,Hà Nội
+VPTD,1,Y029,6216,Yên Bái
+VPTD,1,B240,6167,Bắc Giang
+VPTD,1,T066,6296,Tây Ninh
+VPTD,1,B651,6171,Bình Phước
+VPTD,1,B062,6317,Bình Thuận
+VPTD,1,Q053,6173,Quảng Trị
+VPTD,1,C780,6355,Cà Mau
+VPTD,1,D501,6339,Đắc Nông
+VPTD,1,P210,6341,Phú Thọ
+VPTD,1,D500,6375,Đắc Lắc
+VPTD,2,NAT,6178,Thuê bao phát sinh lưu lượng Copy
+VPTD,2,MOV,6179,Thuê bao phát sinh lưu lượng Copy
+VPTD,2,VTZ,6180,Thuê bao phát sinh lưu lượng Copy
+VPTD,1,D511,6344,Đà Nẵng
+VPTD,1,D061,6376,Đồng Nai
+VPTD,1,L231,6350,Lai Châu
+VPTD,1,L020,6352,Lào Cai
+VPTD,2,SXTB,7235,LỢI NHUẬN TT
+DTTC,2,TD,6397,Doanh thu từ hoạt động Đầu tư Tài chính
+VPTD,2,H004,6475,Hà Nội
+VPTD,2,T008,6476,Hồ Chí Minh
+VPTD,2,T074,6410,Trà Vinh
+VPTD,2,T073,6412,Tiền Giang
+VPTD,2,S079,6414,Sóc Trăng
+VPTD,2,S022,6535,Sơn La
+VPTD,2,Q052,6538,Quảng Bình
+VPTD,2,B062,6540,Bình Thuận
+VPTD,2,P210,6541,Phú Thọ
+VPTD,2,N068,6542,Ninh Thuận
+VPTD,2,C710,6544,Cần Thơ
+VPTD,2,N030,6530,Ninh Bình
+CNTT,1,VTTNEWNEW,6531,TL GIAO DỊCH THÀNH CÔNG_TV360
+CNTT,1,VTTNEWNEW,6545,TL GIAO DỊCH HOÀN THÀNH ĐÚNG HẠN
+VPTD,2,D501,6546,Đắc Nông
+VPTD,2,L025,6547,Lạng Sơn
+VPTD,2,L063,6555,Lâm Đồng
+VPTD,2,L231,6556,Lai Châu
+VPTD,2,L020,6548,Lào Cai
+CNTT,1,VTTNEWNEW,6557,Mặc định_TL GH thành công
+VPTD,2,L072,6558,Long An
+CNTT,1,VTTNEWNEW,6559,TL GIAO DỊCH THÀNH CÔNG_DV 2
+VPTD,2,K060,6560,Kon Tum
+VPTD,2,N351,6549,Hà Nam
+CNTT,1,VTTNEWNEW,6550,MẶC ĐỊNH
+VPTD,2,G059,6553,Gia Lai
+VPTD,2,D061,6615,Đồng Nai
+CNTT,2,TD,6716,TL CUỘC GỌI THOẠI TỒI (VOICE FR)
+CNTT,2,TD,6683,TL KHUNG TG TRUY NHẬP DV TỒI - GAME (INTERNET FR - GAME)
+CNTT,2,TD,6723,TL KHUNG TG TRUY NHẬP DV TỒI - MẠNG XÃ HỘI (INTERNET FR - SOCIAL)
+CNTT,2,TD,6724,TL PHIÊN XEM KÊNH TRUYỀN HÌNH TỒI IPTV (IPTV FR - CHANNEL)
+CNTT,2,TD,6684,TL LƯỢT XEM VOD TỒI TRÊN IPTV (IPTV FR - VOD)
+CNTT,1,TD,6775,TỶ LỆ GIAO DỊCH HOÀN THÀNH ĐÚNG HẠN
+CNTT,1,VTS,7216,VTS
+CNTT,1,TD,6835,VIETTELPAY_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,6955,MOCHA_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VDS,6850,VIETTELPAY_Tỷ lệ giao dịch thành công
+CNTT,1,TH,6904,Tỷ lệ giao dịch thành công
+CNTT,1,TH,6906,MOCHA_TỶ LỆ GIAO DỊCH THÀNH CÔNG
+CNTT,1,VTS,7217,VOFFICE_Tỷ lệ giao dịch thành công
+CNTT,1,VTN,7038,TL CUỘC GỌI THOẠI ĐƯỢC THIẾT LẬP TC (VOICE CSSR)
+CNTT,1,VTN,7039,TL CUỘC GỌI THOẠI BỊ RƠI (VOICE CDR)
+CNTT,1,VTN,7040,TL PHIÊN DV DATA BỊ NGẮT KẾT NỐI (MOBILE DATA DR)
+CNTT,1,VTN,7041,TL PHIÊN DV DATA TỒI - VIDEO (MOBILE DATA FR - VIDEO)
+CNTT,1,VTN,7042,TL KHUNG TG TRUY NHẬP DV TỒI - WEB (INTERNET FR - WEB)
+CNTT,1,VTN,7043,TL KHUNG TG TRUY NHẬP DV TỒI - TẢI DL (INTERNET FR - DL)
+CNTT,1,VTN,7044,TL KHUNG TG TRUY NHẬP DV TỒI - VIDEO STREAMING (INTERNET FR - VS)
+CNTT,1,VTN,7045,TL KHUNG TG TRUY NHẬP DV TỒI - GAME (INTERNET FR - GAME)
+CNTT,1,VTN,7046,TL KHUNG TG TRUY NHẬP DV TỒI - VIDEO CONFERENCE (INTERNET FR - VC)
+CNTT,1,VTN,7047,TL KHUNG TG TRUY NHẬP DV TỒI - MẠNG XÃ HỘI (INTERNET FR - SOCIAL)
+CNTT,1,VTN,7048,TL CUỘC GỌI THOẠI TỒI (VOICE FR)
+CNTT,1,VTN,7049,TL PHIÊN DV DATA THIẾT LẬP THÀNH CÔNG (MOBILE DATA SR)
+CNTT,1,VTN,7050,TL PHIÊN XEM KÊNH TRUYỀN HÌNH TỒI IPTV (IPTV FR - CHANNEL)
+CNTT,1,VTN,7051,TL LƯỢT XEM VOD TỒI TRÊN IPTV (IPTV FR - VOD)
+QTDL,2,VTTNEWNEW,7275,HIỆU QUẢ CÁC DỰ ÁN CV
+QTDL,2,TD,7295,HIỆU QUẢ CÁC Ucs PTDL
+VPTD,1,TSS,7300,Tiêu dùng thực di động
+CNTT,2,VTTNEWNEW,7375,"Sáng kiến, ý tưởng"
+CNTT,1,VTS,7419,DMS MỘC CHÂU_Tỷ lệ giao dịch thành công
+CNTT,1,TD,7486,SALE_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,7584,VIETTEL_MAP_Tỷ lệ giao dịch thành công
+CNTT,1,TD,7615,MBCCS_Tỷ lệ giao dịch thành công
+CNTT,1,TD,7635,MBCCS_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTTNEWNEW,7657,SALE_Tỷ lệ giao dịch thành công
+CNTT,1,VTS,7424,VIETTEL_MAP_Tỷ lệ giao dịch thành công
+CNTT,1,VTTNEWNEW,7426,IM2_TỶ LỆ GIAO DỊCH THÀNH CÔNG
+CNTT,1,VTTNEWNEW,7661,IM2_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TD,7757,K12ONLINE_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTS,7759,K12ONLINE_Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,VTS,7760,K12ONLINE_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+VPTD,2,VDS,7956,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,MYN,7998,DOANH THU DỊCH VỤ & SẢN XUẤT
+CNTT,1,TD,7763,PAYMENT_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,VTTNEWNEW,8002,PAYMENT_TL KHÁCH HÀNG TRẢI NGHIỆM TỒI
+CNTT,1,TD,8001,PAYMENT_Tỷ lệ giao dịch thành công
+VPTD,1,VTP,7766,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,VTL,8007,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,NAT,8016,DOANH THU DỊCH VỤ & SẢN XUẤT
+QTDL,2,VTN,8095,VTN
+QTDL,2,VTN,8096,SỐ LƯỢNG DỰ ÁN BDT
+QTDL,2,VTN,8097,TỔNG DOANH THU HỆ THỐNG BDT
+QTDL,2,CTM,8167,TỔNG DOANH THU CÁC DỰ ÁN/UC
+QTDL,2,CTM,8168,HIỆU QUẢ CÁC Ucs PTDL
+QTDL,2,CTM,8169,HIỆU QUẢ CÁC DỰ ÁN NLP
+VPTD,1,BC,8175,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,BC,8176,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,CT,8177,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,CT,8178,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,M3,8215,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,TH,8235,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,TH,8236,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VHK,8237,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VNC,8238,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,XMCP,8239,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,XMCP,8240,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,XNK,8256,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,TVTK,8275,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,TVTK,8276,DOANH THU DỊCH VỤ & SẢN XUẤT
+CQCT,1,TD,8338,CÁN BỘ
+CQCT,1,TD,8335,TUYÊN HUẤN
+CQCT,1,TD,8336,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,TD,8339,BẢO VỆ AN NINH
+CQCT,1,TD,8340,ĐOÀN THANH NIÊN
+VPTD,1,VTTNEWNEW,8415,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+CQCT,1,TD,8375,CÔNG ĐOÀN
+VPTD,1,KGM,8416,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,ANM,8455,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,TVTK,8456,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,XNK,8457,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+CQCT,1,TD,8306,Tập Đoàn
+VPTD,1,XMCP,8475,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,TH,8476,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,CT,8477,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VDTC,8479,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VTP,8480,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VBD,8481,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VTZ,8482,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,MOV,8483,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,NAT,8484,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,MYN,8485,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VTL,8486,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VTC,8487,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,STL,8488,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VTG,8489,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VDS,8490,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VTS,8491,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,IDC,8495,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+CQCT,1,VTTNEWNEW,8515,CÁN BỘ
+CQCT,1,VTTNEWNEW,8516,TUYÊN HUẤN
+CQCT,1,VTTNEWNEW,8517,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,VTTNEWNEW,8518,BẢO VỆ AN NINH
+CQCT,1,VTTNEWNEW,8519,ĐOÀN THANH NIÊN
+CQCT,1,VTTNEWNEW,8520,CÔNG ĐOÀN
+CQCT,1,VTTNEWNEW,8521,VTT
+CQCT,1,VTTNEWNEW,8522,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,VTTNEWNEW,8523,TỔ CHỨC PHỤ NỮ
+VPTD,2,VDS,5657,THUÊ BAO VIETTEL MONEY
+VPTD,2,TD,5735,Thuê bao VIETTEL MONEY
+BCL,1,VDS,5795,5. Tỷ lệ phản ánh
+BCL,1,BC,5815,5.Mức độ hài lòng của KH
+VPTD,1,B281,6166,Bắc Kạn
+CSKH,2,VTTNEWNEW,6116,VTT
+VPTD,1,B056,6235,Bình Định
+VPTD,1,N038,6346,Nghệ An
+VPTD,1,H320,6415,Hải Dương
+VPTD,1,K058,6455,Khánh Hoà
+VPTD,1,H321,6400,Hưng Yên
+VPTD,2,TD,6408,DỊCH VỤ TV360
+VPTD,2,T027,6497,Tuyên Quang
+VPTD,2,T036,6516,Thái Bình
+VPTD,2,K077,6575,Kiên Giang
+CNTT,1,TD,6855,VIETTELPAY_Tỷ lệ giao dịch thành công
+CNTT,2,TD,6718,TL PHIÊN DV DATA TỒI - VIDEO (MOBILE DATA FR - VIDEO)
+CNTT,2,TD,6719,TL KHUNG TG TRUY NHẬP DV TỒI - WEB (INTERNET FR - WEB)
+CNTT,1,TD,6795,TỶ LỆ KHÁCH HÀNG TRẢI NGHIỆM TỒI
+QTDL,2,VTTNEWNEW,7115,TỔNG DOANH THU DỰ ÁN NGOÀI HỆ THỐNG BDT
+CNTT,1,TH,6905,Tỷ lệ giao dịch hoàn thành đúng hạn
+CNTT,1,TH,6907,MOCHA_Tỷ lệ khách hàng trải nghiệm tồi
+QTDL,2,VTTNEWNEW,7175,HIỆU QUẢ CÁC Ucs PTDL
+QTDL,2,VTTNEWNEW,7255,HIỆU QUẢ CÁC DỰ ÁN NLP
+QTDL,2,VTTNEWNEW,7118,SỐ LƯỢNG DỰ ÁN BDT
+QTDL,2,TD,7297,HIỆU QUẢ CÁC DỰ ÁN CV
+CNTT,1,VTS,7758,K12ONLINE_Tỷ lệ giao dịch thành công
+VPTD,1,VTZ,7997,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,VTC,7957,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VDTC,8055,DOANH THU DỊCH VỤ & SẢN XUẤT
+QTDL,2,CTM,8170,HIỆU QUẢ CÁC DỰ ÁN CV
+VPTD,2,M1,8195,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,1,XNK,8255,DOANH THU DỊCH VỤ & SẢN XUẤT
+CQCT,1,TD,8337,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,TD,8341,TỔ CHỨC PHỤ NỮ
+BAN_DO,1,TD,8955,Tiêu dùng thực di động
+VPTD,1,BC,8478,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+CQCT,1,VTS,8535,CÁN BỘ
+CQCT,1,VTS,8536,TUYÊN HUẤN
+CQCT,1,VTS,8537,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,VTS,8538,BẢO VỆ AN NINH
+CQCT,1,VTS,8539,ĐOÀN THANH NIÊN
+CQCT,1,VTS,8540,CÔNG ĐOÀN
+CQCT,1,VTS,8541,VTS
+CQCT,1,VTS,8542,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,VTS,8543,TỔ CHỨC PHỤ NỮ
+CQCT,1,VDS,8555,CÁN BỘ
+CQCT,1,VDS,8556,TUYÊN HUẤN
+CQCT,1,VDS,8557,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,VDS,8558,BẢO VỆ AN NINH
+CQCT,1,VDS,8559,ĐOÀN THANH NIÊN
+CQCT,1,VDS,8560,CÔNG ĐOÀN
+CQCT,1,VDS,8561,VDS
+CQCT,1,VDS,8562,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,VDS,8563,TỔ CHỨC PHỤ NỮ
+CQCT,1,VTG,8575,CÁN BỘ
+CQCT,1,VTG,8576,TUYÊN HUẤN
+CQCT,1,VTG,8577,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,VTG,8578,BẢO VỆ AN NINH
+CQCT,1,VTG,8579,ĐOÀN THANH NIÊN
+CQCT,1,VTG,8580,CÔNG ĐOÀN
+CQCT,1,VTG,8581,VTG
+CQCT,1,VTG,8582,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,VTG,8583,TỔ CHỨC PHỤ NỮ
+CQCT,1,BC,8595,CÁN BỘ
+CQCT,1,BC,8596,TUYÊN HUẤN
+CQCT,1,BC,8597,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,BC,8598,BẢO VỆ AN NINH
+CQCT,1,BC,8599,ĐOÀN THANH NIÊN
+CQCT,1,BC,8600,CÔNG ĐOÀN
+CQCT,1,BC,8601,VTPost
+CQCT,1,BC,8602,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,BC,8603,TỔ CHỨC PHỤ NỮ
+CQCT,1,VDTC,8584,CÁN BỘ
+CQCT,1,VDTC,8585,TUYÊN HUẤN
+CQCT,1,VDTC,8586,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,VDTC,8587,BẢO VỆ AN NINH
+CQCT,1,VDTC,8588,ĐOÀN THANH NIÊN
+CQCT,1,VDTC,8589,CÔNG ĐOÀN
+CQCT,1,VDTC,8590,VDTC
+CQCT,1,VDTC,8591,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,VDTC,8592,TỔ CHỨC PHỤ NỮ
+CQCT,1,KGM,8593,CÁN BỘ
+CQCT,1,KGM,8594,TUYÊN HUẤN
+CQCT,1,KGM,8615,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,KGM,8616,BẢO VỆ AN NINH
+CQCT,1,KGM,8617,ĐOÀN THANH NIÊN
+CQCT,1,KGM,8618,CÔNG ĐOÀN
+CQCT,1,KGM,8619,VTCC
+CQCT,1,KGM,8620,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,KGM,8621,TỔ CHỨC PHỤ NỮ
+CQCT,1,IDC,8622,CÁN BỘ
+CQCT,1,IDC,8623,TUYÊN HUẤN
+CQCT,1,IDC,8624,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,IDC,8625,BẢO VỆ AN NINH
+CQCT,1,IDC,8626,ĐOÀN THANH NIÊN
+CQCT,1,IDC,8627,CÔNG ĐOÀN
+CQCT,1,IDC,8628,IDC
+CQCT,1,IDC,8629,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,IDC,8630,TỔ CHỨC PHỤ NỮ
+CQCT,1,ANM,8635,CÁN BỘ
+CQCT,1,ANM,8636,TUYÊN HUẤN
+CQCT,1,ANM,8637,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,ANM,8638,BẢO VỆ AN NINH
+CQCT,1,ANM,8639,ĐOÀN THANH NIÊN
+CQCT,1,ANM,8640,CÔNG ĐOÀN
+CQCT,1,ANM,8641,VCS
+CQCT,1,ANM,8642,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,ANM,8643,TỔ CHỨC PHỤ NỮ
+CQCT,1,CT,8644,CÁN BỘ
+CQCT,1,CT,8645,TUYÊN HUẤN
+CQCT,1,CT,8646,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,CT,8647,BẢO VỆ AN NINH
+CQCT,1,CT,8648,ĐOÀN THANH NIÊN
+CQCT,1,CT,8649,CÔNG ĐOÀN
+CQCT,1,CT,8650,VCC
+CQCT,1,CT,8651,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,CT,8652,TỔ CHỨC PHỤ NỮ
+CQCT,1,TVTK,8653,CÁN BỘ
+CQCT,1,TVTK,8654,TUYÊN HUẤN
+CQCT,1,TVTK,8655,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,TVTK,8656,BẢO VỆ AN NINH
+CQCT,1,TVTK,8657,ĐOÀN THANH NIÊN
+CQCT,1,TVTK,8658,CÔNG ĐOÀN
+CQCT,1,TVTK,8659,VTK
+CQCT,1,TVTK,8660,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,TVTK,8661,TỔ CHỨC PHỤ NỮ
+CQCT,1,XNK,8662,CÁN BỘ
+CQCT,1,XNK,8663,TUYÊN HUẤN
+CQCT,1,XNK,8664,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,XNK,8665,BẢO VỆ AN NINH
+CQCT,1,XNK,8666,ĐOÀN THANH NIÊN
+CQCT,1,XNK,8667,CÔNG ĐOÀN
+CQCT,1,XNK,8668,XNK
+CQCT,1,XNK,8669,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,XNK,8670,TỔ CHỨC PHỤ NỮ
+CQCT,1,TH,8671,CÁN BỘ
+CQCT,1,TH,8672,TUYÊN HUẤN
+CQCT,1,TH,8673,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,TH,8674,BẢO VỆ AN NINH
+CQCT,1,TH,8675,ĐOÀN THANH NIÊN
+CQCT,1,TH,8676,CÔNG ĐOÀN
+CQCT,1,TH,8677,VTM
+CQCT,1,TH,8678,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,TH,8679,TỔ CHỨC PHỤ NỮ
+BAN_DO,1,TD,8956,Thuê bao register
+BAN_DO,1,TD,8957,Thuê bao di động phát triển thực
+BAN_DO,1,TD,8958,Thuê bao 4G phát triển thực
+BAN_DO,1,TD,8607,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+BAN_DO,1,TD,8959,Thuê bao FTTH
+BAN_DO,1,TD,8960,Dán thẻ epass
+BAN_DO,1,TD,8961,Thuê bao VIETTEL MONEY
+BAN_DO,2,TD,9028,Thuê bao VIETTEL MONEY
+BAN_DO,2,TD,9021,Tiêu dùng thực di động
+CQCT,1,XMCP,8689,CÁN BỘ
+CQCT,1,XMCP,8690,TUYÊN HUẤN
+CQCT,1,XMCP,8691,TỔ CHỨC XÂY DỰNG ĐẢNG
+CQCT,1,XMCP,8692,BẢO VỆ AN NINH
+CQCT,1,XMCP,8693,ĐOÀN THANH NIÊN
+CQCT,1,XMCP,8694,CÔNG ĐOÀN
+CQCT,1,XMCP,8695,XMCP
+CQCT,1,XMCP,8696,"KIỂM TRA, GIÁM SÁT"
+CQCT,1,XMCP,8697,TỔ CHỨC PHỤ NỮ
+BAN_DO,2,TD,9030,Tổng doanh thu
+BAN_DO,1,TD,8716,Tập Đoàn
+BAN_DO,2,TD,9031,Doanh thu dịch vụ (trừ hubbing)
+VPTD,2,VTTNEWNEW,8815,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,VMC,8736,Chi Phí
+VPTD,2,VMC,8737,DÒNG TIỀN RÒNG
+VPTD,2,VMC,8738,DOANH THU DỊCH VỤ & SẢN XUẤT
+VPTD,2,VMC,8750,TỔNG DOANH THU (KD)
+BAN_DO,1,TD,8755,Tổng doanh thu
+VPTD,2,VMC,8741,Thu nhập BQ
+VPTD,2,VMC,8742,Lợi nhuận
+BAN_DO,1,TD,8796,Doanh thu dịch vụ (trừ hubbing)
+VPTD,2,VMC,8744,VMC
+VPTD,2,VMC,8745,Năng suất lao động BQ
+VPTD,2,VTS,8816,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,VMC,8747,Tổng doanh thu tài chính
+VPTD,2,VDS,8817,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,VTG,8818,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,VDTC,8819,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,IDC,8820,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,BC,8821,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,CT,8822,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,TH,8823,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,XMCP,8824,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,XNK,8825,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,TVTK,8826,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,ANM,8827,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,KGM,8828,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VTG,8835,THUÊ BAO VÍ PSGD
+VPTD,1,VTC,8855,THUÊ BAO VÍ PSGD
+VPTD,1,STL,8856,THUÊ BAO VÍ PSGD
+VPTD,1,VTL,8857,THUÊ BAO VÍ PSGD
+VPTD,1,MYN,8858,THUÊ BAO VÍ PSGD
+VPTD,1,NAT,8859,THUÊ BAO VÍ PSGD
+VPTD,1,MOV,8860,THUÊ BAO VÍ PSGD
+VPTD,1,VTZ,8861,THUÊ BAO VÍ PSGD
+VPTD,1,VBD,8862,THUÊ BAO VÍ PSGD
+VPTD,1,VTP,8863,THUÊ BAO VÍ PSGD
+VPTD,2,VTC,8875,THUÊ BAO VÍ PSGD
+VPTD,2,STL,8876,THUÊ BAO VÍ PSGD
+VPTD,2,VTL,8877,THUÊ BAO VÍ PSGD
+VPTD,2,MYN,8878,THUÊ BAO VÍ PSGD
+VPTD,2,NAT,8879,THUÊ BAO VÍ PSGD
+VPTD,2,MOV,8880,THUÊ BAO VÍ PSGD
+VPTD,2,VTZ,8881,THUÊ BAO VÍ PSGD
+VPTD,2,VTP,8884,THUÊ BAO VÍ PSGD
+VPTD,2,VBD,8883,THUÊ BAO VÍ PSGD
+VPTD,2,VTG,8895,THUÊ BAO VÍ PSGD
+BAN_DO,2,TD,9032,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,TD,9022,Thuê bao register
+BAN_DO,2,TD,9023,Thuê bao di động phát triển thực
+BAN_DO,2,TD,9024,Thuê bao 4G phát triển thực
+BAN_DO,2,TD,9026,Thuê bao FTTH
+BAN_DO,2,TD,9027,Dán thẻ epass
+VPTD,1,B281,3645,Thuê bao register
+VPTD,1,B281,3646,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B281,3647,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B281,3648,Doanh thu dịch vụ nhóm VDS
+VPTD,1,K060,3683,Doanh thu dịch vụ SME
+VPTD,1,K060,3684,Doanh thu dịch vụ di động
+VPTD,1,K060,3685,Doanh thu dịch vụ nhóm VTS
+VPTD,1,K060,3686,Thuê bao FTTH
+VPTD,1,K060,3687,Thuê bao di động phát triển thực
+VPTD,1,K060,3688,Thuê bao 4G phát triển thực
+VPTD,1,K060,3689,Tổng doanh thu dịch vụ
+VPTD,1,K060,3690,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,K060,3691,Doanh thu dịch vụ nhóm VTT
+VPTD,1,K060,3692,Thuê bao register
+VPTD,1,K060,3693,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H039,3814,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T280,3825,Doanh thu dịch vụ nhóm VDS
+VPTD,2,T280,3826,Doanh thu dịch vụ di động
+VPTD,2,T280,3827,Doanh thu dịch vụ SME
+VPTD,2,T280,3828,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T280,3829,Thuê bao FTTH
+VPTD,2,T280,3830,Thuê bao di động phát triển thực
+VPTD,2,T280,3831,Thuê bao 4G phát triển thực
+VPTD,2,T280,3832,Tổng doanh thu dịch vụ
+VPTD,2,T280,3833,Thuê bao register
+VPTD,2,T280,3834,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T280,3835,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T280,3836,Doanh thu dịch vụ nhóm VDS
+VPTD,1,S022,3838,Doanh thu dịch vụ di động
+VPTD,1,STL,2820,Doanh thu dịch vụ
+VPTD,2,CT,3034,Lợi nhuận
+VPTD,1,STL,2821,Thuê bao di động phát triển thực
+VPTD,1,STL,2822,Thuê bao 4G phát triển thực
+VPTD,1,STL,2823,Tổng doanh thu
+VPTD,1,STL,2824,Tiêu dùng thực di động
+VPTD,1,STL,2825,Thuê bao register
+VPTD,1,STL,2826,Thuê bao FTTH
+VPTD,1,STL,2827,STL
+VPTD,2,CT,3035,Doanh thu cộng ngang (KD)
+VPTD,1,VDS,3056,Tổng doanh thu KD
+VPTD,2,CT,3037,Doanh thu hợp nhất (TC)
+VPTD,2,CT,3039,Doanh thu xây lắp
+VPTD,2,CT,3040,Doanh thu vận hành khai thác
+VPTD,2,CT,3041,Dòng tiền ròng
+VPTD,2,CT,3042,VCC
+VPTD,1,XMCP,3133,SẢN LƯỢNG TIÊU THỤ XI MĂNG
+VPTD,1,VDS,3059,VDS
+VPTD,1,VDTC,3079,Tổng doanh thu
+VPTD,1,VDTC,3080,Doanh thu dịch vụ
+VPTD,2,VDTC,3088,Tổng doanh thu
+VPTD,1,KGM,3216,VTCC
+VPTD,1,KGM,3217,TỔNG DOANH THU (KD)
+VPTD,2,VTS,3258,Doanh thu bán hàng giáo dục
+VPTD,2,VTS,3255,Doanh thu bán hàng viễn thông
+VPTD,2,A076,3385,Doanh thu dịch vụ SME
+VPTD,1,D067,3353,Doanh thu dịch vụ nhóm VTS
+VPTD,2,A076,3386,Doanh thu dịch vụ di động
+VPTD,2,A076,3387,Doanh thu dịch vụ nhóm VTS
+VPTD,2,A076,3388,Thuê bao FTTH
+VPTD,2,A076,3389,Thuê bao di động phát triển thực
+VPTD,2,A076,3390,Thuê bao 4G phát triển thực
+VPTD,2,A076,3391,Tổng doanh thu dịch vụ
+VPTD,2,A076,3392,Thuê bao register
+VPTD,2,A076,3393,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,A076,3394,Doanh thu dịch vụ nhóm VTT
+VPTD,2,A076,3395,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T054,3418,Doanh thu dịch vụ SME
+VPTD,1,T054,3419,Doanh thu dịch vụ di động
+VPTD,1,T054,3420,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T054,3421,Thuê bao FTTH
+VPTD,1,T054,3422,Thuê bao di động phát triển thực
+VPTD,1,T054,3423,Thuê bao 4G phát triển thực
+VPTD,1,T054,3424,Tổng doanh thu dịch vụ
+VPTD,1,T054,3425,Thuê bao register
+VPTD,1,T054,3426,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T054,3427,Doanh thu dịch vụ nhóm VTT
+VPTD,1,T054,3428,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H321,3506,Doanh thu dịch vụ SME
+VPTD,1,H321,3507,Doanh thu dịch vụ di động
+VPTD,1,H321,3508,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H321,3509,Thuê bao FTTH
+VPTD,1,H321,3510,Thuê bao di động phát triển thực
+VPTD,1,H321,3511,Thuê bao 4G phát triển thực
+VPTD,1,H321,3512,Tổng doanh thu dịch vụ
+VPTD,1,H321,3513,Thuê bao register
+VPTD,1,H321,3514,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,H321,3515,Doanh thu dịch vụ nhóm VTT
+VPTD,1,H321,3516,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B281,3649,Doanh thu dịch vụ SME
+VPTD,2,B281,3650,Doanh thu dịch vụ di động
+VPTD,2,B281,3651,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B281,3652,Thuê bao FTTH
+VPTD,2,B281,3653,Thuê bao di động phát triển thực
+VPTD,2,B281,3654,Thuê bao 4G phát triển thực
+VPTD,2,B281,3655,Tổng doanh thu dịch vụ
+VPTD,2,B281,3656,Thuê bao register
+VPTD,2,B281,3657,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B281,3658,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B281,3659,Doanh thu dịch vụ nhóm VDS
+VPTD,2,K058,3672,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,K058,3673,Doanh thu dịch vụ nhóm VTT
+VPTD,2,K058,3674,Doanh thu dịch vụ nhóm VDS
+VPTD,2,K058,3675,Doanh thu dịch vụ SME
+VPTD,2,K058,3676,Doanh thu dịch vụ di động
+VPTD,2,K058,3677,Doanh thu dịch vụ nhóm VTS
+VPTD,2,K058,3678,Thuê bao FTTH
+VPTD,2,K058,3679,Thuê bao di động phát triển thực
+VPTD,2,K058,3680,Thuê bao 4G phát triển thực
+VPTD,2,K058,3681,Tổng doanh thu dịch vụ
+VPTD,2,K058,3682,Thuê bao register
+VPTD,1,B241,3727,Doanh thu dịch vụ SME
+VPTD,1,B241,3728,Doanh thu dịch vụ di động
+VPTD,1,B241,3729,Doanh thu dịch vụ nhóm VTS
+VPTD,1,B241,3730,Thuê bao FTTH
+VPTD,1,B241,3731,Thuê bao di động phát triển thực
+VPTD,1,B241,3732,Thuê bao 4G phát triển thực
+VPTD,1,B241,3733,Tổng doanh thu dịch vụ
+VPTD,1,B241,3734,Thuê bao register
+VPTD,1,B241,3735,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B241,3736,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B241,3737,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B241,3738,Doanh thu dịch vụ SME
+VPTD,2,B241,3739,Doanh thu dịch vụ di động
+VPTD,2,B241,3740,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B241,3741,Thuê bao FTTH
+VPTD,2,B241,3742,Thuê bao di động phát triển thực
+VPTD,2,B241,3743,Thuê bao 4G phát triển thực
+VPTD,2,B241,3744,Tổng doanh thu dịch vụ
+VPTD,2,B241,3745,Thuê bao register
+VPTD,2,B241,3746,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B241,3747,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B241,3748,Doanh thu dịch vụ nhóm VDS
+VPTD,2,L072,3760,Doanh thu dịch vụ SME
+VPTD,1,VTC,2683,Doanh thu dịch vụ
+VPTD,1,VTC,2684,Thuê bao di động phát triển thực
+VPTD,1,VTC,2685,Thuê bao 4G phát triển thực
+VPTD,1,VTC,2686,Tổng doanh thu
+VPTD,1,VTC,2687,Tiêu dùng thực di động
+VPTD,1,VTC,2688,Thuê bao register
+VPTD,1,VTC,2689,Thuê bao FTTH
+VPTD,1,VTC,2690,VTC
+VPTD,2,MOV,2762,Lợi nhuận
+VPTD,2,MOV,2763,Doanh thu dịch vụ
+VPTD,2,MOV,2764,Thuê bao di động phát triển thực
+VPTD,2,MOV,2765,Thuê bao 4G phát triển thực
+VPTD,2,MOV,2766,Thuê bao FTTH
+VPTD,2,MOV,2767,Tổng doanh thu tài chính
+VPTD,2,MOV,2768,Tổng doanh thu
+VPTD,2,MOV,2769,Tiêu dùng thực di động
+VPTD,2,MOV,2770,Thuê bao register
+VPTD,2,MOV,2771,Dòng tiền ròng
+VPTD,2,MOV,2772,MOV
+VPTD,2,MOV,2773,Dòng tiền về VN
+VPTD,2,STL,2794,Lợi nhuận
+VPTD,2,STL,2795,Doanh thu dịch vụ
+VPTD,2,STL,2796,Thuê bao di động phát triển thực
+VPTD,2,STL,2797,Thuê bao 4G phát triển thực
+VPTD,2,STL,2798,Thuê bao FTTH
+VPTD,2,STL,2799,Tổng doanh thu tài chính
+VPTD,2,STL,2800,Tổng doanh thu
+VPTD,2,STL,2801,Tiêu dùng thực di động
+VPTD,2,STL,2802,Thuê bao register
+VPTD,2,STL,2803,Dòng tiền ròng
+VPTD,2,STL,2804,STL
+VPTD,2,STL,2805,Dòng tiền về VN
+VPTD,2,MYN,2828,Lợi nhuận
+VPTD,2,MYN,2829,Doanh thu dịch vụ
+VPTD,2,MYN,2830,Thuê bao di động phát triển thực
+VPTD,2,MYN,2831,Thuê bao 4G phát triển thực
+VPTD,2,MYN,2832,Thuê bao FTTH
+VPTD,2,MYN,2833,Tổng doanh thu tài chính
+VPTD,2,MYN,2834,Tổng doanh thu
+VPTD,2,MYN,2835,Tiêu dùng thực di động
+VPTD,2,MYN,2836,Thuê bao register
+VPTD,2,MYN,2837,Dòng tiền ròng
+VPTD,2,MYN,2839,Dòng tiền về VN
+VPTD,1,NAT,2912,Doanh thu dịch vụ
+VPTD,1,NAT,2913,Thuê bao di động phát triển thực
+VPTD,1,NAT,2914,Thuê bao 4G phát triển thực
+VPTD,1,NAT,2915,Tổng doanh thu
+VPTD,1,NAT,2916,Tiêu dùng thực di động
+VPTD,1,NAT,2917,Thuê bao register
+VPTD,1,NAT,2918,Thuê bao FTTH
+VPTD,1,NAT,2919,NAT
+VPTD,2,VTG,2934,Lợi nhuận
+VPTD,2,VTG,2935,Doanh thu dịch vụ
+VPTD,2,VTG,2936,Thuê bao di động phát triển thực
+VPTD,2,VTG,2937,Thuê bao 4G phát triển thực
+VPTD,2,VTG,2938,Thuê bao FTTH
+VPTD,2,VTG,2939,Doanh thu tài chính
+BCL,2,MOV,1694,Thuê bao thực tăng giảm
+BCL,2,MOV,1695,Thuê bao thực 4G tăng giảm
+BCL,2,TD,1012,3. Lợi nhuận trước thuế tập đoàn
+BCL,1,TD,1475,TẬP ĐOÀN
+BCL,2,VTS,1487,2. Lợi nhuận
+BCL,2,MOV,1696,4. Doanh thu dịch vụ
+BCL,2,MOV,1697,5. Tiêu dùng
+BCL,2,VTTNEWNEW,1518,2. Lợi nhuận_VTT
+BCL,2,MOV,1698,3. Doanh thu kinh doanh
+BCL,2,VTS,1489,3. Chi tiết Tổng doanh thu Kinh doanh
+BCL,2,MOV,1699,2. Lợi nhuận trước thuế
+BCL,2,MOV,1700,1. Tổng doanh thu Tài chính
+BCL,2,MOV,1701,MOV
+BCL,2,TVTK,2116,Doanh thu Tư vấn thiết kế (Kinh doanh trừ hubbing)_Tháng
+BCL,1,CTM,1804,CÔNG TY MẸ
+BCL,2,TVTK,2117,TƯ VẤN THIẾT KẾ
+BCL,2,TVTK,2118,Doanh thu Tư vấn thiết kế (Tài chính)_Tháng
+BCL,2,TVTK,2119,Lợi nhuận trước thuế Tư vấn thiết kế (Tài chính)
+BCL,2,XNK,2074,Doanh thu M1 (Kinh doanh trừ hubbing)_Tháng
+BCL,2,XNK,2075,XNK
+BCL,1,VHK,2036,Doanh thu VTX (Kinh doanh trừ hubbing)
+BCL,1,VHK,2037,VTX
+BCL,2,XNK,2076,Doanh thu XNK (Tài chính)_Tháng
+BCL,2,XNK,2077,Lợi nhuận trước thuế XNK (Tài chính)
+,,,2267,Chi tiết tổng doanh thu_2267
+BCL,1,M1,1991,Doanh thu M1 (Kinh doanh trừ hubbing)
+BCL,1,M1,1992,M1
+BCL,1,CT,2085,Doanh thu công trình (Kinh doanh trừ hubbing)
+BCL,1,CT,2086,CÔNG TRÌNH
+BCL,2,CT,2087,Doanh thu IDC (Kinh doanh trừ hubbing)_Tháng
+,,,1412,Chi tiết Lợi nhuận
+BCL,2,CT,2088,CÔNG TRÌNH
+BCL,2,CTM,1566,8. Thuê bao thực tăng giảm
+BCL,2,CTM,1567,9. Thuê bao thực 4G tăng giảm
+BCL,2,CT,2089,Doanh thu công trình (Tài chính)_Tháng
+BCL,2,CT,2090,Lợi nhuận trước thuế công trình (Tài chính)
+BCL,2,VTS,1493,1. Tổng doanh thu Tài chính
+BCL,1,TH,2132,Doanh thu Media (Kinh doanh trừ hubbing)
+BCL,2,VTC,1580,3. Doanh thu VTC (Kinh doanh trừ hubbing)_Tháng
+,,,1370,Dashoard Văn phòng tập đoàn
+,,,1414,Chi tiết Doanh thu dịch vụ
+,,,1415,Chi tiết Tiêu dùng di động
+,,,1417,Chi tiết Thuê bao 4g (LK toàn mạng)
+,,,1418,Chi tiết Thuê bao di động
+,,,1420,Chi tiết Thuê bao Thực tăng giảm
+BCL,1,TH,2133,MEDIA
+BCL,2,TD,1472,8. Thuê bao thực tăng giảm
+,,,2268,Chi tiết Thuê bao 4g (tăng giảm trong tháng)_2226_2268
+BCL,1,TD,1651,5. TB 4G tăng giảm
+,,,2269,Chi tiết Thuê bao FTTH_2227_2269
+,,,1390,Chi tiết tổng doanh thu
+BCL,2,VTS,1496,VTS
+,,,2270,Thuê bao ViettelPay_2228_2270
+BCL,2,VTC,1535,VTC
+BCL,2,VTL,1631,Thuê bao thực tăng giảm
+BCL,2,VTL,1632,Thuê bao thực 4G tăng giảm
+BCL,2,VTL,1633,Doanh thu dịch vụ
+BCL,1,SXTB,2144,Doanh thu Khối NC và SX thiết bị CN CNC (Kinh doanh)
+BCL,1,SXTB,2145,KHỐI NC VÀ SX THIẾT BỊ CNC
+,,,1371,Dashoard Văn phòng tập đoàn
+BCL,2,SXTB,2146,Doanh thu Khối NC và SX thiết bị CN CNC (Kinh doanh trừ hubbing)_Tháng
+BCL,2,SXTB,2147,KHỐI NC VÀ SX THIẾT BỊ CNC
+BCL,2,CNTT,2150,Doanh thu Khối CNTT (Kinh doanh trừ hubbing)
+BCL,2,CNTT,2151,KHỐI CNTT
+BCL,2,KTM,2159,KHỐI THƯƠNG MẠI VÀ LOGISTICS
+BCL,2,VTL,1634,Tiêu dùng
+BCL,2,VTL,1635,Doanh thu kinh doanh
+BCL,2,VTL,1636,Lợi nhuận trước thuế
+BCL,2,VTL,1637,Tổng doanh thu Tài chính
+BCL,2,TD,732,5. Doanh Thu cộng ngang Tập đoàn (Kinh doanh)
+BCL,2,VTL,1638,VTL
+BCL,1,KTM,2156,Doanh thu Khối Khối Thương mại và Logistics (Kinh doanh trừ hubbing)
+BCL,1,TD,1648,2. Doanh thu dịch vụ
+BCL,1,KTM,2157,KHỐI THƯƠNG MẠI VÀ LOGISTICS
+BCL,2,KTM,2158,Doanh thu Khối Thương mại và Logistics (Kinh doanh trừ hubbing)_Tháng
+BCL,2,DVK,2164,Doanh thu Các đơn vị khác (Kinh doanh)_Tháng
+BCL,2,DVK,2165,ĐƠN VỊ KHÁC
+BCL,1,VTL,1658,Doanh thu dich vụ VTL (kinh doanh trừ hubbing)
+BCL,1,VTL,1659,Doanh thu VTL (Kinh doanh trừ hubbing)
+BCL,1,DVK,2166,Doanh thu Các dơn vị khác (Kinh doanh trừ hubbing)
+BCL,1,VTL,1660,VTL
+BCL,1,DVK,2167,ĐƠN VỊ KHÁC
+BCL,1,VTL,1661,Tiêu dùng VTL
+BCL,2,TD,1471,4. Dòng tiền ròng
+BCL,2,TD,1011,Doanh thu dịch vụ
+,,,2261,Kết quả sản xuất kinh doanh_2261
+,,,2262,Chi tiết Doanh thu dịch vụ_2262
+,,,2263,Chi tiết Tiêu dùng di động_2219_2263
+,,,2264,Chi tiết Thuê bao 4g (LK toàn mạng)_2220_2264
+,,,2265,Chi tiết Thuê bao di động_2265
+,,,2266,Chi tiết Thuê bao Thực tăng giảm_2222_2266
+BCL,2,VNC,2046,Doanh thu VHT (Kinh doanh trừ hubbing)_Tháng
+BCL,2,VTTNEWNEW,1503,VTT
+BCL,1,M3,2038,Doanh thu M3 (Kinh doanh trừ hubbing)
+BCL,1,VTS,1505,1. Chi tiết Tổng doanh thu Kinh doanh
+BCL,1,M3,2039,M3
+BCL,2,VNC,2047,VHT
+BCL,1,VTS,1508,VTS
+BCL,1,VTS,1509,2. Doanh thu dịch vụ
+BCL,2,VTTNEWNEW,1517,1. Tổng doanh thu cộng ngang
+BCL,2,VTTNEWNEW,1519,4. Doanh thu dịch vụ
+BCL,2,VTTNEWNEW,1520,5. Tiêu dùng_ VTT
+BCL,2,VTTNEWNEW,1522,7. TB thực 4G tăng giảm VTT
+,,,1674,Doanh thu kinh doanh
+,,,1675,Tiêu dùng di động
+,,,1676,Doanh thu dịch vụ
+BCL,2,VNC,2048,Doanh thu VHT (Tài chính)_Tháng
+BCL,2,VNC,2049,Lợi nhuận trước thuế VHT (Tài chính)
+,,,2168,TẬP ĐOÀN
+BCL,1,VDS,1545,1. Doanh thu Kinh doanh
+BCL,1,VDS,1547,VDS
+BCL,1,VDS,1548,2. Doanh thu dịch vụ
+BCL,2,TN,1549,2. Lợi nhuận trước thuế VTTN (Tài chính)
+BCL,2,TN,1550,4. Doanh thu dich vụ VTTN (kinh doanh)
+BCL,2,TN,1551,3. Doanh thu cộng ngang VTTN (Kinh doanh)
+BCL,2,TN,1552,1. Doanh thu  cộng ngang VTTN (Tài chính)
+BCL,2,TN,1553,KHỐI VTTN
+BCL,2,TN,1554,5. Tiêu dùng VTTN (kinh doanh)
+BCL,2,TN,1560,6. Thuê bao thực tăng giảm VTTN (Kinh doanh)
+BCL,2,TN,1562,Doanh thu dịch vụ và sản xuất VTTN (Kinh doanh)
+BCL,2,CTM,1563,5. Doanh thu cộng ngang CTM (Kinh doanh)
+BCL,2,CTM,1565,7. Tiêu dùng
+BCL,2,VTC,1582,4. Doanh thu dịch vụ VTC (Kinh doanh trừ hubbing)_Tháng
+VPTD,1,TD,2374,Doanh thu dịch vụ
+BCL,2,VTC,1606,7. Thuê bao thực 4G tăng giảm VTC (Kinh doanh)_Tháng
+,,,2217,Kết quả sản xuất kinh doanh
+,,,2218,Chi tiết Doanh thu dịch vụ
+,,,2219,Chi tiết Tiêu dùng di động_2219
+,,,2220,Chi tiết Thuê bao 4g (LK toàn mạng)_2220
+,,,2221,Chi tiết Thuê bao di động
+,,,2222,Chi tiết Thuê bao Thực tăng giảm_2222
+,,,2223,Chi tiết tổng doanh thu
+BCL,1,NAT,1623,Thuê bao thực tăng giảm
+BCL,1,NAT,1624,Thuê bao thực 4G tăng giảm
+BCL,1,NAT,1625,Doanh thu dịch vụ
+BCL,1,NAT,1626,Tiêu dùng
+BCL,1,NAT,1627,Doanh thu kinh doanh
+VPTD,1,TD,2376,Thuê bao di động phát triển thực
+VPTD,1,TD,2378,Thuê bao 4G phát triển thực
+BCL,1,NAT,1630,NCM
+BCL,1,TD,1649,3. Tiêu dùng di động
+BCL,1,TN,1640,Doanh thu dich vụ VTTN (kinh doanh)
+BCL,1,TN,1641,Doanh thu cộng ngang VTTN (Kinh doanh)
+BCL,1,TD,1650,4. Thuê bao thực tăng giảm
+BCL,1,TN,1643,KHỐI VTTN
+BCL,1,TN,1644,Tiêu dùng
+BCL,1,TN,1645,Thuê bao thực tăng giảm VTTN (Kinh doanh)
+BCL,1,VTL,1662,Thuê bao thực tăng giảm VTL (Kinh doanh)
+BCL,1,TN,1647,Thuê bao thực 4G tăng giảm VTTN (Kinh doanh)
+,,,2226,Chi tiết Thuê bao 4g (tăng giảm trong tháng)_2226
+,,,2227,Chi tiết Thuê bao FTTH_2227
+,,,2228,Thuê bao ViettelPay_2228
+BCL,2,TD,2395,12. MOU
+VPTD,2,TD,2414,Lợi nhuận
+VPTD,2,TD,2415,Doanh thu dịch vụ
+VPTD,2,TD,2416,Thuê bao di động phát triển thực
+VPTD,2,TD,2417,Thuê bao 4G phát triển thực
+VPTD,2,TD,2418,Thuê bao FTTH
+VPTD,2,TD,2419,Doanh thu tài chính
+VPTD,2,TD,2420,Tổng doanh thu
+VPTD,2,TD,2421,Tiêu dùng thực di động
+VPTD,2,TD,2422,Thuê bao register
+VPTD,2,TD,2423,Dòng tiền ròng
+VPTD,2,TD,2425,Tập Đoàn
+BCL,2,VTTNEWNEW,2439,9. RPD data
+VPTD,2,TD,2524,Dán thẻ epass
+VPTD,2,TD,2525,Dòng tiền về VN
+BCL,2,MYN,2447,RPM THOẠI
+BCL,2,MYN,2457,RPD data
+BCL,2,VTC,2459,8. RPD data
+BCL,2,VTC,2462,Apru
+BCL,2,STL,2464,RPD data
+BCL,2,TD,1473,9. TB 4G tăng giảm
+BCL,2,STL,2465,MOU
+BCL,2,NAT,2468,RPM thoại
+BCL,2,MOV,2474,RPD data
+BCL,2,MOV,2477,Apru
+BCL,2,VTL,2478,RPM thoại
+BCL,2,VTL,2479,RPD data
+,,,2480,Tổng doanh thu
+BCL,2,MYN,2487,Apru
+VPTD,1,TD,2507,Dán thẻ epass
+BCL,2,VTZ,2508,DOU
+BCL,2,VBD,2498,RPD data
+BCL,2,VBD,2499,MOU
+BCL,2,VTZ,2509,Apru
+BCL,2,VTG,2514,RPM Thoại
+BCL,2,VTTNEWNEW,1510,3. Doanh thu VTT chi tiết
+BCL,2,VDS,1511,2. Lợi nhuận
+BCL,2,VDS,1512,3. Chi tiết Tổng doanh thu Kinh doanh
+BCL,2,VTC,1586,6. Thuê bao thực tăng giảm VTC (Kinh doanh)_Tháng
+BCL,2,VDS,1514,1. Tổng doanh thu Tài chính
+BCL,2,VDS,1515,VDS
+BCL,2,VDS,1516,4. Doanh thu dịch vụ
+BCL,2,VTTNEWNEW,1521,6. Thuê bao Thực tăng giảm
+BCL,2,STL,1596,6. Thuê bao thực tăng giảm
+BCL,2,STL,1597,8. Thuê bao thực 4G tăng giảm
+BCL,2,STL,1598,4. Doanh thu dịch vụ
+BCL,2,STL,1599,5. Tiêu dùng
+BCL,1,MOV,1709,MOV
+BCL,2,STL,1601,3. Doanh thu kinh doanh
+BCL,2,STL,1602,2. Lợi nhuận trước thuế
+BCL,2,STL,1603,1. Tổng doanh thu Tài chính
+BCL,2,STL,1604,STL
+BCL,2,VTZ,1892,Thuê bao thực tăng giảm
+BCL,1,VTG,1878,2. Doanh thu dich vụ VTNN (kinh doanh)
+BCL,1,MOV,1706,Doanh thu MOV (Kinh doanh trừ hubbing)
+VPTD,2,H711,3505,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B240,3602,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B240,3603,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B240,3604,Doanh thu dịch vụ nhóm VDS
+VPTD,1,L072,3749,Doanh thu dịch vụ SME
+VPTD,1,K058,3661,Doanh thu dịch vụ SME
+VPTD,1,K058,3662,Doanh thu dịch vụ di động
+VPTD,1,K058,3663,Doanh thu dịch vụ nhóm VTS
+VPTD,1,K058,3664,Thuê bao FTTH
+VPTD,1,K058,3665,Thuê bao di động phát triển thực
+VPTD,1,K058,3666,Thuê bao 4G phát triển thực
+VPTD,1,K058,3667,Tổng doanh thu dịch vụ
+VPTD,1,K058,3668,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,K058,3669,Doanh thu dịch vụ nhóm VTT
+VPTD,1,K058,3670,Thuê bao register
+VPTD,1,K058,3671,Doanh thu dịch vụ nhóm VDS
+VPTD,1,L072,3750,Doanh thu dịch vụ di động
+VPTD,1,L072,3751,Doanh thu dịch vụ nhóm VTS
+VPTD,1,L072,3752,Thuê bao FTTH
+VPTD,1,L072,3753,Thuê bao di động phát triển thực
+VPTD,1,L072,3754,Thuê bao 4G phát triển thực
+VPTD,1,L072,3755,Tổng doanh thu dịch vụ
+VPTD,1,L072,3756,Thuê bao register
+VPTD,1,L072,3757,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,L072,3758,Doanh thu dịch vụ nhóm VTT
+VPTD,1,L072,3759,Doanh thu dịch vụ nhóm VDS
+VPTD,2,L072,3761,Doanh thu dịch vụ di động
+VPTD,2,L072,3762,Doanh thu dịch vụ nhóm VTS
+VPTD,2,L072,3763,Thuê bao FTTH
+VPTD,2,L072,3764,Thuê bao di động phát triển thực
+VPTD,2,L072,3765,Thuê bao 4G phát triển thực
+VPTD,2,L072,3766,Tổng doanh thu dịch vụ
+VPTD,2,L072,3767,Thuê bao register
+VPTD,2,L072,3768,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,L072,3769,Doanh thu dịch vụ nhóm VTT
+VPTD,2,L072,3770,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H019,3771,Doanh thu dịch vụ SME
+VPTD,2,H019,3772,Doanh thu dịch vụ di động
+VPTD,2,H019,3773,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H019,3774,Thuê bao FTTH
+VPTD,2,H019,3775,Thuê bao di động phát triển thực
+VPTD,2,H019,3776,Thuê bao 4G phát triển thực
+VPTD,2,H019,3777,Tổng doanh thu dịch vụ
+VPTD,2,H019,3778,Thuê bao register
+VPTD,2,H019,3779,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,L231,3991,Doanh thu dịch vụ SME
+VPTD,2,L231,3992,Doanh thu dịch vụ di động
+VPTD,2,L231,3993,Doanh thu dịch vụ nhóm VTS
+VPTD,2,L231,3994,Thuê bao FTTH
+VPTD,2,L231,3995,Thuê bao di động phát triển thực
+VPTD,2,L231,3996,Thuê bao 4G phát triển thực
+VPTD,2,L231,3997,Tổng doanh thu dịch vụ
+VPTD,2,L231,3998,Thuê bao register
+VPTD,2,L231,3999,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,L231,4000,Doanh thu dịch vụ nhóm VTT
+VPTD,2,L231,4001,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H004,4100,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H004,4101,Doanh thu dịch vụ SME
+VPTD,2,H004,4102,Doanh thu dịch vụ di động
+VPTD,2,H004,4103,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H004,4104,Thuê bao FTTH
+VPTD,2,H004,4105,Thuê bao di động phát triển thực
+VPTD,2,H004,4106,Thuê bao 4G phát triển thực
+VPTD,2,H004,4107,Tổng doanh thu dịch vụ
+VPTD,2,H004,4108,Thuê bao register
+VPTD,2,H004,4109,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,H004,4110,Doanh thu dịch vụ nhóm VTT
+VPTD,2,H004,4111,Doanh thu dịch vụ nhóm VDS
+VPTD,1,L025,4156,Doanh thu dịch vụ di động
+VPTD,1,L025,4157,Doanh thu dịch vụ nhóm VTS
+VPTD,1,L025,4158,Thuê bao FTTH
+VPTD,1,L025,4159,Thuê bao di động phát triển thực
+VPTD,1,L025,4160,Thuê bao 4G phát triển thực
+VPTD,1,L025,4161,Tổng doanh thu dịch vụ
+VPTD,1,L025,4162,Thuê bao register
+VPTD,1,L025,4163,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,L025,4164,Doanh thu dịch vụ nhóm VTT
+VPTD,1,L025,4165,Doanh thu dịch vụ nhóm VDS
+VPTD,1,L025,4166,Doanh thu dịch vụ SME
+VPTD,2,V211,4214,Thuê bao FTTH
+VPTD,2,V211,4215,Thuê bao di động phát triển thực
+VPTD,2,V211,4216,Thuê bao 4G phát triển thực
+VPTD,2,V211,4217,Tổng doanh thu dịch vụ
+VPTD,2,V211,4218,Thuê bao register
+VPTD,2,V211,4219,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,V211,4220,Doanh thu dịch vụ nhóm VTT
+VPTD,2,V211,4221,Doanh thu dịch vụ nhóm VDS
+VPTD,1,C026,4246,Doanh thu dịch vụ SME
+VPTD,1,C026,4247,Doanh thu dịch vụ di động
+VPTD,1,C026,4248,Doanh thu dịch vụ nhóm VTS
+VPTD,1,C026,4249,Thuê bao FTTH
+VPTD,1,C026,4250,Thuê bao di động phát triển thực
+VPTD,1,C026,4251,Thuê bao 4G phát triển thực
+VPTD,1,C026,4252,Tổng doanh thu dịch vụ
+VPTD,1,C026,4253,Thuê bao register
+VPTD,1,C026,4254,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,C026,4255,Doanh thu dịch vụ nhóm VTT
+VPTD,1,C026,4256,Doanh thu dịch vụ nhóm VDS
+VPTD,2,C026,4257,Doanh thu dịch vụ SME
+VPTD,2,C026,4258,Doanh thu dịch vụ di động
+VPTD,2,C026,4259,Doanh thu dịch vụ nhóm VTS
+VPTD,2,C026,4260,Thuê bao FTTH
+VPTD,2,C026,4261,Thuê bao di động phát triển thực
+VPTD,2,C026,4262,Thuê bao 4G phát triển thực
+VPTD,2,C026,4263,Tổng doanh thu dịch vụ
+VPTD,2,C026,4264,Thuê bao register
+VPTD,2,C026,4265,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,C026,4266,Doanh thu dịch vụ nhóm VTT
+VPTD,2,C026,4267,Doanh thu dịch vụ nhóm VDS
+VPTD,2,N038,4323,Doanh thu dịch vụ SME
+VPTD,2,N038,4324,Doanh thu dịch vụ di động
+VPTD,2,N038,4325,Doanh thu dịch vụ nhóm VTS
+VPTD,2,N038,4326,Thuê bao FTTH
+VPTD,2,N038,4327,Thuê bao di động phát triển thực
+VPTD,2,N038,4328,Thuê bao 4G phát triển thực
+VPTD,2,N038,4329,Tổng doanh thu dịch vụ
+VPTD,2,N038,4330,Thuê bao register
+VPTD,2,N038,4331,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,N038,4332,Doanh thu dịch vụ nhóm VTT
+VPTD,2,N038,4333,Doanh thu dịch vụ nhóm VDS
+VPTD,2,C780,4301,Doanh thu dịch vụ SME
+VPTD,2,C780,4302,Doanh thu dịch vụ di động
+VPTD,2,C780,4303,Doanh thu dịch vụ nhóm VTS
+VPTD,2,C780,4304,Thuê bao FTTH
+VPTD,2,C780,4305,Thuê bao di động phát triển thực
+VPTD,2,C780,4306,Thuê bao 4G phát triển thực
+VPTD,2,C780,4307,Tổng doanh thu dịch vụ
+VPTD,2,C780,4308,Thuê bao register
+VPTD,2,C780,4309,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,C780,4310,Doanh thu dịch vụ nhóm VTT
+VPTD,2,C780,4311,Doanh thu dịch vụ nhóm VDS
+VPTD,2,Y029,4334,Thuê bao FTTH
+VPTD,2,Y029,4335,Thuê bao di động phát triển thực
+VPTD,2,Y029,4336,Thuê bao 4G phát triển thực
+VPTD,2,Y029,4337,Tổng doanh thu dịch vụ
+VPTD,2,Y029,4338,Thuê bao register
+VPTD,2,Y029,4339,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,Y029,4340,Doanh thu dịch vụ nhóm VTT
+VPTD,2,Y029,4341,Doanh thu dịch vụ nhóm VDS
+VPTD,2,Y029,4342,Doanh thu dịch vụ di động
+VPTD,2,Y029,4343,Doanh thu dịch vụ SME
+VPTD,2,Y029,4344,Doanh thu dịch vụ nhóm VTS
+VPTD,1,Q033,4378,Doanh thu dịch vụ nhóm VTT
+VPTD,1,Q033,4379,Doanh thu dịch vụ nhóm VDS
+VPTD,1,Q033,4380,Doanh thu dịch vụ SME
+VPTD,1,Q033,4381,Doanh thu dịch vụ di động
+VPTD,1,Q033,4382,Thuê bao register
+VPTD,1,Q033,4383,Doanh thu dịch vụ nhóm VTS
+VPTD,1,Q033,4384,Thuê bao FTTH
+VPTD,2,T027,3925,Doanh thu dịch vụ di động
+VPTD,2,T027,3926,Doanh thu dịch vụ SME
+VPTD,2,T027,3927,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T027,3928,Thuê bao FTTH
+VPTD,2,T027,3929,Thuê bao di động phát triển thực
+VPTD,2,T027,3930,Thuê bao 4G phát triển thực
+VPTD,2,T027,3931,Tổng doanh thu dịch vụ
+VPTD,2,T027,3932,Thuê bao register
+VPTD,2,T027,3933,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T027,3934,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T027,3935,Doanh thu dịch vụ nhóm VDS
+VPTD,2,V070,4112,Doanh thu dịch vụ di động
+VPTD,2,V070,4113,Doanh thu dịch vụ SME
+VPTD,2,V070,4114,Doanh thu dịch vụ nhóm VTS
+VPTD,2,V070,4115,Thuê bao FTTH
+VPTD,2,V070,4116,Thuê bao di động phát triển thực
+VPTD,2,V070,4117,Thuê bao 4G phát triển thực
+VPTD,2,V070,4118,Tổng doanh thu dịch vụ
+VPTD,2,V070,4119,Thuê bao register
+VPTD,2,V070,4120,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,V070,4121,Doanh thu dịch vụ nhóm VTT
+VPTD,2,V070,4122,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T008,4223,Doanh thu dịch vụ nhóm VTT
+VPTD,1,N030,4356,Doanh thu dịch vụ di động
+VPTD,1,N030,4357,Doanh thu dịch vụ nhóm VTS
+VPTD,1,N030,4358,Thuê bao FTTH
+VPTD,1,N030,4359,Thuê bao di động phát triển thực
+VPTD,1,N030,4360,Thuê bao 4G phát triển thực
+VPTD,1,N030,4361,Tổng doanh thu dịch vụ
+VPTD,1,N030,4362,Thuê bao register
+VPTD,1,N030,4363,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,N030,4364,Doanh thu dịch vụ nhóm VTT
+VPTD,1,N030,4365,Doanh thu dịch vụ nhóm VDS
+VPTD,1,N030,4366,Doanh thu dịch vụ SME
+VPTD,1,Q033,4385,Thuê bao di động phát triển thực
+VPTD,1,Q033,4386,Thuê bao 4G phát triển thực
+VPTD,1,Q033,4387,Tổng doanh thu dịch vụ
+VPTD,1,Q033,4388,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,Q033,4389,Doanh thu dịch vụ SME
+VPTD,2,Q033,4390,Doanh thu dịch vụ di động
+VPTD,2,Q033,4391,Doanh thu dịch vụ nhóm VTS
+VPTD,2,Q033,4392,Thuê bao FTTH
+VPTD,2,Q033,4394,Thuê bao 4G phát triển thực
+VPTD,2,Q033,4395,Tổng doanh thu dịch vụ
+VPTD,2,Q033,4396,Thuê bao register
+VPTD,2,Q033,4397,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,Q033,4398,Doanh thu dịch vụ nhóm VTT
+VPTD,2,Q033,4399,Doanh thu dịch vụ nhóm VDS
+VPTD,2,Q052,4400,Doanh thu dịch vụ SME
+VPTD,2,Q052,4401,Doanh thu dịch vụ di động
+VPTD,2,Q052,4402,Doanh thu dịch vụ nhóm VTS
+VPTD,2,Q052,4403,Thuê bao FTTH
+VPTD,2,Q052,4404,Thuê bao di động phát triển thực
+VPTD,2,Q052,4405,Thuê bao 4G phát triển thực
+VPTD,2,Q052,4406,Tổng doanh thu dịch vụ
+VPTD,2,Q052,4407,Thuê bao register
+VPTD,2,Q052,4408,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,Q052,4409,Doanh thu dịch vụ nhóm VTT
+VPTD,2,Q052,4410,Doanh thu dịch vụ nhóm VDS
+VPTD,1,C710,4457,Doanh thu dịch vụ SME
+VPTD,1,C710,4458,Doanh thu dịch vụ di động
+VPTD,1,C710,4459,Doanh thu dịch vụ nhóm VTS
+VPTD,1,C710,4460,Thuê bao FTTH
+VPTD,1,C710,4461,Thuê bao di động phát triển thực
+VPTD,1,C710,4462,Thuê bao 4G phát triển thực
+VPTD,1,C710,4463,Tổng doanh thu dịch vụ
+VPTD,1,C710,4464,Thuê bao register
+VPTD,1,C710,4465,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,C710,4466,Doanh thu dịch vụ nhóm VTT
+VPTD,1,C710,4467,Doanh thu dịch vụ nhóm VDS
+VPTD,2,C710,4468,Doanh thu dịch vụ SME
+VPTD,2,C710,4469,Doanh thu dịch vụ di động
+VPTD,2,C710,4470,Doanh thu dịch vụ nhóm VTS
+VPTD,2,C710,4471,Thuê bao FTTH
+VPTD,2,C710,4472,Thuê bao di động phát triển thực
+VPTD,2,C710,4473,Thuê bao 4G phát triển thực
+VPTD,2,C710,4474,Tổng doanh thu dịch vụ
+VPTD,2,C710,4475,Thuê bao register
+VPTD,2,C710,4476,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,C710,4477,Doanh thu dịch vụ nhóm VTT
+VPTD,2,C710,4478,Doanh thu dịch vụ nhóm VDS
+VPTD,1,N068,4501,Doanh thu dịch vụ SME
+VPTD,1,N068,4502,Doanh thu dịch vụ di động
+VPTD,1,N068,4503,Doanh thu dịch vụ nhóm VTS
+VPTD,1,N068,4504,Thuê bao FTTH
+VPTD,1,N068,4505,Thuê bao di động phát triển thực
+VPTD,1,N068,4506,Thuê bao 4G phát triển thực
+VPTD,1,N068,4507,Tổng doanh thu dịch vụ
+VPTD,1,N068,4508,Thuê bao register
+VPTD,1,N068,4509,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,N068,4510,Doanh thu dịch vụ nhóm VTT
+VPTD,1,N068,4511,Doanh thu dịch vụ nhóm VDS
+VPTD,1,D500,4580,Thuê bao FTTH
+VPTD,1,D500,4581,Thuê bao di động phát triển thực
+VPTD,1,D500,4582,Thuê bao 4G phát triển thực
+VPTD,1,D500,4583,Tổng doanh thu dịch vụ
+VPTD,1,D500,4584,Thuê bao register
+VPTD,1,D500,4585,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,D500,4586,Doanh thu dịch vụ nhóm VTT
+VPTD,1,D500,4587,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T073,3859,Doanh thu dịch vụ SME
+VPTD,1,T073,3860,Doanh thu dịch vụ di động
+VPTD,1,T073,3861,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T073,3862,Thuê bao FTTH
+VPTD,1,T073,3863,Thuê bao di động phát triển thực
+VPTD,1,T073,3864,Thuê bao 4G phát triển thực
+VPTD,1,T073,3865,Tổng doanh thu dịch vụ
+VPTD,1,T073,3866,Thuê bao register
+VPTD,1,T073,3867,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T073,3868,Doanh thu dịch vụ nhóm VTT
+VPTD,1,T073,3869,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T074,4002,Doanh thu dịch vụ SME
+VPTD,1,T074,4003,Doanh thu dịch vụ di động
+VPTD,1,T074,4004,Thuê bao register
+VPTD,1,T074,4005,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T074,4006,Thuê bao FTTH
+VPTD,1,T074,4007,Thuê bao di động phát triển thực
+VPTD,1,T074,4008,Thuê bao 4G phát triển thực
+VPTD,1,T074,4009,Tổng doanh thu dịch vụ
+VPTD,1,T074,4010,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T074,4011,Doanh thu dịch vụ nhóm VTT
+VPTD,1,T074,4012,Doanh thu dịch vụ nhóm VDS
+VPTD,1,V211,4200,Doanh thu dịch vụ SME
+VPTD,1,V211,4201,Doanh thu dịch vụ di động
+VPTD,1,V211,4202,Thuê bao register
+VPTD,1,V211,4203,Doanh thu dịch vụ nhóm VTS
+VPTD,1,V211,4204,Thuê bao FTTH
+VPTD,1,V211,4205,Thuê bao di động phát triển thực
+VPTD,1,V211,4206,Thuê bao 4G phát triển thực
+VPTD,1,V211,4207,Tổng doanh thu dịch vụ
+VPTD,1,V211,4208,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,V211,4209,Doanh thu dịch vụ nhóm VTT
+VPTD,1,V211,4210,Doanh thu dịch vụ nhóm VDS
+VPTD,1,C780,4290,Doanh thu dịch vụ SME
+VPTD,1,N038,4312,Doanh thu dịch vụ di động
+VPTD,1,N038,4313,Doanh thu dịch vụ nhóm VTS
+VPTD,1,N038,4314,Thuê bao FTTH
+VPTD,1,N038,4315,Thuê bao di động phát triển thực
+VPTD,1,N038,4316,Thuê bao 4G phát triển thực
+VPTD,1,N038,4317,Tổng doanh thu dịch vụ
+VPTD,1,N038,4318,Thuê bao register
+VPTD,1,N038,4319,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,N038,4320,Doanh thu dịch vụ nhóm VTT
+VPTD,1,N038,4321,Doanh thu dịch vụ nhóm VDS
+VPTD,1,N038,4322,Doanh thu dịch vụ SME
+VPTD,1,C780,4291,Doanh thu dịch vụ di động
+VPTD,1,C780,4292,Doanh thu dịch vụ nhóm VTS
+VPTD,1,C780,4293,Thuê bao FTTH
+VPTD,1,C780,4294,Thuê bao di động phát triển thực
+VPTD,1,C780,4295,Thuê bao 4G phát triển thực
+VPTD,1,C780,4296,Tổng doanh thu dịch vụ
+VPTD,1,C780,4297,Thuê bao register
+VPTD,1,C780,4298,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,C780,4299,Doanh thu dịch vụ nhóm VTT
+VPTD,1,C780,4300,Doanh thu dịch vụ nhóm VDS
+VPTD,1,Y029,4345,Doanh thu dịch vụ SME
+VPTD,1,Y029,4346,Doanh thu dịch vụ di động
+VPTD,1,Y029,4347,Thuê bao register
+VPTD,1,Y029,4348,Doanh thu dịch vụ nhóm VTS
+VPTD,1,Y029,4349,Thuê bao FTTH
+VPTD,1,Y029,4350,Thuê bao di động phát triển thực
+VPTD,1,Y029,4351,Thuê bao 4G phát triển thực
+VPTD,1,Y029,4352,Tổng doanh thu dịch vụ
+VPTD,1,Y029,4353,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,Y029,4354,Doanh thu dịch vụ nhóm VTT
+VPTD,1,Y029,4355,Doanh thu dịch vụ nhóm VDS
+VPTD,2,N030,4367,Doanh thu dịch vụ SME
+VPTD,2,N030,4368,Doanh thu dịch vụ di động
+VPTD,2,N030,4369,Doanh thu dịch vụ nhóm VTS
+VPTD,2,N030,4370,Thuê bao FTTH
+VPTD,2,N030,4371,Thuê bao di động phát triển thực
+VPTD,2,N030,4372,Thuê bao 4G phát triển thực
+VPTD,2,N030,4373,Tổng doanh thu dịch vụ
+VPTD,2,N030,4374,Thuê bao register
+VPTD,2,N030,4375,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,N030,4376,Doanh thu dịch vụ nhóm VTT
+VPTD,2,N030,4377,Doanh thu dịch vụ nhóm VDS
+VPTD,1,TSS,4434,Khối tỉnh/TP
+VPTD,1,N350,4435,Doanh thu dịch vụ SME
+VPTD,1,N350,4436,Doanh thu dịch vụ di động
+VPTD,1,N350,4437,Doanh thu dịch vụ nhóm VTS
+VPTD,1,N350,4438,Thuê bao FTTH
+VPTD,1,N350,4439,Thuê bao di động phát triển thực
+VPTD,1,N350,4440,Thuê bao 4G phát triển thực
+VPTD,1,N350,4441,Tổng doanh thu dịch vụ
+VPTD,1,N350,4442,Thuê bao register
+VPTD,1,N350,4443,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,N350,4444,Doanh thu dịch vụ nhóm VTT
+VPTD,1,N350,4445,Doanh thu dịch vụ nhóm VDS
+VPTD,1,Q055,4523,Doanh thu dịch vụ nhóm VTT
+VPTD,1,Q055,4524,Doanh thu dịch vụ nhóm VDS
+VPTD,1,Q055,4525,Doanh thu dịch vụ SME
+VPTD,1,Q055,4526,Doanh thu dịch vụ di động
+VPTD,1,Q055,4527,Thuê bao register
+VPTD,1,Q055,4528,Doanh thu dịch vụ nhóm VTS
+VPTD,1,Q055,4529,Thuê bao FTTH
+VPTD,1,Q055,4530,Thuê bao di động phát triển thực
+VPTD,1,Q055,4531,Thuê bao 4G phát triển thực
+VPTD,1,Q055,4532,Tổng doanh thu dịch vụ
+VPTD,1,Q055,4533,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,TSS,4545,Doanh thu dịch vụ (VTT+VTS+VDS)
+VPTD,1,D501,4555,Doanh thu dịch vụ SME
+VPTD,1,D501,4556,Doanh thu dịch vụ di động
+VPTD,1,L020,3947,Doanh thu dịch vụ SME
+VPTD,1,L020,3948,Doanh thu dịch vụ di động
+VPTD,1,L020,3949,Doanh thu dịch vụ nhóm VTS
+VPTD,1,L020,3950,Thuê bao FTTH
+VPTD,1,L020,3951,Thuê bao di động phát triển thực
+VPTD,1,L020,3952,Thuê bao 4G phát triển thực
+VPTD,1,L020,3953,Tổng doanh thu dịch vụ
+VPTD,1,L020,3954,Thuê bao register
+VPTD,1,L020,3955,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,L020,3956,Doanh thu dịch vụ nhóm VTT
+VPTD,1,L020,3957,Doanh thu dịch vụ nhóm VDS
+VPTD,1,L231,3969,Doanh thu dịch vụ SME
+VPTD,1,L231,3970,Doanh thu dịch vụ di động
+VPTD,1,L231,3971,Doanh thu dịch vụ nhóm VTS
+VPTD,1,L231,3972,Thuê bao FTTH
+VPTD,1,L231,3973,Thuê bao di động phát triển thực
+VPTD,1,L231,3974,Thuê bao 4G phát triển thực
+VPTD,1,L231,3975,Tổng doanh thu dịch vụ
+VPTD,1,L231,3976,Thuê bao register
+VPTD,1,L231,3977,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,L231,3978,Doanh thu dịch vụ nhóm VTT
+VPTD,1,L231,3979,Doanh thu dịch vụ nhóm VDS
+VPTD,1,B062,4068,Doanh thu dịch vụ SME
+VPTD,1,B062,4069,Doanh thu dịch vụ di động
+VPTD,1,B062,4070,Doanh thu dịch vụ nhóm VTS
+VPTD,1,B062,4071,Thuê bao FTTH
+VPTD,1,B062,4072,Thuê bao di động phát triển thực
+VPTD,1,B062,4073,Thuê bao 4G phát triển thực
+VPTD,1,B062,4074,Tổng doanh thu dịch vụ
+VPTD,1,B062,4075,Thuê bao register
+VPTD,1,B062,4076,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B062,4077,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B062,4078,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B062,4079,Doanh thu dịch vụ SME
+VPTD,2,B062,4080,Doanh thu dịch vụ di động
+VPTD,2,B062,4081,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B062,4082,Thuê bao FTTH
+VPTD,2,B062,4083,Thuê bao di động phát triển thực
+VPTD,2,B062,4084,Thuê bao 4G phát triển thực
+VPTD,2,B062,4085,Tổng doanh thu dịch vụ
+VPTD,2,B062,4086,Thuê bao register
+VPTD,2,B062,4087,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B062,4088,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B062,4089,Doanh thu dịch vụ nhóm VDS
+VPTD,2,L063,4145,Doanh thu dịch vụ SME
+VPTD,2,L063,4146,Doanh thu dịch vụ di động
+VPTD,2,L063,4147,Doanh thu dịch vụ nhóm VTS
+VPTD,2,L063,4148,Thuê bao FTTH
+VPTD,2,L063,4149,Thuê bao di động phát triển thực
+VPTD,2,L063,4150,Thuê bao 4G phát triển thực
+VPTD,2,L063,4151,Tổng doanh thu dịch vụ
+VPTD,2,L063,4152,Thuê bao register
+VPTD,2,L063,4153,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,L063,4154,Doanh thu dịch vụ nhóm VTT
+VPTD,2,L063,4155,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T008,4178,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T008,4179,Doanh thu dịch vụ SME
+VPTD,1,T008,4180,Doanh thu dịch vụ di động
+VPTD,1,T008,4181,Thuê bao register
+VPTD,1,T008,4182,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T008,4183,Thuê bao FTTH
+VPTD,1,T008,4184,Thuê bao di động phát triển thực
+VPTD,1,T008,4185,Thuê bao 4G phát triển thực
+VPTD,1,T008,4186,Tổng doanh thu dịch vụ
+VPTD,1,T008,4187,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,V064,4224,Thuê bao FTTH
+VPTD,2,T008,4189,Doanh thu dịch vụ SME
+VPTD,2,T008,4190,Doanh thu dịch vụ di động
+VPTD,2,T008,4191,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T008,4192,Thuê bao FTTH
+VPTD,2,T008,4193,Thuê bao di động phát triển thực
+VPTD,2,T008,4194,Thuê bao 4G phát triển thực
+VPTD,2,T008,4195,Tổng doanh thu dịch vụ
+VPTD,2,T008,4196,Thuê bao register
+VPTD,2,T008,4197,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T008,4198,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T008,4199,Doanh thu dịch vụ nhóm VDS
+VPTD,2,V064,4225,Thuê bao di động phát triển thực
+VPTD,2,V064,4226,Thuê bao 4G phát triển thực
+VPTD,2,V064,4227,Tổng doanh thu dịch vụ
+VPTD,2,V064,4228,Thuê bao register
+VPTD,2,V064,4229,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,V064,4230,Doanh thu dịch vụ nhóm VTT
+VPTD,2,V064,4231,Doanh thu dịch vụ nhóm VDS
+VPTD,2,V064,4232,Doanh thu dịch vụ di động
+VPTD,2,V064,4233,Doanh thu dịch vụ SME
+VPTD,2,V064,4234,Doanh thu dịch vụ nhóm VTS
+VPTD,1,V064,4235,Doanh thu dịch vụ SME
+VPTD,1,V064,4236,Doanh thu dịch vụ di động
+VPTD,1,V064,4237,Thuê bao register
+VPTD,1,V064,4238,Doanh thu dịch vụ nhóm VTS
+VPTD,1,V064,4239,Thuê bao FTTH
+VPTD,1,V064,4240,Thuê bao di động phát triển thực
+VPTD,1,H031,3574,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H031,3575,Thuê bao FTTH
+VPTD,1,H031,3576,Thuê bao di động phát triển thực
+VPTD,1,H031,3577,Thuê bao 4G phát triển thực
+VPTD,1,H031,3578,Tổng doanh thu dịch vụ
+VPTD,1,H031,3579,Thuê bao register
+VPTD,1,H031,3580,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,V064,4241,Thuê bao 4G phát triển thực
+VPTD,1,V064,4242,Tổng doanh thu dịch vụ
+VPTD,1,V064,4243,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,V064,4244,Doanh thu dịch vụ nhóm VTT
+VPTD,1,V064,4245,Doanh thu dịch vụ nhóm VDS
+VPTD,1,TSS,4425,Doanh thu dịch vụ nhóm VTS
+VPTD,1,TSS,4426,Thuê bao FTTH
+VPTD,1,TSS,4427,Thuê bao di động phát triển thực
+VPTD,1,L063,4135,Doanh thu dịch vụ di động
+VPTD,1,L063,4136,Doanh thu dịch vụ nhóm VTS
+VPTD,1,L063,4137,Thuê bao FTTH
+VPTD,1,L063,4138,Thuê bao di động phát triển thực
+VPTD,1,L063,4139,Thuê bao 4G phát triển thực
+VPTD,1,L063,4140,Tổng doanh thu dịch vụ
+VPTD,1,L063,4141,Thuê bao register
+VPTD,1,L063,4142,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,L063,4143,Doanh thu dịch vụ nhóm VTT
+VPTD,1,L063,4144,Doanh thu dịch vụ nhóm VDS
+VPTD,2,L025,4167,Doanh thu dịch vụ SME
+VPTD,1,V070,4123,Doanh thu dịch vụ SME
+VPTD,1,V070,4124,Doanh thu dịch vụ di động
+VPTD,1,V070,4125,Thuê bao register
+VPTD,1,V070,4126,Doanh thu dịch vụ nhóm VTS
+VPTD,1,V070,4127,Thuê bao FTTH
+VPTD,1,V070,4128,Thuê bao di động phát triển thực
+VPTD,1,V070,4129,Thuê bao 4G phát triển thực
+VPTD,1,V070,4130,Tổng doanh thu dịch vụ
+VPTD,1,V070,4131,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,V070,4132,Doanh thu dịch vụ nhóm VTT
+VPTD,1,V070,4133,Doanh thu dịch vụ nhóm VDS
+VPTD,1,L063,4134,Doanh thu dịch vụ SME
+VPTD,2,L025,4168,Doanh thu dịch vụ di động
+VPTD,2,L025,4169,Doanh thu dịch vụ nhóm VTS
+VPTD,2,L025,4170,Thuê bao FTTH
+VPTD,2,L025,4171,Thuê bao di động phát triển thực
+VPTD,2,L025,4172,Thuê bao 4G phát triển thực
+VPTD,2,L025,4173,Tổng doanh thu dịch vụ
+VPTD,2,L025,4174,Thuê bao register
+VPTD,2,L025,4175,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,L025,4176,Doanh thu dịch vụ nhóm VTT
+VPTD,2,L025,4177,Doanh thu dịch vụ nhóm VDS
+VPTD,1,TSS,4428,Thuê bao 4G phát triển thực
+VPTD,2,TSS,4546,Khối tỉnh/TP
+VPTD,1,TSS,4430,Thuê bao register
+VPTD,2,Q055,4534,Doanh thu dịch vụ SME
+VPTD,1,TSS,4432,Doanh thu dịch vụ nhóm VTT
+VPTD,1,TSS,4433,Doanh thu dịch vụ nhóm VDS
+VPTD,2,N350,4446,Doanh thu dịch vụ SME
+VPTD,2,N350,4447,Doanh thu dịch vụ di động
+VPTD,2,N350,4448,Doanh thu dịch vụ nhóm VTS
+VPTD,2,N350,4449,Thuê bao FTTH
+VPTD,2,N350,4450,Thuê bao di động phát triển thực
+VPTD,2,N350,4451,Thuê bao 4G phát triển thực
+VPTD,2,N350,4452,Tổng doanh thu dịch vụ
+VPTD,2,N350,4453,Thuê bao register
+VPTD,2,N350,4454,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,N350,4455,Doanh thu dịch vụ nhóm VTT
+VPTD,2,N350,4456,Doanh thu dịch vụ nhóm VDS
+VPTD,1,D230,4479,Doanh thu dịch vụ SME
+VPTD,1,D230,4480,Doanh thu dịch vụ di động
+VPTD,1,D230,4481,Doanh thu dịch vụ nhóm VTS
+VPTD,1,D230,4482,Thuê bao FTTH
+VPTD,1,D230,4483,Thuê bao di động phát triển thực
+VPTD,1,D230,4484,Thuê bao 4G phát triển thực
+VPTD,1,D230,4485,Tổng doanh thu dịch vụ
+VPTD,1,D230,4486,Thuê bao register
+VPTD,1,D230,4487,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,D230,4488,Doanh thu dịch vụ nhóm VTT
+VPTD,1,D230,4489,Doanh thu dịch vụ nhóm VDS
+VPTD,2,D230,4490,Doanh thu dịch vụ SME
+VPTD,2,D230,4491,Doanh thu dịch vụ di động
+VPTD,2,D230,4492,Doanh thu dịch vụ nhóm VTS
+VPTD,2,D230,4493,Thuê bao FTTH
+VPTD,2,D230,4494,Thuê bao di động phát triển thực
+VPTD,2,D230,4495,Thuê bao 4G phát triển thực
+VPTD,2,D230,4496,Tổng doanh thu dịch vụ
+VPTD,2,D230,4497,Thuê bao register
+VPTD,2,D230,4498,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,D230,4499,Doanh thu dịch vụ nhóm VTT
+VPTD,2,D230,4500,Doanh thu dịch vụ nhóm VDS
+VPTD,2,N068,4512,Doanh thu dịch vụ SME
+VPTD,2,N068,4513,Doanh thu dịch vụ di động
+VPTD,2,N068,4514,Doanh thu dịch vụ nhóm VTS
+VPTD,2,N068,4515,Thuê bao FTTH
+VPTD,2,N068,4516,Thuê bao di động phát triển thực
+VPTD,2,N068,4517,Thuê bao 4G phát triển thực
+VPTD,2,N068,4518,Tổng doanh thu dịch vụ
+VPTD,2,N068,4519,Thuê bao register
+VPTD,2,N068,4520,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,N068,4521,Doanh thu dịch vụ nhóm VTT
+VPTD,2,N068,4522,Doanh thu dịch vụ nhóm VDS
+VPTD,2,Q055,4535,Doanh thu dịch vụ di động
+VPTD,2,Q055,4536,Doanh thu dịch vụ nhóm VTS
+VPTD,2,Q055,4537,Thuê bao FTTH
+VPTD,2,Q055,4538,Thuê bao di động phát triển thực
+VPTD,2,Q055,4539,Thuê bao 4G phát triển thực
+VPTD,2,Q055,4540,Tổng doanh thu dịch vụ
+VPTD,2,Q055,4541,Thuê bao register
+VPTD,2,Q055,4542,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,Q055,4543,Doanh thu dịch vụ nhóm VTT
+VPTD,2,Q055,4544,Doanh thu dịch vụ nhóm VDS
+VPTD,2,TSS,4547,Doanh thu dịch vụ (VTT+VTS+VDS)
+VPTD,2,TSS,4548,Doanh thu dịch vụ nhóm VTS
+VPTD,2,TSS,4549,Thuê bao FTTH
+VPTD,2,TSS,4550,Thuê bao di động phát triển thực
+VPTD,2,TSS,4551,Thuê bao 4G phát triển thực
+VPTD,2,TSS,4552,Thuê bao register
+VPTD,2,TSS,4553,Doanh thu dịch vụ nhóm VTT
+VPTD,2,TSS,4554,Doanh thu dịch vụ nhóm VDS
+VPTD,1,S022,3839,Doanh thu dịch vụ nhóm VTS
+VPTD,1,S022,3840,Thuê bao FTTH
+VPTD,1,S022,3841,Thuê bao di động phát triển thực
+VPTD,1,S022,3842,Thuê bao 4G phát triển thực
+VPTD,1,S022,3843,Tổng doanh thu dịch vụ
+VPTD,1,S022,3844,Thuê bao register
+VPTD,1,S022,3845,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,S022,3846,Doanh thu dịch vụ nhóm VTT
+VPTD,1,S022,3847,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T036,3870,Doanh thu dịch vụ SME
+VPTD,1,T036,3871,Doanh thu dịch vụ di động
+VPTD,1,T036,3872,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T036,3873,Thuê bao FTTH
+VPTD,1,T036,3874,Thuê bao di động phát triển thực
+VPTD,1,T036,3875,Thuê bao 4G phát triển thực
+VPTD,1,T036,3876,Tổng doanh thu dịch vụ
+VPTD,1,T036,3877,Thuê bao register
+VPTD,1,T036,3878,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T036,3879,Doanh thu dịch vụ nhóm VTT
+VPTD,1,T036,3880,Doanh thu dịch vụ nhóm VDS
+VPTD,2,S022,3881,Doanh thu dịch vụ SME
+VPTD,2,S022,3882,Doanh thu dịch vụ di động
+VPTD,2,S022,3883,Doanh thu dịch vụ nhóm VTS
+VPTD,2,S022,3884,Thuê bao FTTH
+VPTD,2,S022,3885,Thuê bao di động phát triển thực
+VPTD,2,S022,3886,Thuê bao 4G phát triển thực
+VPTD,2,S022,3887,Tổng doanh thu dịch vụ
+VPTD,2,S022,3888,Thuê bao register
+VPTD,2,S022,3889,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,S022,3890,Doanh thu dịch vụ nhóm VTT
+VPTD,2,S022,3891,Doanh thu dịch vụ nhóm VDS
+VPTD,2,T036,3903,Doanh thu dịch vụ SME
+VPTD,2,T036,3904,Doanh thu dịch vụ di động
+VPTD,2,T036,3905,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T036,3906,Thuê bao FTTH
+VPTD,2,T036,3907,Thuê bao di động phát triển thực
+VPTD,2,T036,3908,Thuê bao 4G phát triển thực
+VPTD,2,T036,3909,Tổng doanh thu dịch vụ
+VPTD,2,T036,3910,Thuê bao register
+VPTD,2,T036,3911,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T036,3912,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T036,3913,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T027,3936,Doanh thu dịch vụ SME
+VPTD,1,T027,3937,Doanh thu dịch vụ di động
+VPTD,1,T027,3938,Thuê bao register
+VPTD,1,T027,3939,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T027,3940,Thuê bao FTTH
+VPTD,1,T027,3941,Thuê bao di động phát triển thực
+VPTD,1,T027,3942,Thuê bao 4G phát triển thực
+VPTD,1,T027,3943,Tổng doanh thu dịch vụ
+VPTD,1,T027,3944,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T027,3945,Doanh thu dịch vụ nhóm VTT
+VPTD,1,T027,3946,Doanh thu dịch vụ nhóm VDS
+VPTD,2,T074,4013,Doanh thu dịch vụ di động
+VPTD,2,T074,4014,Doanh thu dịch vụ SME
+VPTD,2,T074,4015,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T074,4016,Thuê bao FTTH
+VPTD,2,T074,4017,Thuê bao di động phát triển thực
+VPTD,2,T074,4018,Thuê bao 4G phát triển thực
+VPTD,2,T074,4019,Tổng doanh thu dịch vụ
+VPTD,2,T074,4020,Thuê bao register
+VPTD,2,T074,4021,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T074,4022,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T074,4023,Doanh thu dịch vụ nhóm VDS
+VPTD,1,Q052,4411,Doanh thu dịch vụ nhóm VTT
+VPTD,1,Q052,4412,Doanh thu dịch vụ nhóm VDS
+VPTD,1,Q052,4413,Doanh thu dịch vụ SME
+VPTD,2,VTG,2940,Tổng doanh thu
+VPTD,2,VTG,2941,Tiêu dùng thực di động
+VPTD,2,VTG,2942,Thuê bao register
+VPTD,2,VTG,2943,Dòng tiền ròng
+VPTD,2,KGM,3219,Thu nhập BQ
+VPTD,2,VTG,2945,VTG
+VPTD,2,KGM,3220,Chi phí
+VPTD,2,VTG,2947,Dòng tiền về VN
+VPTD,1,VTG,2949,Doanh thu dịch vụ
+VPTD,1,VTG,2950,Thuê bao di động phát triển thực
+VPTD,1,VTG,2951,Thuê bao 4G phát triển thực
+VPTD,1,VTG,2952,Thuê bao FTTH
+VPTD,2,KGM,3221,Lợi nhuận
+VPTD,1,VTG,2954,Tổng doanh thu
+VPTD,1,VTG,2955,Tiêu dùng thực di động
+VPTD,1,VTG,2956,Thuê bao register
+VPTD,2,KGM,3222,Doanh thu dịch vụ
+VPTD,1,VTG,2958,VTG
+VPTD,2,KGM,3223,VTCC
+VPTD,2,KGM,3224,Năng suất lao động BQ
+VPTD,2,KGM,3225,Tổng doanh thu
+VPTD,1,VDTC,3067,VDTC
+VPTD,2,VDTC,3086,Dán thẻ epass
+VPTD,2,KGM,3226,Tổng doanh thu tài chính
+VPTD,2,H321,3525,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,H321,3526,Doanh thu dịch vụ nhóm VTT
+VPTD,2,H321,3527,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H031,3572,Doanh thu dịch vụ SME
+VPTD,1,H031,3573,Doanh thu dịch vụ di động
+VPTD,1,B781,3708,Thuê bao FTTH
+VPTD,1,B281,3644,Tổng doanh thu dịch vụ
+VPTD,1,B781,3709,Thuê bao di động phát triển thực
+VPTD,1,B781,3710,Thuê bao 4G phát triển thực
+VPTD,1,B781,3711,Tổng doanh thu dịch vụ
+VPTD,1,B781,3712,Thuê bao register
+VPTD,1,B781,3713,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B781,3714,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B781,3715,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H019,3780,Doanh thu dịch vụ nhóm VTT
+VPTD,2,H019,3781,Doanh thu dịch vụ nhóm VDS
+VPTD,2,N351,3782,Doanh thu dịch vụ SME
+VPTD,2,N351,3783,Doanh thu dịch vụ di động
+VPTD,2,N351,3784,Doanh thu dịch vụ nhóm VTS
+VPTD,2,N351,3785,Thuê bao FTTH
+VPTD,2,N351,3786,Thuê bao di động phát triển thực
+VPTD,2,N351,3787,Thuê bao 4G phát triển thực
+VPTD,2,N351,3788,Tổng doanh thu dịch vụ
+VPTD,2,N351,3789,Thuê bao register
+VPTD,2,N351,3790,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,N351,3791,Doanh thu dịch vụ nhóm VTT
+VPTD,2,N351,3792,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H031,3793,Doanh thu dịch vụ SME
+VPTD,2,H031,3794,Doanh thu dịch vụ di động
+VPTD,2,H031,3795,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H031,3796,Thuê bao FTTH
+VPTD,2,H031,3797,Thuê bao di động phát triển thực
+VPTD,2,H031,3798,Thuê bao 4G phát triển thực
+VPTD,2,H031,3799,Tổng doanh thu dịch vụ
+VPTD,2,H031,3800,Thuê bao register
+VPTD,2,H031,3801,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,H031,3802,Doanh thu dịch vụ nhóm VTT
+VPTD,2,H031,3803,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H039,3804,Doanh thu dịch vụ SME
+VPTD,2,H039,3805,Doanh thu dịch vụ di động
+VPTD,2,H039,3806,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H039,3807,Thuê bao FTTH
+VPTD,2,H039,3808,Thuê bao di động phát triển thực
+VPTD,2,H039,3809,Thuê bao 4G phát triển thực
+VPTD,2,H039,3810,Tổng doanh thu dịch vụ
+VPTD,2,H039,3811,Thuê bao register
+VPTD,2,H039,3812,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,S022,3837,Doanh thu dịch vụ SME
+VPTD,2,VTTNEWNEW,2674,Tổng doanh thu
+VPTD,2,VTTNEWNEW,2675,Tiêu dùng thực di động
+VPTD,2,VTTNEWNEW,2676,Thuê bao register
+VPTD,1,MYN,2840,Doanh thu dịch vụ
+VPTD,1,MYN,2841,Thuê bao di động phát triển thực
+VPTD,2,VTTNEWNEW,2679,VTT
+VPTD,1,MYN,2842,Thuê bao 4G phát triển thực
+VPTD,1,MYN,2843,Tổng doanh thu
+VPTD,1,MYN,2844,Tiêu dùng thực di động
+VPTD,1,MYN,2845,Thuê bao register
+VPTD,1,MYN,2846,Thuê bao FTTH
+VPTD,2,VTL,2806,Lợi nhuận
+VPTD,2,VTL,2807,Doanh thu dịch vụ
+VPTD,2,VTL,2808,Thuê bao di động phát triển thực
+VPTD,2,VTL,2809,Thuê bao 4G phát triển thực
+VPTD,2,VTL,2811,Tổng doanh thu tài chính
+VPTD,2,VTL,2812,Tổng doanh thu
+VPTD,2,VTL,2813,Tiêu dùng thực di động
+VPTD,2,VTL,2814,Thuê bao register
+VPTD,2,VTL,2815,Dòng tiền ròng
+VPTD,2,VTL,2816,VTL
+VPTD,2,VTL,2817,Dòng tiền về VN
+VPTD,1,VBD,2848,Doanh thu dịch vụ
+VPTD,1,VBD,2849,Thuê bao di động phát triển thực
+VPTD,1,VBD,2850,Thuê bao 4G phát triển thực
+VPTD,1,VBD,2851,Tổng doanh thu
+VPTD,1,VBD,2852,Tiêu dùng thực di động
+VPTD,1,VBD,2853,Thuê bao register
+VPTD,1,VBD,2855,VBD
+VPTD,2,VBD,2868,Lợi nhuận
+VPTD,2,VBD,2869,Doanh thu dịch vụ
+VPTD,2,VBD,2870,Thuê bao di động phát triển thực
+VPTD,2,VBD,2871,Thuê bao 4G phát triển thực
+VPTD,2,VBD,2873,Tổng doanh thu tài chính
+VPTD,2,VBD,2874,Tổng doanh thu
+VPTD,2,VBD,2875,Tiêu dùng thực di động
+VPTD,2,VBD,2876,Thuê bao register
+VPTD,2,VBD,2877,Dòng tiền ròng
+VPTD,2,VBD,2878,VBD
+VPTD,2,VBD,2879,Dòng tiền về VN
+VPTD,2,TD,2974,Thu nhập BQ
+VPTD,1,TH,3090,Tổng doanh thu KD
+VPTD,2,XNK,3107,Doanh thu bán lẻ
+VPTD,1,TH,3092,VTM
+VPTD,1,XNK,3102,Doanh thu phân phối
+VPTD,1,XNK,3103,Doanh thu bán lẻ
+VPTD,1,XNK,3104,Tổng doanh thu công ty
+VPTD,1,XNK,3105,VCM
+VPTD,2,T066,3441,Doanh thu dịch vụ di động
+VPTD,2,XNK,3108,Tổng doanh thu công ty
+VPTD,2,XNK,3109,Tổng doanh thu (TC)
+VPTD,2,XNK,3110,VCM
+VPTD,2,T066,3440,Doanh thu dịch vụ SME
+VPTD,2,T066,3442,Doanh thu dịch vụ nhóm VTS
+VPTD,2,T066,3443,Thuê bao FTTH
+VPTD,2,T066,3444,Thuê bao di động phát triển thực
+VPTD,2,T066,3445,Thuê bao 4G phát triển thực
+VPTD,2,T066,3446,Tổng doanh thu dịch vụ
+VPTD,2,T066,3447,Thuê bao register
+VPTD,1,IDC,3189,IDC
+VPTD,1,IDC,3190,TỔNG DOANH THU (KD)
+VPTD,2,T066,3448,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,T066,3449,Doanh thu dịch vụ nhóm VTT
+VPTD,2,T066,3450,Doanh thu dịch vụ nhóm VDS
+VPTD,1,B056,3528,Doanh thu dịch vụ SME
+VPTD,1,B056,3529,Doanh thu dịch vụ di động
+VPTD,1,B056,3530,Doanh thu dịch vụ nhóm VTS
+VPTD,1,B056,3531,Thuê bao FTTH
+VPTD,1,B056,3532,Thuê bao di động phát triển thực
+VPTD,1,B056,3533,Thuê bao 4G phát triển thực
+VPTD,1,B056,3534,Tổng doanh thu dịch vụ
+VPTD,1,B056,3535,Thuê bao register
+VPTD,1,B056,3536,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B056,3537,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B056,3538,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B056,3539,Doanh thu dịch vụ SME
+VPTD,2,B056,3540,Doanh thu dịch vụ di động
+VPTD,2,B056,3541,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B056,3542,Thuê bao FTTH
+VPTD,2,B056,3543,Thuê bao di động phát triển thực
+VPTD,2,B056,3544,Thuê bao 4G phát triển thực
+VPTD,2,B056,3545,Tổng doanh thu dịch vụ
+VPTD,2,B056,3546,Thuê bao register
+VPTD,2,B056,3547,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B056,3548,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B056,3549,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B781,3716,Doanh thu dịch vụ SME
+VPTD,2,B781,3717,Doanh thu dịch vụ di động
+VPTD,2,B781,3718,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B781,3719,Thuê bao FTTH
+VPTD,2,B781,3720,Thuê bao di động phát triển thực
+VPTD,2,B781,3721,Thuê bao 4G phát triển thực
+VPTD,2,B781,3722,Tổng doanh thu dịch vụ
+VPTD,2,B781,3723,Thuê bao register
+VPTD,2,B781,3724,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B781,3725,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B781,3726,Doanh thu dịch vụ nhóm VDS
+VPTD,2,H039,3813,Doanh thu dịch vụ nhóm VTT
+VPTD,1,T280,3815,Doanh thu dịch vụ SME
+VPTD,1,T280,3816,Doanh thu dịch vụ di động
+VPTD,1,T280,3817,Thuê bao register
+VPTD,1,T280,3818,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T280,3819,Thuê bao FTTH
+VPTD,1,T280,3820,Thuê bao di động phát triển thực
+VPTD,1,T280,3821,Thuê bao 4G phát triển thực
+VPTD,1,T280,3822,Tổng doanh thu dịch vụ
+VPTD,1,T280,3823,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T280,3824,Doanh thu dịch vụ nhóm VTT
+VPTD,1,VTL,2743,Thuê bao di động phát triển thực
+VPTD,1,VTL,2744,Thuê bao 4G phát triển thực
+VPTD,1,VTL,2742,Doanh thu dịch vụ
+VPTD,1,VTL,2745,Tổng doanh thu
+VPTD,1,VTL,2746,Tiêu dùng thực di động
+VPTD,1,VTL,2747,Thuê bao register
+VPTD,1,VTL,2749,VTL
+VPTD,2,NAT,2900,Lợi nhuận
+VPTD,2,NAT,2901,Doanh thu dịch vụ
+VPTD,2,NAT,2902,Thuê bao di động phát triển thực
+VPTD,2,NAT,2903,Thuê bao 4G phát triển thực
+VPTD,2,NAT,2904,Thuê bao FTTH
+VPTD,2,NAT,2905,Tổng doanh thu tài chính
+VPTD,2,NAT,2906,Tổng doanh thu
+VPTD,2,NAT,2907,Tiêu dùng thực di động
+VPTD,2,NAT,2908,Thuê bao register
+VPTD,2,NAT,2909,Dòng tiền ròng
+VPTD,2,NAT,2910,NAT
+VPTD,2,NAT,2911,Dòng tiền về VN
+VPTD,2,XNK,3117,Dòng tiền ròng
+VPTD,2,XMCP,3118,DÒNG TIỀN RÒNG
+VPTD,2,XMCP,3119,LỢI NHUẬN TRƯỚC THUẾ
+VPTD,2,XMCP,3120,SẢN LƯỢNG TIÊU THỤ CLINKER
+VPTD,2,XMCP,3121,SẢN LƯỢNG TIÊU THỤ XI MĂNG
+VPTD,2,XMCP,3122,SẢN LƯỢNG TIÊU THỤ
+VPTD,2,XMCP,3123,DOANH THU XUẤT KHẨU
+VPTD,2,XMCP,3124,DOANH THU NỘI ĐỊA
+VPTD,2,XMCP,3125,DOANH THU CLINKER
+VPTD,2,XMCP,3126,XMCP
+VPTD,2,IDC,3191,Thu nhập BQ
+VPTD,2,IDC,3192,Chi phí
+VPTD,2,IDC,3193,Lợi nhuận
+VPTD,2,IDC,3194,Doanh thu dịch vụ
+VPTD,2,IDC,3195,IDC
+VPTD,2,IDC,3196,Năng suất lao động BQ
+VPTD,2,IDC,3197,Tổng doanh thu
+VPTD,2,IDC,3198,Tổng doanh thu tài chính
+VPTD,2,VTS,3231,Thu nhập BQ
+VPTD,2,VTS,3233,Lợi nhuận
+VPTD,2,VTS,3234,Doanh thu dịch vụ (trừ hubbing)
+VPTD,2,VTS,3235,VTS
+VPTD,2,VTS,3236,Năng suất lao động BQ
+VPTD,2,VTS,3237,Tổng doanh thu (trừ hubbing)
+VPTD,2,VTS,3238,Tổng doanh thu tài chính
+VPTD,2,VTS,3256,Doanh thu bán hàng giải pháp CNTT
+VPTD,1,K077,3624,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,K077,3625,Doanh thu dịch vụ nhóm VTT
+VPTD,1,D067,3350,Doanh thu dịch vụ di động
+VPTD,2,VNC,3264,Lợi nhuận
+VPTD,1,K077,3623,Thuê bao register
+VPTD,2,VNC,3266,VHT
+VPTD,1,K077,3626,Doanh thu dịch vụ nhóm VDS
+VPTD,2,K077,3627,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,VNC,3269,Giá trị sản lượng
+VPTD,2,K077,3628,Doanh thu dịch vụ nhóm VTT
+VPTD,2,VNC,3271,Năng suất lao động
+VPTD,2,VNC,3275,TỔNG DOANH THU (KD)
+VPTD,2,K077,3629,Doanh thu dịch vụ nhóm VDS
+VPTD,2,K077,3630,Doanh thu dịch vụ SME
+VPTD,2,K077,3631,Doanh thu dịch vụ di động
+VPTD,2,K077,3632,Doanh thu dịch vụ nhóm VTS
+VPTD,2,K077,3633,Thuê bao FTTH
+VPTD,2,K077,3634,Thuê bao di động phát triển thực
+VPTD,2,K077,3635,Thuê bao 4G phát triển thực
+VPTD,2,K077,3636,Tổng doanh thu dịch vụ
+VPTD,2,K077,3637,Thuê bao register
+VPTD,1,B281,3638,Doanh thu dịch vụ SME
+VPTD,1,B281,3639,Doanh thu dịch vụ di động
+VPTD,1,B281,3640,Doanh thu dịch vụ nhóm VTS
+VPTD,1,B281,3641,Thuê bao FTTH
+VPTD,1,B281,3642,Thuê bao di động phát triển thực
+VPTD,1,B281,3643,Thuê bao 4G phát triển thực
+BCL,1,MOV,1705,Tiêu dùng MOV
+BCL,1,MOV,1704,Doanh thu dich vụ MOV (kinh doanh trừ hubbing)
+BCL,1,MOV,1703,Thuê bao thực 4G tăng giảm MOV (Kinh doanh)
+BCL,1,MOV,1702,Thuê bao thực tăng giảm MOV (Kinh doanh)
+BCL,1,MYN,1836,Doanh thu dich vụ MYN (kinh doanh trừ hubbing)
+BCL,1,MYN,1837,Doanh thu MYN (Kinh doanh trừ hubbing)
+BCL,1,MYN,1838,MYN
+BCL,1,MYN,1839,Tiêu dùng MYN
+BCL,1,MYN,1840,Thuê bao thực tăng giảm MYN (Kinh doanh)
+BCL,1,MYN,1841,Thuê bao thực 4G tăng giảm (Kinh doanh)
+BCL,1,VTG,1879,1. Doanh thu cộng ngang VTNN (Kinh doanh)
+BCL,2,VTZ,1893,Thuê bao thực 4G tăng giảm
+BCL,1,VTG,1881,KHỐI VTNN
+BCL,1,VTG,1882,3. Tiêu dùng VTNN (kinh doanh)
+BCL,1,VTG,1883,4. Thuê bao thực tăng giảm VTNN (Kinh doanh)
+BCL,1,VTG,1885,5. Thuê bao thực 4G tăng giảm VTNN (Kinh doanh)
+BCL,1,VTZ,1886,Doanh thu dich vụ VTZ (kinh doanh trừ hubbing)
+BCL,1,VTZ,1887,Doanh thu VTZ (Kinh doanh trừ hubbing)
+BCL,1,VTZ,1888,VTZ
+BCL,1,VTZ,1889,Tiêu dùng VTZ
+BCL,1,VTZ,1890,Thuê bao thực tăng giảm VTZ (Kinh doanh)
+BCL,1,VTZ,1891,Thuê bao thực 4G tăng giảm VTZ (Kinh doanh)
+BCL,2,VTZ,1894,Doanh thu dịch vụ
+BCL,2,VTZ,1895,Tiêu dùng
+BCL,2,VTZ,1896,Doanh thu kinh doanh
+BCL,2,VTZ,1897,Lợi nhuận trước thuế
+BCL,2,VTZ,1898,Tổng doanh thu Tài chính
+BCL,2,VTZ,1899,VTZ
+BCL,1,VBD,1916,Doanh thu dich vụ VTB (kinh doanh trừ hubbing)
+BCL,1,VBD,1917,Doanh thu VTB (Kinh doanh trừ hubbing)
+BCL,1,VBD,1918,VTB
+BCL,1,VBD,1919,Tiêu dùng VTB
+BCL,1,VBD,1920,Thuê bao thực tăng giảm VTB (Kinh doanh)
+BCL,1,VBD,1921,Thuê bao thực 4G tăng giảm VTB (Kinh doanh)
+BCL,2,BC,2080,Doanh thu bưu chính (Kinh doanh trừ hubbing)_Tháng
+BCL,2,BC,2081,BƯU CHÍNH
+BCL,2,BC,2082,Doanh thu bưu chính (Tài chính)_Tháng
+BCL,2,BC,2083,Lợi nhuận trước thuế bưu chính (Tài chính)
+BCL,1,TVTK,2114,Doanh thu Tư vấn thiết kế (Kinh doanh trừ hubbing)
+BCL,1,TVTK,2115,TƯ VẤN THIẾT KẾ
+BCL,1,BC,2078,Doanh thu bưu chính (Kinh doanh trừ hubbing)
+BCL,1,BC,2079,BƯU CHÍNH
+BCL,1,XMCP,2120,Doanh thu Xi măng cẩm phả (Kinh doanh trừ hubbing)
+BCL,1,XMCP,2121,XI MĂNG CẨM PHẢ
+BCL,2,BDS,2128,Doanh thu Quản lý tài sản (Kinh doanh trừ hubbing)_Tháng
+BCL,2,BDS,2129,QUẢN LÝ TÀI SẢN
+BCL,2,BDS,2130,Doanh thu Quản lý tài sản (Tài chính)_Tháng
+BCL,2,BDS,2131,Lợi nhuận trước thuế Quản lý tài sản (Tài chính)
+BCL,1,KXL,2160,Doanh thu Khối Xây lắp (Kinh doanh trừ hubbing)
+BCL,1,KXL,2161,KHỐI XÂY LẮP
+,,,2169,Tổng doanh thu
+,,,2208,3. Thuê bao
+,,,2207,2. Doanh thu dịch vụ
+BCL,2,TD,2314,10. RPM thoại
+BCL,2,VTC,2460,MOU
+VPTD,1,TD,2355,Tổng doanh thu
+VPTD,1,TD,2356,Tiêu dùng thực di động
+VPTD,1,TD,2357,Thuê bao register
+BCL,2,TD,2396,13. DOU
+,,,2482,Thuê bao
+BCL,2,MYN,2483,DOU
+BCL,2,VTL,2486,Apru
+BCL,2,VTP,2494,DOU
+BCL,2,VBD,2497,RPM thoại
+BCL,2,VTZ,2502,RPD data
+BCL,2,VTS,1502,4. Doanh thu dịch vụ
+BCL,2,VTG,2515,RPD data
+BCL,2,VTG,2516,MOU_VTNN
+BCL,2,VTG,2518,Apru_VTNN
+VPTD,2,TD,2534,Doanh thu hợp nhất
+BCL,1,TD,1584,1. Doanh Thu cộng ngang Tập đoàn (Kinh doanh)_ngày
+BCL,1,VTL,1663,Thuê bao thực 4G tăng giảm VTL (Kinh doanh)
+BCL,1,VTP,1854,Thuê bao thực tăng giảm
+BCL,1,VTP,1855,Thuê bao thực 4G tăng giảm
+BCL,1,VTP,1856,Doanh thu dịch vụ
+BCL,1,VTP,1857,Tiêu dùng
+BCL,1,VTP,1858,Doanh thu kinh doanh
+BCL,1,VTP,1859,VTP
+BCL,2,CTM,1564,6. Doanh thu dịch vụ
+BCL,2,VTG,1860,2. Lợi nhuận trước thuế VTNN (Tài chính)
+BCL,2,VTG,1861,4. Doanh thu dich vụ VTNN (kinh doanh)
+BCL,2,VTG,1862,3. Doanh thu cộng ngang VTNN (Kinh doanh)
+BCL,2,VTG,1863,1. Doanh thu hợp nhất VTNN (VTG hợp nhất + Peru)
+BCL,2,VTG,1864,KHỐI VTNN
+BCL,2,VTG,1865,5.Tiêu dùng VTNN (kinh doanh)
+BCL,2,VTG,1866,6. Thuê bao thực tăng giảm VTNN (Kinh doanh)
+BCL,2,VTG,1868,7. Thuê bao thực 4G tăng giảm VTNN (Kinh doanh)
+BCL,2,VBD,1908,Thuê bao thực tăng giảm
+BCL,2,VBD,1909,Thuê bao thực 4G tăng giảm
+BCL,2,VBD,1910,Doanh thu dịch vụ
+BCL,2,VBD,1911,Tiêu dùng
+BCL,2,VBD,1912,Doanh thu kinh doanh
+BCL,2,VBD,1913,Lợi nhuận trước thuế
+BCL,2,VBD,1914,Tổng doanh thu Tài chính
+BCL,2,VBD,1915,VTB
+BCL,2,M3,2040,Doanh thu M3 (Kinh doanh trừ hubbing)_Tháng
+BCL,2,M3,2041,M3
+BCL,2,M3,2042,Doanh thu M3 (Tài chính)_Tháng
+BCL,2,M3,2043,Lợi nhuận trước thuế M3 (Tài chính)
+BCL,1,IDC,2054,Doanh thu IDC (Kinh doanh trừ hubbing)
+BCL,1,IDC,2055,IDC
+BCL,2,IDC,2056,Doanh thu IDC (Kinh doanh trừ hubbing)_Tháng
+BCL,2,IDC,2057,IDC
+BCL,2,IDC,2058,Doanh thu IDC (Tài chính)_Tháng
+BCL,2,IDC,2059,Lợi nhuận trước thuế IDC (Tài chính)
+BCL,1,ANM,2060,Doanh thu ANM (Kinh doanh)
+BCL,1,ANM,2061,Dashboard ANM
+BCL,2,ANM,2062,Doanh thu ANM (Kinh doanh)_Tháng
+BCL,2,ANM,2063,Dashboard ANM
+BCL,2,ANM,2064,Doanh thu ANM (Tài chính)_Tháng
+BCL,2,ANM,2065,Lợi nhuận trước thuế ANM (Tài chính)
+BCL,1,KGM,2066,Doanh thu KGM (Kinh doanh trừ hubbing)
+BCL,1,KGM,2067,Dashboard KGM
+BCL,2,KGM,2068,Doanh thu KGM (Kinh doanh trừ hubbing)_Tháng
+BCL,2,KGM,2069,Dashboard KGM
+BCL,2,KGM,2070,Doanh thu KGM (Tài chính)_Tháng
+BCL,2,KGM,2071,Lợi nhuận trước thuế KGM (Tài chính)
+BCL,1,XNK,2072,Doanh thu XNK (Kinh doanh trừ hubbing)
+BCL,1,XNK,2073,Dashboard XNK
+,,,2336,3. Lợi nhuận trước thuế tập đoàn_2336
+,,,2337,8. Thuê bao thực tăng giảm_2337
+,,,2338,5. Doanh Thu cộng ngang Tập đoàn (Kinh doanh)_2338
+,,,2339,4. Dòng tiền ròng_2339
+BCL,2,TH,2134,Doanh thu Media (Kinh doanh trừ hubbing)_Tháng
+BCL,2,TH,2135,Dashboard Media
+BCL,2,TH,2136,Doanh thu Media (Tài chính)_Tháng
+BCL,2,TH,2137,Lợi nhuận trước thuế Media (Tài chính)
+,,,2340,Doanh thu dịch vụ_2340
+,,,2341,Doanh thu SX và dịch vụ_2341
+,,,2342,9. TB 4G tăng giảm_2342
+,,,2343,RPM thoại_2343
+,,,2344,2. Doanh thu cộng ngang Tập đoàn (Tài chính)_2344
+,,,2345,Doanh Thu hợp nhất_2345
+,,,2346,7. Tiêu dùng di động_2346
+,,,2347,TẬP ĐOÀN_2347
+BCL,2,VTTNEWNEW,2440,10. MOU
+BCL,2,VTTNEWNEW,2444,12. Apru
+BCL,2,VTC,2458,8. RPM thoại
+BCL,2,VTC,2461,DOU
+BCL,2,STL,2466,DOU
+BCL,2,STL,2467,Apru
+BCL,2,NAT,2470,MOU
+BCL,2,NAT,2471,DOU
+BCL,2,NAT,2472,Apru
+BCL,2,MOV,2473,RPM thoại
+BCL,2,MOV,2476,DOU
+BCL,2,VBD,2501,Apru
+BCL,2,VTL,2485,MOU
+BCL,2,VTP,2491,RPD data
+,,,2506,2. Doanh thu cộng ngang Tập đoàn (Tài chính)_2344 Copy Copy Copy
+BCL,2,VTG,2517,DOU_VTNN
+,,,2614,Suất đầu tư cho cả dự án
+VPTD,1,VTTNEWNEW,2658,Doanh thu dịch vụ
+VPTD,1,VTTNEWNEW,2659,Thuê bao di động phát triển thực
+VPTD,1,VTTNEWNEW,2660,Thuê bao 4G phát triển thực
+VPTD,1,VTTNEWNEW,2663,Tổng doanh thu
+VPTD,1,VTTNEWNEW,2664,Tiêu dùng thực di động
+VPTD,1,VTTNEWNEW,2665,Thuê bao register
+VPTD,1,VTTNEWNEW,2666,Thuê bao FTTH
+VPTD,1,VTTNEWNEW,2667,VTT
+VPTD,2,VTTNEWNEW,2668,Lợi nhuận
+VPTD,2,VTTNEWNEW,2669,Doanh thu dịch vụ
+VPTD,2,VTTNEWNEW,2670,Thuê bao di động phát triển thực
+VPTD,2,VTTNEWNEW,2671,Thuê bao 4G phát triển thực
+VPTD,2,VTTNEWNEW,2672,Thuê bao FTTH
+VPTD,2,VTTNEWNEW,2673,Tổng doanh thu tài chính
+BCL,2,NAT,1796,6. Thuê bao thực tăng giảm
+BCL,2,TD,1476,2. Doanh thu cộng ngang Tập đoàn (Tài chính)
+BCL,2,TN,1561,7. Thuê bao thực 4G tăng giảm VTTN (Kinh doanh)
+BCL,1,VTC,1822,Doanh thu dich vụ VTC (kinh doanh trừ hubbing)
+BCL,2,CTM,1555,4. Dòng tiền ròng
+BCL,2,NAT,1797,7. Thuê bao thực 4G tăng giảm
+BCL,2,CTM,1556,3. Lợi nhuận trước thuế
+BCL,2,CTM,1557,2. Doanh thu cộng ngang CTM (Tài chính)
+BCL,2,NAT,1798,4. Doanh thu dịch vụ
+BCL,2,CTM,1558,CÔNG TY MẸ
+BCL,2,CTM,1559,1. Doanh thu hợp nhất
+BCL,2,NAT,1799,5. Tiêu dùng
+BCL,2,NAT,1800,3. Doanh thu kinh doanh
+BCL,1,CTM,1568,4. Thuê bao thực tăng giảm
+BCL,2,NAT,1801,2. Lợi nhuận trước thuế
+BCL,1,CTM,1569,5. Thuê bao thực 4G tăng giảm
+BCL,2,NAT,1802,1. Tổng doanh thu Tài chính
+BCL,2,NAT,1803,NCM
+BCL,1,CTM,1570,1. Doanh thu Cộng ngang
+BCL,1,CTM,1571,3. Tiêu dùng
+BCL,1,CTM,1572,2. Doanh thu dịch vụ
+BCL,1,VTC,1823,Doanh thu VTC (Kinh doanh trừ hubbing)
+BCL,1,VTC,1824,VTC
+BCL,1,VTC,1825,Tiêu dùng VTC
+BCL,1,VTC,1826,Thuê bao thực tăng giảm VTC (Kinh doanh)
+BCL,1,VTC,1827,Thuê bao thực 4G tăng giảm VTC
+BCL,2,MYN,1828,Thuê bao thực tăng giảm
+BCL,2,MYN,1829,Thuê bao thực 4G tăng giảm
+BCL,2,MYN,1830,Doanh thu dịch vụ
+BCL,2,MYN,1831,Tiêu dùng
+BCL,2,MYN,1832,Doanh thu kinh doanh
+BCL,2,MYN,1833,Lợi nhuận trước thuế
+,,,1413,Chi tiết Dòng tiền ròng
+BCL,2,MYN,1834,Tổng doanh thu Tài chính
+BCL,2,MYN,1835,MYN
+BCL,2,VTP,1869,Thuê bao thực tăng giảm
+BCL,2,VTP,1870,Thuê bao thực 4G tăng giảm
+,,,1410,Chi tiết tổng doanh thu tài chính
+,,,1416,Chi tiết Thuê bao 4g (tăng giảm trong tháng)
+BCL,2,VTP,1871,Doanh thu dịch vụ
+BCL,2,VTP,1872,Tiêu dùng
+BCL,2,VTP,1873,Doanh thu kinh doanh
+BCL,2,VTC,1578,1. Doanh thu VTC (Tài chính)_Tháng
+BCL,2,TD,970,Doanh Thu hợp nhất
+VPTD,1,B781,3707,Doanh thu dịch vụ nhóm VTS
+BCL,2,VTP,1874,Lợi nhuận trước thuế
+,,,1419,Chi tiết Thuê bao FTTH
+,,,1421,Thuê bao ViettelPay
+BCL,2,VTP,1875,Tổng doanh thu Tài chính
+BCL,2,VTP,1876,VTP
+BCL,2,TD,1470,7. Tiêu dùng di động
+BCL,2,VTC,1579,2. Lợi nhuận trước thuế VTC (Tài chính)_Tháng
+BCL,2,M1,2028,Doanh thu M1 (Kinh doanh trừ hubbing)_Tháng
+BCL,2,VTC,1595,5. Tiêu dùng VTC (kinh doanh)_Tháng
+BCL,1,STL,1607,Thuê bao thực tăng giảm
+BCL,1,STL,1608,Thuê bao thực 4G tăng giảm
+BCL,1,STL,1609,Doanh thu dịch vụ
+BCL,1,STL,1610,Tiêu dùng
+BCL,1,STL,1611,Doanh thu kinh doanh
+BCL,1,VNC,2015,Doanh thu VHT (Kinh doanh trừ hubbing)
+,,,1411,Chi tiết Doanh thu hợp nhất
+BCL,1,VNC,2016,Dashboard VHT
+BCL,1,STL,1614,STL
+BCL,1,VTTNEWNEW,1652,2. Doanh thu dich vụ VTT (kinh doanh)
+BCL,1,VTTNEWNEW,1653,1. Doanh thu VTT (Kinh doanh)
+BCL,1,VTTNEWNEW,1654,VTT
+BCL,1,VTTNEWNEW,1655,3. Tiêu dùng VTT
+BCL,2,M1,2029,Dashboard M1
+BCL,1,VTTNEWNEW,1656,4.Thuê bao thực tăng giảm VTT (Kinh doanh)
+BCL,1,VTTNEWNEW,1657,5. Thuê bao thực 4G tăng giảm VTT (Kinh doanh)
+BCL,2,VHK,2050,Doanh thu VTX (Kinh doanh trừ hubbing)_Tháng
+BCL,2,VHK,2051,Dashboard VTX
+BCL,2,VHK,2052,Doanh thu VTX (Tài chính)_Tháng
+BCL,2,M1,2033,Doanh thu M1 (Tài chính)_Tháng
+BCL,2,TD,390,TẬP ĐOÀN
+BCL,2,M1,2034,Lợi nhuận trước thuế M1 (Tài chính)
+BCL,2,VHK,2053,Lợi nhuận trước thuế VTX (Tài chính)
+BCL,2,XMCP,2122,Doanh thu Xi măng cẩm phả (Kinh doanh trừ hubbing)_Tháng
+BCL,2,XMCP,2123,Dashboard Xi măng cẩm phả
+BCL,2,XMCP,2124,Doanh thu Xi măng cẩm phả (Tài chính)_Tháng
+BCL,2,XMCP,2125,Lợi nhuận trước thuế Xi măng cẩm phả (Tài chính)
+BCL,1,BDS,2126,Doanh thu Quản lý tài sản (Kinh doanh trừ hubbing)
+BCL,1,BDS,2127,Dashboard Quản lý tài sản
+,,,2237,vts_demo_dashboard_dongkhacthuan
+,,,2238,hungpd20 dashboard
+BCL,1,CNTT,2152,Doanh thu Khối CNTT (Kinh doanh trừ hubbing)
+BCL,1,CNTT,2153,Dashboard Khối CNTT
+BCL,2,TD,2397,14. Apru
+BCL,2,KXL,2162,Doanh thu Khối Xây lắp (Kinh doanh trừ hubbing)_Tháng
+BCL,2,KXL,2163,Dashboard Khối Xây lắp
+BCL,2,VTTNEWNEW,2437,8. RPM thoại
+VPTD,1,TD,2354,Tập Đoàn
+BCL,2,TD,2394,10. RPD data
+BCL,2,VTTNEWNEW,2441,11. DOU
+BCL,2,STL,2463,RPM thoại
+BCL,2,NAT,2469,RPD data
+BCL,2,MOV,2475,MOU
+BCL,2,MYN,2481,MOU
+BCL,2,VTL,2488,DOU
+BCL,2,VTP,2490,RPM thoại
+BCL,2,VTP,2492,MOU
+BCL,2,VTZ,2493,Rpm Thoại
+BCL,2,VTP,2495,Apru
+BCL,2,VBD,2500,DOU
+BCL,2,VTZ,2503,MOU
+VPTD,2,VTC,2691,Lợi nhuận
+VPTD,2,VTC,2692,Doanh thu dịch vụ
+VPTD,2,VTC,2693,Thuê bao di động phát triển thực
+VPTD,2,VTC,2694,Thuê bao 4G phát triển thực
+VPTD,2,VTC,2695,Thuê bao FTTH
+VPTD,2,VTC,2696,Tổng doanh thu tài chính
+VPTD,2,VTC,2697,Tổng doanh thu
+VPTD,2,VTC,2698,Tiêu dùng thực di động
+VPTD,2,VTC,2699,Thuê bao register
+VPTD,2,VTC,2700,Dòng tiền ròng
+VPTD,2,VTC,2701,VTC
+VPTD,2,VTZ,2888,Lợi nhuận
+VPTD,2,VTC,2710,Dòng tiền về VN
+VPTD,2,VTZ,2889,Doanh thu dịch vụ
+VPTD,2,VTZ,2890,Thuê bao di động phát triển thực
+VPTD,2,VTZ,2891,Thuê bao 4G phát triển thực
+VPTD,2,VTZ,2893,Tổng doanh thu tài chính
+VPTD,2,VTZ,2894,Tổng doanh thu
+VPTD,2,VTZ,2895,Tiêu dùng thực di động
+VPTD,1,VTP,2734,Doanh thu dịch vụ
+VPTD,1,VTP,2735,Thuê bao di động phát triển thực
+VPTD,1,VTP,2736,Thuê bao 4G phát triển thực
+VPTD,1,VTP,2737,Tổng doanh thu
+VPTD,1,VTP,2738,Tiêu dùng thực di động
+VPTD,1,VTP,2739,Thuê bao register
+VPTD,1,VTP,2741,VTP
+VPTD,2,VTZ,2896,Thuê bao register
+VPTD,2,VTZ,2897,Dòng tiền ròng
+VPTD,2,VTZ,2898,VTZ
+VPTD,2,VTZ,2899,Dòng tiền về VN
+VPTD,2,TD,2975,Năng suất lao động BQ
+VPTD,2,XNK,3115,Lợi nhuận
+VPTD,1,VDTC,3081,Dán thẻ epass
+VPTD,2,VDTC,3083,LAO ĐỘNG BQ TRONG DS
+VPTD,2,VDTC,3084,Dòng tiền ròng
+VPTD,2,VDTC,3085,Lợi nhuận
+VPTD,2,VDTC,3087,Doanh thu dịch vụ
+VPTD,1,XMCP,3127,SẢN LƯỢNG TIÊU THỤ
+VPTD,1,XMCP,3128,DOANH THU XUẤT KHẨU
+VPTD,1,XMCP,3129,DOANH THU NỘI ĐỊA
+VPTD,1,XMCP,3130,DOANH THU CLINKER
+VPTD,1,XMCP,3131,DOANH THU XI MĂNG
+VPTD,1,XMCP,3132,XMCP
+VPTD,1,XMCP,3134,SẢN LƯỢNG TIÊU THỤ CLINKER
+VPTD,2,XMCP,3135,DOANH THU XI MĂNG
+VPTD,1,D067,3351,Doanh thu dịch vụ SME
+VPTD,2,D067,3357,Doanh thu dịch vụ SME
+VPTD,2,D067,3358,Doanh thu dịch vụ di động
+VPTD,2,D067,3359,Doanh thu dịch vụ nhóm VTS
+VPTD,2,D067,3360,Thuê bao FTTH
+VPTD,2,D067,3361,Thuê bao di động phát triển thực
+VPTD,2,D067,3362,Thuê bao 4G phát triển thực
+VPTD,2,D067,3363,Tổng doanh thu dịch vụ
+VPTD,2,D067,3364,Thuê bao register
+VPTD,2,D067,3365,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T037,3407,Doanh thu dịch vụ SME
+VPTD,2,D067,3367,Doanh thu dịch vụ nhóm VTT
+VPTD,2,D067,3368,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T037,3408,Doanh thu dịch vụ di động
+VPTD,1,T037,3409,Thuê bao register
+VPTD,1,T037,3410,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T037,3411,Thuê bao FTTH
+VPTD,1,T037,3412,Thuê bao di động phát triển thực
+VPTD,1,T037,3413,Thuê bao 4G phát triển thực
+VPTD,1,T037,3414,Tổng doanh thu dịch vụ
+VPTD,1,T037,3415,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T037,3416,Doanh thu dịch vụ nhóm VTT
+VPTD,1,T037,3417,Doanh thu dịch vụ nhóm VDS
+VPTD,1,T066,3451,Doanh thu dịch vụ SME
+VPTD,1,T066,3452,Doanh thu dịch vụ di động
+VPTD,1,T066,3453,Thuê bao register
+VPTD,1,T066,3454,Doanh thu dịch vụ nhóm VTS
+VPTD,1,T066,3455,Thuê bao FTTH
+VPTD,1,T066,3456,Thuê bao di động phát triển thực
+VPTD,1,T066,3457,Thuê bao 4G phát triển thực
+VPTD,1,T066,3458,Tổng doanh thu dịch vụ
+VPTD,1,T066,3459,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,T066,3460,Doanh thu dịch vụ nhóm VTT
+VPTD,1,T066,3461,Doanh thu dịch vụ nhóm VDS
+VPTD,2,B650,3473,Doanh thu dịch vụ SME
+VPTD,2,B650,3474,Doanh thu dịch vụ di động
+VPTD,2,B650,3475,Doanh thu dịch vụ nhóm VTS
+VPTD,2,B650,3476,Thuê bao FTTH
+VPTD,2,B650,3477,Thuê bao di động phát triển thực
+VPTD,2,B650,3478,Thuê bao 4G phát triển thực
+VPTD,2,B650,3479,Tổng doanh thu dịch vụ
+VPTD,2,B650,3480,Thuê bao register
+VPTD,2,B650,3481,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,B650,3482,Doanh thu dịch vụ nhóm VTT
+VPTD,2,B650,3483,Doanh thu dịch vụ nhóm VDS
+VPTD,1,B240,3605,Doanh thu dịch vụ SME
+VPTD,1,B240,3606,Doanh thu dịch vụ di động
+VPTD,1,B240,3607,Doanh thu dịch vụ nhóm VTS
+VPTD,1,B240,3608,Thuê bao FTTH
+VPTD,1,B240,3609,Thuê bao di động phát triển thực
+VPTD,1,B240,3610,Thuê bao 4G phát triển thực
+VPTD,1,B240,3611,Tổng doanh thu dịch vụ
+VPTD,1,B240,3612,Thuê bao register
+VPTD,1,B240,3613,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B240,3614,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B240,3615,Doanh thu dịch vụ nhóm VDS
+VPTD,1,K077,3616,Doanh thu dịch vụ SME
+VPTD,1,K077,3617,Doanh thu dịch vụ di động
+VPTD,1,K077,3618,Doanh thu dịch vụ nhóm VTS
+VPTD,1,K077,3619,Thuê bao FTTH
+VPTD,1,K077,3620,Thuê bao di động phát triển thực
+VPTD,1,K077,3621,Thuê bao 4G phát triển thực
+VPTD,2,VDS,3049,Lợi nhuận
+VPTD,1,CT,3044,Tổng doanh thu KD
+VPTD,1,CT,3045,Doanh thu xây lắp
+VPTD,2,VDS,3050,Doanh thu (KD)
+VPTD,1,CT,3047,Doanh thu vận hành khai thác
+VPTD,1,CT,3048,VCC
+VPTD,2,VDS,3051,Doanh thu tài chính
+VPTD,2,TH,3093,Lợi nhuận
+VPTD,2,TH,3094,Doanh thu (KD)
+VPTD,2,VDS,3055,VDS
+VPTD,2,TH,3095,Doanh thu tài chính
+,,,3005,Tập Đoàn
+VPTD,1,ANM,3178,VCS
+VPTD,2,TH,3097,VTM
+VPTD,2,TVTK,3098,Lợi nhuận
+,,,3009,Năng suất lao động BQ
+,,,3010,Thu nhập BQ
+VPTD,2,TVTK,3099,Dòng tiền ròng
+VPTD,2,TVTK,3100,Doanh thu tài chính
+VPTD,2,TVTK,3101,TVTK
+VPTD,1,VTS,3254,DT BÁN HÀNG GIẢI PHÁP CNTT
+VPTD,2,VTS,3259,Doanh thu bán hàng y tế
+VPTD,2,VDTC,3077,VDTC
+VPTD,2,VDTC,3082,Năng suất lao động BQ
+VPTD,2,M1,3322,Lợi nhuận
+VPTD,2,M1,3323,M1
+VPTD,2,M1,3324,Giá trị sản lượng
+VPTD,2,M1,3329,TỔNG DOANH THU (KD)
+VPTD,1,B650,3462,Doanh thu dịch vụ SME
+VPTD,1,B650,3463,Doanh thu dịch vụ di động
+VPTD,1,B650,3464,Doanh thu dịch vụ nhóm VTS
+VPTD,1,B650,3465,Thuê bao FTTH
+VPTD,1,B650,3466,Thuê bao di động phát triển thực
+VPTD,1,B650,3467,Thuê bao 4G phát triển thực
+VPTD,1,B650,3468,Tổng doanh thu dịch vụ
+VPTD,1,B650,3469,Thuê bao register
+VPTD,1,B650,3470,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,B650,3471,Doanh thu dịch vụ nhóm VTT
+VPTD,1,B650,3472,Doanh thu dịch vụ nhóm VDS
+VPTD,1,K077,3622,Tổng doanh thu dịch vụ
+VPTD,2,K060,3694,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,K060,3695,Doanh thu dịch vụ nhóm VTT
+VPTD,2,K060,3696,Doanh thu dịch vụ nhóm VDS
+VPTD,2,K060,3697,Doanh thu dịch vụ SME
+VPTD,2,K060,3698,Doanh thu dịch vụ di động
+VPTD,2,K060,3699,Doanh thu dịch vụ nhóm VTS
+VPTD,2,K060,3700,Thuê bao FTTH
+VPTD,2,K060,3701,Thuê bao di động phát triển thực
+VPTD,2,K060,3702,Thuê bao 4G phát triển thực
+VPTD,2,K060,3703,Tổng doanh thu dịch vụ
+VPTD,2,K060,3704,Thuê bao register
+VPTD,1,B781,3705,Doanh thu dịch vụ SME
+VPTD,1,B781,3706,Doanh thu dịch vụ di động
+BAN_DO,2,TD,9039,NĂNG SUẤT LAO ĐỘNG BQ
+BAN_DO,2,TD,9041,LAO ĐỘNG BQ TRONG DS
+VPTD,1,ANM,9062,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,VTTNEWNEW,9236,DOANH THU DỊCH VỤ
+BAN_DO,1,VTTNEWNEW,9315,Tiêu dùng thực di động
+BAN_DO,2,VTTNEWNEW,9157,TỔNG DOANH THU(TC)
+BAN_DO,2,VTTNEWNEW,9158,DOANH THU DỊCH VỤ NHÓM SME
+BAN_DO,2,VTTNEWNEW,9159,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,VTTNEWNEW,9160,Thuê bao register  di động
+BAN_DO,2,VTTNEWNEW,9161,Thuê bao di động phát triển thực
+BAN_DO,2,VTTNEWNEW,9162,Thuê bao 4G phát triển thực
+BAN_DO,2,TD,9034,DOANH THU HỢP NHẤT (TC)
+BAN_DO,2,VTTNEWNEW,9163,Thuê bao FTTH
+BAN_DO,1,VTTNEWNEW,9316,Thuê bao register di động
+BAN_DO,2,VTTNEWNEW,9165,NĂNG SUẤT LAO ĐỘNG BQ
+BAN_DO,2,VTTNEWNEW,9166,LAO ĐỘNG BQ TRONG DS
+BAN_DO,2,VTTNEWNEW,9167,TỔNG DOANH THU(KD)
+BAN_DO,1,VTTNEWNEW,9317,Thuê bao di động phát triển thực
+BAN_DO,2,VTTNEWNEW,9169,THU NHẬP BQ
+BAN_DO,2,VTTNEWNEW,9170,VTT
+BAN_DO,2,VTTNEWNEW,9171,LỢI NHUẬN TT
+BAN_DO,1,VTTNEWNEW,9318,Thuê bao 4G phát triển thực
+BAN_DO,2,VTTNEWNEW,9173,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+BAN_DO,2,VTTNEWNEW,9174,DOANH THU DI ĐỘNG
+BAN_DO,1,VTTNEWNEW,9319,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+BAN_DO,2,VTG,9176,Tiêu dùng thực di động
+BAN_DO,1,VTTNEWNEW,9320,Thuê bao FTTH
+BAN_DO,2,VTG,9178,Doanh thu dịch vụ (trừ hubbing)
+BAN_DO,2,VTG,9179,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,VTG,9180,Thuê bao register di động
+BAN_DO,2,VTG,9181,Thuê bao di động phát triển thực
+BAN_DO,2,VTG,9182,Thuê bao 4G phát triển thực
+BAN_DO,2,VTG,9183,Thuê bao FTTH
+BAN_DO,2,VTS,9424,Thu nhập BQ
+BAN_DO,2,VTG,9185,NĂNG SUẤT LAO ĐỘNG BQ
+BAN_DO,2,VTG,9186,LAO ĐỘNG BQ TRONG DS
+BAN_DO,2,VTG,9187,DOANH THU CỘNG NGANG(KD)
+BAN_DO,2,VTG,9188,DÒNG TIỀN RÒNG
+BAN_DO,2,VTG,9189,THU NHẬP BQ
+BAN_DO,2,VTG,9190,VTG
+BAN_DO,2,VTG,9191,LỢI NHUẬN TT
+BAN_DO,2,VTG,9192,DÒNG TIỀN VỀ VN
+BAN_DO,2,VTG,9193,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+BAN_DO,2,VTG,9194,DOANH THU CỘNG NGANG (TC)
+BAN_DO,2,VTS,9427,Năng suất lao động BQ
+BAN_DO,1,VTTNEWNEW,9323,VTT
+Dashboard Năm,2,TD,9455,Thuê bao VIETTEL MONEY
+Dashboard Năm,2,TD,9456,Tiêu dùng thực di động
+Dashboard Năm,2,TD,9457,Tổng doanh thu
+BAN_DO,1,VTTNEWNEW,9324,Tổng doanh thu(KD)
+BAN_DO,1,VTTNEWNEW,9325,Doanh thu dịch vụ
+BAN_DO,1,VTTNEWNEW,9326,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,1,VDS,9399,DV SMS
+BAN_DO,1,VTS,9340,DT BÁN HÀNG Y TẾ
+Dashboard Năm,2,TD,9458,Doanh thu dịch vụ (trừ hubbing)
+Dashboard Năm,2,TD,9459,DOANH THU DỊCH VỤ & SẢN XUẤT
+Dashboard Năm,2,TD,9460,Thuê bao register di động
+Dashboard Năm,2,TD,9461,Thuê bao di động phát triển thực
+Dashboard Năm,2,TD,9462,Thuê bao 4G phát triển thực
+BAN_DO,2,VTS,9210,VTS
+Dashboard Năm,2,TD,9463,Thuê bao FTTH
+Dashboard Năm,2,TD,9464,Dán thẻ epass
+BAN_DO,2,VTS,9213,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+Dashboard Năm,2,TD,9465,NĂNG SUẤT LAO ĐỘNG BQ
+BAN_DO,1,VTS,9341,DT BÁN HÀNG DỰ ÁN BQP
+BAN_DO,1,VDS,9395,DT BÁN THẺ CÀO NỘI MẠNG
+BAN_DO,1,VTG,9402,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+BAN_DO,1,VTS,9401,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+Dashboard Năm,2,TD,9466,LAO ĐỘNG BQ TRONG DS
+Dashboard Năm,2,TD,9467,DOANH THU HỢP NHẤT (TC)
+BAN_DO,1,VTS,9347,VTS
+BAN_DO,1,VTS,9348,DOANH THU CỘNG NGANG(KD)
+BAN_DO,1,VTS,9349,Doanh thu dịch vụ (trừ hubbing)
+BAN_DO,1,VTS,9350,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,1,VTTNEWNEW,9378,DOANH THU DỊCH VỤ NHÓM SME
+BAN_DO,1,VTS,9382,DT BÁN HÀNG GIÁO DỤC
+Dashboard Năm,2,TD,9468,DÒNG TIỀN RÒNG
+Dashboard Năm,2,TD,9469,THU NHẬP BQ
+Dashboard Năm,2,TD,9470,Tập Đoàn
+Dashboard Năm,2,TD,9471,LỢI NHUẬN TT
+Dashboard Năm,2,TD,9472,DÒNG TIỀN VỀ VN
+Dashboard Năm,2,TD,9473,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+Dashboard Năm,2,TD,9474,DOANH THU CỘNG NGANG (TC)
+Dashboard Năm,2,VTTNEWNEW,9555,DOANH THU CÁC DỊCH VỤ MỚI
+VPTD,2,CTM,9755,DÒNG TIỀN RÒNG
+VPTD,1,TD,9936,Thuê bao MOBILE MONEY
+VPTD,2,TD,9955,Thuê bao MOBILE MONEY
+VPTD,2,CTM,9672,LAO ĐỘNG BQ TRONG DS
+VPTD,2,VDS,9938,Thuê bao MOBILE MONEY PSGD
+VPTD,1,TD,9975,Thuê bao VIETTEL MONEY_9975
+VPTD,1,TD,9976,DỊCH VỤ TV360_9976
+VPTD,2,CTM,9676,NĂNG SUẤT LAO ĐỘNG BQ
+VPTD,2,CTM,9677,THU NHẬP BQ
+VPTD,1,TD,9977,DOANH THU DỊCH VỤ & SẢN XUẤT_9977
+VPTD,2,CTM,9679,TỔNG DOANH THU (KD)
+VPTD,1,TD,9978,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_9978
+VPTD,1,TD,9979,Doanh thu dịch vụ_9979
+VPTD,2,CTM,9682,CTM
+VPTD,2,CTM,9683,LỢI NHUẬN TT
+Dashboard tuần chỉ huy,1,TD,9824,Tập Đoàn
+Dashboard tuần chỉ huy,1,TD,9825,Tổng doanh thu
+VPTD,1,TD,9980,Thuê bao di động phát triển thực_9980
+VPTD,1,TD,9981,Thuê bao 4G phát triển thực_9981
+VPTD,2,CTM,9688,TỔNG DOANH THU (TC)
+Bản đồ năm,2,TD,9696,THU NHẬP BÌNH QUÂN
+Dashboard tuần chỉ huy,1,TD,9830,Doanh thu dịch vụ (trừ hubbing) VTG
+VPTD,1,TD,9982,Dán thẻ epass_9982
+VPTD,1,TD,9983,Tổng doanh thu_9983
+VPTD,1,TD,9984,Tiêu dùng thực di động_9984
+VPTD,1,TD,9985,Thuê bao register_9985
+VPTD,1,TD,9986,Tập Đoàn_9986
+VPTD,1,TD,9987,Thuê bao MOBILE MONEY_9987
+VPTD,1,TD,9935,Thuê bao MOBILE MONEY
+VPTD,1,TD,9988,Thuê bao MOBILE MONEY_9988
+VPTD,1,TD,9989,THUÊ BAO TRUYỀN HÌNH_9989
+VPTD,1,TD,9990,Thuê bao FTTH_9990
+VPTD,1,MOV,10135,Doanh thu dịch vụ_10135
+VPTD,1,MOV,10136,Thuê bao di động phát triển thực_10136
+VPTD,1,MOV,10137,Thuê bao 4G phát triển thực_10137
+VPTD,1,MOV,10138,Tổng doanh thu_10138
+VPTD,1,MOV,10139,Tiêu dùng thực di động_10139
+VPTD,1,MOV,10140,Thuê bao register_10140
+VPTD,1,MOV,10141,Thuê bao FTTH_10141
+VPTD,1,MOV,10142,MOV_10142
+VPTD,1,MOV,10143,Doanh thu di động_10143
+VPTD,1,MOV,10144,Doanh thu kinh doanh quốc tế_10144
+VPTD,1,MOV,10145,Doanh thu cố định_10145
+VPTD,1,MOV,10146,Doanh thu giải pháp CNTT_10146
+VPTD,1,MOV,10147,Doanh thu thương mại điện tử_10147
+VPTD,1,MOV,10148,DOANH THU DỊCH VỤ & SẢN XUẤT_10148
+VPTD,1,MOV,10149,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_10149
+VPTD,1,MOV,10150,THUÊ BAO VÍ PSGD_10150
+VPTD,2,VTTNEWNEW,10289,DỊCH VỤ TV360
+VPTD,2,TD,10315,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,VTN,10335,TỶ LỆ HỌC VIÊN ĐĂNG KÝ VẬN DỤNG KIẾN THỨC VÀO CÔNG VIỆC_10335
+VPTD,1,VTN,10336,TỶ LỆ HỌC VIÊN VẬN DỤNG KIẾN THỨC THÀNH CÔNG_10336
+VPTD,1,VTN,10337,VTAca_10337
+VPTD,1,VTN,10338,TỶ LỆ HỌC VIÊN ĐÚNG THÀNH PHẦN THAM GIA ĐÀO TẠO_10338
+VPTD,1,VTN,10339,TỶ LỆ KHỐI LƯỢNG ĐÀO TẠO THỰC HIỆN SO VỚI KẾ HOẠCH_10339
+VPTD,1,VTN,10340,TỶ LỆ HỌC VIÊN THI KIỂM TRA CUỐI KHÓA ĐẠT YÊU CẦU_10340
+VPTD,2,TD,10415,Tiêu dùng thực di động Copy
+VPTD,1,TD,10435,Tổng doanh thu Copy
+VPTD,1,HVT,10535,VTAca Copy
+VPTD,2,VMC,10537,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,2,VTTNEWNEW,10538,THUÊ BAO TRUYỀN HÌNH
+BAN_DO,1,TD,8975,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,TD,9037,DÒNG TIỀN RÒNG
+BAN_DO,2,TD,9040,THU NHẬP BQ
+Dashboard KPI QTDL,2,TD,9061,TỶ LỆ CDE CÓ LUẬT GIÁM SÁT
+Dashboard KPI QTDL,2,TD,9115,TỔNG SỐ LƯỢNG PHẢN ÁNH CÁC RULE ĐÁNH GIÁ CÁC TIÊU CHUẨN CLDL
+BAN_DO,2,VTTNEWNEW,9235,DOANH THU CỐ ĐỊNH
+BAN_DO,2,VTS,9425,Lợi nhuận
+Dashboard Năm,2,VTG,9575,THUÊ BAO VÍ PSGD
+BAN_DO,2,VDS,9298,DT BÁN THẺ CÀO NỘI MẠNG
+BAN_DO,2,VDS,9299,DV CHUYỂN TIỀN
+BAN_DO,2,VDS,9301,THUÊ BAO VIETTEL MONEY PSGD
+BAN_DO,1,VTTNEWNEW,9375,DOANH THU DI ĐỘNG
+BAN_DO,1,VDS,9396,DV THANH TOÁN ĐIỆN TỬ
+BAN_DO,1,VDS,9398,DV KHAI THÁC DỮ LIỆU
+BAN_DO,1,VDS,9400,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+BAN_DO,2,VTS,9422,Doanh thu bán hàng DA BQP
+BAN_DO,2,VTS,9428,Tổng doanh thu (KD)
+Dashboard Năm,2,VTG,9576,DÒNG TIỀN VỀ VN
+Dashboard Năm,2,VTS,9597,DT BÁN HÀNG Y TẾ
+VPTD,2,CTM,9717,DOANH THU HỢP NHẤT (TC)
+VPTD,2,CTM,9718,TỔNG DOANH THU (TIÊU DÙNG)
+VPTD,2,CTM,9735,SỐ LAO ĐỘNG BQ
+VPTD,1,TD,9776,THUÊ BAO TRUYỀN HÌNH
+Dashboard Năm,1,BC,9835,Doanh thu hợp nhất KD_9835
+Dashboard Năm,1,BC,9836,Tổng doanh thu KD_9836
+Dashboard Năm,1,BC,9837,Doanh thu bán hàng_9837
+Dashboard Năm,1,BC,9838,Doanh thu chuyển phát_9838
+Dashboard Năm,1,BC,9839,Doanh thu LOGISTICS_9839
+Dashboard Năm,1,BC,9840,VTPost_9840
+Dashboard Năm,1,BC,9841,DT THƯƠNG MẠI VÀ DỊCH VỤ_9841
+Dashboard Năm,1,BC,9842,DỊCH VỤ OS_9842
+Dashboard Năm,1,BC,9843,DOANH THU DỊCH VỤ & SẢN XUẤT_9843
+Dashboard Năm,1,BC,9844,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_9844
+Dashboard Năm,2,TD,9845,Tập Đoàn Copy
+VPTD,1,HVT,10199,TỶ LỆ HỌC VIÊN ĐĂNG KÝ VẬN DỤNG KIẾN THỨC VÀO CÔNG VIỆC
+VPTD,1,HVT,10200,TỶ LỆ HỌC VIÊN VẬN DỤNG KIẾN THỨC THÀNH CÔNG
+VPTD,1,VTTNEWNEW,10295,DỊCH VỤ TV360
+VPTD,1,T008,10375,Doanh thu dịch vụ SME_10375
+VPTD,1,T008,10376,Doanh thu dịch vụ di động_10376
+VPTD,1,T008,10377,Thuê bao register_10377
+VPTD,1,T008,10378,Doanh thu dịch vụ nhóm VTS_10378
+VPTD,1,T008,10379,Thuê bao FTTH_10379
+VPTD,1,T008,10380,Thuê bao di động phát triển thực_10380
+VPTD,1,T008,10381,Thuê bao 4G phát triển thực_10381
+VPTD,1,T008,10382,Tổng doanh thu dịch vụ_10382
+VPTD,1,T008,10383,Doanh thu dịch vụ cố định băng rộng_10383
+VPTD,1,T008,10384,Doanh thu dịch vụ nhóm VTT_10384
+VPTD,1,T008,10385,Hà Nội_10385
+VPTD,1,T008,10386,Doanh thu dịch vụ nhóm VDS_10386
+BAN_DO,2,TD,9033,Tập Đoàn
+BAN_DO,2,TD,9036,LỢI NHUẬN TT
+BAN_DO,2,VTG,9275,THUÊ BAO VÍ PSGD
+VPTD,1,KGM,9063,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,VDS,9300,DOANH THU DỊCH VỤ
+BAN_DO,1,VTG,9327,Tiêu dùng thực di động
+Dashboard KPI QTDL,2,TD,9059,SỐ LƯỢNG HỆ THỐNG TÍCH HỢP ĐÁNH GIÁ DỮ LIỆU
+Dashboard KPI QTDL,2,TD,9060,Tập đoàn
+BAN_DO,1,VTG,9328,Thuê bao register
+BAN_DO,1,VTG,9329,Thuê bao di động phát triển thực
+BAN_DO,1,VTG,9330,Thuê bao 4G phát triển thực
+BAN_DO,2,VTS,9415,Chi Phí
+BAN_DO,1,VTG,9332,Thuê bao FTTH
+BAN_DO,1,VTS,9380,DT BÁN HÀNG VIỄN THÔNG
+BAN_DO,1,VTG,9379,THUÊ BAO VÍ PSGD
+BAN_DO,1,VTG,9335,VTG
+BAN_DO,1,VTG,9336,DOANH THU CỘNG NGANG (KD)
+BAN_DO,1,VTG,9337,Doanh thu dịch vụ (trừ hubbing)
+BAN_DO,1,VTG,9338,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,VTS,9416,Tổng doanh thu tài chính
+BAN_DO,1,VTTNEWNEW,9376,DOANH THU CỐ ĐỊNH
+BAN_DO,2,VTS,9417,Lao động BQ trong DS
+BAN_DO,2,VTS,9418,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,VTS,9419,Doanh thu bán hàng y tế
+BAN_DO,2,VTS,9420,Doanh thu bán hàng viễn thông
+BAN_DO,2,VTS,9421,Doanh thu bán hàng giải pháp CNTT
+BAN_DO,2,VTS,9423,Doanh thu bán hàng giáo dục
+Dashboard Năm,2,VTTNEWNEW,9495,Thuê bao VIETTEL MONEY_9495
+Dashboard Năm,2,VTTNEWNEW,9496,TIÊU DÙNG THỰC DI ĐỘNG
+Dashboard Năm,2,VTTNEWNEW,9497,TỔNG DOANH THU (KD)
+Dashboard Năm,2,VTTNEWNEW,9498,DOANH THU CỐ ĐỊNH
+Dashboard Năm,2,VTTNEWNEW,9499,DOANH THU DỊCH VỤ & SẢN XUẤT
+Dashboard Năm,2,VTTNEWNEW,9500,THUÊ BAO REGISTER DI ĐỘNG
+Dashboard Năm,2,VTTNEWNEW,9501,THUÊ BAO DI DỘNG PSC THỰC
+Dashboard Năm,2,VTTNEWNEW,9502,THUÊ BAO 4G PSC THỰC
+Dashboard Năm,2,VTTNEWNEW,9503,Thuê bao FTTH
+Dashboard Năm,2,VTTNEWNEW,9504,Dán thẻ epass_9504
+Dashboard Năm,2,VTTNEWNEW,9505,NĂNG SUẤT LAO ĐỘNG BQ
+Dashboard Năm,2,VTTNEWNEW,9506,LAO ĐỘNG BQ TRONG DS
+Dashboard Năm,2,VTTNEWNEW,9507,DOANH THU DI ĐỘNG
+Dashboard Năm,2,VTTNEWNEW,9508,DÒNG TIỀN RÒNG_9508
+Dashboard Năm,2,VTTNEWNEW,9509,THU NHẬP BQ
+Dashboard Năm,2,VTTNEWNEW,9510,VTT
+Dashboard Năm,2,VTTNEWNEW,9511,LỢI NHUẬN TT
+Dashboard Năm,2,VTTNEWNEW,9512,DÒNG TIỀN VỀ VN_9512
+Dashboard Năm,2,VTTNEWNEW,9513,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+Dashboard Năm,2,VTTNEWNEW,9514,TỔNG DOANH THU (TC)
+Bản đồ năm,2,TD,9475,Thuê bao VIETTEL MONEY
+VPTD,1,CTM,9715,TỔNG DOANH THU (BÁN THẺ)
+VPTD,1,CTM,9716,TỔNG DOANH THU (TIÊU DÙNG)
+Bản đồ năm,2,TD,9478,DOANH THU DỊCH VỤ
+VPTD,2,CTM,9719,TỔNG DOANH THU (BÁN THẺ)
+Bản đồ năm,2,TD,9480,DỊCH VỤ TV360
+Bản đồ năm,2,TD,9481,THUÊ BAO DI ĐỘNG PSC THỰC
+Bản đồ năm,2,TD,9482,Thuê bao 4G phát triển thực
+Bản đồ năm,2,TD,9483,Thuê bao FTTH
+Bản đồ năm,2,TD,9484,Dán thẻ epass
+VPTD,2,CTM,9720,CHI PHÍ
+VPTD,1,TD,9775,Thuê bao FTTH
+Bản đồ năm,2,TD,9487,DOANH THU
+Bản đồ năm,2,TD,9488,THUÊ BAO TRUYỀN HÌNH
+VPTD,2,TD,10475,Doanh thu dịch vụ (mới)
+Bản đồ năm,2,TD,9490,Tập Đoàn
+Bản đồ năm,2,TD,9491,LỢI NHUẬN TT
+Bản đồ năm,2,TD,9492,DÒNG TIỀN VỀ VN
+VPTD,1,N351,9877,Doanh thu dịch vụ nhóm VDS Copy
+VPTD,1,HVT,10195,VTAca
+Dashboard Năm,2,VTS,9595,DT BÁN HÀNG GIẢI PHÁP CNTT
+Dashboard Năm,2,VTG,9516,TIÊU DÙNG THỰC DI ĐỘNG
+Dashboard Năm,2,VTG,9517,DOANH THU CỘNG NGANG (KD)
+Dashboard Năm,2,VTG,9518,DOANH THU DỊCH VỤ (TRỪ HUBBING)
+Dashboard Năm,2,VTG,9519,DOANH THU DỊCH VỤ & SẢN XUẤT
+Dashboard Năm,2,VTG,9520,THUÊ BAO REGISTER DI ĐỘNG
+Dashboard Năm,2,VTG,9521,THUÊ BAO DI ĐỘNG PSC THỰC
+Dashboard Năm,2,VTG,9522,THUÊ BAO 4G PSC THỰC
+Dashboard Năm,2,VTG,9523,THUÊ BAO FTTH
+Dashboard Năm,2,VTS,9596,DT BÁN HÀNG GIÁO DỤC
+Dashboard Năm,2,VTG,9525,NĂNG SUẤT LAO ĐỘNG BQ
+Dashboard Năm,2,VTG,9526,LAO ĐỘNG BQ TRONG DS
+Dashboard Năm,2,VTS,9598,DT BÁN HÀNG DA BQP
+Dashboard Năm,2,VTG,9528,DÒNG TIỀN RÒNG
+Dashboard Năm,2,VTG,9529,THU NHẬP BQ
+Dashboard Năm,2,VTG,9530,VTG
+Dashboard Năm,2,VTG,9531,LỢI NHUẬN TT
+VPTD,1,HVT,10196,TỶ LỆ HỌC VIÊN ĐÚNG THÀNH PHẦN THAM GIA ĐÀO TẠO
+Dashboard Năm,2,VTG,9533,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+Dashboard Năm,2,VTG,9534,DOANH THU CỘNG NGANG (TC)
+Dashboard Năm,2,VTTNEWNEW,9557,DOANH THU DỊCH VỤ
+VPTD,1,CTM,9664,TỔNG DOANH THU (KD)
+VPTD,1,HVT,10197,TỶ LỆ KHỐI LƯỢNG ĐÀO TẠO THỰC HIỆN SO VỚI KẾ HOẠCH
+VPTD,1,HVT,10198,TỶ LỆ HỌC VIÊN THI KIỂM TRA CUỐI KHÓA ĐẠT YÊU CẦU
+VPTD,1,TD,10215,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+VPTD,1,CTM,9668,CTM
+Bản đồ năm,2,TD,9695,LAO ĐỘNG BQ TRONG DS
+VPTD,2,TD,10496,Thuê bao FTTH (mới)
+VPTD,2,TD,10480,THUÊ BAO TRUYỀN HÌNH (mới)
+VPTD,2,TD,10481,DỊCH VỤ TV360 (mới)
+VPTD,2,TD,10497,Dán thẻ epass (mới)
+VPTD,2,VTTNEWNEW,10515,VTT Copy
+VPTD,2,VTG,10536,Lợi nhuận TT gồm PERU
+VPTD,1,VTTNEWNEW,10555,THUÊ BAO TRUYỀN HÌNH
+VPTD,1,TD,10175,Thuê bao VIETTEL MONEY_10175
+VPTD,1,VDS,9937,THUÊ BAO MOBILE MONEY
+VPTD,1,TD,9995,Thuê bao VIETTEL MONEY_9995
+VPTD,1,TD,9996,DỊCH VỤ TV360_9996
+VPTD,1,TD,9997,DOANH THU DỊCH VỤ & SẢN XUẤT_9997
+VPTD,1,TD,9998,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_9998
+VPTD,1,TD,9999,Doanh thu dịch vụ_9999
+VPTD,1,TD,10000,Thuê bao di động phát triển thực_10000
+VPTD,1,TD,10001,Thuê bao 4G phát triển thực_10001
+VPTD,1,TD,10002,Dán thẻ epass_10002
+VPTD,1,TD,10003,Tổng doanh thu_10003
+VPTD,1,TD,10004,Tiêu dùng thực di động_10004
+VPTD,1,TD,10005,Thuê bao register_10005
+VPTD,1,TD,10006,Tập Đoàn_10006
+VPTD,1,TD,10007,Thuê bao MOBILE MONEY_10007
+VPTD,1,TD,10008,Thuê bao MOBILE MONEY_10008
+VPTD,1,TD,10009,THUÊ BAO TRUYỀN HÌNH_10009
+VPTD,1,TD,10010,Thuê bao FTTH_10010
+VPTD,1,TD,10176,DỊCH VỤ TV360_10176
+VPTD,1,TD,10177,DOANH THU DỊCH VỤ & SẢN XUẤT_10177
+VPTD,1,TD,10178,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_10178
+VPTD,1,TD,10179,Doanh thu dịch vụ_10179
+VPTD,1,TD,10180,Thuê bao di động phát triển thực_10180
+VPTD,1,TD,10181,Thuê bao 4G phát triển thực_10181
+VPTD,1,TD,10182,Dán thẻ epass_10182
+VPTD,1,TD,10183,Tổng doanh thu_10183
+VPTD,1,TD,10184,Tiêu dùng thực di động_10184
+VPTD,1,TD,10185,Thuê bao register_10185
+VPTD,1,TD,10186,Tập Đoàn_10186
+VPTD,1,TD,10187,Thuê bao MOBILE MONEY_10187
+VPTD,1,TD,10188,Thuê bao MOBILE MONEY_10188
+VPTD,1,TD,10189,THUÊ BAO TRUYỀN HÌNH_10189
+VPTD,1,TD,10190,Thuê bao FTTH_10190
+BAN_DO,2,TD,9038,DÒNG TIỀN VỀ VN
+BAN_DO,2,TD,9042,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+BAN_DO,2,TD,9035,DOANH THU CỘNG NGANG (TC)
+Dashboard KPI QTDL,2,TD,9075,TỔNG CDE ĐÃ ĐƯỢC TÍCH HỢP
+BAN_DO,2,VTS,9426,Doanh thu dịch vụ (trừ hubbing)
+BAN_DO,2,VDS,9216,DV KHAI THÁC DỮ LIỆU
+BAN_DO,2,VDS,9217,DV THANH TOÁN ĐIỆN TỬ
+BAN_DO,2,VDS,9218,DỊCH VỤ SMS
+BAN_DO,2,VDS,9219,DOANH THU DỊCH VỤ & SẢN XUẤT
+Dashboard tuần chỉ huy,1,TD,9831,Tiêu dùng thực di động VTT
+VPTD,2,TD,9635,Thuê bao Truyền hình
+Dashboard Năm,2,VTS,9537,DOANH THU CỘNG NGANG (KD)
+Dashboard Năm,2,VTS,9538,DOANH THU DỊCH VỤ (TRỪ HUBBING)
+Dashboard Năm,2,VTS,9539,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,2,VDS,9225,NĂNG SUẤT LAO ĐỘNG BQ
+BAN_DO,2,VDS,9226,LAO ĐỘNG BQ TRONG DS
+BAN_DO,2,VDS,9227,TỔNG DOANH THU(KD)
+Bản đồ năm,2,TD,9815,THU NHẬP BÌNH QUÂN Copy
+BAN_DO,2,VDS,9229,THU NHẬP BÌNH QUÂN
+BAN_DO,2,VDS,9230,VDS
+BAN_DO,2,VDS,9231,LỢI NHUẬN TT
+BAN_DO,1,VDS,9358,Thuê bao VIETTEL MONEY PSGD
+BAN_DO,2,VDS,9233,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+BAN_DO,2,VDS,9234,TỔNG DOANH THU (TC)
+BAN_DO,2,VTTNEWNEW,9255,DOANH THU CÁC DỊCH VỤ MỚI
+BAN_DO,2,VTTNEWNEW,9237,TIÊU DÙNG THỰC DI ĐỘNG
+Dashboard tuần chỉ huy,1,TD,9829,Doanh thu dịch vụ VTT
+BAN_DO,1,VDS,9359,VDS
+BAN_DO,1,VDS,9360,Tổng doanh thu (kd)
+BAN_DO,1,VDS,9361,Doanh thu dịch vụ
+BAN_DO,1,VDS,9362,DOANH THU DỊCH VỤ & SẢN XUẤT
+BAN_DO,1,VTTNEWNEW,9377,DOANH THU CÁC DỊCH VỤ MỚI
+BAN_DO,1,VTS,9381,DT BÁN HÀNG GIẢI PHÁP CNTT
+BAN_DO,1,VDS,9397,DV CHUYỂN TIỀN
+Dashboard tuần chỉ huy,1,TD,9832,Doanh thu dịch vụ (trừ hubbing)
+VPTD,1,STL,9939,Doanh thu di động_9939
+VPTD,1,TD,9915,Thuê bao VIETTEL MONEY_9915
+Dashboard Năm,2,VTS,9545,NĂNG SUẤT LAO ĐỘNG BQ
+Dashboard Năm,2,VTS,9546,LAO ĐỘNG BQ TRONG DS
+Dashboard Năm,2,VTS,9547,DT BÁN HÀNG VIỄN THÔNG
+VPTD,1,TD,9916,DỊCH VỤ TV360_9916
+Dashboard Năm,2,VTS,9549,THU NHẬP BQ
+Dashboard Năm,2,VTS,9550,VTS
+Dashboard Năm,2,VTS,9551,LỢI NHUẬN TT
+VPTD,1,TD,9917,DOANH THU DỊCH VỤ & SẢN XUẤT_9917
+Dashboard Năm,2,VTS,9553,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ
+Dashboard Năm,2,VTS,9554,DOANH THU CỘNG NGANG (TC)
+Dashboard Năm,2,VTTNEWNEW,9556,DOANH THU DỊCH VỤ NHÓM SME
+Dashboard Năm,2,VTS,9599,CHI PHÍ (TC)
+VPTD,1,TD,9918,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_9918
+VPTD,1,TD,9919,Doanh thu dịch vụ_9919
+VPTD,1,TD,9920,Thuê bao di động phát triển thực_9920
+VPTD,1,TD,9921,Thuê bao 4G phát triển thực_9921
+VPTD,1,TD,9922,Dán thẻ epass_9922
+VPTD,1,TD,9923,Tổng doanh thu_9923
+VPTD,1,TD,9924,Tiêu dùng thực di động_9924
+VPTD,1,TD,9925,Thuê bao register_9925
+VPTD,1,TD,9926,Tập Đoàn_9926
+VPTD,1,TD,9927,THUÊ BAO TRUYỀN HÌNH_9927
+VPTD,1,TD,9928,Thuê bao FTTH_9928
+VPTD,1,STL,9940,Doanh thu cố định_9940
+VPTD,1,STL,9941,Doanh thu kinh doanh quốc tế_9941
+VPTD,1,STL,9942,Doanh thu thương mại điện tử_9942
+VPTD,1,STL,9943,Doanh thu giải pháp CNTT_9943
+VPTD,1,STL,9944,DOANH THU DỊCH VỤ & SẢN XUẤT_9944
+VPTD,1,STL,9945,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_9945
+VPTD,1,STL,9946,THUÊ BAO VÍ PSGD_9946
+VPTD,1,STL,9947,Doanh thu dịch vụ_9947
+VPTD,1,STL,9948,Thuê bao di động phát triển thực_9948
+VPTD,1,STL,9949,Thuê bao 4G phát triển thực_9949
+VPTD,1,STL,9950,Tổng doanh thu_9950
+VPTD,1,STL,9951,Tiêu dùng thực di động_9951
+VPTD,1,STL,9952,Thuê bao register_9952
+VPTD,1,STL,9953,Thuê bao FTTH_9953
+VPTD,1,STL,9954,STL_9954
+VPTD,1,VTN,10355,TỶ LỆ HỌC VIÊN ĐĂNG KÝ VẬN DỤNG KIẾN THỨC VÀO CÔNG VIỆC_10335_10355
+VPTD,1,VTN,10356,TỶ LỆ HỌC VIÊN VẬN DỤNG KIẾN THỨC THÀNH CÔNG_10336_10356
+VPTD,1,VTN,10357,VTAca_10337_10357
+VPTD,1,VTN,10358,TỶ LỆ HỌC VIÊN ĐÚNG THÀNH PHẦN THAM GIA ĐÀO TẠO_10338_10358
+VPTD,1,VTN,10359,TỶ LỆ KHỐI LƯỢNG ĐÀO TẠO THỰC HIỆN SO VỚI KẾ HOẠCH_10339_10359
+VPTD,1,VTN,10360,TỶ LỆ HỌC VIÊN THI KIỂM TRA CUỐI KHÓA ĐẠT YÊU CẦU_10340_10360
+VPTD,2,TD,10455,Tổng doanh thu (mới)
+VPTD,2,TD,10476,Tiêu dùng thực di động (mới)
+VPTD,2,TD,10477,DOANH THU DỊCH VỤ & SẢN XUẤT (mới)
+VPTD,2,TD,10478,Thuê bao register (mới)
+VPTD,2,TD,10479,Thuê bao 4G phát triển thực (mới)
+VPTD,2,TD,10495,Thuê bao di động phát triển thực (mới)
+VPTD,2,TD,10482,Thuê bao VIETTEL MONEY (mới)
+VPTD,2,TD,10483,Thuê bao MOBILE MONEY (mới)
+DB_TTKT,2,TD,10635,TỶ LỆ ĐƠN THƯ THUỘC THẨM QUYỀN ĐƯỢC GIẢI QUYẾT ĐÚNG THỜI HẠN
+DT_TC,2,TD,10576,Tập Đoàn
+DT_TC,2,TD,10577,DÒNG TIỀN RÒNG
+VPTD,1,H004003,10640,Tổng doanh thu dịch vụ
+VPTD,1,H004003,10657,Thuê bao di động phát triển thực
+VPTD,1,H004003,10641,Thuê bao FTTH
+VPTD,2,H004003,10650,Tổng doanh thu dịch vụ
+VPTD,2,H004003,10651,Thuê bao register
+VPTD,2,H004003,10652,Doanh thu dịch vụ cố định băng rộng
+VPTD,2,H004003,10653,Doanh thu dịch vụ nhóm VTT
+VPTD,2,H004003,10654,Doanh thu dịch vụ nhóm VDS
+DB_CNCNC,2,VTTNEWNEW,10835,KPI MỨC ĐỘ HOÀN THÀNH CÔNG BỐ KHOA HỌC
+DB_CNCNC,2,VTTNEWNEW,10836,NHIỆM VỤ KHOA HỌC CÔNG NGHỆ
+DB_CNCNC,2,VTTNEWNEW,10837,VTT
+DB_CNCNC,2,VTTNEWNEW,10838,KPI MỨC ĐỘ HOÀN THÀNH ĐĂNG KÝ SÁNG CHẾ
+VPTD,2,ANM,10855,Doanh thu dịch vụ Copy
+DB_DN,2,TD,10982,"TỶ LỆ TUÂN THỦ QĐ VỀ XD, KK VÀ TH THỎA THUẬN QT"
+DB_DN,2,TD,10983,Tập đoàn
+DB_CQCT,2,TD,11095,Tập đoàn Copy
+DB_TCKT,2,TD,11096,TỜ TRÌNH THANH QUYẾT TOÁN CHI PHÍ
+DB_CNTT,2,TD,11102,Tập đoàn
+DB_DN,2,TD,10961,TỶ LỆ HỒ SƠ ĐOÀN RA ĐÚNG QUY ĐỊNH
+DT_TC,2,TD,10595,DÒNG TIỀN VỀ
+DB_CQCT,2,TD,10660,Tập đoàn
+VPTD,2,TD,10875,Doanh thu dịch vụ VTTN
+DB_TTKT,2,TD,10615,"TỶ LỆ KẾT LUẬN, KIẾN NGHỊ KIỂM TRA, KIỂM TOÁN ĐƯỢC THỰC HIỆN"
+VPTD_6M,2,TD,10903,LEAD TIME
+DB_TTKT,2,TD,10583,"MỨC ĐỘ HOÀN THÀNH KẾ HOẠCH THANH TRA, KIỂM TOÁN"
+DB_TTKT,2,TD,10584,TẬP ĐOÀN
+DB_DTXD,2,TD,10978,TỶ LỆ TỒN KHO QUÁ HẠN
+DB_DN,2,TD,10981,TỶ LỆ CBNV TUÂN THỦ QĐ ĐN QUÂN SỰ
+DB_TCKT,2,TD,11098,GIÁ TRỊ TẠM ỨNG CHO NHÂN VIÊN
+DT_TC,2,TD,10578,LỢI NHUẬN TRƯỚC THUẾ
+DB_TTKT,2,TD,10636,TỶ LỆ CÁC VỤ VIỆC ĐƯỢC GIẢI QUYẾT ĐÚNG THỜI HẠN
+VPTD,2,H004003,10649,Thuê bao 4G phát triển thực
+DB_TTKT,2,VTTNEWNEW,10839,TỶ LỆ ĐƠN THƯ THUỘC THẨM QUYỀN ĐƯỢC GIẢI QUYẾT ĐÚNG THỜI HẠN
+DB_TTKT,2,VTTNEWNEW,10840,"TỶ LỆ KẾT LUẬN, KIẾN NGHỊ KIỂM TRA, KIỂM TOÁN ĐƯỢC THỰC HIỆN"
+DB_TTKT,2,VTTNEWNEW,10841,"MỨC ĐỘ HOÀN THÀNH KẾ HOẠCH THANH TRA, KIỂM TOÁN"
+DB_TTKT,2,VTTNEWNEW,10842,VTT
+DB_TTKT,2,VTTNEWNEW,10843,TỶ LỆ CÁC VỤ VIỆC ĐƯỢC GIẢI QUYẾT ĐÚNG THỜI HẠN
+DB_DTXD,2,TD,10976,GIÁM SÁT THỰC HIỆN ĐẤU THẦU QUA MẠNG
+VPTD,1,TD,10877,Doanh thu dịch vụ VTTN
+DB_DTXD,2,TD,10977,TỶ LỆ TIẾT KIỆM ĐTMS
+DB_DTXD,2,VTTNEWNEW,10995,SỐ LƯỢNG DA ĐẦU TƯ THỰC HIỆN TRONG KỲ
+DB_DTXD,2,VTTNEWNEW,10996,VTT
+DB_DTXD,2,VTTNEWNEW,10997,TỶ LỆ HOÀN THÀNH GIÁ TRỊ KHỐI LƯỢNG ĐẦU TƯ DA
+DB_DTXD,2,VTTNEWNEW,10998,TỶ LỆ HOÀN THÀNH KH BÁN THANH LÝ TÀI SẢN
+DB_DTXD,2,VTTNEWNEW,10999,TỶ LỆ VTTB THU HỒI TỒN KHO QUÁ HẠN
+DB_DTXD,2,VTTNEWNEW,11000,TỶ LỆ HÀNG HÓA KINH DOANH TỒN KHO QUÁ HẠN
+VPTD,1,H004003,10637,Doanh thu dịch vụ nhóm VDS
+VPTD,1,H004003,10638,Doanh thu dịch vụ nhóm VTT
+VPTD,1,H004003,10639,Doanh thu dịch vụ cố định băng rộng
+VPTD,1,H004003,10642,Doanh thu dịch vụ nhóm VTS
+VPTD,1,H004003,10644,Doanh thu dịch vụ di động
+VPTD,2,H004003,10645,Doanh thu dịch vụ SME
+VPTD,2,H004003,10646,Doanh thu dịch vụ nhóm VTS
+VPTD,2,H004003,10647,Thuê bao FTTH
+VPTD,2,H004003,10648,Thuê bao di động phát triển thực
+VPTD,2,H004003,10675,Q.Ba Đình
+VPTD_6M,2,T008,10695,Hà Nội_10695
+VPTD_6M,2,T008,10696,Doanh thu dịch vụ SME_10696
+VPTD_6M,2,T008,10697,Doanh thu dịch vụ di động_10697
+VPTD_6M,2,T008,10698,Doanh thu dịch vụ nhóm VTS_10698
+VPTD_6M,2,T008,10699,Thuê bao FTTH_10699
+VPTD_6M,2,T008,10700,Thuê bao di động phát triển thực_10700
+VPTD_6M,2,T008,10701,Thuê bao 4G phát triển thực_10701
+VPTD_6M,2,T008,10702,Tổng doanh thu dịch vụ_10702
+VPTD_6M,2,T008,10703,Thuê bao register_10703
+VPTD_6M,2,T008,10704,Doanh thu dịch vụ cố định băng rộng_10704
+VPTD_6M,2,T008,10705,Doanh thu dịch vụ nhóm VTT_10705
+VPTD_6M,2,T008,10706,Doanh thu dịch vụ nhóm VDS_10706
+VPTD,1,BC,10916,"Doanh thu hợp nhất  trừ OS, thẻ cào"
+DB_CNCNC,2,TD,10780,KPI MỨC ĐỘ HOÀN THÀNH CÔNG BỐ KHOA HỌC
+DB_CNCNC,2,TD,10781,NHIỆM VỤ KHOA HỌC CÔNG NGHỆ
+DB_CNCNC,2,TD,10782,TẬP ĐOÀN
+DB_CNCNC,2,TD,10783,KPI MỨC ĐỘ HOÀN THÀNH ĐĂNG KÝ SÁNG CHẾ
+DB_DN,2,TD,10979,TỶ LỆ ĐOÀN KHÁCH TIẾP ĐÓN THÀNH CÔNG
+DB_DN,2,VTTNEWNEW,10962,"TỶ LỆ TUÂN THỦ QĐ VỀ XD, KK VÀ TH THỎA THUẬN QT"
+DB_DN,2,VTTNEWNEW,10963,VTT
+DB_DN,2,VTTNEWNEW,10964,TỶ LỆ HỒ SƠ ĐOÀN RA ĐÚNG QUY ĐỊNH
+DB_DN,2,VTTNEWNEW,10965,TỶ LỆ CBNV TUÂN THỦ QĐ ĐN QUÂN SỰ
+DB_DN,2,VTTNEWNEW,10966,TỶ LỆ ĐOÀN KHÁCH TIẾP ĐÓN THÀNH CÔNG
+DB_DN,2,VTTNEWNEW,10967,TỶ LỆ TUÂN THỦ QĐ ĐNQP TRONG TCLV
+DB_DTXD,2,VTTNEWNEW,11016,GIÁM SÁT THỰC HIỆN ĐẤU THẦU QUA MẠNG
+DT_TC,2,TD,10596,DOANH THU TÀI CHÍNH
+VPTD,1,H004003,10643,Thuê bao register
+DB_CQCT,2,VTTNEWNEW,10935,Tập đoàn_10935
+VPTD,2,BC,10915,"Doanh thu hợp nhất  trừ OS, thẻ cào"
+DB_DTXD,2,TD,10956,GIÁ TRỊ KHỐI LƯỢNG THỰC HIỆN ĐẦU TƯ
+DB_DTXD,2,TD,10957,Tập Đoàn
+DB_DTXD,2,TD,10958,TỶ LỆ HOÀN THÀNH KH BÁN THANH LÝ TÀI SẢN
+DB_DTXD,2,TD,10959,TỶ LỆ VTTB THU HỒI TỒN KHO QUÁ HẠN
+DB_DTXD,2,TD,10960,TỶ LỆ HÀNG HÓA KINH DOANH TỒN KHO QUÁ HẠN
+DB_DN,2,TD,10980,TỶ LỆ TUÂN THỦ QĐ ĐNQP TRONG TCLV
+DB_DTXD,2,VTTNEWNEW,11015,GIÁ TRỊ GIẢI NGÂN
+DB_TCKT,2,TD,11097,NỢ PHẢI THU KHÁCH HÀNG
+DB_TCKT,2,TD,11099,GIÁ TRỊ TẠM ỨNG CHO NCC
+DB_CNTT,2,TD,11100,ỨNG DỤNG CHUYỂN ĐỔI MICROSERVICE
+DT_TC,2,VTTNEWNEW,10844,VTT
+DT_TC,2,VTTNEWNEW,10845,DÒNG TIỀN RÒNG_10845
+DT_TC,2,VTTNEWNEW,10846,DÒNG TIỀN VỀ_10846
+DT_TC,2,VTTNEWNEW,10847,LỢI NHUẬN TRƯỚC THUẾ
+DT_TC,2,VTTNEWNEW,10848,DOANH THU TÀI CHÍNH
+VPTD,1,H004003,10655,Q.Ba Đình
+VPTD,1,H004003,10656,Thuê bao 4G phát triển thực
+VPTD,1,H004003,10658,Doanh thu dịch vụ SME
+VPTD,2,H004003,10659,Doanh thu dịch vụ di động
+VPTD_6M,2,TD,10856,Tập Đoàn Copy
+DB_DTXD,2,TD,10955,SỐ LƯỢNG DA ĐẦU TƯ THỰC HIỆN TRONG KỲ
+DB_DTXD,2,TD,10975,GIÁ TRỊ GIẢI NGÂN ĐẦU TƯ CHO DỰ ÁN
+DB_CNTT,2,TD,11101,TỰ ĐỘNG HÓA QUY TRÌNH
+DT_TC,2,IDC,11195,DÒNG TIỀN DÒNG
+Dashboard tuần chỉ huy,2,VDS,10733,Doanh thu bán hàng DA BQP_10733
+Dashboard tuần chỉ huy,2,VDS,10734,Chi Phí_10734
+Dashboard tuần chỉ huy,2,VDS,10755,Lao động BQ trong DS_10755
+Dashboard tuần chỉ huy,2,VDS,10756,DOANH THU DỊCH VỤ & SẢN XUẤT_10756
+Dashboard tuần chỉ huy,2,VDS,10757,TIẾN ĐỘ THỰC HIỆN NHIỆM VỤ_10757
+Dashboard tuần chỉ huy,2,VDS,10758,Doanh thu bán hàng giáo dục_10758
+Dashboard tuần chỉ huy,2,VDS,10759,Doanh thu bán hàng viễn thông_10759
+Dashboard tuần chỉ huy,2,VDS,10760,Thu nhập BQ_10760
+Dashboard tuần chỉ huy,2,VDS,10761,Lợi nhuận_10761
+Dashboard tuần chỉ huy,2,VDS,10762,Doanh thu dịch vụ (trừ hubbing)_10762
+Dashboard tuần chỉ huy,2,VDS,10763,VTS_10763
+Dashboard tuần chỉ huy,2,VDS,10764,Năng suất lao động BQ_10764
+Dashboard tuần chỉ huy,2,VDS,10765,Tổng doanh thu (trừ hubbing)_10765
+Dashboard tuần chỉ huy,2,VDS,10766,Tổng doanh thu tài chính_10766
+Dashboard tuần chỉ huy,2,VDS,10767,Doanh thu bán hàng giải pháp CNTT_10767
+Dashboard tuần chỉ huy,2,VDS,10768,Doanh thu bán hàng y tế_10768
+VPTD,2,VTS,10815,VTS
+DB_TCNL,2,VTTNEWNEW,11065,VTT
+DB_TCNL,2,VTTNEWNEW,11066,TỶ LỆ NGHỈ VIỆC LD TRONG DS
+DB_TCNL,2,VTTNEWNEW,11067,THU NHẬP BQ TRONG DS
+DB_TCNL,2,VTTNEWNEW,11068,NĂNG SUẤT LAO ĐỘNG BQ
+DB_TCNL,2,VTTNEWNEW,11069,LAO ĐỘNG BQ TRONG DS
+DB_DTXD,2,VTTNEWNEW,11036,TỶ LỆ TỒN KHO QUÁ HẠN
+DB_TCKT,2,TD,11117,KPI TẠM TĂNG TÀI SẢN
+DB_CNTT,2,TD,11136,YÊU CẦU HOÀN THÀNH ĐÚNG HẠN
+DB_CNTT,2,TD,11137,HỆ THỐNG ĐƯỢC TÍCH HỢP VÀO DOC
+DB_DTXD,2,VTTNEWNEW,11035,TỶ LỆ TIẾT KIỆM ĐTMS
+DB_CNTT,2,TD,11135,LEAD TIME
+DB_TCKT,2,TD,11115,KPI HỒ SƠ QUYẾT TOÁN CÔNG TRÌNH
+DB_TCKT,2,TD,11116,KPI NGHIỆM THU ĐỀ TÀI KHCN
+DB_TCKT,2,TD,11118,Tập đoàn
+DT_TC,2,IDC,11175,IDC
+DB_TCNL,2,TD,11059,Tập Đoàn
+DB_THTT,2,TD,11079,Tập Đoàn
+DB_TCNL,2,TD,11061,TỶ LỆ NGHỈ VIỆC LD TRONG DS
+DB_TCNL,2,TD,11062,THU NHẬP BQ TRONG DS
+DB_TCNL,2,TD,11063,NĂNG SUẤT LAO ĐỘNG BQ
+DB_TCNL,2,TD,11064,LAO ĐỘNG BQ TRONG DS
+DB_THTT,2,TD,11082,SỐ LƯỢNG BÀI VIẾT PHẢN ÁNH
+DB_THTT,2,TD,11083,SỐ LƯỢNG BÀI VIẾT TRUYỀN THÔNG
+DB_THTT,2,TD,11084,THEO DÕI SỐ LƯỢNG BÀI VIẾT CB CNV
+DT_TC,2,IDC,11178,LỢI NHUẬN TRƯỚC THUẾ
+DT_TC,2,IDC,11179,DOANH THU TÀI CHÍNH
+DB_CNTT,2,VTTNEWNEW,11155,VTT
+DB_CNTT,2,VTTNEWNEW,11156,ỨNG DỤNG CHUYỂN ĐỔI MICROSERVICE
+DT_TC,2,XNK,11215,DÒNG TIỀN DÒNG_11215
+DB_CNTT,2,VTTNEWNEW,11158,YÊU CẦU HOÀN THÀNH ĐÚNG HẠN
+DB_CNTT,2,VTTNEWNEW,11159,HỆ THỐNG ĐƯỢC TÍCH HỢP VÀO DOC
+DB_CNTT,2,VTTNEWNEW,11160,LEAD TIME
+DT_TC,2,XNK,11216,IDC_11216
+DT_TC,2,XNK,11217,LỢI NHUẬN TRƯỚC THUẾ_11217
+DT_TC,2,XNK,11218,DOANH THU TÀI CHÍNH_11218
